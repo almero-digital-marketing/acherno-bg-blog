@@ -25,4 +25,19 @@ copyright:
   almero: 
     title: '(Дигитален Маркетинг) и|(Бизнес) развитие'
     url: http://almero.bg
+campaigns:
+  -
+    campaign: 'M-30+'
+    source: facebook
+    medium: cpc
+    term: 'Acherno'
+    content: 'Acherno-Interior-Design'
+    id: 1NgOtGL
+  -
+    campaign: 'W-24+'
+    source: facebook
+    medium: cpc
+    term: 'Acherno'
+    content: 'Acherno-Interior-Design'
+    id: 1gTUXOb    
 ---
