@@ -1,6 +1,0 @@
----
-layout: apache
----
-<% for page in @getDomainCollection('html').toJSON() when page.legacy? : %>
-Redirect 301 <%- page.legacy.replace('http://www.'+page.domainName,'') %> http://<%- page.domainName %><%- (encodeURIComponent page.absoluteDomainPath).replace /%2F/g, '/' %>
-<% end %>
