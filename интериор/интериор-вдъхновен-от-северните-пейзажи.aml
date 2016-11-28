@@ -11,7 +11,6 @@ tags: private, contemporary
 
 columns: 3
 tags: livingroom
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/01-h-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/всекидневна-1.jpg
 text:
@@ -24,14 +23,12 @@ text:
 columns: 2
 tags: kitchen
 style: inline
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/05-k-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/кухня-5.jpg
 
 columns: 1
 tags: kitchen
 style: inline
-display: desktop
 text:
 [image url="http://hub.acherno.com/svn/fiord/Site/3D/06-k-F.jpg" title="Вътрешен дизайн на кухня"]
 ## Вътрешен дизайн на **кухня**
@@ -42,7 +39,6 @@ text:
 
 columns: 3
 tags: livingroom
-display: desktop
 [.slides]
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/03-h-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/всекидневна-3.jpg
@@ -63,21 +59,18 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 1
 tags: other
 style: inline
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/16-a-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/антре-16.jpg
 
 columns: 1
 tags: other
 style: inline
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/15-a-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/антре-15.jpg
 
 columns: 1
 tags: other
 style: inline
-display: desktop
 text:
 ## Интериорен дизайн на **антре**
 Антрето посреща у дома с типично скандинавски интериорен дизайн и ярък акцент – дървен стол в жълто. Таванът е обработен с бял латекс, с полиуретанови профили по ръба. Осветителните тела са спотове. Поставихме голямо огледало с метална рамка и декорирахме същата стена с картини. Подовото покритие са плочки с шестоъгълна форма и красив дизайн в кафяво, бежово и сиво. Непосредствено до входната врата има сервизен гардероб за скриване на пералня и сушилня.
@@ -88,7 +81,6 @@ text:
 columns: 2
 style: inline
 tags: bedroom
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/09-s-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/спалня-9.jpg
 text:
@@ -98,7 +90,6 @@ text:
 columns: 1
 style: inline
 tags: bedroom
-display: desktop
 text:
 [image url="http://hub.acherno.com/svn/fiord/Site/3D/10-s-F.bmp" title="Обзавеждане на спалня"]
 
@@ -111,7 +102,6 @@ text:
 columns: 1
 style: inline
 tags: other
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/24-d_s_sredna-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/дрешник-111.jpg
 text:
@@ -122,14 +112,12 @@ text:
 columns: 1
 style: inline
 tags: other
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/23-dr-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/дрешник-634.jpg
 
 columns: 1
 style: inline
 tags: other
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/14-s_dr-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/дрешник-14.jpg
 
@@ -138,7 +126,6 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 1
 style: inline dark
 tags: bathroom
-display: desktop
 text:
 ## Вътрешен дизайн на **баня**
 В банята към основната спалня преобладават цветовете, характерни за северния пейзаж. Таванът е окачен, със светлини тип луна.
@@ -149,7 +136,6 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 1
 style: inline dark
 tags: bathroom
-display: desktop
 text:
 Стенните плочки са комбинация от светъл и тъмен нюанс на сивото. Тъмнографитените плочки са с подреждане тип рибена кост. Горната част на стените извън душ-зоната е обработена с декоративна мазилка в сиво.
 :end
@@ -160,7 +146,6 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 1
 style: inline dark
 tags: bathroom
-display: desktop
 text:
 Подовите плочки също са в сиво, формата на по-големите е шестоъгълна, а по-малките са тип мозайка. Сифонът е линеен. Санитарията е в бяло. За цветови акцент се спряхме на тъмен нюанс на петролено синьото. Това е цветът на ПВЦ шкафа, като намира интерпретация и в декоративните изображения.
 :end
@@ -171,7 +156,6 @@ image.file: интериор-вдъхновен-от-северните-пейз
 
 columns: 3
 tags: nursery
-display: desktop
 [.slides]
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/18-d_s_krayna-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/детска-98.jpg
@@ -188,7 +172,6 @@ image.file: интериор-вдъхновен-от-северните-пейз
 
 columns: 3
 tags: nursery
-display: desktop
 [.slides]
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/20-d_s_sredna-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/детска-20.jpg
@@ -209,21 +192,18 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 1
 tags: bathroom
 style: inline
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/27-b_det-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/баня-27.jpg
 
 columns: 1
 tags: bathroom
 style: inline
-display: desktop
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/29-b_det-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/баня-29.jpg
 
 columns: 1
 tags: bathroom
 style: inline
-display: desktop
 text:
 ## Вътрешен дизайн на **баня**
 Детската баня е изключително уютна. Клиентите ни предпочетоха вътрешен дизайн в бежово-кафявата гама. Окаченият таван е с вградено осветление. Още светлина идва от лампите от двете страни на огледалото над мивката. Част от стените са покрити с плочки в бежово, а друга част – с декоративна мазилка. Дизайнът на подовите плочки е с фигури в бледобежово-сиво и охра. Душът е зад стъклена преграда. Тоалетната е със структура за вграждане. ПВЦ шкафовете са в кафяво.
