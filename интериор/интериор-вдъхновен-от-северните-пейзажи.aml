@@ -40,7 +40,7 @@ text:
 
 = mobile.
 
-columns: 2
+columns: 3
 tags: kitchen
 display: mobile
 style: inline
@@ -50,7 +50,7 @@ text:
 Какво означава скандинавският уют, ако е лишен от чара на кухнята, обзаведена в този стил? Съчетание на неутрални цветове, комбинации от различни материали. Бял таван с полиуретанови профили по ръбовете. Окачен таван над горен ред кухненски шкафове.
 :end
 
-columns: 1
+columns: 3
 tags: kitchen
 display: mobile
 style: inline
@@ -87,7 +87,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 = mobile
 
 columns: 3
-tags: livingroom
+tags: livingroo3
 [.slides]
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/03-h-F.jpg
@@ -95,7 +95,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 text:
 ## Интериор на **всекидневна**
 Натуралните цветове, преливащи един в друг, имат свое почетно място: черното: осветителни тела; тъмнокафявото: килим; дървесните повърхности за маси и по-малки елементи от обзавеждането: крака на столове, части от модулни мебели; светлобежовото: тапицерия на част от столовете; сивото: диван и трапезни столове; бялото: полиуретанова боя за повърхност на част от холна секция и бюро.
-:end
+:en3
 
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/04-h-F.jpg
@@ -103,7 +103,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 image.position: right
 text:
 Холът с обособено работно място – израз на елегантен баланс в обзавеждането.
-:end
+:en3
 
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/02-h-F.jpg
@@ -143,7 +143,7 @@ text:
 = mobile
 
 columns: 1
-tags: other
+tags: othe3
 style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/15-a-F.jpg
@@ -154,7 +154,7 @@ text:
 :end
 
 columns: 1
-tags: other
+tags: othe3
 style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/16-a-F.jpg
@@ -191,7 +191,7 @@ text:
 = mobile
 
 columns: 2
-style: inline
+style: inlin3
 tags: bedroom
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/09-s-F.bmp
@@ -202,7 +202,7 @@ text:
 :end
 
 columns: 1
-style: inline
+style: inlin3
 tags: bedroom
 display: mobile
 text:
@@ -243,7 +243,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 = mobile
 
 columns: 1
-style: inline
+style: inlin3
 tags: other
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/24-d_s_sredna-F.jpg
@@ -253,7 +253,7 @@ text:
 Просторното място за съхранение на вещи, аксесоари, обувки и дрехи позволява всичко да е добре подредено и лесно откриваемо.
 :end
 
-columns: 1
+columns: 3
 style: inline
 display: mobile
 tags: other
@@ -317,7 +317,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 = mobile
 
 columns: 3
-tags: nursery
+tags: nurser3
 [.slides]
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/18-d_s_krayna-F.jpg
@@ -325,7 +325,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 text:
 ## Интериор на **детска стая**
 В една от детските стаи доминиращите цветове са студеното синьо, вдъхновено от водите на Северно море, и топлите нюанси на естественото дърво, внасящи уют. Таванът е бял, а стените са в синьо-сиво. Избрахме трислоен паркет. Лампата е разноцветна – в червено, светлосиньо, жълто и тъмносиньо. Мебелите: легло, нощно шкафче, бюро, гардероб, ТВ шкаф, етажерки, са с комбинирано покритие – фурнир и бяла полиуретанова боя, или са изцяло бели. Офис столът е с конструкция от дърво и метал.
-:end
+:en3
 
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/17-d_s_krayna-F.jpg
@@ -362,7 +362,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 = mobile
 
 columns: 3
-tags: nursery
+tags: nurser3
 [.slides]
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/20-d_s_sredna-F.jpg
@@ -370,14 +370,14 @@ image.file: интериор-вдъхновен-от-северните-пейз
 text:
 ## Вътрешен дизайн на **детска стая**
 Интериорът на втората детска стая не изневерява на скандинавския стил в жилището. Сиви стени, бяло, сиво и фурнир за мебели, трислоен паркет, метална лампа с подвижни елементи и интересен дизайн в графитен нюанс.
-:end
+:en3
 
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/22-d_s_sredna-F.jpg
 image.file: интериор-вдъхновен-от-северните-пейзажи/детска-22.jpg
 text:
 Откривателският дух на младия домакин личи от черната дъска, която окачихме на една от стените в спалнята за моментално записване на новите идеи. И тук добавихме пуф кресло – перфектното място за игра на конзолата пред телевизора вечер или в почивните дни.
-:end
+:en3
 
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/21-d_s_sredna-F.jpg
@@ -417,7 +417,7 @@ text:
 = mobile
 
 columns: 1
-tags: bathroom
+tags: bathroo3
 style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/27-b_det-F.bmp
@@ -428,7 +428,7 @@ text:
 :end
 
 columns: 1
-tags: bathroom
+tags: bathroo3
 style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/29-b_det-F.bmp
