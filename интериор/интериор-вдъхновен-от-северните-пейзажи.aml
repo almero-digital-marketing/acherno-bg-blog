@@ -263,7 +263,7 @@ text:
 ===
 
 columns: 1
-style: inline dark
+style: inline
 tags: bathroom
 display: desktop
 text:
@@ -274,7 +274,7 @@ image.url: http://hub.acherno.com/svn/fiord/Site/3D/30-b_sp-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/баня-30.jpg
 
 columns: 1
-style: inline dark
+style: inline
 display: desktop
 tags: bathroom
 text:
@@ -285,7 +285,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 
 
 columns: 1
-style: inline dark
+style: inline
 tags: bathroom
 display: desktop
 text:
@@ -299,7 +299,7 @@ image.file: интериор-вдъхновен-от-северните-пейз
 columns: 3
 tags: bathroom
 [.slides]
-style: inline dark
+style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/30-b_sp-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/баня-30.jpg
@@ -308,7 +308,7 @@ text:
 В банята към основната спалня преобладават цветовете, характерни за северния пейзаж. Стенните плочки са комбинация от светъл и тъмен нюанс на сивото. Тъмнографитените плочки са с подреждане тип рибена кост. Горната част на стените извън душ-зоната е обработена с декоративна мазилка в сиво. Подовите плочки също са в сиво, формата на по-големите е шестоъгълна, а по-малките са тип мозайка. За цветови акцент се спряхме на тъмен нюанс на петролено синьото.
 :end
 
-style: inline dark
+style: inline
 display: mobile
 image.url: http://hub.acherno.com/svn/fiord/Site/3D/31-b_sp-F.bmp
 image.file: интериор-вдъхновен-от-северните-пейзажи/баня-31.jpg
