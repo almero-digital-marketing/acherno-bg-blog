@@ -9,20 +9,20 @@ images:
   -
     url: 'http://hub.acherno.com/svn/new-york/Facebook/16-h.jpg'
     file: 'изящно-обзавеждане-на-дома/мебели-и-обзавеждане-на-всекидневна.jpg'
-    tags: [modern, livingroom]
+    tags: [livingroom]
   -
     url: 'http://hub.acherno.com/svn/ostrovat-na-sakrovishtata/Facebook/21-h_f.jpg'
     file: 'изящно-обзавеждане-на-дома/интериорен-дизайн-на-хол.jpg'
-    tags: [modern, livingroom]
+    tags: [livingroom]
   -
     url: 'http://hub.acherno.com/svn/tiho-byalo/Facebook/07.1-h.jpg'
     file: 'изящно-обзавеждане-на-дома/вътрешен-дизайн-на-хол.jpg'
-    tags: [modern, livingroom]
+    tags: [livingroom]
   -
     url: 'http://hub.acherno.com/svn/legendata-za-siniqt-mak/Site/3D/03.1-b2_f.jpg'
     file: 'изящно-обзавеждане-на-дома/интериор-на-баня.jpg'
-    tags: [contemporary, bathroom]
-tags: [private, modern, livingroom, bathroom, contemporary]
+    tags: [bathroom]
+tags: [private, modern, livingroom, bathroom]
 ---
 ## **Луксозен интериор** от най-висок клас
 Обичате ли лукса и модерното обзавеждане, ако да, то това, което сме подбрали няма начин да не ви хареса. За тези проекти, които ще ви представим, черпихме вдъхновение от последните модни тенденции в областта на интериора и обзавеждането, като наблегнахме повече на уюта и удобството, а не толкова на екстравагантното. Висок клас мебели, висококачествените материали и иновативните идеи, несъмнено водят до създаването на едни прекрасни луксозни интериори, съобразени с нуждите и желанията на клиентите ни
