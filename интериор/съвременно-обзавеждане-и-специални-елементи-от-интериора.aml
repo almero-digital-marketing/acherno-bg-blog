@@ -105,8 +105,8 @@ text:
 :end
 
 columns: 3
-tags: bedroom
 [.slides]
+tags: bedroom
 display: desktop
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/06-s-F.bmp
 image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-6.jpg
@@ -116,6 +116,7 @@ text:
 :end
 
 display: desktop
+tags: bedroom
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/08-s-F.bmp
 image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-8.jpg
 text:
@@ -124,6 +125,7 @@ text:
 :end
 
 display: desktop
+tags: bedroom
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/07-s-F-1.bmp
 image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-7-1.jpg
 text:
