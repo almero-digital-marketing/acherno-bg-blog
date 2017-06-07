@@ -19,7 +19,7 @@ tags: private, modern
 columns: 3
 tags: livingroom
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/07-s-F-1.bmp
-image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-7-11.jpg
+image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-10.jpg
 text:
 # **Съвременно обзавеждане** и специални елементи в интериора
 ## Оригинални дизайнерски решения в един **апартамент с характер**
@@ -126,7 +126,7 @@ text:
 display: desktop
 tags: bedroom
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/07-s-F-1.bmp
-image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-7-1.jpg
+image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-10.jpg
 text:
 :end
 []
@@ -346,7 +346,7 @@ text:
 
 display: mobile
 image.url: http://hub.acherno.com/svn/edna-zimna-istoria/Site/3D/07-s-F-1.bmp
-image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-7-1.jpg
+image.file: съвременно-обзавеждане-и-специални-елементи-от-интериора/спалня-10.jpg
 text:
 :end
 []
