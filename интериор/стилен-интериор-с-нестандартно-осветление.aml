@@ -67,8 +67,8 @@ text:
 
 columns: 3
 [.slides]
-tags: kitchen
 display: desktop
+tags: kitchen
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/05-k-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/кухня-3.jpg
 text:
@@ -76,8 +76,8 @@ text:
 Чудесно допълнение към модерния интериор на всекидневната са трите осветителни тела в черно, спускащи се над кухненската маса. Дизайнът им напомня на фотографски обективи – намигване към темата за светлината, пречупването на лъчите, зрението и образите. Масата е с квадратна форма. Плотът ѝ е от МДФ фурнир в тъмнокафяво, а краката са метални. Геометрията на стила продължава и в дизайна на столовете – изчистена седалка и облегалка в графитено сиво и метални крака, които се съчетават чудесно с дизайна на масата.
 :end
 
-tags: kitchen
 display: desktop
+tags: kitchen
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/06-k-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/кухня-2.jpg
 text:
@@ -188,9 +188,6 @@ text:
 
 ====================================== mobile =========================================
 
-
-===
-
 columns: 3
 tags: livingroom
 display: mobile
@@ -219,8 +216,8 @@ text:
 
 columns: 3
 [.slides]
-tags: kitchen
 display: mobile
+tags: kitchen
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/04-k-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/кухня-1.jpg
 text:
@@ -228,8 +225,8 @@ text:
 Кухнята в този апартамент – приветлива зона, в която основният акцент е яркожълтото, внасящо разнообразие в черно-бялата обстановка. За да оползотворим цялото налично пространство, проектирахме шкафовете от МДФ на три нива – най-високото и долното са с бяло гланцово покритие, а шкафовете непосредствено над плота са в яркожълто. Плотът и гърбът са изработени от технически камък в черно. И в кухнята таванът е окачен, а в него са монтирани двойни луни. Поставихме и скрито осветление по ръба на горните шкафове. Подът е покрит с гранитогрес. 
 :end
 
-tags: kitchen
 display: mobile
+tags: kitchen
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/06-k-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/кухня-2.jpg
 image.position: left
@@ -253,8 +250,8 @@ text:
 
 columns: 3
 [.slides]
-tags: other
 display: mobile
+tags: other
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/15-kr-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/коридор-2.jpg
 style: inline
@@ -263,8 +260,8 @@ text:
 Интериорът на коридора е изцяло съобразен с линията, която следвахме в дизайна на останалите помещения в дома.
 :end
 
-tags: other
 display: mobile
+tags: other
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/14-kr-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/коридор-1.jpg
 style: inline
@@ -272,8 +269,8 @@ text:
 Таванът е окачен, а осветлението е скрито. Подовата настилка е гранитогрес, имитиращ паркет. Портмантото е в бяло и кафяво, с обособено място за сядане.
 :end
 
-tags: other
 display: mobile
+tags: other
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/16-dr-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/коридор-3.jpg
 style: inline
@@ -300,8 +297,8 @@ text:
 
 columns: 3
 [.slides]
-tags: bedroom
 display: mobile
+tags: bedroom
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/09-s-F.png
 image.file: стилен-интериор-с-нестандартно-осветление/спалня-2.jpg
 image.position: left
@@ -310,8 +307,8 @@ text:
 И тук светлината е в изобилие и се регулира с тънки и по-плътни завеси. Зоната за сън и гардеробната са отделени чрез преграда, облицована с ламперия в приятно тъмнокафяво. На нея са TV-шкафът от МДФ бял гланц и самият телевизор над него.
 :end
 
-tags: bedroom
 display: mobile
+tags: bedroom
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/11-s-F.png
 image.file: стилен-интериор-с-нестандартно-осветление/спалня-3.jpg
 style: inline
@@ -324,8 +321,8 @@ text:
 
 columns: 3
 [.slides]
-tags: bathroom
 display: mobile
+tags: bathroom
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/17-b-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/баня-1.jpg
 style: inline
@@ -334,8 +331,8 @@ text:
 Атмосферата, която създават естествените нюанси в банята, е приятна и спокойна. Част от тавана е окачена, а осветлението над шкафа с две мивки е вградено. Горният шкаф е с огледало, а долният е с push-механизми, които позволяват запазването на изчистената визия.
 :end
 
-tags: bathroom
 display: mobile
+tags: bathroom
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/18-b-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/баня-2.jpg
 style: inline
@@ -343,8 +340,8 @@ text:
 Стенните плочки са в светлобежово, а подовите (които използвахме и за една от стените в душ-зоната) имитират паркет. Сифонът в душ-зоната е линеен, а останалата част от банята се отводнява с рогов сифон. Душ-зоната е отделена чрез стъклен параван с плъзгащи се врати. Душ-питата е с квадратна форма.
 :end
 
-tags: other
 display: mobile
+tags: other
 image.url: http://hub.acherno.com/svn/interferentsia/Site/3D/19-sk-F.jpg
 image.file: стилен-интериор-с-нестандартно-осветление/складово-помещение.jpg
 style: inline
