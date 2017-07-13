@@ -59,7 +59,7 @@ display: desktop
 image.url: http://192.168.1.21/svn/fiord/Site/3D/05-k-F.jpg
 image.file: magazine/кухня1.jpg
 boxout.style: dark
-boxout.pin: 50,50
+boxout.pin: 75,25
 boxout.text:
 [image url="http://hub.acherno.com/svn/fiord/Site/3D/07-k-F.jpg" title="Дизайн на библиотека 7"]
 ### Огледални води, **потопили техните двойници**
