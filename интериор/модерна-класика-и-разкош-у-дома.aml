@@ -151,13 +151,13 @@ text:
 
 ===desktop===
 
-columns: 1
+columns: 2
 tags: other
 display: desktop
 style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-07.jpg
+image.file: модерна-класика-и-разкош-у-дома/коридор-7.jpg
 text:
-[image url="http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-07.jpg" title="Вътрешен дизайн на стълби"]
-
 ## Интериор на **коридор**
 Стълбите отвеждат към втория етаж на къщата. Подовото покритие в коридора, също като в просторната всекидневна, е естествен паркет. Най-интересното за това помещение е нестандартната му форма, наподобяваща окръжност. Една част от стените е обработена с латекс, а друга е покрита с тапети. Таванът е окачен по края. Има два вида осветителни тела.
 :end
@@ -168,15 +168,6 @@ display: desktop
 style: inline
 image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/kr-21.jpg
 image.file: модерна-класика-и-разкош-у-дома/коридор-3.jpg
-text:
-:end
-
-columns: 1
-tags: other
-display: desktop
-style: inline
-image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/kr-19.jpg
-image.file: модерна-класика-и-разкош-у-дома/коридор-1.jpg
 text:
 :end
 
@@ -203,16 +194,6 @@ text:
 
 ===desktop===
 
-columns: 2
-tags: kitchen
-display: desktop
-style: inline
-image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-11.jpg
-image.file: модерна-класика-и-разкош-у-дома/кухня-1.jpg
-image.position: left
-text:
-:end
-
 columns: 1
 tags: kitchen
 display: desktop
@@ -221,6 +202,16 @@ text:
 [image url="http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-14.jpg" title="Вътрешен дизайн на кухня"]
 ## Вътрешен дизайн на **кухня**
 Пространството в кухнята е достатъчно, за да се изпълнят и най-смелите мечти на хората, изкушени от кулинарията. В тавана са вградени луни. Има и висящо осветително тяло. Мебелите са италиански. Стилът е модерна класика, а визията е контрастна. Вратичките са фрезовани. Обработени са с бяла боя. Дръжките са детайлни.
+:end
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-11.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-1.jpg
+image.position: left
+text:
 :end
 
 ===mobile===
@@ -251,8 +242,9 @@ columns: 3
 [.slides]
 tags: kitchen
 display: desktop
-image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-13.jpg
-image.file: модерна-класика-и-разкош-у-дома/кухня-3.jpg
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-12.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-2.jpg
+image.position: left
 text:
 ## Интериор на **кухня**
 Плотът и гърбът са изработени от технически камък в тъмен графит. Още една полезна повърхност и поле за изява е многофункционалният кухненски остров. Акцент представлява една от стените, която е покрита с декоративен камък. Всички уреди за вграждане са успешно вписани в интериорната среда по отношение на стил и дизайн.
@@ -260,9 +252,8 @@ text:
 
 tags: kitchen
 display: desktop
-image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-12.jpg
-image.file: модерна-класика-и-разкош-у-дома/кухня-2.jpg
-image.position: left
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-13.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-3.jpg
 text:
 :end
 []
