@@ -1,0 +1,365 @@
+layout: /blog/magazine.ect
+title: Модерна класика и (разкош у дома)
+description: Решенията за дизайна на вътрешното пространство в стил модерна класика превърнаха едно съвременно жилище в специално и запомнящо се пространство. За всяка стая в къщата е характерен конкретен пастелен цвят. Знаците на модерната класика можете да откриете във всички малки детайли, изпипани до съвършенство. Подходът ни за обзавеждане на дома беше умерен – да отдадем дължимото на традицията и да я възродим, без да излизаме от границите на добрия вкус. Разбира се, всички съвременни удобства и технологии са налице.
+cover: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-08.jpg
+date: 2017-08-01
+firstPage: true
+tags: private, modernclassic
+
+[best]
+* http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-04.jpg
+* http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-12.jpg
+* http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/tr-09.jpg
+* http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/s-02.jpg
+* http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-m-01.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-08.jpg
+image.file: модерна-класика-и-разкош-у-дома/хол-8.jpg
+image.position: center
+text:
+# Модерна класика и **разкош у дома**
+## Нежни цветове и **детайли, които очароват**
+Решенията за дизайна на вътрешното пространство в стил модерна класика превърнаха едно съвременно жилище в специално и запомнящо се пространство. За всяка стая в къщата е характерен конкретен пастелен цвят. Знаците на модерната класика можете да откриете във всички малки детайли, изпипани до съвършенство. Подходът ни за обзавеждане на дома беше умерен – да отдадем дължимото на традицията и да я възродим, без да излизаме от границите на добрия вкус. Разбира се, всички съвременни удобства и технологии са налице.
+:end
+
+===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-04.jpg
+image.file: модерна-класика-и-разкош-у-дома/всекидневна-1.jpg
+text:
+## Интериорен дизайн на **всекидневна**
+Простор и лукс. Всекидневната е голямо отворено пространство, заемащо целия първи етаж на къщата. Тук са антрето, кухнята, трапезарията и холът. Функционалните зони не са отделени с врати, а с преходи, напомнящи арки. По ръбовете им и по тавана поставихме завършващи и декоративни полиуретанови профили. Стените са боядисани с латекс в бледосиньо. Полилеите са в стил модерна класика. Подовото покритие е естествен паркет.
+:end
+
+===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-06.jpg
+image.file: модерна-класика-и-разкош-у-дома/хол-6.jpg
+text:
+## Обзавеждане на **хол**
+Могат да бъдат обособени две части на хола. Едната се намира до антрето и стълбите, където има и камина на дърва. Директно към пламъците са насочени двете кресла, които избрахме да поставим до прозорците – място за почивка, за четене, за сутрешно кафе или за размисъл.
+:end
+
+===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-01.jpg
+image.file: модерна-класика-и-разкош-у-дома/хол-1.jpg
+text:
+## Мебели в **хол**
+И ако седящите на креслата са с поглед, насочен към камината, то седящите на дивана гледат към телевизора на стената. Холният ъгъл е тапициран с дамаска в сиво. Гърбът му е капитониран. Холната маса има интересен дизайн. Страничната ѝ част е тапицирана, а отгоре има огледало. Огледалата са важна част от дизайна на мебелите тук. Огледала и ромбовидна декорация има и по шкафа под телевизора. Стената, на която са монтирани, е покрита с естествен камък.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/h-03.jpg
+image.file: модерна-класика-и-разкош-у-дома/хол-3.jpg
+text:
+:end
+[]
+
+===
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-11.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-1.jpg
+image.position: left
+text:
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline
+text:
+[image url="http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-14.jpg" title="Вътрешен дизайн на кухня"]
+## Вътрешен дизайн на **кухня**
+Пространството в кухнята е достатъчно, за да се изпълнят и най-смелите мечти на хората, изкушени от кулинарията. В тавана са вградени луни. Има и висящо осветително тяло. Мебелите са италиански. Стилът е модерна класика, а визията е контрастна. Вратичките са фрезовани. Обработени са с бяла боя. Дръжките са детайлни. Всички уреди за вграждане са успешно вписани в интериорната среда по отношение на стил и дизайн.
+:end
+
+===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-12.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-2.jpg
+text:
+## Интериор на **кухня**
+Плотът и гърбът са изработени от технически камък в тъмен графит. Още една полезна повърхност и поле за изява е многофункционалният кухненски остров. Акцент представлява една от стените, която е покрита с декоративен камък.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/k-13.jpg
+image.file: модерна-класика-и-разкош-у-дома/кухня-3.jpg
+text:
+:end
+[]
+
+===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/a-15.jpg
+image.file: модерна-класика-и-разкош-у-дома/антре-1.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/a-16.jpg
+image.file: модерна-класика-и-разкош-у-дома/антре-2.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Интериорен дизайн на **антре**
+Влизащият е посрещнат от изобилие от светлина и приветлива атмосфера. Таванът е окачен, стените са обработени с латекс в светлосиньо, а подовото покритие е светли плочки. Декорацията по стените придава индивидуалност на помещението. Мебели в бяло. Огледало и конзолна масичка с метална основа с оригинален дизайн.
+:end
+
+===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **антре**
+Мястото за сядане всъщност е голяма и удобна мебел, изцяло тапицирана в тюркоазен на цвят текстил. Повърхността ѝ е капитонирана. Разположихме я под закачалката. В непосредствена близост е гардеробът, който приютява връхните дрехи. Повърхността на вратите му е огледална с фигурален мотив на ромбове.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/a-17.jpg
+image.file: модерна-класика-и-разкош-у-дома/антре-3.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/a-18.jpg
+image.file: модерна-класика-и-разкош-у-дома/антре-4.jpg
+text:
+:end
+
+===
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/tr-09.jpg
+image.file: модерна-класика-и-разкош-у-дома/трапезария-9.jpg
+text:
+## Мебели в **трапезария**
+Частта от всекидневната, в която е разположена трапезарията, е с кръгла форма. Светлината, идваща от френските прозорци, е в изобилие. Регулира се с тънки и по-плътни завеси в бяло и синьо. Трапезната маса е с кръгъл плот. Топлият цвят на дървото кореспондира с цвета на паркета. Осемте стола са с елементи от масив, имат характерни извивка. Седалките и облегалките им са тапицирани с текстил. В непосредствена близост до трапезарията разположихме шкаф за вино.
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/tr-10.jpg
+image.file: модерна-класика-и-разкош-у-дома/трапезария-10.jpg
+text:
+:end
+
+
+===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/kr-19.jpg
+image.file: модерна-класика-и-разкош-у-дома/коридор-1.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Интериор на **коридор**
+Стълбите отвеждат към втория етаж на къщата. Подовото покритие в коридора, също като в просторната всекидневна, е естествен паркет. Най-интересното за това помещение е нестандартната му форма, наподобяваща окръжност. Една част от стените са обработени с латекс, а друга е покрита с тапети. Таванът е окачен по края. Има два вида осветителни тела.
+
+[image url="http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/kr-20.jpg" title="Вътрешен дизайн на кухня"]
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/kr-21.jpg
+image.file: модерна-класика-и-разкош-у-дома/коридор-3.jpg
+text:
+:end
+
+===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/s-01.jpg
+image.file: модерна-класика-и-разкош-у-дома/спалня-1.jpg
+text:
+## Вътрешен дизайн на **спалня**
+Модерната класика е завладяла и пространството на спалнята. Цветовата гама е бяло, бежово и кафяво. Настилката е естествен паркет. Някои от стените са обработени с латекс, а за други избрахме тапети с класически орнаменти. Своеобразен акцент е естественият камък над леглото. Цялата спалня е тапицирана с дамаска в цвят капучино, а таблата е капитонирана.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/s-02.jpg
+image.file: модерна-класика-и-разкош-у-дома/спалня-2.jpg
+text:
+:end
+[]
+
+columns: 3
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/s-03.jpg
+image.file: модерна-класика-и-разкош-у-дома/спалня-3.jpg
+text:
+## Обзавеждане на **спалня**
+Светлината също е от съществено значение за постигането на търсената атмосфера. Заложихме на дизайнерски лампи и огледала с марка Laura Ashley.
+:end
+
+===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/dr-01.jpg
+image.file: модерна-класика-и-разкош-у-дома/дрешник-1.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Мебели в **дрешник**
+Към спалнята е обособено по-малко помещение, което трансформирахме в дрешник. Естествен паркет на пода, тапети с класически орнаменти по стените. Вградени луни, осигуряващи достатъчно светлина, в тавана. Част от вратите на гардеробите са с покритие в бяло, някои са с огледала. Помещението е снабдено и с тоалетка.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/dr-04.jpg
+image.file: модерна-класика-и-разкош-у-дома/дрешник-4.jpg
+text:
+:end
+
+===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-m-04.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момче-4.jpg
+text:
+## Обзавеждане на **детска стая на момче**
+Детската стая на момчето е царство на приказките. От тавана се спуска лампа с метални и керамични елементи, напомняща средновековен полилей. Керамичните части са в тюркоазено. В същия нюанс са завесите, декоративната мазилка по стените, тапицерията на капитонираната табла на леглото и нощната лампа със същата марка – Nervilamp.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-m-03.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момче-3.jpg
+text:
+:end
+[]
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-m-02.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момче-2.jpg
+text:
+## Вътрешен дизайн на **детска стая**
+В широк кръг на тавана около лампата е изписан цитат от приказка. Мебелите – нощни шкафчета, етажерки, бюро, гардероби – са покрити с бяла боя, като някои елементи са в тюркоазено. Подовата настилка е естествен паркет. Зад вратата оставихме табло, на което детето може да закача своите рисунки.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-m-01.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момче-1.jpg
+text:
+:end
+[]
+
+===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-f-01.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момиче-1.jpg
+text:
+## Интериор на **детска стая на момиче**
+Почти всяка малко момиче си мечтае за подобна стая, за свои покои в розово, в които да се чувства като принцеса. И тук има цитат от приказва на тавана, а осветителното тяло е с тъмни метални елементи и керамични части в розово. Стените са обработени с декоративна мазилка. Таблата на леглото е капитонирана, а тапицерията е в светлозелено. Светлозелено и розово са цветовете за текстила в спалнята. Мебелите са бели, с акценти в розово. Подът е покрит с естествен паркет.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-f-02.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момиче-2.jpg
+text:
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-f-03.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момиче-3.jpg
+text:
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/desi-sapareva-banya/Marketing/Concept/d-f-04.jpg
+image.file: модерна-класика-и-разкош-у-дома/детска-стая-момиче-4.jpg
+text:
+:end
+[]
+===
+
