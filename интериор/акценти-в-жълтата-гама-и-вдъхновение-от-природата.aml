@@ -1,23 +1,23 @@
 layout: /blog/magazine.ect
 title: (Акценти в жълтата гама) и вдъхновение от природата
 description: Светлина, хармония и личен стил. Пространство, организирано рационално и обзаведено с усмивка, за да предизвиква усмивки. Идеите ни за интериора на това жилище бяха вдъхновени от природата – материали, цветове, форми, текстури. Основните нюанси са неутрални, а жълтите елементи, заедно с хексагоните, са главните герои на сцената. Във вътрешния дизайн на апартамента, който е създаден точно според вкуса на живеещите в него и именно по техните критерии и мярка, е закодирана силата на добрия живот.
-cover: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_02_N.jpg
+cover: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_02_N.jpg
 date: 2017-07-03
 firstPage: true
 tags: private, modern
 
 [best]
-* http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_02_N.jpg
-* http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_08_N.jpg
-* http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Spalnya_FINAL_01_N.jpg
-* http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_01_N.jpg
-* http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_01.bmp
+* http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_02_N.jpg
+* http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_08_N.jpg
+* http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Spalnya_FINAL_01_N.jpg
+* http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_01_N.jpg
+* http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_01.bmp
 
 [pages]
 
 columns: 3
 tags: livingroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/всекидневна-2.jpg
 image.position: center
 text:
@@ -30,7 +30,7 @@ text:
 
 columns: 3
 tags: livingroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_04_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_04_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/всекидневна-4.jpg
 image.position: center
 text:
@@ -42,7 +42,7 @@ text:
 
 columns: 3
 tags: livingroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/всекидневна-1.jpg
 image.position: left
 text:
@@ -54,7 +54,7 @@ text:
 
 columns: 2
 tags: kitchen
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_08_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_08_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/кухня-8.jpg
 style: inline
 display: desktop
@@ -66,7 +66,7 @@ text:
 
 columns: 1
 tags: kitchen
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_06_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_06_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/кухня-6.jpg
 style: inline
 display: desktop
@@ -79,7 +79,7 @@ text:
 columns: 3
 [.slides]
 tags: kitchen
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_08_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_08_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/кухня-8.jpg
 style: inline
 display: mobile
@@ -90,7 +90,7 @@ text:
 :end
 
 tags: kitchen
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_06_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_06_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/кухня-6.jpg
 style: inline
 display: mobile
@@ -104,13 +104,13 @@ text:
 columns: 3
 tags: kitchen
 display: desktop
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/трапезария-3.jpg
 image.position: right
-boxout.style: inline
+boxout.style: inline dark
 boxout.pin: 71,44
 boxout.text:
-[image url="http://hub.acherno.com/svn/temp/Site/3D/lamps.jpg" title="Италиански дизайнерски лампи"]
+[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Lamps_Result_Radial.png" title="Италиански дизайнерски лампи"]
 ### Акценти в **осветлението**
 Над трапезната маса се спускат три дизайнерски висящи лампи с марка Foscarini, произведени в Италия. Те съчетават традиционното майсторство на създаването на красиви обекти от венецианско стъкло с модерните материали, които са достъпни днес. Лампите излъчват мека и приятна светлина, носеща уют. Елегантните цветове на стъклото, от което са изработени осветителните тела, са жълто, кремаво и бяло. Кабелите, на които са окачени, са от неръждаема стомана, а електрическите кабели са прозрачни. 
 :end
@@ -124,13 +124,13 @@ text:
 columns: 3
 tags: kitchen
 display: mobile
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/трапезария-3.jpg
 image.position: right
 boxout.style: inline
 boxout.pin: 71%,44%
 boxout.text:
-[image url="http://hub.acherno.com/svn/temp/Site/3D/lamps.jpg" title="Италиански дизайнерски лампи"]
+[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Lamps_Result_Radial.png" title="Италиански дизайнерски лампи"]
 ### Акценти в **осветлението**
 Над трапезната маса се спускат три дизайнерски висящи лампи с марка Foscarini, произведени в Италия. Те съчетават традиционното майсторство на създаването на красиви обекти от венецианско стъкло с модерните материали, които са достъпни днес. Лампите излъчват мека и приятна светлина, носеща уют. Елегантните цветове на стъклото, от което са изработени осветителните тела, са жълто, кремаво и бяло. Кабелите, на които са окачени, са от неръждаема стомана, а електрическите кабели са прозрачни. 
 :end
@@ -144,7 +144,7 @@ text:
 
 columns: 2
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_05_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_05_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/антре-5.jpg
 image.position: left
 style: inline
@@ -156,7 +156,7 @@ text:
 
 columns: 1
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_07_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_07_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/антре-7.jpg
 image.position: center
 display: desktop
@@ -169,7 +169,7 @@ text:
 columns: 3
 [.slides]
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_05_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_05_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/антре-5.jpg
 image.position: left
 style: inline
@@ -180,7 +180,7 @@ text:
 :end
 
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Hol_FINAL_07_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_07_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/антре-7.jpg
 image.position: center
 display: mobile
@@ -193,7 +193,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_01.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_01.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-1.jpg
 image.position: center
 style: inline
@@ -205,7 +205,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_03.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_03.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-3.jpg
 image.position: center
 style: inline
@@ -216,7 +216,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_04.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_04.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-4.jpg
 image.position: center
 style: inline
@@ -230,7 +230,7 @@ text:
 columns: 3
 [.slides]
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_01.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_01.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-1.jpg
 image.position: center
 display: mobile
@@ -240,7 +240,7 @@ text:
 :end
 
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_03.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_03.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-3.jpg
 image.position: center
 display: mobile
@@ -249,7 +249,7 @@ text:
 :end
 
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/zhivkovi_emine_banya_final_04.bmp
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/zhivkovi_emine_banya_final_04.bmp
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-4.jpg
 image.position: center
 display: mobile
@@ -262,7 +262,7 @@ text:
 
 columns: 1
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-2.jpg
 image.position: center
 style: inline
@@ -272,7 +272,7 @@ text:
 
 columns: 1
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Koridor_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-3.jpg
 image.position: center
 style: inline
@@ -285,7 +285,7 @@ tags: other
 style: inline
 display: desktop
 text:
-[image url="http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg" title="Интериор на коридор"]
+[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg" title="Интериор на коридор"]
 ## Интериор на **коридор**
 Коридорът е единственото помещение, в което ги няма характерните за това жилище акценти в жълто. Заложихме на бял таван, стени и мебели и на гранитогрес в сиво. Подобни преходни помещения предоставят чудесна възможност в тях да се предвиди място за гардероби или сервизни шкафове.
 :end
@@ -295,7 +295,7 @@ text:
 columns: 3
 [.slides]
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-1.jpg
 image.position: center
 display: mobile
@@ -305,7 +305,7 @@ text:
 :end
 
 tags: other
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-2.jpg
 image.position: center
 display: mobile
@@ -318,7 +318,7 @@ text:
 columns: 3
 [.slides]
 tags: bedroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Spalnya_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Spalnya_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/спалня-1.jpg
 text:
 ## Вътрешен дизайн на **спалня**
@@ -326,7 +326,7 @@ text:
 :end
 
 tags: bedroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Spalnya_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Spalnya_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/спалня-3.jpg
 text:
 :end
@@ -337,7 +337,7 @@ text:
 columns: 3
 [.slides]
 tags: bedroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Spalnya_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Spalnya_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/спалня-2.jpg
 image.position: center
 text:
@@ -346,7 +346,7 @@ text:
 :end
 
 tags: bedroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Spalnya_FINAL_04_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Spalnya_FINAL_04_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/спалня-4.jpg
 image.position: left
 text:
@@ -357,7 +357,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-1.jpg
 style: inline
 display: desktop
@@ -368,7 +368,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-2.jpg
 style: inline
 display: desktop
@@ -378,7 +378,7 @@ text:
 
 columns: 1
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-3.jpg
 display: desktop
 style: inline
@@ -391,7 +391,7 @@ text:
 columns: 3
 [.slides]
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-1.jpg
 style: inline
 display: mobile
@@ -401,7 +401,7 @@ text:
 :end
 
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-2.jpg
 style: inline
 display: mobile
@@ -410,7 +410,7 @@ text:
 :end
 
 tags: bathroom
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivkovi_Emine_Banya_Spalnya_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Banya_Spalnya_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/баня-спалня-3.jpg
 display: mobile
 style: inline
@@ -423,7 +423,7 @@ text:
 
 columns: 3
 tags: nursery
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_01_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_01_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/детска-стая-1.jpg
 text:
 ## Обзавеждане на **детска стая**
@@ -434,7 +434,7 @@ text:
 
 columns: 2
 tags: nursery
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/детска-стая-2.jpg
 style: inline
 display: desktop
@@ -446,7 +446,7 @@ text:
 
 columns: 1
 tags: nursery
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/детска-стая-3.jpg
 style: inline
 display: desktop
@@ -459,7 +459,7 @@ text:
 columns: 3
 [.slides]
 tags: nursery
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_02_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_02_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/детска-стая-2.jpg
 style: inline
 display: mobile
@@ -470,7 +470,7 @@ text:
 :end
 
 tags: nursery
-image.url: http://hub.acherno.com/svn/temp/Site/3D/Zhivko_Emine_Detska_Staya_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Detska_Staya_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/детска-стая-3.jpg
 style: inline
 display: mobile
