@@ -99,46 +99,26 @@ text:
 :end
 []
 
-===desktop===
+===both===
 
 columns: 3
 tags: kitchen
-display: desktop
 image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_03_N.jpg
 image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/трапезария-3.jpg
 image.position: right
-boxout.style: inline dark
+boxout.style: inline
 boxout.pin: 71,44
 boxout.text:
-[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Lamps_Result_Radial.png" title="Италиански дизайнерски лампи"]
+[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/lamps.png" title="Италиански дизайнерски лампи"]
 ### Акценти в **осветлението**
-Над трапезната маса се спускат три дизайнерски висящи лампи с марка [Foscarini](http://www.foscarini.com/en/), произведени в Италия. Те съчетават традиционното майсторство на създаването на красиви обекти от венецианско стъкло с модерните материали, които са достъпни днес. Лампите излъчват мека и приятна светлина, носеща уют. Елегантните цветове на стъклото, от което са изработени осветителните тела, са жълто, кремаво и бяло. Кабелите, на които са окачени, са от неръждаема стомана, а електрическите кабели са прозрачни. 
+Над трапезната маса се спускат три дизайнерски висящи лампи с марка [#foscarini](http://www.foscarini.com/en/), произведени в Италия. Те съчетават традиционното майсторство на създаването на красиви обекти от венецианско стъкло с модерните материали, които са достъпни днес. Лампите излъчват мека и приятна светлина, носеща уют. Елегантните цветове на стъклото, от което са изработени осветителните тела, са жълто, кремаво и бяло. Кабелите, на които са окачени, са от неръждаема стомана, а електрическите кабели са прозрачни. 
 :end
+boxout.adv: http://www.foscarini.com/
+boxout.logo: /adv/foscarini.png
 text:
 ## Мебели в **трапезария**
 За визуална преграда между хола и трапезарията служи телевизорът на въртяща се стойка в черно и бяло. Голямата трапезна маса с правоъгълна форма е с място за шестима. Покритието ѝ е бял гланц. В секцията са съчетани два вида повърхности – бяла боя с гланцов ефект и фурнир.
 :end
-
-===mobile===
-
-columns: 3
-tags: kitchen
-display: mobile
-image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivko_Emine_Hol_FINAL_03_N.jpg
-image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/трапезария-3.jpg
-image.position: right
-boxout.style: inline dark
-boxout.pin: 71%,44%
-boxout.text:
-[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Lamps_Result_Radial.png" title="Италиански дизайнерски лампи"]
-### Акценти в **осветлението**
-Над трапезната маса се спускат три дизайнерски висящи лампи с марка [Foscarini](http://www.foscarini.com/en/), произведени в Италия. Те съчетават традиционното майсторство на създаването на красиви обекти от венецианско стъкло с модерните материали, които са достъпни днес. Лампите излъчват мека и приятна светлина, носеща уют. Елегантните цветове на стъклото, от което са изработени осветителните тела, са жълто, кремаво и бяло. Кабелите, на които са окачени, са от неръждаема стомана, а електрическите кабели са прозрачни. 
-:end
-text:
-## Мебели в **трапезария**
-За визуална преграда между хола и трапезарията служи телевизорът на въртяща се стойка в черно и бяло. Голямата трапезна маса с правоъгълна форма е с място за шестима. Покритието ѝ е бял гланц. В секцията са съчетани два вида повърхности – бяла боя с гланцов ефект и фурнир.
-:end
-
 
 ===desktop===
 
@@ -257,63 +237,6 @@ text:
 Отделихме тази част със стъклен параван. Обособихме ниша над тоалетната и поставихме стъклени рафтове в банята.
 :end
 []
-
-===desktop===
-
-columns: 1
-tags: other
-image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
-image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-2.jpg
-image.position: center
-style: inline
-display: desktop
-text:
-:end
-
-columns: 1
-tags: other
-image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_03_N.jpg
-image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-3.jpg
-image.position: center
-style: inline
-display: desktop
-text:
-:end
-
-columns: 1
-tags: other
-style: inline
-display: desktop
-text:
-[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg" title="Интериор на коридор"]
-## Интериор на **коридор**
-Коридорът е единственото помещение, в което ги няма характерните за това жилище акценти в жълто. Заложихме на бял таван, стени и мебели и на гранитогрес в сиво. Подобни преходни помещения предоставят чудесна възможност в тях да се предвиди място за гардероби или сервизни шкафове.
-:end
-
-===mobile===
-
-columns: 3
-[.slides]
-tags: other
-image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_01_N.jpg
-image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-1.jpg
-image.position: center
-display: mobile
-text:
-## Интериор на **коридор**
-Коридорът е единственото помещение, в което ги няма характерните за това жилище акценти в жълто. Заложихме на бял таван, стени и мебели и на гранитогрес в сиво. Подобни преходни помещения предоставят чудесна възможност в тях да се предвиди място за гардероби или сервизни шкафове.
-:end
-
-tags: other
-image.url: http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/Zhivkovi_Emine_Koridor_FINAL_02_N.jpg
-image.file: акценти-в-жълтата-гама-и-вдъхновение-от-природата/коридор-2.jpg
-image.position: center
-display: mobile
-text:
-:end
-[]
-
-===
 
 columns: 3
 [.slides]
