@@ -32,8 +32,8 @@ text:
 columns: 3
 tags: other
 display: mobile
-image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_01_N.jpg
-image.file: светлина-и-лукс-в-бяло/приемна-1.jpg
+image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri21_Vek_Vertical_01_N.jpg
+image.file: светлина-и-лукс-в-бяло/приемна-1-2.jpg
 image.position: right
 text:
 # Светлина и **лукс в бяло**
@@ -161,7 +161,7 @@ image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_
 image.file: светлина-и-лукс-в-бяло/кабинет-12.jpg
 text:
 ## Интериор на **кабинет**
-Множество стъклени и огледални повърхности, които, подобно на гланцовите повърхности, пречупват или отразяват светлината и се включват в играта на лъчите във въздуха. И тук настилката е гранитогрес в бяло, таванът е окачен, а стените, където са налични, са покрити с бяла гланцова ламперия от МДФ, в която са вградени LED ленти.
+Множество стъклени и огледални повърхности, които, подобно на гланцовите повърхности, пречупват или отразяват светлината и се включват в играта на лъчите във въздуха. И тук настилката е гранитогрес в бяло, таванът е опънат, а стените, където са налични, са покрити с бяла гланцова ламперия от МДФ, в която са вградени LED ленти.
 :end
 
 tags: other
@@ -189,30 +189,23 @@ text:
 ===mobile===
 
 columns: 3
-[.slides]
 tags: other
 display: mobile
 image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_12_N.jpg
 image.file: светлина-и-лукс-в-бяло/кабинет-12.jpg
+boxout.style: inline
+boxout.pin: 48,10
+boxout.text:
+[image url="http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri21_Vek_Opynat_Tavan_01_N.jpg" title="Светещ опънат таван"]
+### **Светещ** опънат таван
+Избрахме и монтирахме опънат таван Barrisol [#barrisol](http://barrisol.com/uk). Конкретното изпълнение е със светещ елемент. Това интериорно решение допринася за усещането за простор и лукс на вътрешното пространство. Barrisol е един от лидерите в областта на опънатите тавани с работа, насочена към иновациите на световния пазар. Решенията са разнообразни - палитра от стотици цветове, различни текстури, принтирани изображения, прозрачни и светещи елементи.
+:end
+boxout.adv: http://barrisol.com/uk
+boxout.logo: /brands/barrisol.jpg
 text:
 ## Интериор на **кабинет**
-Множество стъклени и огледални повърхности, които, подобно на гланцовите повърхности, пречупват или отразяват светлината и се включват в играта на лъчите във въздуха. И тук настилката е гранитогрес в бяло, таванът е окачен, а стените, където са налични, са покрити с бяла гланцова ламперия от МДФ, в която са вградени LED ленти.
+Множество стъклени и огледални повърхности, които, подобно на гланцовите повърхности, пречупват или отразяват светлината и се включват в играта на лъчите във въздуха. И тук настилката е гранитогрес в бяло, таванът е опънат, а стените, където са налични, са покрити с бяла гланцова ламперия от МДФ, в която са вградени LED ленти.
 :end
-
-tags: other
-display: mobile
-image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_09_N.jpg
-image.file: светлина-и-лукс-в-бяло/кабинет-9.jpg
-text:
-:end
-
-tags: other
-display: mobile
-image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_10_N.jpg
-image.file: светлина-и-лукс-в-бяло/кабинет-10.jpg
-text:
-:end
-[]
 
 ===desktop===
 
@@ -224,6 +217,7 @@ image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_
 image.file: светлина-и-лукс-в-бяло/кабинет-13.jpg
 text:
 ## Мебели в **кабинет**
+Всички мебели са бели. Повърхностите им са гланцови. Където дръжките на шкафовете не са скрити, са в черно.
 :end
 
 columns: 2
@@ -232,41 +226,50 @@ display: desktop
 style: inline
 image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_15_N.jpg
 image.file: светлина-и-лукс-в-бяло/кабинет-15.jpg
-boxout.style: inline
-boxout.pin: 71,44
-boxout.text:
-[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/lamps.png" title="Италиански дизайнерски лампи"]
-### Акценти в **осветлението**
-Заедно с клиентите си избрахме и монтирахме опънат светещ таван Barrisol [#barrisol](http://barrisol.com/uk)
-:end
-boxout.adv: http://www.foscarini.com/
-boxout.logo: /brands/foscarini.png
 text:
-Всички мебели са бели. Повърхностите им са гланцови. Където дръжките на шкафовете не са скрити, са в черно. Плотовете са от технически камък. Освен черните дръжки на мебелите в кабинетите, за контрастната визия допринася и черният цвят на столовете, независимо дали е дентален стол, или е стол за трансплантация на коса.
+Плотовете са от технически камък. Освен черните дръжки на мебелите в кабинетите, за контрастната визия допринася и черният цвят на столовете, независимо дали е дентален стол, или е стол за трансплантация на коса.
 :end
 
 ===mobile===
 
 columns: 3
+[.slides]
 tags: other
 display: mobile
 style: inline
 image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_15_N.jpg
 image.file: светлина-и-лукс-в-бяло/кабинет-15.jpg
-boxout.style: inline
-boxout.pin: 71,44
-boxout.text:
-[image url="http://projects.acherno.int/zhivkovi-emine/Marketing/Concept/lamps.png" title="Италиански дизайнерски лампи"]
-### Акценти в **осветлението**
-Заедно с клиентите си избрахме и монтирахме опънат светещ таван Barrisol [#barrisol](http://www.barrisol.com/uk)
-:end
-boxout.adv: http://www.barrisol.com/uk/
-boxout.logo: /brands/foscarini.png
-image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_13_N.jpg
-image.file: светлина-и-лукс-в-бяло/кабинет-13.jpg
 text:
 ## Мебели в **кабинет**
 Всички мебели са бели. Повърхностите им са гланцови. Където дръжките на шкафовете не са скрити, са в черно. Плотовете са от технически камък. Освен черните дръжки на мебелите в кабинетите, за контрастната визия допринася и черният цвят на столовете, независимо дали е дентален стол, или е стол за трансплантация на коса.
+:end
+
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_13_N.jpg
+image.file: светлина-и-лукс-в-бяло/кабинет-13.jpg
+[]
+
+===desktop===
+
+columns: 3
+tags: other
+display: desktop
+image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_19_N.jpg
+image.file: светлина-и-лукс-в-бяло/офис-4.jpg
+boxout.style: inline
+boxout.pin: 34,20
+boxout.text:
+[image url="http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri21_Vek_Opynat_Tavan_01_N.jpg" title="Светещ опънат таван"]
+### **Светещ** опънат таван
+Избрахме и монтирахме опънат таван Barrisol [#barrisol](http://barrisol.com/uk). Конкретното изпълнение е със светещ елемент. Това интериорно решение допринася за усещането за простор и лукс на вътрешното пространство. Barrisol е един от лидерите в областта на опънатите тавани с работа, насочена към иновациите на световния пазар. Решенията са разнообразни - палитра от стотици цветове, различни текстури, принтирани изображения, прозрачни и светещи елементи.
+:end
+boxout.adv: http://barrisol.com/uk
+boxout.logo: /brands/barrisol.jpg
+text:
+## Интериор на **кабинети**
+Монохромната визия и средата в преобладаващо бяло създават асоциации с чистота и сигурност, а мекото осветление изключва възможността атмосферата да се възприеме като студена. Бялата МДФ ламперия по стените, стъклените прегради и огледалните повърхности, от друга страна, са част от луксозната визия на клиниката, в която е вписано дори оборудването, чийто дизайн е с плавни форми.
 :end
 
 ===desktop===
@@ -286,13 +289,6 @@ tags: other
 display: desktop
 image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_17_N.jpg
 image.file: светлина-и-лукс-в-бяло/офис-3.jpg
-text:
-:end
-
-tags: other
-display: desktop
-image.url: http://projects.acherno.int/obri-21vek/Marketing/Concept/Obri_21_Vek_FINAL_19_N.jpg
-image.file: светлина-и-лукс-в-бяло/офис-4.jpg
 text:
 :end
 []
