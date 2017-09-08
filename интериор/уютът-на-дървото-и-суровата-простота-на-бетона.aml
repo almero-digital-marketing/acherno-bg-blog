@@ -49,7 +49,6 @@ display: desktop
 style: inline
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_WIP_03_N.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-3.jpg
-boxout.style: inline
 boxout.pin: 48,35
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Pendant_Lamp_01_N.jpg" title="Пендел с винтидж дизайн"]
@@ -84,8 +83,7 @@ display: mobile
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_WIP_01_N.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-5.jpg
 image.position: center
-boxout.style: inline
-boxout.pin: 35,25
+boxout.pin: 40,25
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Pendant_Lamp_01_N.jpg" title="Пендел с винтидж дизайн"]
 ### **Oсветление** с винтидж дизайн
@@ -158,7 +156,6 @@ tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_WIP_01_N.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-1.jpg
-boxout.style: inline
 boxout.pin: 66,64
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Divan_01_N.png" title="Многофункционален диван"]
@@ -191,8 +188,7 @@ display: mobile
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_WIP_01_N.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-1.jpg
 image.position: right
-boxout.style: inline
-boxout.pin: 66,63
+boxout.pin: 70,63
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Divan_01_N.png" title="Многофункционален диван"]
 ### **Многофункционален диван** с елегантен дизайн
@@ -264,8 +260,7 @@ style: inline
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_WIP_01_N.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-1.jpg
 image.position: left
-boxout.style: inline
-boxout.pin: 27,70
+boxout.pin: 22,70
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Chair_01_N.png" title="Столове с елегантна форма"]
 ### Вдъхновение от **колониалниалния стил**
@@ -294,8 +289,7 @@ display: mobile
 image.url: http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Vetical_01.jpg
 image.file: уютът-на-дървото-и-суровата-простота-на-бетона/хол-1-2.jpg
 image.position: left
-boxout.style: inline
-boxout.pin: 25,70
+boxout.pin: 25,65
 boxout.text:
 [image url="http://projects.acherno.int/tonka-gotse-delchev/Marketing/Concept/Tonka_Gotse_Delchev_Hol_Chair_01_N.png" title="Столове с елегантна форма"]
 ### Вдъхновение от **колониалния стил**
