@@ -35,7 +35,7 @@ tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_01_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-1.jpg
-image.position: right
+image.position: left
 text:
 # Въображение в модерен стил и **наслада за сетивата**
 ## **Актуален и оригинален** интериорен дизайн на къща
@@ -47,8 +47,8 @@ text:
 columns: 3
 tags: livingroom
 display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_04_N.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-4.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_08_N.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-8.jpg
 text:
 ## Вътрешен дизайн на **всекидневна**
 От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
@@ -59,36 +59,27 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_08_N.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-8.jpg
+text:
+## Вътрешен дизайн на **всекидневна**
+От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_04_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-4.jpg
 text:
-## Вътрешен дизайн на **всекидневна**
-От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
-:end
-
-===desktop===
-
-columns: 3
-tags: livingroom
-display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_08_N.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-8.jpg
-text:
 ## Интериорен дизайн на **хол**
-Зоната на хола е разположена между антрето и трапезарията. Това е мястото за прекарване на приятни мигове със семейството в свободното време. Големият ъглов диван е с тапицерия в сиво. Отличният модерен дизайн е съчетан с практичност и удобство. Има опция за нагласяне на позицията на облегалката за глава – особено полезна възможност, когато се отдавате на по-продължителни кино преживявания. Холната масичка е с правоъгълна форма. Страните ѝ пресъздават мотив с преплетени линии, който се забелязва на няколко места в къщата.
+Зоната на хола е разположена между антрето и трапезарията. Това е мястото за прекарване на приятни мигове със семейството в свободното време. Големият ъглов диван е с тапицерия в сиво. Отличният модерен дизайн е съчетан с практичност и удобство. Има опция за нагласяне на позицията на облегалката за глава – особено полезна възможност, когато се отдавате на по-продължителни кино преживявания.
 :end
 
 ===mobile===
 
-columns: 3
-tags: livingroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_08_N.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-8.jpg
-text:
-## Интериорен дизайн на **хол**
-Зоната на хола е разположена между антрето и трапезарията. Това е мястото за прекарване на приятни мигове със семейството в свободното време. Големият ъглов диван е с тапицерия в сиво. Отличният модерен дизайн е съчетан с практичност и удобство. Има опция за нагласяне на позицията на облегалката за глава – особено полезна възможност, когато се отдавате на по-продължителни кино преживявания. Холната масичка е с правоъгълна форма. Страните ѝ пресъздават мотив с преплетени линии, който се забелязва на няколко места в къщата.
-:end
 
 ===desktop===
 
@@ -99,7 +90,7 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Ase
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-3.jpg
 text:
 ## Обзавеждане на **всекидневна**
-Част от стените във всекидневната са боядисани в светлобежово, а друга част от тях са бели. В зоната на хола има опънат лъскав таван. Геометричният мотив от основата на холната маса е пресъздаден и в ламперията зад телевизора, а ще го откриете и в парапета на стълбите. Подовото покритие е гранитогрес, имитиращ паркет в светъл нюанс. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло.
+Част от стените във всекидневната са боядисани в светлобежово, а друга част от тях са бели. В зоната на хола има опънат лъскав таван. Геометричният мотив от основата на холната маса е пресъздаден и в ламперията зад телевизора, а ще го откриете и в парапета на стълбите. Подовото покритие е гранитогрес, имитиращ паркет в светъл нюанс. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло. Холната масичка е с правоъгълна форма. Страните ѝ пресъздават мотив с преплетени линии, който се забелязва на няколко места в къщата.
 :end
 
 ===mobile===
@@ -109,9 +100,10 @@ tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_03_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-3.jpg
+image.position: right
 text:
 ## Обзавеждане на **всекидневна**
-Част от стените във всекидневната са боядисани в светлобежово, а друга част от тях са бели. В зоната на хола има опънат лъскав таван. Геометричният мотив от основата на холната маса е пресъздаден и в ламперията зад телевизора, а ще го откриете и в парапета на стълбите. Подовото покритие е гранитогрес, имитиращ паркет в светъл нюанс. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло.
+Част от стените във всекидневната са боядисани в светлобежово, а друга част от тях са бели. В зоната на хола има опънат лъскав таван. Геометричният мотив от основата на холната маса е пресъздаден и в ламперията зад телевизора, а ще го откриете и в парапета на стълбите. Подовото покритие е гранитогрес, имитиращ паркет в светъл нюанс. Холната масичка е с правоъгълна форма. Страните ѝ пресъздават мотив с преплетени линии, който се забелязва на няколко места в къщата.
 :end
 
 ===desktop===
@@ -122,8 +114,8 @@ display: desktop
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_02_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-2.jpg
 text:
-## Обзавеждане на **всекидневна**
-Добавихме и релакс кресло с хромирана долна част и седалка и облегалка, тапицирани с текстил в светлосиво. Този модел кресло, но в друг цвят – наситено тюркоазено, избрахме да използваме за мястото, предназначено за наблюдение на танца на пламъците в етаноловата камина, която дарява с топлина в зимните дни и в същото време е наслада за погледа.
+## Интериор на **всекидневна**
+Добавихме и релакс кресло с хромирана долна част и със седалка и облегалка, тапицирани с текстил в светлосиво. Този модел кресло, но в друг цвят – наситено тюркоазено, избрахме да използваме за мястото, предназначено за наблюдение на танца на пламъците в етаноловата камина, която дарява с топлина в зимните дни и в същото време е наслада за погледа.
 :end
 
 ===mobile===
@@ -134,8 +126,8 @@ display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_02_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-2.jpg
 text:
-## Обзавеждане на **всекидневна**
-Добавихме и релакс кресло с хромирана долна част и седалка и облегалка, тапицирани с текстил в светлосиво. Този модел кресло, но в друг цвят – наситено тюркоазено, избрахме да използваме за мястото, предназначено за наблюдение на танца на пламъците в етаноловата камина, която дарява с топлина в зимните дни и в същото време е наслада за погледа.
+## Интериор на **всекидневна**
+Зоната на хола е разположена между антрето и трапезарията. Това е мястото за прекарване на приятни мигове със семейството в свободното време. Големият ъглов диван е с тапицерия в сиво. Отличният модерен дизайн е съчетан с практичност и удобство. Добавихме и релакс кресло с хромирана долна част и със седалка и облегалка, тапицирани с текстил в светлосиво. Този модел кресло, но в друг цвят – наситено тюркоазено, избрахме да използваме за мястото, предназначено за наблюдение на танца на пламъците в етаноловата камина.
 :end
 
 ===desktop===
@@ -147,6 +139,14 @@ style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_01_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-1.jpg
 image.position: left
+boxout.pin: 25,35
+boxout.text:
+[image url="http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_Lamp_01_A.png" title="Полилей с модерен дизайн"]
+### **Oсветление** с модерен дизайн
+Стилен пендел с геометричен дизайн над трапезната маса. Извити линии, разположени в различни равнини, които напомнят на орбити на небесни тела. Осветление, което има впечатляващ ефект върху атмосферата в помещението. Марката на полилея е [#kare](https://www.kare.bg/bg)
+:end
+boxout.adv: https://www.kare.bg/bg
+boxout.logo: /brands/kare.jpg
 
 columns: 1
 tags: livingroom
@@ -165,6 +165,14 @@ display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_01_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-1.jpg
 image.position: left
+boxout.pin: 25,35
+boxout.text:
+[image url="http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_Lamp_01_A.png" title="Полилей с модерен дизайн"]
+### **Oсветление** с модерен дизайн
+Стилен пендел с геометричен дизайн над трапезната маса. Извити линии, разположени в различни равнини, които напомнят на орбити на небесни тела. Осветление, което има впечатляващ ефект върху атмосферата в помещението. Марката на полилея е [#kare](https://www.kare.bg/bg)
+:end
+boxout.adv: https://www.kare.bg/bg
+boxout.logo: /brands/kare.jpg
 text:
 ## Мебели в **трапезария**
 Правоъгълна трапезна маса в бяло. Осем трапезни стола от един и същи модел: метална основа и тапицерия в бяло. Елегантен дизайн, осигуряващ удобство. Издължена облегалка. Акцентът в интериора в зоната на трапезарията, а и в цялата всекидневна, е светлината. Над трапезната маса от опънатия таван се спуска красив полилей от алуминий в бяло.
@@ -197,8 +205,8 @@ columns: 3
 [.slides]
 tags: kitchen
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_06_N.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-6.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_07_N.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-7.jpg
 text:
 ## Интериорен дизайн на **кухня**
 Кухня мечта за всекиго, който е изкушен от кулинарните изяви. Горни и долни кухненски шкафове с гланцова повърхност на лицето в бяло. Деликатни контрастиращи ленти в черно. Вградени електроуреди. Скрити дръжки на вратите и чекмеджетата. Плот от технически камък в бяло. Достатъчно повърхности за готвене.
@@ -206,8 +214,8 @@ text:
 
 tags: kitchen
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_07_N.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-7.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_06_N.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-6.jpg
 text:
 :end
 []
@@ -217,7 +225,6 @@ text:
 columns: 3
 tags: kitchen
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_05_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/всекидневна-5.jpg
 text:
@@ -287,6 +294,7 @@ tags: other
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta1_ET1_Hol_FINAL_12_N.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стълбище.jpg
+image.position: left
 text:
 Характерният мотив с преплетени линии, който е вече познат от ламперията на стената зад телевизора и от холната маса, присъства като главен елемент от дизайна на парапета на стълбите. До стъпалата е вградено допълнително осветление – красиво и практично решение.
 :end
@@ -306,8 +314,8 @@ columns: 1
 tags: bathroom
 display: desktop
 style: inline
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_WC_FINAL_01_Z.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/тоалетна-1.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_02_WC_FINAL_01_Z.png
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/тоалетна-2.jpg
 text:
 :end
 
@@ -315,8 +323,9 @@ columns: 1
 tags: bathroom
 display: desktop
 style: inline
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_02_WC_FINAL_01_Z.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/тоалетна-2.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_WC_FINAL_01_Z.png
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/тоалетна-1.jpg
+image.position: right
 text:
 :end
 
@@ -337,6 +346,7 @@ tags: bathroom
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_WC_FINAL_01_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/тоалетна-1.jpg
+image.position: left
 text:
 ## Вътрешен дизайн на **тоалетна**
 Белота, чистота, но и уют – търсен ефект, който не е толкова лесен за постигане. Помещението е достатъчно голямо. Стенните плочки са в бяло, различават се само по размер. За подово покритие избрахме плочки, имитиращи паркет. Поставихме окачен таван от гипсокартон с вградени луни, а също така и опънат таван, през който се процежда силна, в същото време и мека светлина. Прозорец, огледала. Бял шкаф за мивка, още четири шкафа в сиво и бяла санитария. Декорация.
@@ -362,12 +372,11 @@ text:
 columns: 3
 tags: bedroom
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-Kashta-1_Spalnya_FINAl_02_St.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-1.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-2.jpg
 text:
 ## Интериорен дизайн на **спалня**
-Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващо и в окачения таван.
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
 :end
 
 ===mobile===
@@ -380,9 +389,11 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Ase
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-2.jpg
 text:
 ## Интериорен дизайн на **спалня**
-Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващо и в окачения таван.
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
 :end
 
+tags: bedroom
+display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-Kashta-1_Spalnya_FINAl_04_St.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-4.jpg
 text:
@@ -395,7 +406,6 @@ columns: 3
 [.slides]
 tags: bedroom
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-Kashta-1_Spalnya_FINAl_03_St.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-3.jpg
 text:
@@ -405,9 +415,8 @@ text:
 
 tags: bedroom
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-Kashta-1_Spalnya_FINAl_01_St.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-3.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-1.jpg
 text:
 :end
 []
@@ -420,6 +429,7 @@ tags: bedroom
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-Kashta-1_Spalnya_FINAl_03_St.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/спалня-3.jpg
+image.position: left
 text:
 ## Обзавеждане на **спалня**
 Леглото е голямо и меко. Матракът е на висока, значително по-широка от него основа. Цялото легло, в това число и таблата, е тапицирано с дамаска в сиво. Около ламперията зад леглото и по тавана поставихме скрито осветление. В центъра на тавана има плафон, а над горната част на леглото се спускат две осветителни тела с продълговата форма на стилизирани цветни чашки. Акцент представлява правоъгълното огледало, окачено на една от стените.
@@ -439,7 +449,6 @@ columns: 3
 [.slides]
 tags: other
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_02_R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-2.jpg
 text:
@@ -449,7 +458,6 @@ text:
 
 tags: other
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_01_R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-1.jpg
 text:
@@ -457,7 +465,6 @@ text:
 
 tags: other
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_03_R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-3.jpg
 text:
@@ -465,7 +472,6 @@ text:
 
 tags: other
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_04_R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-4.jpg
 text:
@@ -483,22 +489,6 @@ image.file: въображение-в-модерен-стил-и-наслада-
 text:
 ## Вътрешен дизайн на **дрешник**
 За интериора на дрешника са използвани материалите, вложени в обзавеждането на спалнята. Стените са боядисани с латекс в нюанс капучино. Мебелите за съхранение на дрехи и вещи са изработени от МДФ с гланцово покритие в бяло. Част от тях са с прозрачни стъклени врати и с вградено осветление – вътре се съхраняват предимно аксесоари, които могат да бъдат открити бързо и лесно. Металните дръжки са с квадратна форма. Огледалото е в цял ръст. Кръглият силует на нивото на пода – мека табуретка, тапицирана в сиво, е проектиран и на тавана, където има кръгъл отвор с LED осветление. Под сивата табуретка поставихме килимче с дълга нишка в бяло.
-:end
-
-tags: other
-display: mobile
-style: inline
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_01_R.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-1.jpg
-text:
-:end
-
-tags: other
-display: mobile
-style: inline
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta-1_Dreshnik_Final_03_R.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/дрешник-3.jpg
-text:
 :end
 
 tags: other
@@ -549,8 +539,8 @@ columns: 3
 [.slides]
 tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-kashta-1_Banya-Spalnya_FINAL_01_St.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/баня-1.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-kashta-1_Banya-Spalnya_FINAL_02_St.png
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/баня-2.jpg
 text:
 ## Интериор на **баня към спалня**
 Банята към главната спалня е голяма – мястото в просторното помещение е оползотворено по оптимален начин. Доминира топлата бежово-кафява гама. Тук има както душ-зона, така и вана, която впечатлява с размерите си и позволява пълно отпускане и релакс. Шкафовете и санитарията са в бяло. Погрижихме се светлината да бъде в изобилие.
@@ -558,8 +548,8 @@ text:
 
 tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-kashta-1_Banya-Spalnya_FINAL_02_St.png
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/баня-2.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad-kashta-1_Banya-Spalnya_FINAL_01_St.png
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/баня-1.jpg
 text:
 :end
 
@@ -584,7 +574,6 @@ columns: 3
 [.slides]
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_01R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-1.jpg
 text:
@@ -594,7 +583,6 @@ text:
 
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_02R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-2.jpg
 text:
@@ -604,6 +592,7 @@ text:
 ===mobile===
 
 columns: 3
+[.slides]
 tags: nursery
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_01R.jpg
@@ -615,7 +604,6 @@ text:
 
 tags: nursery
 display: mobile
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_02R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-2.jpg
 text:
@@ -628,7 +616,6 @@ columns: 3
 [.slides]
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_03R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-3.jpg
 text:
@@ -638,7 +625,6 @@ text:
 
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_04R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-4.jpg
 text:
@@ -660,7 +646,6 @@ text:
 
 tags: nursery
 display: mobile
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Detska_Staya_Golyamo_Momche_Final_04R.jpg
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-голямо-момче-4.jpg
 text:
@@ -706,8 +691,8 @@ columns: 3
 [.slides]
 tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_02R.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-2.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_04R.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-4.jpg
 text:
 ## Интериор на **детска баня**
 Спокойствие, уют, хармония. Това е банята, която споделят по-малкото и по-голямо дете в семейството. На власт са белотата и чистотата. Съчетахме няколко вида стенни плочки, за да разнообразим стенните повърхности. Стената зад мивката е в топло капучино, а останалите стени са в млечен цвят. Душ-зоната е отделена от останалата част от помещението чрез стъклена преграда. И тук светлината е в изобилие. Две огледала и шкаф с две мивки – още лично пространство за всяко от двете деца. Шкафовете за баня са в бяло и сиво.
@@ -715,15 +700,15 @@ text:
 
 tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_03R.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-3.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_02R.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-2.jpg
 text:
 :end
 
 tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_04R.jpg
-image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-4.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Kashta-1_Banya-Detska_Final_03R.jpg
+image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/детска-баня-3.jpg
 text:
 :end
 []
@@ -734,7 +719,6 @@ columns: 3
 [.slides]
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_02_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-2.jpg
 text:
@@ -744,7 +728,6 @@ text:
 
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_01_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-1.jpg
 text:
@@ -766,7 +749,6 @@ text:
 
 tags: nursery
 display: mobile
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_01_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-1.jpg
 text:
@@ -779,8 +761,7 @@ columns: 3
 [.slides]
 tags: nursery
 display: desktop
-style: inline
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_04_Z
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_04_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-4.jpg
 text:
 ## Интериорен дизайн на **детска стая**
@@ -789,7 +770,6 @@ text:
 
 tags: nursery
 display: desktop
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_03_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-3.jpg
 text:
@@ -802,7 +782,7 @@ columns: 3
 [.slides]
 tags: nursery
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_04_Z
+image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_04_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-4.jpg
 text:
 ## Интериорен дизайн на **детска стая**
@@ -811,7 +791,6 @@ text:
 
 tags: nursery
 display: mobile
-style: inline
 image.url: http://projects.acherno.int/asenovgrad-kashta-1/Marketing/Concept/Asenovgrad_Kashta_01_Detska_Malko_Momche_FINAL_03_Z.png
 image.file: въображение-в-модерен-стил-и-наслада-за-сетивата/стая-малко-момче-3.jpg
 text:
