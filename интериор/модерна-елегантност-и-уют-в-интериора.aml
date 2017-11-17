@@ -149,17 +149,10 @@ text:
 Кухнята в този дом е царство на ред, белота и чистота. Всички шкафове, разположени П-образно, са със семпъл модерен дизайн, с бяла матова повърхност и са скрили не само съдовете за готвене и хранене, приборите и дребните машинки, които улесняват кулинарните подвизи, но и всички големи уреди, вградени в мебелите. Плотът е от технически камък в бяло, а гърбът е изработен от лакобел в бежово. Още едно предимство на кухнята е наличието на прозорец, предоставящ гледка навън, над мивката.
 :end
 
-tags: livingroom
+tags: kitchen
 display: desktop
 image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_07_N.jpg
 image.file: модерна-елегантност-и-уют-в-интериора/кухня-7.jpg
-text:
-:end
-
-tags: livingroom
-display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_08_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-8.jpg
 text:
 :end
 []
@@ -170,28 +163,20 @@ columns: 3
 [.slides]
 tags: kitchen
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_06_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-6.jpg
-image.position: right
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_08_N.jpg
+image.file: модерна-елегантност-и-уют-в-интериора/кухня-8.jpg
 text:
 ## Вътрешен дизайн на **кухня**
 Кухнята в този дом е царство на ред, белота и чистота. Всички шкафове, разположени П-образно, са със семпъл модерен дизайн, с бяла матова повърхност и са скрили не само съдовете за готвене и хранене, приборите и дребните машинки, които улесняват кулинарните подвизи, но и всички големи уреди, вградени в мебелите. Плотът е от технически камък в бяло, а гърбът е изработен от лакобел в бежово. Още едно предимство на кухнята е наличието на прозорец, предоставящ гледка навън, над мивката.
 :end
 
-tags: livingroom
+tags: kitchen
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_07_N.jpg
 image.file: модерна-елегантност-и-уют-в-интериора/кухня-7.jpg
 image.position: center
 text:
 :end
-
-tags: livingroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_08_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-8.jpg
-text:
-:end
 []
 
 ===desktop===
@@ -200,8 +185,8 @@ columns: 3
 [.slides]
 tags: kitchen
 display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_09_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-9.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_10_N.jpg
+image.file: модерна-елегантност-и-уют-в-интериора/кухня-10.jpg
 text:
 ## Обзавеждане на **кухня и трапезария**
 Кухненският остров е комбиниран с четири елегантни бар стола с дамаска в бледобежово – за по-забавни семейни закуски в кухнята. Разбира се, като част от модерната кухня, островът е  с лице в бяло, а плотът му е изработен от технически камък. Над него се спускат три висящи осветителни тела със сферична форма в бяло. В непосредствена близост разположихме два удобни фотьойла с дамаска от кожа в бежово, с декоративни шевове – за да се потопите в комфорт, докато гледате пламъците в етаноловата камина.
@@ -209,8 +194,8 @@ text:
 
 tags: livingroom
 display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_10_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-10.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_09_N.jpg
+image.file: модерна-елегантност-и-уют-в-интериора/кухня-9.jpg
 text:
 :end
 []
@@ -221,9 +206,8 @@ columns: 3
 [.slides]
 tags: kitchen
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_09_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-9.jpg
-image.position: center
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_10_N.jpg
+image.file: модерна-елегантност-и-уют-в-интериора/кухня-10.jpg
 text:
 ## Обзавеждане на **кухня и трапезария**
 Кухненският остров е комбиниран с четири елегантни бар стола с дамаска в бледобежово – за по-забавни семейни закуски в кухнята. Разбира се, като част от модерната кухня, островът е  с лице в бяло, а плотът му е изработен от технически камък. Над него се спускат три висящи осветителни тела със сферична форма в бяло. В непосредствена близост разположихме два удобни фотьойла с дамаска от кожа в бежово, с декоративни шевове – за да се потопите в комфорт, докато гледате пламъците в етаноловата камина.
@@ -232,8 +216,9 @@ text:
 
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_10_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/кухня-10.jpg
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_Hol_WIP_09_N.jpg
+image.file: модерна-елегантност-и-уют-в-интериора/кухня-9.jpg
+image.position: center
 text:
 :end
 []
@@ -334,30 +319,10 @@ text:
 
 ===mobile===
 
-columns: 3
-[.slides]
-tags: bathroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_WC_FINAL_02_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/тоалетна-2.jpg
-text:
-## Вътрешен дизайн на **тоалетна**
-Тоалетната на първия етаж не е изключение от общото стилово и цветово правило, което следвахме в интериора на къщата. Водещи са бялото и кафявото. Подовите плочки са с визия на дърво, а за стените избрахме два вида плочки – изчистени и релефни – създаващи илюзия за преплетени ленти. Бял шкаф с хоризонтална ориентация под мивката с голямо огледало. Два вертикално разположени шкафа в кафяво и ниша.
-:end
-
-tags: bathroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta2_ET1_WC_FINAL_03_N.jpg
-image.file: модерна-елегантност-и-уют-в-интериора/тоалетна-3.jpg
-image.position: left
-text:
-:end
-[]
 
 ===desktop===
 
 columns: 3
-[.slides]
 tags: bedroom
 display: desktop
 image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Et2_Spalnya_FINAL_01_Z.png
@@ -366,19 +331,10 @@ text:
 ## Интериорен дизайн на **спалня**
 Съвършена модерна атмосфера, предразполагаща към пълноценна почивка. Топлина и уют, засилени от бежово-кафявите нюанси, пръснати из стаята. И тук поставихме светещ опънат таван с гланцов ефект. Окаченият таван около него е обработен с латекс в нюанс тъмен шоколад. Над леглото се спуска висящо осветление, съставено от безброй бели или прозрачни балончета – модел, подобен на този във всекидневната. Стената зад спалнята е облицована с релефна гланцова ламперия.
 :end
-
-tags: bedroom
-display: desktop
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Et2_Spalnya_FINAL_03_Z.png
-image.file: модерна-елегантност-и-уют-в-интериора/спалня-3.jpg
-text:
-:end
-[]
 
 ===mobile===
 
 columns: 3
-[.slides]
 tags: bedroom
 display: mobile
 image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Et2_Spalnya_FINAL_01_Z.png
@@ -387,15 +343,6 @@ text:
 ## Интериорен дизайн на **спалня**
 Съвършена модерна атмосфера, предразполагаща към пълноценна почивка. Топлина и уют, засилени от бежово-кафявите нюанси, пръснати из стаята. И тук поставихме светещ опънат таван с гланцов ефект. Окаченият таван около него е обработен с латекс в нюанс тъмен шоколад. Над леглото се спуска висящо осветление, съставено от безброй бели или прозрачни балончета – модел, подобен на този във всекидневната. Стената зад спалнята е облицована с релефна гланцова ламперия.
 :end
-
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Et2_Spalnya_FINAL_03_Z.png
-image.file: модерна-елегантност-и-уют-в-интериора/спалня-3.jpg
-image.position: right
-text:
-:end
-[]
 
 ===desktop===
 
@@ -450,7 +397,7 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Ase
 image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-1.jpg
 text:
 ## Вътрешен дизайн на **баня към спалня**
-Банята към спалнята е чудесно продължение на линията, която следваме в тази къща. Тук има както голяма вана, така и душ зона. Заложихме на премерен лукс, на приглушена светлина и на топлината на дървото. Повечето от подовите и стенните плочки са с визия, имитираща дървена повърхност. Изключение са релефните бели плочки в зоната около ваната. Шкафовете за баня са в кафяво. Красив акцент е правоъгълното огледало над мивката.
+Банята към спалнята е чудесно продължение на линията, която следваме в тази къща. Тук има както голяма вана, така и душ зона. Заложихме на премерен лукс, на приглушена светлина и на топлината на дървото. Повечето от подовите и стенните плочки са с визия, имитираща дървена повърхност. Изключение са релефните бели плочки в зоната около ваната.
 :end
 
 tags: bathroom
@@ -466,14 +413,19 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Ase
 image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-3.jpg
 text:
 :end
+[]
 
+===desktop===
+
+columns: 3
 tags: bathroom
 display: desktop
 image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Banya_Spalnya_FINAL_04_Z.png
 image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-4.jpg
 text:
+## Интериор на **баня към спалня**
+Шкафовете за баня са в кафяво. Красив акцент е правоъгълното огледало над мивката.
 :end
-[]
 
 ===mobile===
 
@@ -485,14 +437,7 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Ase
 image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-1.jpg
 text:
 ## Вътрешен дизайн на **баня към спалня**
-Банята към спалнята е чудесно продължение на линията, която следваме в тази къща. Тук има както голяма вана, така и душ зона. Заложихме на премерен лукс, на приглушена светлина и на топлината на дървото. Повечето от подовите и стенните плочки са с визия, имитираща дървена повърхност. Изключение са релефните бели плочки в зоната около ваната. Шкафовете за баня са в кафяво. Красив акцент е правоъгълното огледало над мивката.
-:end
-
-tags: bathroom
-display: mobile
-image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Banya_Spalnya_FINAL_04_Z.png
-image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-4.jpg
-text:
+Банята към спалнята е чудесно продължение на линията, която следваме в тази къща. Тук има както голяма вана, така и душ зона. Заложихме на премерен лукс, на приглушена светлина и на топлината на дървото. Повечето от подовите и стенните плочки са с визия, имитираща дървена повърхност. Изключение са релефните бели плочки в зоната около ваната.
 :end
 
 tags: bathroom
@@ -501,7 +446,27 @@ image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Ase
 image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-2.jpg
 text:
 :end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Banya_Spalnya_FINAL_03_Z.png
+image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-3.jpg
+image.position: left
+text:
+:end
 []
+
+===mobile===
+
+columns: 3
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/asenovgrad-kashta-2/Marketing/Concept/Asenovgrad_Kashta_2_Banya_Spalnya_FINAL_04_Z.png
+image.file: модерна-елегантност-и-уют-в-интериора/баня-спалня-4.jpg
+text:
+## Интериор на **баня към спалня**
+Шкафовете за баня са в кафяво. Красив акцент е правоъгълното огледало над мивката.
+:end
 
 ===desktop===
 
