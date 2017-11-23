@@ -1,0 +1,664 @@
+layout: /blog/magazine.ect
+title: (Хармония, изящество,) красота, характер
+description: Апартамент с отлична локация в централната част на големия град, който едновременно с това предлага простора и удобството на къща, намираща се далеч от бързото темпо и шума. Имате възможност да видите трансформацията на един мезонет в прекрасен дом, обзаведен в стил модерна класика, в който всеки малък детайл е от значение. Типичен за стила декор и индивидуални решения, придаващи характер на жилището. Постигнахме балансирано съчетание на практичност, комфорт и красота.
+cover: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
+date: 2017-11-23
+firstPage: true
+tags: private, modernclassic
+
+[best]
+* http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_01_N.jpg
+* http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_06_N.jpg
+* http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_01_N.jpg
+* http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_02_Z.png
+* http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_03_St.png
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-2.jpg
+image.position: center
+text:
+# **Хармония, изящество,** красота, характер
+## Интериор на апартамент **в стил модерна класика**
+Апартамент с отлична локация в централната част на големия град, който едновременно с това предлага простора и удобството на къща, намираща се далеч от бързото темпо и шума. Имате възможност да видите трансформацията на един мезонет в прекрасен дом, обзаведен в стил модерна класика, в който всеки малък детайл е от значение. Типичен за стила декор и индивидуални решения, придаващи характер на жилището. Постигнахме балансирано съчетание на практичност, комфорт и красота.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-2.jpg
+image.position: left
+text:
+# **Хармония, изящество,** красота, характер
+## Интериор на апартамент **в стил модерна класика**
+Апартамент с отлична локация в централната част на големия град, който едновременно с това предлага простора и удобството на къща, намираща се далеч от бързото темпо и шума. Имате възможност да видите трансформацията на един мезонет в прекрасен дом, обзаведен в стил модерна класика, в който всеки малък детайл е от значение. Типичен за стила декор и индивидуални решения, придаващи характер на жилището. Постигнахме балансирано съчетание на практичност, комфорт и красота.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_01_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-1.jpg
+text:
+## Интериорен дизайн на **всекидневна**
+Изящество в баланса. Неутрални нюанси, оцветили интериора, сякаш за да потвърдят принципите на модерната класика. Взехме традиционната умереност, присъща на този стил, и ѝ вдъхнахме нов живот. Уют от пода до тавана – трислоен паркет в очарователно тъмния цвят на кокосов орех и бял таван с полиуретанови профили по ръбовете за акцент. Няколко кътчета, представляващи визуално и функционално отделени зони, които все пак си остават част от голямата всекидневна.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_01_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-1.jpg
+image.position: center
+text:
+## Интериорен дизайн на **всекидневна**
+Изящество в баланса. Неутрални нюанси, оцветили интериора, сякаш за да потвърдят принципите на модерната класика. Взехме традиционната умереност, присъща на този стил, и ѝ вдъхнахме нов живот. Уют от пода до тавана – трислоен паркет в очарователно тъмния цвят на кокосов орех и бял таван с полиуретанови профили по ръбовете за акцент. Няколко кътчета, представляващи визуално и функционално отделени зони, които все пак си остават част от голямата всекидневна.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_04_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-4.jpg
+text:
+## Вътрешен дизайн на **хол**
+Холът – сцена на важните събития, позиционирана в центъра на дома. В доминиращата цветова гама откривате бяло, бежово и топло кафяво. Помещението е окъпано в светлина, нахлуваща през двата френски прозореца. Осветителните тела, които избрахме за хола и кухнята през тъмната част от денонощието, са от една и съща дизайнерска серия. Облицовахме стената между прозорците с декоративни тухли, които боядисахме допълнително. Същият беше подходът ни и за стената зад телевизора. 
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_04_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-4.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **хол**
+Холът – сцена на важните събития, позиционирана в центъра на дома. В доминиращата цветова гама откривате бяло, бежово и топло кафяво. Помещението е окъпано в светлина, нахлуваща през двата френски прозореца. Осветителните тела, които избрахме за хола и кухнята през тъмната част от денонощието, са от една и съща дизайнерска серия. Облицовахме стената между прозорците с декоративни тухли, които боядисахме допълнително. Същият беше подходът ни и за стената зад телевизора. 
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_03_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-3.jpg
+text:
+## Интериор на **всекидневна**
+Мебелите – библиотеката, етажерките и шкафовете, както и холната маса, са изработени от МДФ, а покритието им е бяла боя с матов ефект. Вратичките и лицата на чекмеджетата са таблени. В холната маса, поставена върху килим с къса нишка, са съчетани два вида повърхности – фурнир за плота, съответстващ на цвета на паркета, и бяла боя с матов завършек за основата и чекмеджетата. За да не нарушаваме концепцията за отвореното пространство в жилището със стандартна врата между антрето и хола, между двете зони поставихме преграда, която се плъзга зад библиотеката и идеално се вписва в обстановката. Избрахме два дивана със светла текстилна тапицерия, както и удобно кресло в сиво. Допълнихме със сиви декоративни възглавнички.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_03_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-3.jpg
+text:
+## Интериор на **всекидневна**
+Мебелите – библиотеката, етажерките и шкафовете, както и холната маса, са изработени от МДФ, а покритието им е бяла боя с матов ефект. Вратичките и лицата на чекмеджетата са таблени. В холната маса, поставена върху килим с къса нишка, са съчетани два вида повърхности – фурнир за плота, съответстващ на цвета на паркета, и бяла боя с матов завършек за основата и чекмеджетата. За да не нарушаваме концепцията за отвореното пространство в жилището със стандартна врата между антрето и хола, между двете зони поставихме преграда, която се плъзга зад библиотеката и идеално се вписва в обстановката. Избрахме два дивана със светла текстилна тапицерия, както и удобно кресло в сиво. Допълнихме със сиви декоративни възглавнички.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-2.jpg
+image.position: right
+text
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_06_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-6.jpg
+text:
+## Обзавеждане на **кухня**
+Шкафовете в кухнята също са от МДФ и продължават линията на дизайна във всекидневната.  Вратичките са таблени, в стил модерна класика, обработени с два цвята боя с матов ефект – бяло и капучино. За направата на плотовете на долния ред шкафове и на кухненския остров използвахме технически камък, а за гърба се спряхме на плочки с визия на бели тухли. Допълнителна светлина осигурихме чрез вградени в окачения таван на кухнята бели луни. Всички големи кухненски уреди са за вграждане. Висококачествените подови плочки комбинират елегантността на мрамора и предимствата на керамиката.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_05_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-5.jpg
+text:
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_07_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-7.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_06_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-6.jpg
+text:
+## Обзавеждане на **кухня**
+Шкафовете в кухнята също са от МДФ и продължават линията на дизайна във всекидневната.  Вратичките са таблени, в стил модерна класика, обработени с два цвята боя с матов ефект – бяло и капучино. За направата на плотовете на долния ред шкафове и на кухненския остров използвахме технически камък, а за гърба се спряхме на плочки с визия на бели тухли. Допълнителна светлина осигурихме чрез вградени в окачения таван на кухнята бели луни. Всички големи кухненски уреди са за вграждане. Висококачествените подови плочки комбинират елегантността на мрамора и предимствата на керамиката.
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_05_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-5.jpg
+text:
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_07_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-7.jpg
+text:
+:end
+[]
+
+
+===desktop===
+
+columns: 3
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_08_N.jpg
+image.file: хармония-изящество-красота-характер/кухня-8.jpg
+text:
+## Мебели в **трапезария**
+Библиотеката разделя зоните на хола и трапезарията една от друга, а кухненският остров е в ролята на преграда между кухнята и трапезарията. И тук цари абсолютна хармония и деликатна нежност. По ръбовете на белия таван поставихме полиуретанови профили. С такива си послужихме и за стените, като ги боядисахме с латекс в слонова кост. Трапезната маса е голяма, с правоъгълна форма, в познатото кафяво, внасящо уют. Шестте стола са тапицирани в бледобежово и са с конструкция от масивна букова дървесина. Седалката и облегалката на модела са меки. Допълнителна особеност е прошивката с копчета.
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_08_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-8.jpg
+image.position: left
+text:
+## Мебели в **трапезария**
+Библиотеката разделя зоните на хола и трапезарията една от друга, а кухненският остров е в ролята на преграда между кухнята и трапезарията. И тук цари абсолютна хармония и деликатна нежност. По ръбовете на белия таван поставихме полиуретанови профили. С такива си послужихме и за стените, като ги боядисахме с латекс в слонова кост. Трапезната маса е голяма, с правоъгълна форма, в познатото кафяво, внасящо уют. Шестте стола са тапицирани в бледобежово и са с конструкция от масивна букова дървесина. Седалката и облегалката на модела са меки. Допълнителна особеност е прошивката с копчета.
+:end
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Banya_et1_WIP_02_St.png
+image.file: хармония-изящество-красота-характер/баня-ет1-2.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Banya_et1_WIP_01_St.png
+image.file: хармония-изящество-красота-характер/баня-ет1-1.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Интериор на **баня на първия етаж**
+Банята на първия етаж съчетава най-доброто от традицията и съвременните решения, достъпни на пазара. Естествени нюанси, които допринасят за усещането за хармония и уют, дори в банята.
+
+Стенните плочки са основно два вида – изчистен модел бели квадратни плочки и модел с фигурален мотив, който използвахме за една от стените. Душ-зоната е отделена от останалата част от банята със стъклена преграда. Шкафовете са от ПВЦ.
+
+Подовите плочки имитират паркет, а плотът под мивката е изработен от масив. Таванът е окачен, с вградени бели луни. По ръба между тавана и стените поставихме полиуретанови профили. Част от стените са в пределно светъл нюанс на кафявото.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Banya_et1_WIP_02_St.png
+image.file: хармония-изящество-красота-характер/баня-ет1-2.jpg
+text:
+## Интериор на **баня на първия етаж**
+Банята на първия етаж съчетава най-доброто от традицията и съвременните решения, достъпни на пазара. Естествени нюанси, които допринасят за усещането за хармония и уют, дори в банята.
+Подовите плочки имитират паркет, а плотът под мивката е изработен от масив. Таванът е окачен, с вградени бели луни. По ръба между тавана и стените поставихме полиуретанови профили.
+:end
+
+columns: 1
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Banya_et1_WIP_01_St.png
+image.file: хармония-изящество-красота-характер/баня-ет1-1.jpg
+text:
+Стенните плочки са основно два вида – изчистен модел бели квадратни плочки и модел с фигурален мотив, който използвахме за една от стените. Душ-зоната е отделена от останалата част от банята със стъклена преграда. Шкафовете са от ПВЦ. Част от стените са в пределно светъл нюанс на кафявото.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **антре и стълби**
+Антрето и стълбите красноречиво подсказват какви са интериорът и атмосферата в цялото жилище. Основните материали, използвани за мебелите, и настилката тук преповтарят вече познатите елементи от всекидневната и кухнята. Дори осветителните тела са от същата серия. 
+
+Закачалка и шкафове с място за сядане под стълбите. Умерени контрасти, които радват сетивата още след прекрачването на прага. Голямо огледало с рамка в тъмнокафяво.
+
+След като изкачите стълбите, се оказвате на второто ниво в мезонета – своеобразен втори етаж на жилището. Обстановката не се променя във височина. Същите пастелни тонове за стените и мебелите. Същата подова настилка, напомняща мрамор. Система за съхранение в цвета на стените. Профили по ръба на тавана.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_01_N.jpg
+image.file: хармония-изящество-красота-характер/стълби-1.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_06_N.jpg
+image.file: хармония-изящество-красота-характер/стълби-6.jpg
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_01_N.jpg
+image.file: хармония-изящество-красота-характер/стълби-1.jpg
+text:
+## Вътрешен дизайн на **антре и стълби**
+Антрето и стълбите красноречиво подсказват какви са интериорът и атмосферата в цялото жилище. Основните материали, използвани за мебелите, и настилката тук преповтарят вече познатите елементи от всекидневната и кухнята. Дори осветителните тела са от същата серия. 
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_03_N.jpg
+image.file: хармония-изящество-красота-характер/стълби-3.jpg
+text:
+Закачалка и шкафове с място за сядане под стълбите. Умерени контрасти, които радват сетивата още след прекрачването на прага. Голямо огледало с рамка в тъмнокафяво.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Antre_Stylbi_WIP_06_N.jpg
+image.file: хармония-изящество-красота-характер/стълби-6.jpg
+text:
+След като изкачите стълбите, се оказвате на второто ниво в мезонета – своеобразен втори етаж на жилището. Обстановката не се променя във височина. Същите пастелни тонове за стените и мебелите. Същата подова настилка, напомняща мрамор. Система за съхранение в цвета на стените. Профили по ръба на тавана.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_02_Z.png
+image.file: хармония-изящество-красота-характер/спалня-2.jpg
+text:
+## Интериорен дизайн на **спалня**
+Спалнята е обзаведена в съзвучие с изискванията на стила. Основните цветове са неутрални: бяло, слонова кост, бежово, сиво. Три от четирите стени са обработени с латекс, четвъртата е покрита с тапет на вертикални ивици в бежово и светлокафяво. Поставихме полиуретанови профили по ръба с тавана и с пода. И тук паркетът е трислоен, а тъмният му цвят, напомнящ кокосов орех, отлично се съчетава с мебелите. Спалнята, включително таблата, е изцяло тапицирана с дамаска в сиво. Към нея добавихме отоманка. Климатикът над леглото е скрит чрез вратички с решетки.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_01_Z.png
+image.file: хармония-изящество-красота-характер/спалня-1.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_02_Z.png
+image.file: хармония-изящество-красота-характер/спалня-2.jpg
+text:
+## Интериорен дизайн на **спалня**
+Спалнята е обзаведена в съзвучие с изискванията на стила. Основните цветове са неутрални: бяло, слонова кост, бежово, сиво. Три от четирите стени са обработени с латекс, четвъртата е покрита с тапет на вертикални ивици в бежово и светлокафяво. Поставихме полиуретанови профили по ръба с тавана и с пода. И тук паркетът е трислоен, а тъмният му цвят, напомнящ кокосов орех, отлично се съчетава с мебелите. Спалнята, включително таблата, е изцяло тапицирана с дамаска в сиво. Към нея добавихме отоманка. Климатикът над леглото е скрит чрез вратички с решетки.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_03_Z.png
+image.file: хармония-изящество-красота-характер/спалня-3.jpg
+text:
+## Мебели в **спалня**
+Използвахме максимално практично всяко кътче в помещението и така успяхме да обособим работна зона в спалнята – стенни етажерки, бюро и удобен тапициран стол. Мебелите са изработени от МДФ, а покритието им е два вида – боя в бял цвят с матов ефект и фурнир. Осветителните тела, монтирани на стените и тавана, са от една и съща серия. Завесите и текстилът за спалня също са подбрани внимателно.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_04_Z.png
+image.file: хармония-изящество-красота-характер/спалня-4.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_03_Z.png
+image.file: хармония-изящество-красота-характер/спалня-3.jpg
+image.position: left
+text:
+## Мебели в **спалня**
+Използвахме максимално практично всяко кътче в помещението и така успяхме да обособим работна зона в спалнята – стенни етажерки, бюро и удобен тапициран стол. Мебелите са изработени от МДФ, а покритието им е два вида – боя в бял цвят с матов ефект и фурнир. Осветителните тела, монтирани на стените и тавана, са от една и съща серия. Завесите и текстилът за спалня също са подбрани внимателно.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Spalnya_FINAL_04_Z.png
+image.file: хармония-изящество-красота-характер/спалня-4.jpg
+text:
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Dreshnik_Final_01R.jpg
+image.file: хармония-изящество-красота-характер/дрешник-1.jpg
+image.position: left
+text:
+## Обзавеждане на **дрешник**
+Две от четирите стени в гардеробната са изцяло заети от мебелите за съхранение. И тук материалът на обзавеждането е МДФ, обработен с матова боя в бяло. Вратичките са таблени и определящи за дизайна на гардеробите и шкафовете в стил модерна класика. Всяка вещ – малка или голяма, е намерила своето точно място сред останалите. Дори най-дребните аксесоари се виждат лесно през стъклената преграда.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Dreshnik_Final_03R.jpg
+image.file: хармония-изящество-красота-характер/дрешник-3.jpg
+image.position: left
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Dreshnik_Final_02R.jpg
+image.file: хармония-изящество-красота-характер/дрешник-2.jpg
+text:
+## Обзавеждане на **дрешник**
+Две от четирите стени в гардеробната са изцяло заети от мебелите за съхранение. И тук материалът на обзавеждането е МДФ, обработен с матова боя в бяло. Вратичките са таблени и определящи за дизайна на гардеробите и шкафовете в стил модерна класика. Всяка вещ – малка или голяма, е намерила своето точно място сред останалите. Дори най-дребните аксесоари се виждат лесно през стъклената преграда.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Dreshnik_Final_01R.jpg
+image.file: хармония-изящество-красота-характер/дрешник-1.jpg
+text:
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Dreshnik_Final_04R.jpg
+image.file: хармония-изящество-красота-характер/дрешник-4.jpg
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Spalnya_FINAL_01_Z.png
+image.file: хармония-изящество-красота-характер/баня-спалня-1.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Интериор на **баня към спалня**
+Белота, чистота и геометрични мотиви, които провокират въображението. Изискванията на стила са спазени и потвърдени чрез детайлите: поставихме полиуретанови профили по тавана и стените.
+
+Акцентът пада върху натуралните елементи в дизайна на банята: подът и една от стените в душ-зоната са покрити с плочки, имитиращи дървена повърхност, а плотът под мивката е изработен от масив.
+
+Светлината, огледалните и гланцови повърхности засилват ефекта на оптическо уголемяване на пространството. В окачения таван са вградени бели луни. Вратите на шкафа над мивката са огледални. Душ-питата е вградена в тавана.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Spalnya_FINAL_02_Z.png
+image.file: хармония-изящество-красота-характер/баня-спалня-2.jpg
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Spalnya_FINAL_01_Z.png
+image.file: хармония-изящество-красота-характер/баня-спалня-1.jpg
+text:
+## Интериор на **баня към спалня**
+Белота, чистота и геометрични мотиви, които провокират въображението. Изискванията на стила са спазени и потвърдени чрез детайлите: поставихме полиуретанови профили по тавана и стените.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Spalnya_FINAL_02_Z.png
+image.file: хармония-изящество-красота-характер/баня-спалня-2.jpg
+text:
+Акцентът пада върху натуралните елементи в дизайна на банята: подът и една от стените в душ-зоната са покрити с плочки, имитиращи дървена повърхност, а плотът под мивката е изработен от масив.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Spalnya_FINAL_04_Z.png
+image.file: хармония-изящество-красота-характер/баня-спалня-4.jpg
+text:
+Светлината, огледалните и гланцови повърхности засилват ефекта на оптическо уголемяване на пространството. В окачения таван са вградени бели луни. Вратите на шкафа над мивката са огледални. Душ-питата е вградена в тавана.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_02_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-2.jpg
+image.position: left
+text:
+:end
+
+columns: 2
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_01_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-1.jpg
+image.position: right
+text:
+## Обзавеждане на **детска стая**
+В детската стая властта принадлежи на пастелните цветове. Светлина. Нежност. Усещане за сигурност и уют, каквото заслужава всяко дете. Бял таван с полиуретанова профили по ръбовете. Трислоен паркет. Стените са обработени с латекс в нюанс капучино, с изключение на една, за която избрахме подходящ тапет на облачета. В светлобежово е и текстилната тапицерия на удобното кресло и табуретката, разположени до прозореца.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_01_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-1.jpg
+text:
+## Обзавеждане на **детска стая**
+В детската стая властта принадлежи на пастелните цветове. Светлина. Нежност. Усещане за сигурност и уют, каквото заслужава всяко дете. Бял таван с полиуретанова профили по ръбовете. Трислоен паркет. Стените са обработени с латекс в нюанс капучино, с изключение на една, за която избрахме подходящ тапет на облачета. В светлобежово е и текстилната тапицерия на удобното кресло и табуретката, разположени до прозореца.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_02_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-2.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_03_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-3.jpg
+text:
+## Вътрешен дизайн на **детска стая**
+Всички мебели в детската стая – от етажерките под формата на къщички до креватчето, шкафовете, гардероба и мястото за повиване, са изработени от МДФ и боядисани в бял цвят с матов завършек. Детайлите са добре обмислени, така че всеки елемент от обзавеждането да е функционален. Взехме предвид честите промени, които настъпват с израстването на най-малките.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_04_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-4.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_03_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-3.jpg
+text:
+## Вътрешен дизайн на **детска стая**
+Всички мебели в детската стая – от етажерките под формата на къщички до креватчето, шкафовете, гардероба и мястото за повиване, са изработени от МДФ и боядисани в бял цвят с матов завършек. Детайлите са добре обмислени, така че всеки елемент от обзавеждането да е функционален. Взехме предвид честите промени, които настъпват с израстването на най-малките.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev-Cherkovna_Detska_FINAL_04_St.png
+image.file: хармония-изящество-красота-характер/детска-стая-4.jpg
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Obshta_FINAL_01_Z.png
+image.file: хармония-изящество-красота-характер/баня-обща-1.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Obshta_FINAL_04_Z.png
+image.file: хармония-изящество-красота-характер/баня-обща-4.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Интериор на **обща баня**
+Общата баня на втория етаж е още едно помещение, в което балансът в интериора намира реализация. Голяма част от стенните плочки имитират бели тухли. Част от използваните плочки са с декоративен релеф и това придава допълнителна романтична нотка в интериора на тази баня.
+
+Опитът да се отдаде дължимото на уюта на естествените материали остава неизменен. Подовите плочки са с визия на дървен паркет, плотът под мивката е от масив.
+
+За да подчертаем модерната класика, използвахме полиуретанови профили по стените. Таванът е окачен, с вградени луни. В белия шкаф са скрити пералня и сушилня.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Obshta_FINAL_01_Z.png
+image.file: хармония-изящество-красота-характер/баня-обща-1.jpg
+text:
+## Интериор на **обща баня**
+Общата баня на втория етаж е още едно помещение, в което балансът в интериора намира реализация. Голяма част от стенните плочки имитират бели тухли. Част от използваните плочки са с декоративен релеф и това придава допълнителна романтична нотка в интериора на тази баня.
+Опитът да се отдаде дължимото на уюта на естествените материали остава неизменен. Подовите плочки са с визия на дървен паркет, плотът под мивката е от масив.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Banya_Obshta_FINAL_04_Z.png
+image.file: хармония-изящество-красота-характер/баня-обща-4.jpg
+text:
+За да подчертаем модерната класика, използвахме полиуретанови профили по стените. Таванът е окачен, с вградени луни. В белия шкаф са скрити пералня и сушилня.
+:end
+[]
