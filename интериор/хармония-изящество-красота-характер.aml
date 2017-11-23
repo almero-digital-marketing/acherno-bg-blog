@@ -59,9 +59,9 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_01_N.jpg
-image.file: хармония-изящество-красота-характер/всекидневна-1.jpg
-image.position: center
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-2.jpg
+image.position: right
 text:
 ## Интериорен дизайн на **всекидневна**
 Изящество в баланса. Неутрални нюанси, оцветили интериора, сякаш за да потвърдят принципите на модерната класика. Взехме традиционната умереност, присъща на този стил, и ѝ вдъхнахме нов живот. Уют от пода до тавана – трислоен паркет в очарователно тъмния цвят на кокосов орех и бял таван с полиуретанови профили по ръбовете за акцент. Няколко кътчета, представляващи визуално и функционално отделени зони, които все пак си остават част от голямата всекидневна.
@@ -119,10 +119,10 @@ text:
 
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_02_N.jpg
-image.file: хармония-изящество-красота-характер/всекидневна-2.jpg
-image.position: right
-text
+image.url: http://projects.acherno.int/garbev-cherkovna/Marketing/Concept/Garbev_Cherkovna_Hol_FINAL_01_N.jpg
+image.file: хармония-изящество-красота-характер/всекидневна-1.jpg
+image.position: center
+text:
 :end
 []
 
