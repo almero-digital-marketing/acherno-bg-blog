@@ -1,0 +1,224 @@
+layout: /blog/magazine.ect
+title: (Динамика, цветни капки) и модерно излъчване
+description: Апартамент с отлична локация в централната част на големия град, който едновременно с това предлага простора и удобството на къща, намираща се далеч от бързото темпо и шума. Имате възможност да видите трансформацията на един мезонет в прекрасен дом, обзаведен в стил модерна класика, в който всеки малък детайл е от значение. Типичен за стила декор и индивидуални решения, придаващи характер на жилището. Постигнахме балансирано съчетание на практичност, комфорт и красота.
+cover: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_06_St.png
+date: 2017-11-02
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+* http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_03_R.jpg
+* http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_01_Z.png
+* http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.jpg
+* http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_03_Z.png
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_06_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-6.jpg
+image.position: center
+text:
+# **Динамика, цветни капки** и модерно излъчване в интериора
+## **Съвременен вътрешен дизайн** на апартамент
+Модерен дом за съвременния човек, който не само знае какво е динамичният живот, но и със сигурност знае как да го живее и да се чувства повече от добре. Интериорен дизайн, създаден с намигвания към няколко стила, с малко помощ от неподправената красота на природата, която отлично се съчетава с модерното излъчване, както и със специалното участие на няколко капки ярки цветове, предизвикващи усмивки. Семпли и практични решения, обогатени с по-дръзки ходове в дизайна.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_06_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-6.jpg
+image.position: center
+text:
+# **Динамика, цветни капки** и модерно излъчване в интериора
+## **Съвременен вътрешен дизайн** на апартамент
+Модерен дом за съвременния човек, който не само знае какво е динамичният живот, но и със сигурност знае как да го живее и да се чувства повече от добре. Интериорен дизайн, създаден с намигвания към няколко стила, с малко помощ от неподправената красота на природата, която отлично се съчетава с модерното излъчване, както и със специалното участие на няколко капки ярки цветове, предизвикващи усмивки. Семпли и практични решения, обогатени с по-дръзки ходове в дизайна.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_07_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-7.jpg
+text:
+## Интериорен дизайн на **всекидневна**
+Една всекидневна, проектирана и реализирана в името на домашния уют и споделеното добро настроение. Пътят пред естествената светлина, влизаща през прозореца в зоната на хола и преминаваща през трапезарията, е открит, за да достигне безпрепятствено до кухнята. Таванът е окачен, с вградени бели луни в кухнята и със скрито осветление по края в хола и в трапезарията. Впечатление правят осветителните тела – висящи лампи, чиито силуети с тънки линии в черно напомнят формата на скъпоценни камъни. Избрахме висококачествен трислоен паркет за повече топлина и присъствие на натурални елементи в интериора.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_07_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-7.jpg
+image.position: right
+text:
+## Интериорен дизайн на **всекидневна**
+Една всекидневна, проектирана и реализирана в името на домашния уют и споделеното добро настроение. Пътят пред естествената светлина, влизаща през прозореца в зоната на хола и преминаваща през трапезарията, е открит, за да достигне безпрепятствено до кухнята. Таванът е окачен, с вградени бели луни в кухнята и със скрито осветление по края в хола и в трапезарията. Впечатление правят осветителните тела – висящи лампи, чиито силуети с тънки линии в черно напомнят формата на скъпоценни камъни. Избрахме висококачествен трислоен паркет за повече топлина и присъствие на натурални елементи в интериора.
+:end
+
+===desktop===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
+image.position: left
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **хол**
+Колоритът в хола успешно примирява противоречията между топло и студено. Чудесно съчетание на старинни тухли, приличащи на тлееща жарава, и ледено синьо-сиво на една от стените – междинен нюанс, който ще видим в различни интерпретации във всяка стая от жилището. Мебелите в хола предлагат красота и удобство. Холният ъгъл е тапициран с дамаска в барутен цвят, контрастиращ с нюанса на тапицерията на разположеното до него кресло в слънчево жълто – дървена рамка и извита седалка с подлакътници.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **хол**
+Колоритът в хола успешно примирява противоречията между топло и студено. Чудесно съчетание на старинни тухли, приличащи на тлееща жарава, и ледено синьо-сиво на една от стените – междинен нюанс, който ще видим в различни интерпретации във всяка стая от жилището. Мебелите в хола предлагат красота и удобство. Холният ъгъл е тапициран с дамаска в барутен цвят, контрастиращ с нюанса на тапицерията на разположеното до него кресло в слънчево жълто – дървена рамка и извита седалка с подлакътници.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_08_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-8.jpg
+text:
+## Интериор на **всекидневна**
+Ярките акценти са от едната страна на везните, а от другата са неутралните нюанси, благодарение на които постигаме баланс. Холната секция и системата за съхранение представляват един и същи обект във всекидневната. Покритието на мебелите с отворени и затворени обеми е комбинирано – бяла боя с матов ефект и фурнир в топъл дървесен цвят. Пространството около телевизора е оформено като ниша.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_11_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-11.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_08_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-8.jpg
+image.position: left
+text:
+## Интериор на **всекидневна**
+Ярките акценти са от едната страна на везните, а от другата са неутралните нюанси, благодарение на които постигаме баланс. Холната секция и системата за съхранение представляват един и същи обект във всекидневната. Покритието на мебелите с отворени и затворени обеми е комбинирано – бяла боя с матов ефект и фурнир в топъл дървесен цвят. Пространството около телевизора е оформено като ниша.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_11_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-11.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_12_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-12.jpg
+text:
+## Обзавеждане на **кухня**
+Оптимизирахме неголямата кухня, като се постарахме всеки елемент от нея да е на точното място и съобразихме подробностите с индивидуалните предпочитания и с навиците на собствениците. Предимство на мебелите, изработени по поръчка, е, че правят възможно цялото налично място да се използва по предназначение. Тук Г-образно разположените шкафове са на три нива. Най-горните и долните са в матово бяло, а средното ниво е с вратички с дървесен декор, кореспондиращи с цвета на кухненския плот, на плота и на една от страниците на острова. Всички електроуреди са вградени. За гърба и пода заложихме на плочки с ретро дизайн в преобладаващо бежово.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_10_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-10.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_12_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-12.jpg
+image.position: center
+text:
+## Обзавеждане на **кухня**
+Оптимизирахме неголямата кухня, като се постарахме всеки елемент от нея да е на точното място и съобразихме подробностите с индивидуалните предпочитания и с навиците на собствениците. Предимство на мебелите, изработени по поръчка, е, че правят възможно цялото налично място да се използва по предназначение. Тук Г-образно разположените шкафове са на три нива. Най-горните и долните са в матово бяло, а средното ниво е с вратички с дървесен декор, кореспондиращи с цвета на кухненския плот, на плота и на една от страниците на острова. Всички електроуреди са вградени. За гърба и пода заложихме на плочки с ретро дизайн в преобладаващо бежово.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_10_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-10.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Мебели в **трапезария**
+Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
+:end
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
+image.position: right
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
+image.position: right
+text:
+## Мебели в **трапезария**
+Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
+:end
