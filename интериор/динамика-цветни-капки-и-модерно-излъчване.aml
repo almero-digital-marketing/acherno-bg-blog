@@ -2,7 +2,7 @@ layout: /blog/magazine.ect
 title: (Динамика, цветни капки) и модерно излъчване
 description: Апартамент с отлична локация в централната част на големия град, който едновременно с това предлага простора и удобството на къща, намираща се далеч от бързото темпо и шума. Имате възможност да видите трансформацията на един мезонет в прекрасен дом, обзаведен в стил модерна класика, в който всеки малък детайл е от значение. Типичен за стила декор и индивидуални решения, придаващи характер на жилището. Постигнахме балансирано съчетание на практичност, комфорт и красота.
 cover: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_06_St.png
-date: 2017-11-02
+date: 2017-11-24
 firstPage: true
 tags: private, modern
 
@@ -84,8 +84,10 @@ tags: livingroom
 display: desktop
 style: inline
 text:
-## Вътрешен дизайн на **хол**
+## Вътрешен дизайн на **хол и трапезария**
 Колоритът в хола успешно примирява противоречията между топло и студено. Чудесно съчетание на старинни тухли, приличащи на тлееща жарава, и ледено синьо-сиво на една от стените – междинен нюанс, който ще видим в различни интерпретации във всяка стая от жилището. Мебелите в хола предлагат красота и удобство. Холният ъгъл е тапициран с дамаска в барутен цвят, контрастиращ с нюанса на тапицерията на разположеното до него кресло в слънчево жълто – дървена рамка и извита седалка с подлакътници.
+
+Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
 :end
 
 ===mobile===
@@ -185,6 +187,233 @@ display: mobile
 image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_10_St.png
 image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-10.jpg
 image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
+image.position: right
+text:
+## Мебели в **трапезария**
+Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
+:end
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_03_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-обща-3.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Интериор на **обща баня**
+Светлина, нежност, естествено очарование и модерна визия, излизаща от скучните рамки. Окачен таван с проблясващи луни. Голямо огледало и ПВЦ шкаф с модерен дизайн в бяло под мивката.
+
+Подовите плочки имитират паркет, а стенните са комбинация от гладък, релефен и декоративен модел в няколко цвята – основните са млечнобяло и нежно синьо. В душ-зоната, отделена със стъклена преграда, е създадена илюзия за движещи се вълни.
+
+Акцентът поставихме не само върху тюркоазения цвят, вдъхновен от най-чистите води, но и върху изящните форми, пресъздадени чрез декоративните плочки.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_02_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-обща-2.jpg
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_03_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-обща-3.jpg
+text:
+## Интериор на **обща баня**
+Светлина, нежност, естествено очарование и модерна визия, излизаща от скучните рамки. Окачен таван с проблясващи луни. Голямо огледало и ПВЦ шкаф с модерен дизайн в бяло под мивката.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_02_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-обща-2.jpg
+text:
+Подовите плочки имитират паркет, а стенните са комбинация от гладък, релефен и декоративен модел в няколко цвята – основните са млечнобяло и нежно синьо. В душ-зоната, отделена със стъклена преграда, е създадена илюзия за движещи се вълни.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_01_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-обща-1.jpg
+text:
+Акцентът поставихме не само върху тюркоазения цвят, вдъхновен от най-чистите води, но и върху изящните форми, пресъздадени чрез декоративните плочки.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_01_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-1.jpg
+text:
+## Вътрешен дизайн на **антре**
+Антрето всъщност е част от отвореното пространство на всекидневната. Подовите плочки с ретро дизайн от кухнята преминават и към входната врата. Окаченият таван с вградени луни също продължава в тази посока.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_05_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-5.jpg
+text:
+Антрето преминава в коридор. И тук покритието на мебелите е фурнир, съответстващ на повърхността на вратите. Стените са обработени с латекс в познатия сиво-син цвят, напомнящ вида на опал.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_02_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-2.jpg
+text:
+Портмантото е в топло кафяво, създаващо усещане за уют още с влизането през входната врата. Ламперията зад вратата продължава и по тавана, и по отсрещната стена. Осигурихме голямо огледало, в което можете да се огледате в цял ръст.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_01_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-1.jpg
+text:
+## Вътрешен дизайн на **антре**
+Антрето всъщност е част от отвореното пространство на всекидневната. Подовите плочки с ретро дизайн от кухнята преминават и към входната врата. Окаченият таван с вградени луни също продължава в тази посока.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_05_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-5.jpg
+text:
+Антрето преминава в коридор. И тук покритието на мебелите е фурнир, съответстващ на повърхността на вратите. Стените са обработени с латекс в познатия сиво-син цвят, напомнящ вида на опал.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_02_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/антре-2.jpg
+text:
+Портмантото е в топло кафяво, създаващо усещане за уют още с влизането през входната врата. Ламперията зад вратата продължава и по тавана, и по отсрещната стена. Осигурихме голямо огледало, в което можете да се огледате в цял ръст.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_01_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-1.jpg
+text:
+## Интериорен дизайн на **спалня**
+Модернистичен вътрешен дизайн и безкомпромисен уют. Какво по-хубаво от това да се събудите в напълно натурална атмосфера. Топлото кафяво на ствола на дървото, пресъздадено чрез ламперията по стените и тавана до прозореца. Свежото зелено на пролетните листа. Ненатрапчивото сиво – като малките камъчета и прахта по горската пътека.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_03_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-3.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_01_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-1.jpg
+text:
+## Интериорен дизайн на **спалня**
+Модернистичен вътрешен дизайн и безкомпромисен уют. Какво по-хубаво от това да се събудите в напълно натурална атмосфера. Топлото кафяво на ствола на дървото, пресъздадено чрез ламперията по стените и тавана до прозореца. Свежото зелено на пролетните листа. Ненатрапчивото сиво – като малките камъчета и прахта по горската пътека.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_03_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-3.jpg
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_02_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-2.jpg
+text:
+## Мебели в **спалня**
+Обстановката в спалнята е хармонична и спокойна. Таванът е окачен, а подовата настилка е мек мокет с дълга нишка в светлосиво. Стените са обработени с бял латекс. Удобното легло с табла е изцяло тапицирано с дамаска в тъмен графит. Покритието на мебелите е комбинирано – полиуретанова боя в свежо зелено и фурнир.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_04_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-4.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_02_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-2.jpg
+image.position: center
+text:
+## Мебели в **спалня**
+Обстановката в спалнята е хармонична и спокойна. Таванът е окачен, а подовата настилка е мек мокет с дълга нишка в светлосиво. Стените са обработени с бял латекс. Удобното легло с табла е изцяло тапицирано с дамаска в тъмен графит. Покритието на мебелите е комбинирано – полиуретанова боя в свежо зелено и фурнир.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Spalnya_FINAL_04_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/спалня-4.jpg
 text:
 :end
 []
@@ -192,33 +421,279 @@ text:
 ===desktop===
 
 columns: 1
-tags: livingroom
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_01_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-спалня-1.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_02_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-спалня-2.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
 display: desktop
 style: inline
 text:
-## Мебели в **трапезария**
-Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
+## Интериор на **баня към спалня**
+Цветовата палитра, вдъхновена от природата, характерна за спалнята, намира място и в банята, но е реализирана с една идея по-тъмни нюанси. Подовите плочки, имитиращи паркет, продължават по една от стените.
+
+Избрахме голямо огледало с рамка. Поставихме подходящ аплик точно над него. Мивката е вградена, а в ПВЦ шкафа се събира всичко необходимо.
+
+Стенните плочки, носещи името на средиземноморския вятър сироко, провокират възприятията не само с наситени цветове, но и с текстура. Душ-зоната е отделена със стъклен параван. Душ-питата се спуска от тавана, а по ръба със стената има полиуретанов профил.
 :end
 
-columns: 2
-tags: livingroom
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_01_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-спалня-1.jpg
+text:
+## Интериор на **баня към спалня**
+Цветовата палитра, вдъхновена от природата, характерна за спалнята, намира място и в банята, но е реализирана с една идея по-тъмни нюанси. Подовите плочки, имитиращи паркет, продължават по една от стените.
+Избрахме голямо огледало с рамка. Поставихме подходящ аплик точно над него. Мивката е вградена, а в ПВЦ шкафа се събира всичко необходимо.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_02_St.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/баня-спалня-2.jpg
+text:
+Стенните плочки, носещи името на средиземноморския вятър сироко, провокират възприятията не само с наситени цветове, но и с текстура. Душ-зоната е отделена със стъклен параван. Душ-питата се спуска от тавана, а по ръба със стената има полиуретанов профил.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_01_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-1.jpg
+text:
+## Обзавеждане на **детска стая на момче**
+Дървените повърхности и синият цвят – двете основни нишки, които следвахме в интериора на това модерно жилище, преживяват своеобразна трансформация в детската стая на момчето. Съвременен дизайн, съчетаващ топло и студено, естествени повърхности и нещичко от индустриалния стил – например тухлите, боядисани в тъмносиньо, с които е облицована стената зад бюрото, както и лампите, приличащи на обикновени електрически крушки, висящи на кабели с различна дължина.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_03_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-3.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-2.jpg
+image.position: center
+text:
+## Обзавеждане на **детска стая на момче**
+Дървените повърхности и синият цвят – двете основни нишки, които следвахме в интериора на това модерно жилище, преживяват своеобразна трансформация в детската стая на момчето. Съвременен дизайн, съчетаващ топло и студено, естествени повърхности и нещичко от индустриалния стил – например тухлите, боядисани в тъмносиньо, с които е облицована стената зад бюрото, както и лампите, приличащи на обикновени електрически крушки, висящи на кабели с различна дължина.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_03_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-2.jpg
+text:
+## Вътрешен дизайн на **детска стая на момче**
+Част от повърхностите на мебелите са покрити с фурнир, а други са боядисани в бяло или в синьо. Стената до леглото е облицована с ламперия, продължаваща и на тавана, а най-ниската част е мека, облицована с дамаска в цвят на барут. Въртящият се с стол е пъстър. Големият гардероб е съчетан с библиотека.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_04_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-4.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_01_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-1.jpg
+text:
+## Вътрешен дизайн на **детска стая на момче**
+Част от повърхностите на мебелите са покрити с фурнир, а други са боядисани в бяло или в синьо. Стената до леглото е облицована с ламперия, продължаваща и на тавана, а най-ниската част е мека, облицована с дамаска в цвят на барут. Въртящият се с стол е пъстър. Големият гардероб е съчетан с библиотека.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_04_N.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момче-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_04_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-4.jpg
+text:
+## Интериорен дизайн на **стая на момиче**
+Детската стая на момичето е в по-нежни цветове от момчешката, а синьото тук е по-скоро синьо-зелено. Светлината е в изобилие – има скрито осветление по края на окачения таван, има аплик на стената, както и лампа на тавана. И тук паркетът е трислоен. На стената зад леглото поставихме многоцветен тапет, зареждащ с добро настроение.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_03_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-3.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_04_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **стая на момиче**
+Детската стая на момичето е в по-нежни цветове от момчешката, а синьото тук е по-скоро синьо-зелено. Светлината е в изобилие – има скрито осветление по края на окачения таван, има аплик на стената, както и лампа на тавана. И тук паркетът е трислоен. На стената зад леглото поставихме многоцветен тапет, зареждащ с добро настроение.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_03_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_02_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-2.jpg
+text:
+## Обзавеждане на **детска стая на момиче**
+Обзавеждането е с два вида покритие – фурнир или боя в бяло, а таблата на леглото е тапицирана с дамаска в тюркоазено. Предвидихме достатъчно място за съхранение на дрехи, вещи, книги или играчки: има гардероб, чекмеджета под леглото, продължаващи и до него, бюро, етажерки, рафтове. Стената зад бюрото е изцяло боядисана с латекс в свежо морско синьо.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_01_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-1.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_02_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-2.jpg
+text:
+## Обзавеждане на **детска стая на момиче**
+Обзавеждането е с два вида покритие – фурнир или боя в бяло, а таблата на леглото е тапицирана с дамаска в тюркоазено. Предвидихме достатъчно място за съхранение на дрехи, вещи, книги или играчки: има гардероб, чекмеджета под леглото, продължаващи и до него, бюро, етажерки, рафтове. Стената зад бюрото е изцяло боядисана с латекс в свежо морско синьо.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_01_Z.png
+image.file: динамика-цветни-капки-и-модерно-излъчване/детска-момиче-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
 display: desktop
 style: inline
-image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
-image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
-image.position: right
+text:
+## Мебели в **мокро помещение**
+Тайната на красивия подреден дом е в кътчето, скрито от погледите на гостите – онова място, където редът се постига. Мокрото помещение е с малки размери, но пространството е практично разпределено и е напълно достатъчно, за да побере пералня, сушилня, сгъваема дъска за гладене, сгъваем сушилник, работен плот и рафтове, шкафове, кошове за пране, прахосмукачка и т.н.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Mokro_Final_01_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/мокро-1.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Mokro_Final_02_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/мокро-2.jpg
 text:
 :end
 
 ===mobile===
 
 columns: 3
-tags: livingroom
+[.slides]
+tags: bathroom
 display: mobile
-image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Hol_FINAL_09_St.png
-image.file: динамика-цветни-капки-и-модерно-излъчване/всекидневна-9.jpg
-image.position: right
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Mokro_Final_01_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/мокро-1.jpg
 text:
-## Мебели в **трапезария**
-Зоната на трапезарията се намира в сърцето на всекидневната, а нейното сърце прилича на дърво – с чувствена повърхност и с текстура, издаваща характер. Над трапезната маса се спускат четири висящи лампи с различна големина и форма в черно и с дизайн на тема „скъпоценни камъни“. Шест стола с дървена основа и с мека седалка и облегалка, тапицирани със светла дамаска.
+## Мебели в **мокро помещение**
+Тайната на красивия подреден дом е в кътчето, скрито от погледите на гостите – онова място, където редът се постига. Мокрото помещение е с малки размери, но пространството е практично разпределено и е напълно достатъчно, за да побере пералня, сушилня, сгъваема дъска за гладене, сгъваем сушилник, работен плот и рафтове, шкафове, кошове за пране, прахосмукачка и т.н.
 :end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Mokro_Final_02_R.jpg
+image.file: динамика-цветни-капки-и-модерно-излъчване/мокро-2.jpg
+text:
+:end
+[]
