@@ -1,0 +1,493 @@
+layout: /blog/magazine.ect
+title: (Съвременен аристократизъм) и модерна класика
+description: Модерна класика извън рамката на светлите пастелни цветове. Актуален интериор на градско жилище, събрал в себе си най-доброто от съвременните тенденции в областта на вътрешния дизайн и класическите похвати за превръщане на едно помещение в шедьовър, който радва сетивата и на най-взискателните. Дълбоки цветове, наситени със значение, премерена пищност и изящни детайли. Силно аристократично излъчване.
+cover: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_05_N.jpg
+date: 2018-01-03
+firstPage: true
+tags: private, modernclassic
+
+[best]
+* http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_02_N.jpg
+* http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_04_N.jpg
+* http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_01_Z.png
+* http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_03R.jpg
+* http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_02_St.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_02_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-2.jpg
+image.position: center
+text:
+# Съвременен аристократизъм в стил **модерна класика**
+## Наситени цветове и **изящество в детайлите**
+Модерна класика извън рамката на светлите пастелни цветове. Актуален интериор на градско жилище, събрал в себе си най-доброто от съвременните тенденции в областта на вътрешния дизайн и класическите похвати за превръщане на едно помещение в шедьовър, който радва сетивата и на най-взискателните. Дълбоки цветове, наситени със значение, премерена пищност и изящни детайли. Силно аристократично излъчване.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_02_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-2.jpg
+image.position: center
+text:
+# Съвременен аристократизъм в стил **модерна класика**
+## Наситени цветове и **изящество в детайлите**
+Модерна класика извън рамката на светлите пастелни цветове. Актуален интериор на градско жилище, събрал в себе си най-доброто от съвременните тенденции в областта на вътрешния дизайн и класическите похвати за превръщане на едно помещение в шедьовър, който радва сетивата и на най-взискателните. Дълбоки цветове, наситени със значение, премерена пищност и изящни детайли. Силно аристократично излъчване.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_05_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-5.jpg
+image.position: center
+text:
+## Интериор на **всекидневна**
+Просторното помещение на всекидневната, в което светлината е в изобилие, ни позволи да заложим наситени тъмни нюанси в интериора, като запазим усещането за лекота на атмосферата. Тъмнокафявото, графитеното и антрацитът си партнират със светъл таван и под, за да създадат перфектната среда, в центъра на която е пурпурният диван. Над зоните на трапезарията и хола монтирахме две съзвездия от висящи лампи със стъклено тяло. Поставихме полиуретанови профили по ръбовете на тавана, а профилите по стените боядисахме в цвета на латекса. В зоната на кухнята добавихме и вградени луни. Подовата настилка е гранитогрес с визия на мрамор.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_06_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-6.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_05_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-5.jpg
+image.position: center
+text:
+## Интериор на **всекидневна**
+Просторното помещение на всекидневната, в което светлината е в изобилие, ни позволи да заложим наситени тъмни нюанси в интериора, като запазим усещането за лекота на атмосферата. Тъмнокафявото, графитеното и антрацитът си партнират със светъл таван и под, за да създадат перфектната среда, в центъра на която е пурпурният диван. Над зоните на трапезарията и хола монтирахме две съзвездия от висящи лампи със стъклено тяло. Поставихме полиуретанови профили по ръбовете на тавана, а профилите по стените боядисахме в цвета на латекса. В зоната на кухнята добавихме и вградени луни. Подовата настилка е гранитогрес с визия на мрамор.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_06_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/всекидневна-6.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_03_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/кухня-3.jpg
+image.position: center
+text:
+## Обзавеждане на **кухня**
+Сивият нюанс на кухненските шкафове създава усещане за доближаване до естествената красота на цветовете. Дизайнът на мебелите e фокусиран върху детайлите. Обзавеждането е изработено от МДФ, покрит с полиуретанова боя с матов завършек. Добавихме рамкиращи релефни елементи по вратичките и лицето на чекмеджетата. Те повтарят мотива на стените. Проектирахме шкафовете на горния ред по-високи от обичайното, за да използваме цялото налично място. Поставихме стъкло на четири от вратичките. Всички кухненски уреди, с изключение на хладилника, са вградени. Плотът и гърбът на кухнята са от технически камък, имитиращ бял мрамор със сиви жилки.
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_03_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/кухня-3.jpg
+image.position: center
+text:
+## Обзавеждане на **кухня**
+Сивият нюанс на кухненските шкафове създава усещане за доближаване до естествената красота на цветовете. Дизайнът на мебелите e фокусиран върху детайлите. Обзавеждането е изработено от МДФ, покрит с полиуретанова боя с матов завършек. Добавихме рамкиращи релефни елементи по вратичките и лицето на чекмеджетата. Те повтарят мотива на стените. Проектирахме шкафовете на горния ред по-високи от обичайното, за да използваме цялото налично място. Поставихме стъкло на четири от вратичките. Всички кухненски уреди, с изключение на хладилника, са вградени. Плотът и гърбът на кухнята са от технически камък, имитиращ бял мрамор със сиви жилки.
+:end
+
+===desktop===
+
+columns: 3
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_04_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/кухня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **трапезария**
+Трапезарията е своеобразно продължение на линията на кухнята. Основният плот на трапезната маса, също като плота в кухнята, е от технически камък, имитиращ мрамор. Базата е метална. Петте стола, които избрахме, са с модерен дизайн, тапицирани са с дамаска в графитен нюанс, а долната им част е от черен метал. Непосредствено до трапезарията се намира вратата от метал и стъкло, водеща към коридора, която отлично се вписва в обстановката.
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_04_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/кухня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **трапезария**
+Трапезарията е своеобразно продължение на линията на кухнята. Основният плот на трапезната маса, също като плота в кухнята, е от технически камък, имитиращ мрамор. Базата е метална. Петте стола, които избрахме, са с модерен дизайн, тапицирани са с дамаска в графитен нюанс, а долната им част е от черен метал. Непосредствено до трапезарията се намира вратата от метал и стъкло, водеща към коридора, която отлично се вписва в обстановката.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_01_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/хол-1.jpg
+image.position: center
+text:
+## Обзавеждане на **хол**
+Композицията от мебели в зоната на хола създава силно впечатление. Триместният диван е тапициран с дамаска в кралско пурпурно, изпъкващо на сивия фон, обогатен чрез декорацията с полиуретанови профили по стената и двете платна в детайлни рамки в същия цвят. До дивана поставихме модул от същата серия, който може да се премества според настроението и нуждите. Съчетахме ги с удобно кресло с модерен дизайн в сиво. Двете холни масички лежат върху килим в сиво. Основата на модела е от метал, а плотът е от същия технически камък с визия на мрамор, използван за кухненския плот и гръб.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_01_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/хол-1.jpg
+image.position: center
+text:
+## Обзавеждане на **хол**
+Композицията от мебели в зоната на хола създава силно впечатление. Триместният диван е тапициран с дамаска в кралско пурпурно, изпъкващо на сивия фон, обогатен чрез декорацията с полиуретанови профили по стената и двете платна в детайлни рамки в същия цвят. До дивана поставихме модул от същата серия, който може да се премества според настроението и нуждите. Съчетахме ги с удобно кресло с модерен дизайн в сиво. Двете холни масички лежат върху килим в сиво. Основата на модела е от метал, а плотът е от същия технически камък с визия на мрамор, използван за кухненския плот и гръб.
+:end
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_08_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/антре-8.jpg
+image.position: center
+text:
+## Интериор на **антре и коридор**
+Влизащият в жилището има само няколко метра, преди да се озове във всекидневната, която не е отделена с врата от антрето.  Подовата настилка е гранитогрес, имитиращ мрамор. Осветителното тяло е с интересен дизайн. Огледалните повърхности оптически уголемяват пространството.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_09_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/антре-9.jpg
+image.position: center
+text:
+Интериорът тук изцяло съответства на модерния вътрешен дизайн на останалите помещения в дома. Шкафът е изработен от МДФ и покрит с полиуретанова боя в сиво. Релефната декорация и металните дръжки също са вече познати. Плотът е изработен от технически камък, имитиращ мрамор.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_11_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/коридор-11.jpg
+image.position: center
+text:
+Коридорът се намира отвъд вратата от метал и стъкло до трапезарията. Оптимизирахме наличното пространство и вградихме петкрилен гардероб с височина до тавана – мебел, изпълнена по правилата на модерната класика в интериора.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_09_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/антре-9.jpg
+image.position: center
+text:
+## Интериор на **антре и коридор**
+Интериорът тук изцяло съответства на модерния вътрешен дизайн на останалите помещения в дома. Шкафът е изработен от МДФ и покрит с полиуретанова боя в сиво. Релефната декорация и металните дръжки също са вече познати. Плотът е изработен от технически камък, имитиращ мрамор.
+:end
+
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_08_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/антре-8.jpg
+image.position: center
+text:
+Влизащият в жилището има само няколко метра, преди да се озове във всекидневната, която не е отделена с врата от антрето.  Подовата настилка е гранитогрес, имитиращ мрамор. Осветителното тяло е с интересен дизайн. Огледалните повърхности оптически уголемяват пространството.
+:end
+
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Hol_Antre_Koridor_11_N.jpg
+image.file: съвременен-аристократизъм-модерна-класика/коридор-11.jpg
+image.position: center
+text:
+Коридорът се намира отвъд вратата от метал и стъкло до трапезарията. Оптимизирахме наличното пространство и вградихме петкрилен гардероб с височина до тавана – мебел, изпълнена по правилата на модерната класика в интериора.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_01_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+В спалнята доминиращи са наситените тъмни цветове и акцентите в златисто. Характер и уют. Стените са обработени с латекс в петролено зелено, присъстващо и в текстила за спалня. Поставихме типични за стила на модерната класика полиуретанови профили по ръба между стените и тавана, както и по-тънки профили по тавана. Стенната декорация, аплиците по стените и лампата на тавана са интерпретация на тема „злато“. Леглото с табла е изцяло тапицирано с дамаска в по-светло сиво.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_04_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_03_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-3.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+В спалнята доминиращи са наситените тъмни цветове и акцентите в златисто. Характер и уют. Стените са обработени с латекс в петролено зелено, присъстващо и в текстила за спалня. Поставихме типични за стила на модерната класика полиуретанови профили по ръба между стените и тавана, както и по-тънки профили по тавана. Стенната декорация, аплиците по стените и лампата на тавана са интерпретация на тема „злато“. Леглото с табла е изцяло тапицирано с дамаска в по-светло сиво.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_04_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_02_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+Подовата настилка в спалнята е мокет в сиво. Мебелите са изработени от МДФ. Част от повърхността им е покрита с полиуретанова боя с матов ефект, а преимуществена част от площта на лицето е огледална – съставена е от огледала с различна форма в цвят бронзе, подредени в красива геометрична композиция. Детайлните дръжки са в златисто. В центъра на системата за съхранение срещу леглото предвидихме ниша за телевизор, под която монтирахме етанолова камина.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_03_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_02_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+Подовата настилка в спалнята е мокет в сиво. Мебелите са изработени от МДФ. Част от повърхността им е покрита с полиуретанова боя с матов ефект, а преимуществена част от площта на лицето е огледална – съставена е от огледала с различна форма в цвят бронзе, подредени в красива геометрична композиция. Детайлните дръжки са в златисто. В центъра на системата за съхранение срещу леглото предвидихме ниша за телевизор, под която монтирахме етанолова камина.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria_Vitosha_Apartament_Spalnya_1_FINAL_01_Z.png
+image.file: съвременен-аристократизъм-модерна-класика/спалня-1.jpg
+image.position: right
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_02R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-2.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+Дрешникът – най-доброто решение за подобаващо съхранение на всички дрехи, аксесоари и вещи. Мебелите, които изработихме за това помещение са съобразени със спецификата му, например със скосените стени. Материалът е МДФ, покрит с полиуретанова боя мат в сиво. Част от обемите са отворени, а друга част – затворени.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_01R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-1.jpg
+image.position: center
+text:
+Прозорецът в дрешника е едно от големите му предимства. Осигурихме и достатъчно изкуствена светлина за тъмната част от денонощието, доставена благодарение на полилей с детайлен дизайн, типичен за стила на модерната класика. Тоалетката и огледалото с допълнително осветление правят дрешника да изглежда като гримьорна.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_04R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-4.jpg
+image.position: center
+text:
+Настилката в дрешника е мокет в светлосиво, което отлично се съчетава с тъмносивото на шкафовете. Оригинална идея е закачалката зад вратата. Тя е с тапициран капитониран гръб в наситено зелено, подхождащо на базовия цвят в спалнята.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_02R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-2.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+Дрешникът – най-доброто решение за подобаващо съхранение на всички дрехи, аксесоари и вещи. Мебелите, които изработихме за това помещение са съобразени със спецификата му, например със скосените стени. Материалът е МДФ, покрит с полиуретанова боя мат в сиво. Част от обемите са отворени, а друга част – затворени.
+:end
+
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_01R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-1.jpg
+image.position: center
+text:
+Прозорецът в дрешника е едно от големите му предимства. Осигурихме и достатъчно изкуствена светлина за тъмната част от денонощието, доставена благодарение на полилей с детайлен дизайн, типичен за стила на модерната класика. Тоалетката и огледалото с допълнително осветление правят дрешника да изглежда като гримьорна.
+:end
+
+tags: other
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Dreshnik_Final_04R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/дрешник-4.jpg
+image.position: center
+text:
+Настилката в дрешника е мокет в светлосиво, което отлично се съчетава с тъмносивото на шкафовете. Оригинална идея е закачалката зад вратата. Тя е с тапициран капитониран гръб в наситено зелено, подхождащо на базовия цвят в спалнята.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_02_St.jpg
+image.file: съвременен-аристократизъм-модерна-класика/баня-2.jpg
+image.position: center
+text:
+## Интериор на **баня и мокро помещение**
+Сивото е на власт и в банята. Скосената стена с два големи прозореца е обработена с латекс в сиво. Подовите плочки са в по-светъл нюанс на същия цвят. Стенните плочки са в екзотично кафяво-сиво на плавни извити линии. ПВЦ шкафовете са в сив мат, а мивката е вградена под белия плот.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_04_St.jpg
+image.file: съвременен-аристократизъм-модерна-класика/баня-4.jpg
+image.position: center
+text:
+Душ-зоната е отделена от останалата част от банята чрез стъклен параван. Стенните плочки тук са декорни, а в дизайна им са съчетани елементи в бяло, сиво и кафяво. Обособихме ниша, в която поставихме стъклени рафтове.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Mokro_Final_01R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/мокро-1.jpg
+image.position: center
+text:
+Мокрото помещение е организирано практично. За подова настилка използвахме квадратни плочки в сиво-бежово. Стените са покрити с гранитогрес с мраморна визия. Усвоихме максимално наличното пространство. И тук ПВЦ шкафовете са в сиво.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_02_St.jpg
+image.file: съвременен-аристократизъм-модерна-класика/баня-2.jpg
+image.position: center
+text:
+## Интериор на **баня и мокро помещение**
+Сивото е на власт и в банята. Скосената стена с два големи прозореца е обработена с латекс в сиво. Подовите плочки са в по-светъл нюанс на същия цвят. Стенните плочки са в екзотично кафяво-сиво на плавни извити линии. ПВЦ шкафовете са в сив мат, а мивката е вградена под белия плот.
+:end
+
+tags: bathroom
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_04_St.jpg
+image.file: съвременен-аристократизъм-модерна-класика/баня-4.jpg
+image.position: center
+text:
+Душ-зоната е отделена от останалата част от банята чрез стъклен параван. Стенните плочки тук са декорни, а в дизайна им са съчетани елементи в бяло, сиво и кафяво. Обособихме ниша, в която поставихме стъклени рафтове.
+:end
+
+tags: bathroom
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Viktoria-Vitosha-Apartament_Banya_FINAL_01_St.jpg
+image.file: съвременен-аристократизъм-модерна-класика/баня-1.jpg
+image.position: center
+text:
+:end
+
+tags: bathroom
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Mokro_Final_01R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/мокро-1.jpg
+image.position: center
+text:
+Мокрото помещение е организирано практично. За подова настилка използвахме квадратни плочки в сиво-бежово. Стените са покрити с гранитогрес с мраморна визия. Усвоихме максимално наличното пространство. И тук ПВЦ шкафовете са в сиво.
+:end
+
+tags: bathroom
+display: mobile
+style: inline
+image.url: http://projects.acherno.int/viktoria-vitosha-apartament/Marketing/Concept/Kamburova_Mokro_Final_02R.jpg
+image.file: съвременен-аристократизъм-модерна-класика/мокро-2.jpg
+image.position: center
+text:
+:end
+[]
