@@ -1,0 +1,752 @@
+layout: /blog/magazine.ect
+title: У дома: (форми на копнежа)
+description: Повече светлина, повече простор, повече елегантност. Повече от живота. Връзката на цветовете и геометрията на формите. Основа от преплетени натурални тонове и топла яркост за завършек. Дървесен декор, бяло и богата палитра от сиви нюанси. Уют в съзвучие с модерния стил. Интериор в хармония с копнежа. Създаване на дома стъпка по стъпка – като мелодия – нота след нота. На пръв поглед - реконструкция на съвременно жилище, а всъщност нещо много повече.
+cover: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_01_Z-re.png
+date: 2018-01-31
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_02_Z.png
+* http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_06_Z.png
+* http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_02_2_Z.jpg
+* http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_04_Z.jpg
+* http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_01_R.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_01_Z-re.png
+image.file: у-дома-форми-на-копнежа/всекидневна-123.jpg
+image.position: center
+text:
+# У дома: **форми на копнежа**
+## Интериорен дизайн на жилище в **модерен стил**
+Повече светлина, повече простор, повече елегантност. Повече от живота. Връзката на цветовете и геометрията на формите. Основа от преплетени натурални тонове и топла яркост за завършек. Дървесен декор, бяло и богата палитра от сиви нюанси. Уют в съзвучие с модерния стил. Интериор в хармония с копнежа. Създаване на дома стъпка по стъпка – като мелодия – нота след нота. На пръв поглед - реконструкция на съвременно жилище, а всъщност нещо много повече.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_01_Z-re.png
+image.file: у-дома-форми-на-копнежа/всекидневна-123.jpg
+image.position: left
+text:
+# У дома: **форми на копнежа**
+## Интериорен дизайн на жилище в **модерен стил**
+Повече светлина, повече простор, повече елегантност. Повече от живота. Връзката на цветовете и геометрията на формите. Основа от преплетени натурални тонове и топла яркост за завършек. Дървесен декор, бяло и богата палитра от сиви нюанси. Уют в съзвучие с модерния стил. Интериор в хармония с копнежа. Създаване на дома стъпка по стъпка – като мелодия – нота след нота. На пръв поглед - реконструкция на съвременно жилище, а всъщност нещо много повече.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_02_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **всекидневна**
+Голямо отворено пространство, позволяващо свобода на изразните средства във всекидневната. Подовата настилка в цялото помещение е гранитогрес, имитиращ бял мрамор с нишки в бежово. Три зони, които са относително самостоятелни, а взаимодействат помежду си. Кухня, трапезария и хол, в обзавеждането на който преобладава сивата гама. За неподозиращия гост стената вляво от зоната на хола е покрита с красива ламперия в топъл дървесен нюанс. Всъщност е практично решение – скрита мебел за съхранение, която се използва като малък склад.
+:end
+
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_02_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-2.jpg
+image.position: right
+text:
+## Интериорен дизайн на **всекидневна**
+Голямо отворено пространство, позволяващо свобода на изразните средства във всекидневната. Подовата настилка в цялото помещение е гранитогрес, имитиращ бял мрамор с нишки в бежово. Три зони, които са относително самостоятелни, а взаимодействат помежду си. Кухня, трапезария и хол, в обзавеждането на който преобладава сивата гама.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_02_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-2.jpg
+image.position: left
+text:
+За неподозиращия гост стената вляво от зоната на хола е покрита с красива ламперия в топъл дървесен нюанс. Всъщност е практично решение – скрита мебел за съхранение, която се използва като малък склад.
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_03_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-3.jpg
+image.position: center
+text:
+## Мебели в **хол**
+Обзавеждане, съобразено с актуалните тенденции в интериорния дизайн, с личния естетически вкус и със задължителното за постигане усещане за домашен уют. Френски прозорци и изобилие от светлина. Тънки бели завеси и плътни завеси в светлосиво. Стената зад телевизора е обработена с декоративна мазилка в тъмен графит. Поставихме по-дебели и по-тънки вертикални ивици МДФ ламперия в тъмносив мат. Двете холни масички с черна метална основа и кръгъл плот са разположени върху бежово-сив килим с къса нишка. Съчетахме холен ъгъл и двуместно канапе от една и съща дизайнерска серия в сиво. Модерният дизайн на меката мебел комбинира комфорт и индивидуалност в едно. Други предимства са практичните механизми и изцяло свалящата се дамаска.
+:end
+
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_03_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-3.jpg
+image.position: left
+text:
+## Мебели в **хол**
+Обзавеждане, съобразено с актуалните тенденции в интериорния дизайн, с личния естетически вкус и със задължителното за постигане усещане за домашен уют. Френски прозорци и изобилие от светлина. Тънки бели завеси и плътни завеси в светлосиво. Двете холни масички с черна метална основа и кръгъл плот са разположени върху бежово-сив килим с къса нишка. Съчетахме холен ъгъл и двуместно канапе от една и съща дизайнерска серия в сиво. Модерният дизайн на меката мебел комбинира комфорт и индивидуалност в едно. Други предимства са практичните механизми и изцяло свалящата се дамаска.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_03_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-3.jpg
+image.position: right
+text:
+Стената зад телевизора е обработена с декоративна мазилка в тъмен графит. Поставихме по-дебели и по-тънки вертикални ивици МДФ ламперия в тъмносив мат.
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_07_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-7.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Обзавеждане на **трапезария**
+Трапезарията в този дом е повече от впечатляваща. Светлината изпълва цялото пространство от пода до тавана. През прозорците се открива прекрасна гледка към града.
+
+Голямата трапезна маса е с елегантен модерен дизайн. Металната основа се състои от пресичащи се под различен ъгъл линии, образуващи мрежа. Стоманата е боядисана в черно. Плотът на масата е изработен от орех с дебелина 8 см. Масивът е с неправилни ръбове, придаващи характер и непосредствена, естествена красота на повърхността.
+
+Трите висящи осветителни тела над масата са монтирани симетрично и създават приятни отблясъци.
+
+Дървената рамка с четири крака и удобната седалка правят модела изключително подходящ за конфигурацията от мебели в тази зона.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_07_Z.png
+image.file: у-дома-форми-на-копнежа/всекидневна-7.jpg
+image.position: left
+text:
+## Обзавеждане на **трапезария**
+Трапезарията в този дом е повече от впечатляваща. Светлината изпълва цялото пространство от пода до тавана. През прозорците се открива прекрасна гледка към града. Голямата трапезна маса е с елегантен модерен дизайн. Металната основа се състои от пресичащи се под различен ъгъл линии, образуващи мрежа. Стоманата е боядисана в черно. Плотът на масата е изработен от орех с дебелина 8 см. Масивът е с неправилни ръбове, придаващи характер и непосредствена, естествена красота на повърхността. Трите висящи осветителни тела над масата са монтирани симетрично и създават приятни отблясъци. Дървената рамка с четири крака и удобната седалка правят модела изключително подходящ за конфигурацията от мебели в тази зона.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_06_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-6.jpg
+image.position: center
+text:
+## Интериорен дизайн на **кухня**
+Мебелите в кухнята са в две линии. Материалът, от който са изработени, е МДФ, а покритието е комбинирано – бял гланц и сив мат. За да се придържаме към пределно изчистения дизайн в тази зона, разчитахме на правите линии, симетрията и чистотата на възприятията. Няколко шкафа с височина от пода до тавана, горни и долни шкафове – под и над мивка. Всички електроуреди са вградени. Кухненският гръб е от лакобел в бледосиво, а плотът е от технически камък в бяло.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_08_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-8.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_06_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-6.jpg
+image.position: center
+text:
+## Интериорен дизайн на **кухня**
+Мебелите в кухнята са в две линии. Материалът, от който са изработени, е МДФ, а покритието е комбинирано – бял гланц и сив мат. За да се придържаме към пределно изчистения дизайн в тази зона, разчитахме на правите линии, симетрията и чистотата на възприятията. Няколко шкафа с височина от пода до тавана, горни и долни шкафове – под и над мивка. Всички електроуреди са вградени. Кухненският гръб е от лакобел в бледосиво, а плотът е от технически камък в бяло.
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_08_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-8.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_05_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-5.jpg
+image.position: center
+text:
+Друга перспектива към кухнята показва, че големият кухненски остров предоставя възможност готвещият да има поглед върху цялата всекидневна – може да следи предаването на телевизора в хола или да общува с гостите си в трапезарията. Готварският плот и фурната са вградени, а аспираторът е достатъчно мощен, за да изведе дори по-силните миризми от голямото помещение. Плотът и страниците на острова са от технически камък с елегантна мраморна визия. Разпределението на шкафовете и чекмеджетата е направено в зависимост от тяхната функция с цел максималното удобство на домакините. От другата страна на тази многофункционална мебел има още чекмеджета, както и бар-столове с модерен дизайн в свежи цветове.
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Hol_FINAL_05_Z.png
+image.file: у-дома-форми-на-копнежа/кухня-5.jpg
+image.position: center
+text:
+Друга перспектива към кухнята показва, че големият кухненски остров предоставя възможност готвещият да има поглед върху цялата всекидневна – може да следи предаването на телевизора в хола или да общува с гостите си в трапезарията. Готварският плот и фурната са вградени, а аспираторът е достатъчно мощен, за да изведе дори по-силните миризми от голямото помещение. Плотът и страниците на острова са от технически камък с елегантна мраморна визия. Разпределението на шкафовете и чекмеджетата е направено в зависимост от тяхната функция с цел максималното удобство на домакините. От другата страна на тази многофункционална мебел има още чекмеджета, както и бар-столове с модерен дизайн в свежи цветове.
+:end
+
+===desktop===
+
+columns: 2
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Antre_FINAL_01_Z.png
+image.file: у-дома-форми-на-копнежа/антре-1.jpg
+image.position: center
+text:
+## Интериор на **антре**
+Топли и студени нюанси, контрасти и светлина. Антрето е своеобразно продължение на всекидневната. Има вградено в окачения таван осветление. И тук подовата настилка е гранитогрес, имитиращ мрамор. Материалът, от който са изработени мебелите, е МДФ. Боядисани са в бял цвят с гланцов ефект и в матово сиво.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Antre_FINAL_02_Z.png
+image.file: у-дома-форми-на-копнежа/антре-2.jpg
+image.position: center
+text:
+И най-малките пространства са оползотворени, като са затворени в обеми за съхранение на вещи. Огледалото е със състарена визия.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Antre_FINAL_01_Z.png
+image.file: у-дома-форми-на-копнежа/антре-1.jpg
+image.position: center
+text:
+## Интериор на **антре**
+Топли и студени нюанси, контрасти и светлина. Антрето е своеобразно продължение на всекидневната. Има вградено в окачения таван осветление. И тук подовата настилка е гранитогрес, имитиращ мрамор. Материалът, от който са изработени мебелите, е МДФ. Боядисани са в бял цвят с гланцов ефект и в матово сиво. И най-малките пространства са оползотворени, като са затворени в обеми за съхранение на вещи. Огледалото е със състарена визия.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Antre_FINAL_02_Z.png
+image.file: у-дома-форми-на-копнежа/антре-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_01_R.jpg
+image.file: у-дома-форми-на-копнежа/обща-баня-1.jpg
+image.position: center
+text:
+## Обзавеждане на **обща баня**
+Белота и чистота, които не излъчват студенина. Окачен таван с вградени луни. Скрито осветление на голямото огледало. Мивка, вградена под плот от технически камък. ПВЦ шкаф с минималистичен дизайн.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_02_R.jpg
+image.file: у-дома-форми-на-копнежа/обща-баня-2.jpg
+image.position: center
+text:
+Душ-зоната е отделена чрез стъклена преграда. Душът е тип пита и има възможност за допълнителни настройки. Поставихме два рафта за козметика на една от стените. Монтирахме и метална поставка за хавлии вляво от мивката.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_03_R.jpg
+image.file: у-дома-форми-на-копнежа/обща-баня-3.jpg
+image.position: right
+text:
+Подовите и стенните плочки са с квадратна форма, с голям размер, от една и съща серия, продължаваща линията, която следвахме във всекидневната и антрето. Характерната визия на мрамор създава допълнителен уют в банята.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_01_R.jpg
+image.file: у-дома-форми-на-копнежа/обща-баня-1.jpg
+image.position: center
+text:
+## Обзавеждане на **обща баня**
+Белота и чистота, които не излъчват студенина. Окачен таван с вградени луни. Скрито осветление на голямото огледало. Мивка, вградена под плот от технически камък. ПВЦ шкаф с минималистичен дизайн.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_banya_obshta_Final_02_R.jpg
+image.file: у-дома-форми-на-копнежа/обща-баня-2.jpg
+image.position: center
+text:
+Душ-зоната е отделена чрез стъклена преграда. Душът е тип пита и има възможност за допълнителни настройки. Поставихме два рафта за козметика на една от стените. Подовите и стенните плочки са с квадратна форма, с голям размер и с визия на мрамор.
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_02_2_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+Царството на спокойствието, както обикновено, е в спалнята. Избрахме многослоен паркет в опушен дървесен цвят. Стените са обработени с латекс в светъл цвят – мока. На стената зад спалнята поставихме гипсови панели в бяло. Релефът им напомня движение на вълни. Двойното легло е изцяло тапицирано в плат в бежово. Под подматрачната рамка е скрит контейнер, предоставящ още място за съхранение на вещи. В ролята на нощни шкафчета влизат две масички с кръгъл плот от закалено стъкло в бяло и L-образна база от стомана.
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_02_2_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+Царството на спокойствието, както обикновено, е в спалнята. Избрахме многослоен паркет в опушен дървесен цвят. Стените са обработени с латекс в светъл цвят – мока. На стената зад леглото поставихме гипсови панели в бяло. Релефът им напомня движение на вълни. Двойното легло е изцяло тапицирано в плат в бежово. Под подматрачната рамка е скрит контейнер, предоставящ още място за съхранение на вещи. В ролята на нощни шкафчета влизат две масички с кръгъл плот от закалено стъкло в бяло и L-образна база от стомана.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-4.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Всички останали мебели в помещението – гардеробът, комодът и шкафът под телевизора, са изработени от МДФ. Покритието им е бяла боя с матов завършек. Дизайнът на обзавеждането е пределно изчистен. И в спалнята прозорците са френски. Естествената светлина е в изобилие. Регулира се с тънки бели завеси и плътни завеси в шоколадов нюанс. Заложихме на умерена декорация.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_01_1_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-4.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Всички останали мебели в помещението – гардеробът, комодът и шкафът под телевизора, са изработени от МДФ. Покритието им е бяла боя с матов завършек. Дизайнът на обзавеждането е пределно изчистен. И в спалнята прозорците са френски. Естествената светлина е в изобилие. Регулира се с тънки бели завеси и плътни завеси в шоколадов нюанс. Заложихме на умерена декорация.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_06_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-6.jpg
+image.position: center
+text:
+Към спалнята е обособено пространство, предназначено за съхранение на дрехи, аксесоари и други вещи. Големият гардероб с плъзгащи се врати е изработен от МДФ. Покритието  на тази мебел е полиуретанова боя с матов ефект в бял цвят.  Поставихме и голямо огледало на една от стените.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_08_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-8.jpg
+image.position: center
+text:
+Висококачественият трислоен паркет придава топлина на атмосферата навсякъде в спалнята. Използвахме същия модел гипсови модели на вълни в бяло като този зад леглото за стената до входа на стаята.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_06_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-6.jpg
+image.position: center
+text:
+Към спалнята е обособено пространство, предназначено за съхранение на дрехи, аксесоари и други вещи. Големият гардероб с плъзгащи се врати е изработен от МДФ. Покритието  на тази мебел е полиуретанова боя с матов ефект в бял цвят.  Поставихме и голямо огледало на една от стените.
+:end
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Spalnya_FINAL_08_Z.jpg
+image.file: у-дома-форми-на-копнежа/спалня-8.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+Висококачественият трислоен паркет придава топлина на атмосферата навсякъде в спалнята. Използвахме същия модел гипсови модели на вълни в бяло като този зад леглото за стената до входа на стаята.
+:end
+
+===mobile===
+
+
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_01_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-1.jpg
+image.position: center
+text:
+## Интериор на **баня към спалня**
+Банята към спалнята е изцяло издържана в стила на по-голямата обща баня. Гранитогрес с визия на мрамор. Белите и бежовите нюанси преобладават. Огледалото е голямо. Мивката е вградена под плот от технически камък. Материалът за шкафа е ПВЦ.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_02_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-2.jpg
+image.position: center
+text:
+Отделихме душ-зоната зад стъклен параван. Използвахме декоративни плочки за малка част от площта на стените. В непосредствена близост до душ-питата и подвижния душ монтирахме няколко стенни рафта.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_03_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-3.jpg
+image.position: center
+text:
+Таванът е окачен, в него са вградени луни. По ръба има скрито осветление. Санитарията е в бяло. Предвидихме и голяма метална закачалка за хавлии.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_01_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-1.jpg
+image.position: center
+text:
+## Интериор на **баня към спалня**
+Банята към спалнята е изцяло издържана в стила на по-голямата обща баня. Гранитогрес с визия на мрамор. Белите и бежовите нюанси преобладават. Огледалото е голямо. Мивката е вградена под плот от технически камък. Материалът за шкафа е ПВЦ.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_02_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-2.jpg
+image.position: center
+text:
+Отделихме душ-зоната зад стъклен параван. Използвахме декоративни плочки за малка част от площта на стените. В непосредствена близост до душ-питата и подвижния душ монтирахме няколко стенни рафта.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska-Bulgaria_Banya-Spalnya_FINAL_03_St.jpg
+image.file: у-дома-форми-на-копнежа/баня-спалня-3.jpg
+image.position: center
+text:
+Таванът е окачен, в него са вградени луни. По ръба има скрито осветление. Санитарията е в бяло. Предвидихме и голяма метална закачалка за хавлии.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_01_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-1.jpg
+image.position: center
+text:
+## Интериорен дизайн на **детска стая**
+Атмосферата в тази момичешка детска стая е доминирана от цветната джунгла, завладяла една от стените. Папагали, кацнали на разлистени клони, заобиколени от множество пъстри цветове. Тапетът отлично се справя със задачата да излезе от сериозния тон на интериора в останалата част от стаята. В края на тавана има скрито осветление. Стените са обработени с два цвята латекс – бяло и сиво. Леглото, включително таблата, и раклата са изцяло тапицирани с дамаска в сиво. Бюрото е с метална база и със слим дизайн на основната повърхност. То е комбинирано с тюркоазен стол с модерен дизайн, напомнящ формата на капка.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_03_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_01_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-1.jpg
+image.position: center
+text:
+## Интериорен дизайн на **детска стая**
+Атмосферата в тази момичешка детска стая е доминирана от цветната джунгла, завладяла една от стените. Папагали, кацнали на разлистени клони, заобиколени от множество пъстри цветове. Тапетът отлично се справя със задачата да излезе от сериозния тон на интериора в останалата част от стаята. В края на тавана има скрито осветление. Стените са обработени с два цвята латекс – бяло и сиво. Леглото, включително таблата, и раклата са изцяло тапицирани с дамаска в сиво. Бюрото е с метална база и със слим дизайн на основната повърхност. То е комбинирано с тюркоазен стол с модерен дизайн, напомнящ формата на капка.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_03_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_02_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-2.jpg
+image.position: center
+text:
+## Мебели в **детска стая**
+Всички останали мебели в детската стая са изработени по поръчка, т.е. съобразени с конкретните характеристики на пространството. Белият цвят и матовите повърхности преобладават. Шкафовете, рафтовете и модулите са симетрично разположени. Натуралният нюанс на многослойния паркет внася топлина в монохромната среда, допълвайки цветния тапет на стената зад леглото.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_02_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-2.jpg
+image.position: center
+text:
+## Мебели в **детска стая**
+Всички останали мебели в детската стая са изработени по поръчка, т.е. съобразени с конкретните характеристики на пространството. Белият цвят и матовите повърхности преобладават. Шкафовете, рафтовете и модулите са симетрично разположени. Натуралният нюанс на многослойния паркет внася топлина в монохромната среда, допълвайки цветния тапет на стената зад леглото.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detska_Momiche_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/детска-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-4.jpg
+image.position: center
+text:
+## Обзавеждане на **стая на бебе**
+Хармония, сигурност и абсолютен комфорт за най-малкия член на семейството. Тази детска стая е обзаведена в светли тонове. Бебешката кошарка е с иновативен дизайн, предпазващ детето от наранявания. Тя може да се трансформира в зависимост от нуждите му в процеса на неговото порастване. Практично решение представлява и наличието на разтегателно кресло от масивна дървесина и метал в стаята. Светлината, идваща от лампиона през тъмната част от денонощието, е ненатрапчива и приятна.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_04_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-4.jpg
+image.position: center
+text:
+## Обзавеждане на **стая на бебе**
+Хармония, сигурност и абсолютен комфорт за най-малкия член на семейството. Тази детска стая е обзаведена в светли тонове. Бебешката кошарка е с иновативен дизайн, предпазващ детето от наранявания. Тя може да се трансформира в зависимост от нуждите му в процеса на неговото порастване. Практично решение представлява и наличието на разтегателно кресло от масивна дървесина и метал в стаята. Светлината, идваща от лампиона през тъмната част от денонощието, е ненатрапчива и приятна.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_01_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-1.jpg
+image.position: center
+text:
+Поставихме скрито осветление по ръба на тавана. Част от площта на стените е покрита с латекс в цвят мока. За стената зад леглото на бебето използвахме тапет с мотив на облаци и реещи се в небето птици. Гардеробът и комодът също са с извити ъгли.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_03_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-3.jpg
+image.position: right
+text:
+Материалът, от който са изработени, е МДФ, боядисан с бяла полиуретанова боя с матов ефект. Многослойният дървен паркет допринася за усещането за топлина и уют в стаята.
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_01_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-1.jpg
+image.position: center
+text:
+## Интериор на **стая на бебе**
+Поставихме скрито осветление по ръба на тавана. Част от площта на стените е покрита с латекс в цвят мока. За стената зад леглото на бебето използвахме тапет с мотив на облаци и реещи се в небето птици. Гардеробът и комодът също са с извити ъгли. Материалът, от който са изработени, е МДФ, боядисан с бяла полиуретанова боя с матов ефект. Многослойният дървен паркет допринася за усещането за топлина и уют в стаята.
+:end
+
+columns: 1
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Detsk_Bebe_FINAL_03_Z.jpg
+image.file: у-дома-форми-на-копнежа/стая-на-бебе-3.jpg
+image.position: right
+text:
+:end
+
+===mobile===
+
+
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_01_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-1.jpg
+image.position: center
+text:
+## Мебели в **мокро помещение**
+Не е учудващо, че декорът в мокрото помещение е доминиран от темата „мрамор“.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_02_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-2.jpg
+image.position: center
+text:
+Всички електроуреди, които е добре да бъдат скрити от погледа, са намерили място тук – бойлер, пералня, сушилня и т.н.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_04_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-4.jpg
+image.position: center
+text:
+Предвидихме рафтове, изработени от ПДЧ специално за това пространство – за постигане на ред и удобство. Те са боядисани в бяло.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_01_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-1.jpg
+image.position: center
+text:
+## Мебели в **мокро помещение**
+Не е учудващо, че декорът в мокрото помещение е доминиран от темата „мрамор“.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_02_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-2.jpg
+image.position: center
+text:
+Всички електроуреди, които е добре да бъдат скрити от погледа, са намерили място тук – бойлер, пералня, сушилня и т.н.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/chomakovska-bulgaria/Marketing/Concept/Chomakovska_Mokro_Final_04_R.jpg
+image.file: у-дома-форми-на-копнежа/мокро-4.jpg
+image.position: center
+text:
+Предвидихме рафтове, изработени от ПДЧ специално за това пространство – за постигане на ред и удобство. Те са боядисани в бяло.
+:end
+[]
