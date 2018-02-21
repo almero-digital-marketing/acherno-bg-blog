@@ -1,0 +1,458 @@
+layout: /blog/magazine.ect
+title: (Звезден календар) на модерността
+description: Интериорният дизайн като изкуство с ясна цел и с практично приложение. Изяществото на формата е съчетано с пълнота на съдържанието – също като в космоса. Професионалната гледна точка към обзавеждането позволява този апартамент в минималистичен стил да бъде не застинала картина, плод на естетически идеал, а уютен и топъл дом за едно съвременно семейство с динамичен начин на живот, със свои цели, предпочитания и емоции. Индивидуалистичен подход, внимание към подробностите и умерени решения.
+cover: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_01_A.png
+date: 2018-02-21
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_04_A.png
+* http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Antre_WIP_04.png
+* http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_02_N.jpg
+* http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_02A.jpg
+* http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_01_N.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_01_A.png
+image.file: звезден-календар-на-модерността/всекидневна-1.jpg
+image.position: center
+text:
+# **Звезден календар** на модерността
+## **Минималистичен интериор** на апартамент
+Интериорният дизайн като изкуство с ясна цел и с практично приложение. Изяществото на формата е съчетано с пълнота на съдържанието – също като в космоса. Професионалната гледна точка към обзавеждането позволява този апартамент в минималистичен стил да бъде не застинала картина, плод на естетически идеал, а уютен и топъл дом за едно съвременно семейство с динамичен начин на живот, със свои цели, предпочитания и емоции. Индивидуалистичен подход, внимание към подробностите и умерени решения.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_01_A.png
+image.file: звезден-календар-на-модерността/всекидневна-1.jpg
+image.position: center
+text:
+# **Звезден календар** на модерността
+## **Минималистичен интериор** на апартамент
+Интериорният дизайн като изкуство с ясна цел и с практично приложение. Изяществото на формата е съчетано с пълнота на съдържанието – също като в космоса. Професионалната гледна точка към обзавеждането позволява този апартамент в минималистичен стил да бъде не застинала картина, плод на естетически идеал, а уютен и топъл дом за едно съвременно семейство с динамичен начин на живот, със свои цели, предпочитания и емоции. Индивидуалистичен подход, внимание към подробностите и умерени решения.
+:end
+
+===desktop===
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_04_A.png
+image.file: звезден-календар-на-модерността/всекидневна-4.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **кухня**
+Играта на цветовете и светлината ражда контрастите и контролира развоя на битката помежду им. В кухнята сблъсъкът, който е примирен, е между бяло, нюанс на тъмен шоколад и графит. Стените са обработени с мазилка в сиво – цвят, използван и за гърба от лакобел. Кухненският плот е от технически камък. Мивката е вградена. Дизайнът на мебелите, разположени в една линия и направени от МДФ, е минималистичен – прави линии, липса дори на дръжки. Всички електроуреди са вградени. Аспираторът, фурната и микровълновата са от една и съща продуктова серия с модерен дизайн в бяло. 
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_04_A.png
+image.file: звезден-календар-на-модерността/всекидневна-4.jpg
+image.position: right
+text:
+## Вътрешен дизайн на **кухня**
+Играта на цветовете и светлината ражда контрастите и контролира развоя на битката помежду им. В кухнята сблъсъкът, който е примирен, е между бяло, нюанс на тъмен шоколад и графит. Стените са обработени с мазилка в сиво – цвят, използван и за гърба от лакобел. Кухненският плот е от технически камък. Мивката е вградена. Дизайнът на мебелите, разположени в една линия и направени от МДФ, е минималистичен – прави линии, липса дори на дръжки. Всички електроуреди са вградени. Аспираторът, фурната и микровълновата са от една и съща продуктова серия с модерен дизайн в бяло. 
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_03_A.png
+image.file: звезден-календар-на-модерността/всекидневна-3.jpg
+image.position: center
+text:
+## Интериор на **хол**
+Липсва стенна декорация – самите стени са декорация на стаята. Защото един от лозунгите на минимализма е „орнаментът е престъпление“. Всяка една от двете стени, образуващи ъгъла, отреден на хола, е с нестандартна облицовка – ламперия и камък. Подовата настилка е трислоен паркет. И тук мебелите са от МДФ с комбинирано покритие в два цвята. Излъчването в интериора не може да се сбърка – това е мястото за безкрайни разговори вечер и за моменти на почивка. Затова насочихме вниманието на собствениците на жилището към модел диван с безупречна линия, тапицерия в сиво, безусловно удобство, изобилие от място и възможност за нагласяне на облегалките за глава.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_03_A.png
+image.file: звезден-календар-на-модерността/всекидневна-3.jpg
+image.position: center
+text:
+## Интериор на **хол**
+Липсва стенна декорация – самите стени са декорация на стаята. Защото един от лозунгите на минимализма е „орнаментът е престъпление“. Всяка една от двете стени, образуващи ъгъла, отреден на хола, е с нестандартна облицовка – ламперия и камък. Подовата настилка е трислоен паркет. И тук мебелите са от МДФ с комбинирано покритие в два цвята. Излъчването в интериора не може да се сбърка – това е мястото за безкрайни разговори вечер и за моменти на почивка.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_04_A.png
+image.file: звезден-календар-на-модерността/всекидневна-4.jpg
+image.position: left
+text:
+Диванът - модел с безупречна линия, тапицерия в сиво, безусловно удобство, изобилие от място и възможност за нагласяне на облегалките за глава.
+:end
+[]
+===desktop===
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Мебели в **трапезария**
+Трапезарията е онази зона във всекидневната, която е най-близо до прозореца. Предвид по-тъмните натурални тонове в останалата част от помещението естествената светлина, идваща отвън, е предимство. Трапезната маса е с квадратен плот от технически камък в шоколадов нюанс – също като в кухнята, с метална основа и с крака от закалено стъкло. Комбинирахме я с шест модерни стола с метална база, седалка и облегалка, тапицирани със светла екокожа с декоративни шевове. Завеси в бяло и сиво.
+:end
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_02_A.png
+image.file: звезден-календар-на-модерността/трапезария-2.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Hol_FINAL_02_A.png
+image.file: звезден-календар-на-модерността/трапезария-2.jpg
+image.position: left
+text:
+## Мебели в **трапезария**
+Трапезарията е онази зона във всекидневната, която е най-близо до прозореца. Предвид по-тъмните натурални тонове в останалата част от помещението естествената светлина, идваща отвън, е предимство. Трапезната маса е с квадратен плот от технически камък в шоколадов нюанс – също като в кухнята, с метална основа и с крака от закалено стъкло. Комбинирахме я с шест модерни стола с метална база, седалка и облегалка, тапицирани със светла екокожа с декоративни шевове. Завеси в бяло и сиво.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: other
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Antre_WIP_02.png
+image.file: звезден-календар-на-модерността/антре-2.jpg
+image.position: center
+text:
+## Интериор на **антре**
+Антрето потвърждава елегантната линия, която следвахме при създаването на концепция за вътрешен дизайн на цялото жилище. Безспорно, и тук стилът е модерен. Светлите и тъмните елементи от обзавеждането са майсторски преплетени, за да не оставят и капка съмнение в това. По-голямата част от площта на стените е обработена с мазилка в сиво. Мебелите са от МДФ, а покритието им е два контрастни цвята.
+:end
+
+tags: other
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Antre_WIP_04.png
+image.file: звезден-календар-на-модерността/антре-4.jpg
+image.position: center
+text:
+Каменната облицовка говори за характера на помещението. Поставихме и огледало в цял ръст.
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Antre_WIP_02.png
+image.file: звезден-календар-на-модерността/антре-2.jpg
+image.position: center
+text:
+## Интериор на **антре**
+Антрето потвърждава елегантната линия, която следвахме при създаването на концепция за вътрешен дизайн на цялото жилище. Безспорно, и тук стилът е модерен. Светлите и тъмните елементи от обзавеждането са майсторски преплетени, за да не оставят и капка съмнение в това. По-голямата част от площта на стените е обработена с мазилка в сиво. Мебелите са от МДФ, а покритието им е два контрастни цвята.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Antre_WIP_04.png
+image.file: звезден-календар-на-модерността/антре-4.jpg
+image.position: center
+text:
+Каменната облицовка говори за характера на помещението. Поставихме и огледало в цял ръст.
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_01_N.jpg
+image.file: звезден-календар-на-модерността/спалня-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **спалня**
+Светлината като началото на всичко. Осветлението в спалнята разказва история, а нишката на този разказ се вие и продължава по повърхността на плъзгащите се гардеробни врати, описвайки красива траектория на движение. Скритото осветление поставя акценти. Белите орнаменти зад леглото са от лазерно изрязан и прахово боядисан метал. Линията на гардероба представлява фрезовка, боядисана в бяло, открояващо се на антрацитения фон на вратите. Както мебелите, така и ламперията зад леглото, са от МДФ с матово покритие. Добавихме килим с дълга нишка.
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_01_N.jpg
+image.file: звезден-календар-на-модерността/спалня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+Светлината като началото на всичко. Осветлението в спалнята разказва история, а нишката на този разказ се вие и продължава по повърхността на плъзгащите се гардеробни врати, описвайки красива траектория на движение. Скритото осветление поставя акценти. Белите орнаменти зад леглото са от лазерно изрязан и прахово боядисан метал. Линията на гардероба представлява фрезовка, боядисана в бяло, открояващо се на антрацитения фон на вратите. Както мебелите, така и ламперията зад леглото, са от МДФ с матово покритие. Добавихме килим с дълга нишка.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_03_N.jpg
+image.file: звезден-календар-на-модерността/спалня-3.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+На друга стена в спалнята пресъздадохме поетическа реалност в сюрреалистичен облик – монохромният фототапет, който използвахме тук, доближава съзнанието до философските търсения в естетиката. Този артистичен израз прави атмосферата в спалнята още по-лична. Леглото е изработено по поръчка и е изцяло тапицирано с дамаска в бяло. Подовата настилка е трислоен паркет.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_04_N.jpg
+image.file: звезден-календар-на-модерността/спалня-4.jpg
+image.position: center
+text:
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_02_N.jpg
+image.file: звезден-календар-на-модерността/спалня-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_02_N.jpg
+image.file: звезден-календар-на-модерността/спалня-2.jpg
+image.position: left
+text:
+## Обзавеждане на **спалня**
+На друга стена в спалнята пресъздадохме поетическа реалност в сюрреалистичен облик – монохромният фототапет, който използвахме тук, доближава съзнанието до философските търсения в естетиката. Този артистичен израз прави атмосферата в спалнята още по-лична. Леглото е изработено по поръчка и е изцяло тапицирано с дамаска в бяло. Подовата настилка е трислоен паркет.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_03_N.jpg
+image.file: звезден-календар-на-модерността/спалня-3.jpg
+image.position: center
+text:
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Spalnya_FINAL_04_N.jpg
+image.file: звезден-календар-на-модерността/спалня-4.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_02_N.jpg
+image.file: звезден-календар-на-модерността/баня-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **баня**
+Обстановката в банята е модерна и хармонична. Постарахме се да осигурим изобилие от светлина, включително чрез вграденото осветление. Стенните плочки са светли, с красиви релефни орнаменти. Санитарията е бяла. Шкафовете са изработени от ПВЦ в бяло и бежово.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_06_N.jpg
+image.file: звезден-календар-на-модерността/баня-6.jpg
+image.position: center
+text:
+Банята е с немалка площ – това ни даде възможност да обособим отделни функционални зони. Една от тях е душ-зоната. Преградата ѝ е от матирано бяло стъкло. Подовите и стенните плочки са в кафявата гама. Поставихме няколко ПВЦ рафта, които са конзолно захванати.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_08_N.jpg
+image.file: звезден-календар-на-модерността/баня-8.jpg
+image.position: center
+text:
+Всички тези решения в интериорния дизайн на банята идват като естествено продължение на проекта за реконструкция на цялото жилище. Дори батериите са с минималистичен дизайн. По-голямата част от плочките в бежово-кафяво са с визия на мрамор.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_02_N.jpg
+image.file: звезден-календар-на-модерността/баня-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **баня**
+Обстановката в банята е модерна и хармонична. Постарахме се да осигурим изобилие от светлина, включително чрез вграденото осветление. Стенните плочки са светли, с красиви релефни орнаменти. Санитарията е бяла. Шкафовете са изработени от ПВЦ в бяло и бежово.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_06_N.jpg
+image.file: звезден-календар-на-модерността/баня-6.jpg
+image.position: center
+text:
+Банята е с немалка площ – това ни даде възможност да обособим отделни функционални зони. Една от тях е душ-зоната. Преградата ѝ е от матирано бяло стъкло. Подовите и стенните плочки са в кафявата гама. Поставихме няколко ПВЦ рафта, които са конзолно захванати.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Varna_Banya_WIP_08_N.jpg
+image.file: звезден-календар-на-модерността/баня-8.jpg
+image.position: center
+text:
+Всички тези решения в интериорния дизайн на банята идват като естествено продължение на проекта за реконструкция на цялото жилище. Дори батериите са с минималистичен дизайн. По-голямата част от плочките в бежово-кафяво са с визия на мрамор.
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_02A.jpg
+image.file: звезден-календар-на-модерността/детска-2.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: nursery
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **детска стая**
+Прави линии, премерени пропорции и математическо съвършенство. Модерен интериорен дизайн на детска стая, в която основният цвят е наситено антрацитно сиво, на което придадохме нов живот чрез два по-свежи нюанса. Бял таван с вградени луни, който е окачен в зоната над леглото; трислоен паркет за повече топлина и уют. МДФ ламперията в матово сиво продължава в гардероб с гланцова повърхност, разделена на ленти с различна дебелина в сиво, петролено синьо и ярко жълто. Леглото е с минималистичен дизайн, а под него е вградено осветление.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_02A.jpg
+image.file: звезден-календар-на-модерността/детска-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **детска стая**
+Прави линии, премерени пропорции и математическо съвършенство. Модерен интериорен дизайн на детска стая, в която основният цвят е наситено антрацитно сиво, на което придадохме нов живот чрез два по-свежи нюанса. Бял таван с вградени луни, който е окачен в зоната над леглото; трислоен паркет за повече топлина и уют. МДФ ламперията в матово сиво продължава в гардероб с гланцова повърхност, разделена на ленти с различна дебелина в сиво, петролено синьо и ярко жълто. Леглото е с минималистичен дизайн, а под него е вградено осветление.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_01A.jpg
+image.file: звезден-календар-на-модерността/детска-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_03A.jpg
+image.file: звезден-календар-на-модерността/детска-3.jpg
+image.position: center
+text:
+## Интериор на **детска стая**
+Част от стените са обработени с латекс в светъл цвят. Освен луните, вградени в окачения таван, поставихме и луни за външен монтаж. Бюрото и етажерките са изработени от МДФ и боядисани в сиво, жълто и петролено синьо. Дизайнът им наподобява диаграма или модерно изкуство. Добавихме килим в бяло, черно, сиво и акценти в жълто, както и барбарон със сива тапицерия.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_04A.jpg
+image.file: звезден-календар-на-модерността/детска-4.jpg
+image.position: center
+text:
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_01A.jpg
+image.file: звезден-календар-на-модерността/детска-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_03A.jpg
+image.file: звезден-календар-на-модерността/детска-3.jpg
+image.position: center
+text:
+## Интериор на **детска стая**
+Част от стените са обработени с латекс в светъл цвят. Освен луните, вградени в окачения таван, поставихме и луни за външен монтаж. Бюрото и етажерките са изработени от МДФ и боядисани в сиво, жълто и петролено синьо. Дизайнът им наподобява диаграма или модерно изкуство. Добавихме килим в бяло, черно, сиво и акценти в жълто, както и барбарон със сива тапицерия.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/tinev-varna/Marketing/Concept/Tinev_Detska_Final_04A.jpg
+image.file: звезден-календар-на-модерността/детска-4.jpg
+image.position: center
+text:
+:end
+[]
