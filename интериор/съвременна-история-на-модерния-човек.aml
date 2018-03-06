@@ -1,0 +1,678 @@
+layout: /blog/magazine.ect
+title: (Лек за консумиране) стил
+description: За да се чувствате комфортно у дома, интериорът трябва да кореспондира с вашата душевност. Тук използвахме лекотата на съвременния стил, за да пресъздадем чистота и функционалност на пространството. Комбинацията на бял гланц и дървесен декор предразполагат уютната атмосфера, в която категорично ще се потопи всеки член на семейството или гост.
+cover: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_02_St.jpg
+date: 2018-01-17
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_Final_01R.jpg
+* http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_04_St.jpg
+
+* http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_03_R.jpg
+* http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_WIP_06_R.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/хол-2.jpg
+image.position: center
+text:
+# Съвременна история на **модерния човек**
+## Пастелни тонове и **правоъгълни форми**
+За да се чувствате комфортно у дома, интериорът трябва да кореспондира с вашата душевност. Тук използвахме лекотата на съвременния стил, за да пресъздадем чистота и функционалност на пространството. Комбинацията на бял гланц и дървесен декор предразполагат уютната атмосфера, в която категорично ще се потопи всеки член на семейството или гост.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/хол-2.jpg
+image.position: center
+text:
+# Съвременна история на **модерния човек**
+## Пастелни тонове и **правоъгълни форми**
+За да се чувствате комфортно у дома, интериорът трябва да кореспондира с вашата душевност. Тук използвахме лекотата на съвременния стил, за да пресъздадем чистота и функционалност на пространството. Комбинацията на бял гланц и дървесен декор предразполагат уютната атмосфера, в която категорично ще се потопи всеки член на семейството или гост.
+:end
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/хол-3.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **всекидневна**
+Холът е сърцето на дома. Тук се събираме и споделяме щастие и опит. Дизайнът му изразява модерното семейство, което цени традициите. Гланцовата повърхност на модулната система е в пълен баланс с вградената камина. Детайлите са ненатрапчиви. Цветовете са неутрални и светли, носят успокоение и ни предразполагат да се отпуснем и насладим на любимите ни хора. 
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/хол-3.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **всекидневна**
+Холът е сърцето на дома. Тук се събираме и споделяме щастие и опит. Дизайнът му изразява модерното семейство, което цени традициите. Гланцовата повърхност на модулната система е в пълен баланс с вградената камина. Детайлите са ненатрапчиви. Цветовете са неутрални и светли, носят успокоение и ни предразполагат да се отпуснем и насладим на любимите ни хора. 
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_04_St.jpg
+image.file: лек-за-консумиране-стил/хол-4.jpg
+text:
+## Вътрешен дизайн на **Трапезария**
+Хол и трапезария са обединени и хармонично разпределени в една стая. Диван с лежанка, обсипан с цветни възглавнички. Две малки бели холни масички от бамбук стоят като бижу в средата на хола. Стените са декорирани с картини и часовник.  А от трапезарния кът струи светлина – маса от бамбук с бял плот в комбинация с четири също бели стола за хранене.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_01_St.jpg
+image.file: лек-за-консумиране-стил/хол-1.jpg
+image.position: left
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_04_St.jpg
+image.file: лек-за-консумиране-стил/хол-4.jpg
+text:
+## Вътрешен дизайн на **трапезария**
+Хол и трапезария са обединени и хармонично разпределени в една стая. Диван с лежанка, обсипан с цветни възглавнички. Две малки бели холни масички от бамбук стоят като бижу в средата на хола. Стените са декорирани с картини и часовник.  А от трапезарния кът струи светлина – маса от бамбук с бял плот в комбинация с четири също бели стола за хранене.
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_01_St.jpg
+image.file: лек-за-консумиране-стил/хол-1.jpg
+image.position: center
+text:
+
+:end
+[] 
+
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_05_St.jpg
+image.file: лек-за-консумиране-стил/хол-5.jpg
+text:
+## Вътрешен дизайн на **кухня**
+Кухнята е отделена със стъклена врата, за да не се прекъсва общуването. Запазени са линийте и дизайна на модулната система в хола. В типично скандинавски стил се комбинират бял гланц и дървесен декор. Вградени дръжки за ултраизчистена визия. Интересно решение е гърбът на кухнята от декоративни плочки. Хоризонтални линии и правоъгълни форми. Кухня, от която струи баланс и вдъхновение.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_06_St.jpg
+image.file: лек-за-консумиране-стил/хол-6.jpg
+image.position: left
+text: 
+
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_06_St.jpg
+image.file: лек-за-консумиране-стил/хол-6.jpg
+image.position: right
+text:
+## Вътрешен дизайн на **кухня**
+Кухнята следва линийте и дизайна на модулната система в хола. В типично скандинавски стил се комбинират бял гланц и дървесен декор. Вградени дръжки за ултраизчистена визия. Интересно решение е гърбът на кухнята от декоративни плочки. Хоризонтални линии и правоъгълни форми. Кухня, от която струи баланс и вдъхновение.
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Hol_FINAL_05_St.jpg
+image.file: лек-за-консумиране-стил/хол-5.jpg
+image.position: right
+text:
+:end
+[] 
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_Final_01R.jpg
+image.file: лек-за-консумиране-стил/антре-1.jpg
+text:
+## Интериорен дизайн на **антре**
+Антрето на къщата е главната артерия, от която имате достъп до всяко помещение. В неутрални тонове, но с акцент, който да изрази характера на стопаните. Картината настройва към енергията, която ни очаква в този дом. 
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_04R.jpg
+image.file: лек-за-консумиране-стил/антре-4.jpg
+text:
+Мебелите са от ПДЧ с дървесен декор. Вратите на гардероба са огледални с естетическа и оптическа функция. Подът е предложен в гранитогрес в топъл пастелен цвят. 
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_03R.jpg
+image.file: лек-за-консумиране-стил/антре-3.jpg
+text:
+Следва втори малък коридор, който води към гостната, спалнята и детската стая. Отново декориран с картини.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_Final_01R.jpg
+image.file: лек-за-консумиране-стил/антре-1.jpg
+text:
+## Интериорен дизайн на **антре**
+Антрето на къщата е главната артерия, от която имате достъп до всяко помещение. В неутрални тонове, но с акцент, който да изрази характера на стопаните. Картината настройва към енергията, която ни очаква в този дом. 
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_04R.jpg
+image.file: лек-за-консумиране-стил/антре-4.jpg
+image.position: left
+text:
+Мебелите са от ПДЧ с дървесен декор. Вратите на гардероба са огледални с естетическа и оптическа функция. Подът е предложен в гранитогрес в топъл пастелен цвят. 
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_03R.jpg
+image.file: лек-за-консумиране-стил/антре-3.jpg
+text:
+Следва втори малък коридор, който води към гостната, спалнята и детската стая. Отново декориран с картини.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_05R.jpg
+image.file: лек-за-консумиране-стил/коридор-5.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_06R.jpg
+image.file: лек-за-консумиране-стил/коридор-6.jpg
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **коридор**
+Коридорът е решен отново в бяло, като естествено продължение на антрето. Огледалните врати на гардероба оптически удължават пространството. Стената в дъното му е усвоена с полици от ПДЧ с дървесен декор. Ние сме предложили декорация от картини, които да ни разкрият какви стаи се крият зад тези врати.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_06R.jpg
+image.file: лек-за-консумиране-стил/коридор-6.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **коридор**
+Коридорът е решен отново в бяло, като естествено продължение на антрето. Огледалните врати на гардероба оптически удължават пространството.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Antre_WIP_05R.jpg
+image.file: лек-за-консумиране-стил/коридор-5.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **коридор**
+Стената в дъното е усвоена с полици от ПДЧ с дървесен декор. Ние сме предложили декорация от картини, които да ни разкрият какви стаи се крият зад тези врати.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_01_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-1.jpg
+text:
+## Интериор на **детска стая**
+Детската стая е в типичния момчешки стил. Подът е с ламинат. Мебелите са от МДФ с матово покритие. Цветовата гама е в бяло, сиво и синьо, разчупени от жълти акценти. Бюрото е от МДФ с дървесен декор, който внася хармония и натуралност в излъчването на стаята. Столът имитира спортна седалка на кола, а пуфът напомня за автомобилна гума.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_04_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-4.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_01_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-1.jpg
+text:
+## Интериор на **детска стая**
+Детската стая е в типичния момчешки стил. Подът е с ламинат. Мебелите са от МДФ с матово покритие. Цветовата гама е в бяло, сиво и синьо, разчупени от жълти акценти. Бюрото е от МДФ с дървесен декор, който внася хармония и натуралност в излъчването на стаята. Столът имитира спортна седалка на кола, а пуфът напомня за автомобилна гума.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_04_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_02_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-2.jpg
+text:
+## Интериор на **детска стая**
+Стените са облицовани със санирани тухли в бяло. Основното осветление е „скрито“. Над леглото са добавени два аплика „светкавици“. Над бюрото е предвидена стенна лампа с подвижно рамо. Леглото е облицовано с мека тапицерия. Проектът на стаята обособява три зони – кът за учене, кът за спане и кът за свободното време, които не се конфронтират един с друг и не пречат на концентрацията на детето. Тази стая ще стане любима на всяко момче с приключенски дух.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_03_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-3.jpg
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_02_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-2.jpg
+text:
+## Интериор на **детска стая**
+Стените са облицовани със санирани тухли в бяло. Основното осветление е „скрито“. Над леглото са добавени два аплика „светкавици“. Над бюрото е предвидена стенна лампа с подвижно рамо. Леглото е облицовано с мека тапицерия. Проектът на стаята обособява три зони – кът за учене, кът за спане и кът за свободното време, които не се конфронтират един с друг и не пречат на концентрацията на детето. Тази стая ще стане любима на всяко момче с приключенски дух.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Detska_Final_03_R.jpg
+image.file: лек-за-консумиране-стил/детска-стая-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_Final_01_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-1.jpg
+text:
+## Интериор на **стая за гости**
+Няма по-приветлив дом от този с предвидена стая за гости. В интериора й е обособена и работна зона, ако ви се наложи да поостанете за по-дълго време. Целият интериор говори за номадски живот, характерен за младите хора – граждани на света. 
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_Final_01_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-1.jpg
+text:
+## Интериор на **стая за гости**
+Няма по-приветлив дом от този с предвидена стая за гости. В интериора й е обособена и работна зона, ако ви се наложи да поостанете за по-дълго време. Целият интериор говори за номадски живот, характерен за младите хора – граждани на света. 
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_WIP_02_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-2.jpg
+text:
+Тапетът с винтидж стил внася младежко настроение, а подът, покрит с мокет, ще накара всеки гост да се чувства като у дома си. Предвиден е и работен кът, изцяло в скандинавски стил – бели повърхности, с изчистени линии и нотки от дървесен декор. 
+:end
+
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_WIP_06_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-6.jpg
+text:
+Стената зад бюрото е облицована с бял корк. Пред разтегателния диван небрежно стои малка метална масичка. Целият интериор говори за номадски живот, характерен за младите хора – граждани на света.
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_WIP_02_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-2.jpg
+text:
+Тапетът с винтидж стил внася младежко настроение, а подът, покрит с мокет, ще накара всеки гост да се чувства като у дома си. Предвиден е и работен кът, изцяло в скандинавски стил – бели повърхности, с изчистени линии и нотки от дървесен декор. 
+:end 
+
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_Gostna_WIP_06_R.jpg
+image.file: лек-за-консумиране-стил/стая-за-гости-6.jpg
+text:
+Стената зад бюрото е облицована с бял корк. Пред разтегателния диван небрежно стои малка метална масичка. Целият интериор говори за номадски живот, характерен за младите хора – граждани на света.
+:end 
+[]
+
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_01R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-1.jpg
+text:
+## Вътрешен дизайн на **мокро помещение**
+ Пространството е практично усвоено и е добавена още една тоалетна. Огледалото оптически увеличава помещението. 
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_04R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-4.jpg
+text:
+Подът и едната стена в мокрото помещение са решени в гранитогрес с дървесен декор. За другите стени е заложено на комбинация от гладки и релефни плочки.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_02R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-2.jpg
+text:
+Играта на цветове и форми в облицовката е балансирана и придава на помещението излъване на чистота и натурална свежест. 
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_01R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-1.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **мокро помещение**
+ Пространството е практично усвоено и е добавена още една тоалетна. Огледалото оптически увеличава помещението. 
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_04R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-4.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **коридор**
+Подът и едната стена в мокрото помещение са решени в гранитогрес с дървесен декор. За другите стени е заложено на комбинация от гладки и релефни плочки.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Mokro_Final_02R.jpg
+image.file: лек-за-консумиране-стил/мокро-помещение-2.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **коридор**
+Играта на цветове и форми в облицовката е балансирана и придава на помещението излъване на чистота и натурална свежест. 
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_WC_WIP_02R.jpg
+image.file: лек-за-консумиране-стил/тоалетна-2.jpg
+text:
+
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_WC_WIP_04R.jpg
+image.file: лек-за-консумиране-стил/тоалетна-4.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **тоалетна**
+Подът във втората и самостоятелна тоалетна е отново гранитогрес с дървесен декор. Стенните плочки отново са в сивата гама, като следват нюансите на банята, но с разноцветен и закачлив дизайн. Рафтовете над тоалетната са от ПДЧ с дървесен декор.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_WC_WIP_02R.jpg
+image.file: лек-за-консумиране-стил/тоалетна-2.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **тоалетна**
+Подът във втората и самостоятелна тоалетна е отново гранитогрес с дървесен декор. Стенните плочки отново са в сивата гама, като следват нюансите на банята, но с разноцветен и закачлив дизайн. Рафтовете над тоалетната са от ПДЧ с дървесен декор.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva_WC_WIP_04R.jpg
+image.file: лек-за-консумиране-стил/тоалетна-4.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **тоалетна**
+
+:end
+[]
+
+
+
+===desktop===
+
+columns: 3
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_01_St.jpg
+image.file: лек-за-консумиране-стил/спалня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+Подът е покрит с мек мокет в сиво, сякаш вървите по облак. Леглото е облицовано с нежен кадифен плат в пастелно сиво. Кадифето придава величествен и същевременно уютен облик на спалнята.
+ 
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_01_St.jpg
+image.file: лек-за-консумиране-стил/спалня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+Подът е покрит с мек мокет в сиво, сякаш вървите по облак. Леглото е облицовано с нежен кадифен плат в пастелно сиво. Кадифето придава величествен и същевременно уютен облик на спалнята.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/спалня-2.jpg
+text:
+Мебелите в спалнята са в бял лак и светъл дървесен декор – логично продължение на цялостния дизайн в къщата. 
+:end
+
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/спалня-3.jpg
+text:
+Лъчист и свеж цялостен изглед и предвидено място за съхранение.
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/спалня-2.jpg
+text:
+Мебелите в спалнята са в бял лак и светъл дървесен декор – логично продължение на цялостния дизайн в къщата. 
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Spalnya_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/спалня-3.jpg
+text:
+Лъчист и свеж цялостен изглед и предвидено място за съхранение.
+:end 
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: other
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Terasa_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/тераса-2.jpg
+text:
+## Дизайн на **тераса**
+Терасата е предпочитаното мястото за отдих в хубавото време. 
+:end
+
+tags: other
+display: desktop
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Terasa_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/тераса-3.jpg
+text:
+## Дизайн на **тераса**
+Ние предлагаме елегантното решение от система за остъкляване, което ще ви осигури сигурен комфорт и през студените и дъждовни дни. 
+:end
+
+
+===mobile===
+
+columns: 3
+[.slides]
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Terasa_FINAL_03_St.jpg
+image.file: лек-за-консумиране-стил/тераса-3.jpg
+text:
+## Дизайн на **тераса**
+Терасата е предпочитаното мястото за отдих в хубавото време. 
+:end 
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radeva-shumen/Marketing/Concept/Radeva-Shumen_Terasa_FINAL_02_St.jpg
+image.file: лек-за-консумиране-стил/тераса-2.jpg
+text:
+## Дизайн на **тераса**
+Ние предлагаме елегантното решение от система за остъкляване, което ще ви осигури сигурен комфорт и през студените и дъждовни дни. 
+
+:end 
+[]
+
+
