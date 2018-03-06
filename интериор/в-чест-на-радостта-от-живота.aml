@@ -1,0 +1,629 @@
+layout: /blog/magazine.ect
+title: В чест на (радостта от живота)
+description: Съвременен градски чар и гостоприемна атмосфера, практичност и уют. Съзвучие на интериорни решения, преплетени в мелодията на дома, за да гарантират виртуозно изпълнение. На пръв поглед – изящна простота в детайлите и проявена небрежност в обзавеждането, на втори – проект, в който импровизациите в интериора на жилището всъщност са професионално планирани. Модерен интериорен дизайн. Белота, сиви тонове и ярки акценти за настроение. Ето как добрите идеи се превръщат в реалност, а празното вътрешно пространство се трансформира в дом.
+cover: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_01_N.jpg
+date: 2018-03-06
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_03_St.jpg
+* http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_05_N.jpg
+* http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_02_N.jpg
+* http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Banya_WIP_02_Z.png
+* http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_02_Z.png
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-1.jpg
+image.position: center
+text:
+# В чест на **радостта от живота**
+## Обзавеждане на **апартамент в модерен стил**
+Съвременен градски чар и гостоприемна атмосфера, практичност и уют. Съзвучие на интериорни решения, преплетени в мелодията на дома, за да гарантират виртуозно изпълнение. На пръв поглед – изящна простота в детайлите и проявена небрежност в обзавеждането, на втори – проект, в който импровизациите в интериора на жилището всъщност са професионално планирани. Модерен интериорен дизайн, в който всичко излишно е отстранено. Белота, сиви тонове и ярки акценти за настроение. Ето как добрите идеи се превръщат в реалност, а празното и голо вътрешно пространство се трансформира в дом.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-1.jpg
+image.position: center
+text:
+# В чест на **радостта от живота**
+## Обзавеждане на **апартамент в модерен стил**
+Съвременен градски чар и гостоприемна атмосфера, практичност и уют. Съзвучие на интериорни решения, преплетени в мелодията на дома, за да гарантират виртуозно изпълнение. На пръв поглед – изящна простота в детайлите и проявена небрежност в обзавеждането, на втори – проект, в който импровизациите в интериора на жилището всъщност са професионално планирани. Модерен интериорен дизайн, в който всичко излишно е отстранено. Белота, сиви тонове и ярки акценти за настроение. Ето как добрите идеи се превръщат в реалност, а празното и голо вътрешно пространство се трансформира в дом.
+:end
+
+===desktop===
+
+columns: 3
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_02_St.jpg
+image.file: в-чест-на-радостта-от-живота/кухня-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **кухня**
+Къде се намира зоната на кухнята? В същинския център на дома, в общото пространство на всекидневната, непосредствено до стълбата към звездите. Шкафовете са разположени Г-образно. Изработени са от МДФ. Повърхността на лицето е матирана, в бял цвят – приятна на вид и допир. Семпъл дизайн на мебелите и лесно отваряне на вратите с фрезовани дръжки, боядисани в сиво. Покритието на страниците е фурнир. Гърбът се състои от плочки тип тухла в бяло, внасящи автентичност. Кухненските плотове са от ПДЧ с визия на шпакловка в цвят графит. Конфигурацията е допълнена от остров.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_02_St.jpg
+image.file: в-чест-на-радостта-от-живота/кухня-2.jpg
+image.position: right
+text:
+## Вътрешен дизайн на **кухня**
+Кухненските шкафове са разположени Г-образно. Изработени са от МДФ. Повърхността на лицето е матирана, в бял цвят – приятна на вид и допир. Семпъл дизайн на мебелите и лесно отваряне на вратите с фрезовани дръжки, боядисани в сиво. Покритието на страниците е фурнир. Гърбът се състои от плочки тип тухла в бяло, внасящи автентичност. Кухненските плотове са от ПДЧ с визия на шпакловка в цвят графит. Конфигурацията е допълнена от остров.
+:end
+
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_02_St.jpg
+image.file: в-чест-на-радостта-от-живота/кухня-2.jpg
+image.position: left
+text:
+Къде се намира зоната на кухнята? В същинския център на дома, в общото пространство на всекидневната, непосредствено до стълбата към звездите. 
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_03_St.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-3.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Интериор на **всекидневна**
+Кухненският остров е в самото сърце на всекидневната, между хола, трапезарията и кухнята. Той решава доста от функционалните предизвикателства, възникващи в динамиката в процеса на готвене.
+
+Изваждате ястие от вградената фурна и го оставяте на най-близката повърхност – плота на острова. Минути преди да излезете за работа, изпивате сутрешното си кафе на крак, на кухненския остров. Това е и мястото, където ще откриете голяма част от съдовете и приборите, които са ви необходими. Шкаф с две чекмеджета.
+
+Островът, като всички шкафове в кухнята, е с модерен дизайн, следващ изчистена линия. Изработен е от МДФ. Плотът и една от страниците, която се явява негово продължение, са от ПДЧ в сиво.
+
+Практично и красиво решение е вграденото в мебелите осветление – с преобразяващо значение.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_03_St.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-3.jpg
+image.position: center
+text:
+## Интериор на **всекидневна**
+Кухненският остров е в самото сърце на всекидневната, между хола, трапезарията и кухнята. Той решава доста от функционалните предизвикателства, възникващи в динамиката в процеса на готвене.
+
+Изваждате ястие от вградената фурна и го оставяте на най-близката повърхност – плота на острова. Минути преди да излезете за работа, изпивате сутрешното си кафе на крак, на кухненския остров. Това е и мястото, където ще откриете голяма част от съдовете и приборите, които са ви необходими. Шкаф с две чекмеджета.
+
+Островът, като всички шкафове в кухнята, е с модерен дизайн, следващ изчистена линия. Изработен е от МДФ. Плотът и една от страниците, която се явява негово продължение, са от ПДЧ в сиво.
+
+Практично и красиво решение е вграденото в мебелите осветление – с преобразяващо значение.
+:end
+
+===desktop===
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Обзавеждане на **трапезария**
+В зоната на трапезарията цари ред. Заложихме на ефектите на симетрията, на игра на светлината и внимателно подбрана декорация.
+
+Най-близката стена е облицована с декоративна мазилка в бяло. Тази релефна текстура е визуално разделена на отделни сегменти благодарение на „лентите“ окачен таван, продължаващи към стената, със скрито осветление по края, подобаващо декорирани с платна, показващи живота на цветовете, ограничени от черните рамки. 
+
+Заедно с клиентите ни се спряхме на четири-/шестместна правоъгълна маса със стабилна конструкция и изчистен дизайн в бяло. Комбинирахме я с дървени столове – рамка от масив и седалка от МДФ. Облегалката е с традиционен вид с два кръстосани елемента. Два стола в бяло и два в топъл дървесен цвят, който чудесно се съчетава с по-светлия дървесен нюанс на ламинирания паркет.
+:end
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_04_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-4.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_04_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-4.jpg
+image.position: left
+text:
+## Обзавеждане на **трапезария**
+В зоната на трапезарията цари ред. Заложихме на ефектите на симетрията, на игра на светлината и внимателно подбрана декорация.
+
+Най-близката стена е облицована с декоративна мазилка в бяло. Тази релефна текстура е визуално разделена на отделни сегменти благодарение на „лентите“ окачен таван, продължаващи към стената, със скрито осветление по края, подобаващо декорирани с платна, показващи живота на цветовете, ограничени от черните рамки. 
+
+Заедно с клиентите ни се спряхме на четири-/шестместна правоъгълна маса със стабилна конструкция и изчистен дизайн в бяло. Комбинирахме я с дървени столове – рамка от масив и седалка от МДФ. Облегалката е с традиционен вид с два кръстосани елемента. Два стола в бяло и два в топъл дървесен цвят, който чудесно се съчетава с по-светлия дървесен нюанс на ламинирания паркет.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_05_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-5.jpg
+image.position: center
+text:
+## Интериорен дизайн на **хол**
+Хармония и много естествена светлина. Зоната на хола е място на пълноценна почивка в компанията на любимите хора. Холният ъгъл е сгушен между прозореца и стената, покрита с декоративни бели тухлички. С опция за разтягане и ракла за съхранение на вещи. Тапицерия в сиво. Зад него поставихме шкаф – любимата книга вече е само на една ръка разстояние. Килим с къса нишка в бяло, бежово и няколко нюанса на сивото.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_06_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-6.jpg
+image.position: center
+text:
+Стената зад телевизора е обработена с латекс в светлосиво. Краят на кухненските шкафове преминава в нисък шкаф с място за сядане. Отворените обеми сякаш са струпани до затворените и не следват принципите на симетрията. Модули с бяла и светлосиня боя, фурнир.
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_05_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-5.jpg
+image.position: center
+text:
+## Интериорен дизайн на **хол**
+Хармония и много естествена светлина. Зоната на хола е място на пълноценна почивка в компанията на любимите хора. Холният ъгъл е сгушен между прозореца и стената, покрита с декоративни бели тухлички. С опция за разтягане и ракла за съхранение на вещи. Тапицерия в сиво. Зад него поставихме шкаф – любимата книга вече е само на една ръка разстояние. Килим с къса нишка в бяло, бежово и няколко нюанса на сивото.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Hol_FINAL_06_N.jpg
+image.file: в-чест-на-радостта-от-живота/всекидневна-6.jpg
+image.position: center
+text:
+Стената зад телевизора е обработена с латекс в светлосиво. Краят на кухненските шкафове преминава в нисък шкаф с място за сядане. Отворените обеми сякаш са струпани до затворените и не следват принципите на симетрията. Модули с бяла и светлосиня боя, фурнир.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov-Vitosha_Terasa-Hol_FINAL_01_St.png
+image.file: в-чест-на-радостта-от-живота/тераса-1.jpg
+image.position: center
+text:
+## Дизайн на **тераса**
+В този апартамент има две тераси – преимущество, за което и да е градско жилище, особено ако местоположението му предполага красива гледка към планината и чист въздух. Това е по-голямата от двете тераси, намираща се до всекидневната. Гранитогресът беше наличен. Използвахме пространството в двата края на терасата за поставяне ПВЦ шкафове с голяма вместимост, изработени по поръчка. Первазът влиза в ролята на маса в непосредствена близост до два бели сгъваеми стола от ПВЦ.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov-Vitosha_Terasa-Hol_FINAL_02_St.png
+image.file: в-чест-на-радостта-от-живота/тераса-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov-Vitosha_Terasa-Hol_FINAL_01_St.png
+image.file: в-чест-на-радостта-от-живота/тераса-1.jpg
+image.position: center
+text:
+## Дизайн на **тераса**
+В този апартамент има две тераси – преимущество, за което и да е градско жилище, особено ако местоположението му предполага красива гледка към планината и чист въздух. Това е по-голямата от двете тераси, намираща се до всекидневната. Гранитогресът беше наличен. Первазът влиза в ролята на маса в непосредствена близост до два бели сгъваеми стола от ПВЦ.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov-Vitosha_Terasa-Hol_FINAL_02_St.png
+image.file: в-чест-на-радостта-от-живота/тераса-2.jpg
+image.position: right
+text:
+Използвахме пространството в двата края на терасата за поставяне ПВЦ шкафове с голяма вместимост, изработени по поръчка.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_01_Z_FIX.png
+image.file: в-чест-на-радостта-от-живота/антре-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **антре**
+Антрето е приветливо и вписано в цялостната концепция за интериора на дома. Бял таван и няколко кръгли осветителни тела. Подовата настилка е гранитогрес с визия на дърво. Зад вратичките на гардероба се крият мокро помещение и сервизно помещение.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_03_Z.png
+image.file: в-чест-на-радостта-от-живота/антре-3.jpg
+image.position: center
+text:
+Част от стените са обработени с бял латекс, а други са покрити с ламперия. Ламперията в синьо-сиво всъщност прикрива ревизионни кутии.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_04_Z.png
+image.file: в-чест-на-радостта-от-живота/антре-4.jpg
+image.position: center
+text:
+Всички мебели в антрето са от МДФ. Шкафът за обувки се явява продължение на по-тъмната ламперия. Закачалките са направени по поръчка. Основният материал е прахово боядисан метал. Цветът е бял.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_01_Z_FIX.png
+image.file: в-чест-на-радостта-от-живота/антре-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **антре**
+Антрето е приветливо и вписано в цялостната концепция за интериора на дома. Бял таван и няколко кръгли осветителни тела. Подовата настилка е гранитогрес с визия на дърво. Зад вратичките на гардероба се крият мокро помещение и сервизно помещение.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_03_Z.png
+image.file: в-чест-на-радостта-от-живота/антре-3.jpg
+image.position: center
+text:
+Част от стените са обработени с бял латекс, а други са покрити с ламперия. Ламперията в синьо-сиво всъщност прикрива ревизионни кутии.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Antre_WIP_04_Z.png
+image.file: в-чест-на-радостта-от-живота/антре-4.jpg
+image.position: center
+text:
+Всички мебели в антрето са от МДФ. Шкафът за обувки се явява продължение на по-тъмната ламперия. Закачалките са направени по поръчка. Основният материал е прахово боядисан метал. Цветът е бял.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_02_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-2.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Студеното сиво-синьо, будещо асоциации с леда, прави компания на слънчевото яркожълто, обгърнало креслото до прозореца в спалнята. Таванът е бял, а подът е покрит с ламиниран паркет в светъл цвят. За стената зад спалнята избрахме ефектен фототапет, създаващ илюзията за релефна повърхност в бяло. Леглото и таблата са изцяло тапицирани с дамаска в сиво.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_03_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-1.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Студеното сиво-синьо, будещо асоциации с леда, прави компания на слънчевото яркожълто, обгърнало креслото до прозореца в спалнята. Таванът е бял, а подът е покрит с ламиниран паркет в светъл цвят. За стената зад спалнята избрахме ефектен фототапет, създаващ илюзията за релефна повърхност в бяло. Леглото и таблата са изцяло тапицирани с дамаска в сиво.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_03_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-3.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_04_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+Телевизорът се откроява на фона на бялата стена. Шкафът под него, както и всички останали мебели в спалнята, е изработен от МДФ. Покритието на обзавеждането е комбинирано – бяла полиуретанова боя и фурнир. Декорацията е пестелива, но въздействаща.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_04_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+Телевизорът се откроява на фона на бялата стена. Шкафът под него, както и всички останали мебели в спалнята, е изработен от МДФ. Покритието на обзавеждането е комбинирано – бяла полиуретанова боя и фурнир. Декорацията е пестелива, но въздействаща.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Spalnya_FINAL_02_N.jpg
+image.file: в-чест-на-радостта-от-живота/спалня-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Dreshnik_Spalnya_FINAL_02_N.jpg
+image.file: в-чест-на-радостта-от-живота/дрешник-2.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Dreshnik_Spalnya_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/дрешник-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Обзавеждане на **дрешник**
+Дрешникът е отделен от спалнята чрез стъклена врата с прахово боядисана метална рамка в черно.
+
+Подовата настилка е продължение на тази в спалнята – ламиниран паркет. Всички мебели са от ПДЧ, боядисано в бяло. Осигурихме достатъчно светлина, идваща както от осветителните тела на тавана, така и от вграденото в обзавеждането осветление.
+
+Вътрешното пространство на шкафовете е организирано така, че тяхната вместимост да бъде максимално рационално оползотворена и съобразена с нуждите на собствениците на жилището. Има както чекмеджета, така и рафтове за сгънати дрехи и лостове за закачалки.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Dreshnik_Spalnya_FINAL_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/дрешник-1.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+Дрешникът е отделен от спалнята чрез стъклена врата с прахово боядисана метална рамка в черно.
+
+Подовата настилка е продължение на тази в спалнята – ламиниран паркет. Всички мебели са от ПДЧ, боядисано в бяло. Осигурихме достатъчно светлина, идваща както от осветителните тела на тавана, така и от вграденото в обзавеждането осветление.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Dreshnik_Spalnya_FINAL_02_N.jpg
+image.file: в-чест-на-радостта-от-живота/дрешник-2.jpg
+image.position: center
+text:
+Вътрешното пространство на шкафовете е организирано така, че тяхната вместимост да бъде максимално рационално оползотворена и съобразена с нуждите на собствениците на жилището. Има както чекмеджета, така и рафтове за сгънати дрехи и лостове за закачалки.
+:end
+[]
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_01_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **детска стая**
+Детската стая е най-слънчевото кътче от дома. Цветовият акцент тук е патешко жълто. Дизайнът на помещението и мебелите е различен и интересен. Таванът е отчасти окачен и боядисан в жълто. В него са вградени светлини тип луна. Някои елементи от обзавеждането също са в жълто, други – в бяло или са покрити с фурнир. Диагонални прави линии. Подът е покрит с ламиниран паркет – внася уют и топлина и е подходящ за игри.
+:end
+
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_02_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_02_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **детска стая**
+Детската стая е най-слънчевото кътче от дома. Цветовият акцент тук е патешко жълто. Дизайнът на помещението и мебелите е различен и интересен. Таванът е отчасти окачен и боядисан в жълто. В него са вградени светлини тип луна. Някои елементи от обзавеждането също са в жълто, други – в бяло или са покрити с фурнир. Диагонални прави линии.
+:end
+
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_01_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-1.jpg
+image.position: center
+text:
+Подът е покрит с ламиниран паркет – внася уют и топлина и е подходящ за игри.
+:end
+[]
+
+===desktop===
+
+columns: 3
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_04_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-4.jpg
+image.position: center
+text:
+## Интериор на **детска стая**
+За да осигурим повече свободно пространство в детската стая, проектирахме бюро с прибиращ се плот. Допълнително предимство на тази функционалност е скриването на рафтовете от погледа. Така килимът може да се превърне в приключенска арена, а цветните лица, изразяващи различни емоции – да оживеят в детското въображение.
+:end
+
+===mobile===
+
+columns: 3
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Detska_WIP_04_Z.png
+image.file: в-чест-на-радостта-от-живота/детска-стая-4.jpg
+image.position: center
+text:
+## Интериор на **детска стая**
+За да осигурим повече свободно пространство в детската стая, проектирахме бюро с прибиращ се плот. Допълнително предимство на тази функционалност е скриването на рафтовете от погледа. Така килимът може да се превърне в приключенска арена, а цветните лица, изразяващи различни емоции – да оживеят в детското въображение.
+:end
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Banya_WIP_01_Z.png
+image.file: в-чест-на-радостта-от-живота/баня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+Леденият чар на синьо-сивото е завладял банята и носи усещане за свежест. Плочките, покриващи площта на стените в душ-зоната, наподобяват водна повърхност и имат успокояващ ефект. Използвахме стъклена преграда за обособяване на зоните в банята. Поставихме стъклени рафтове в нишата над тоалетната.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Banya_WIP_02_Z.png
+image.file: в-чест-на-радостта-от-живота/баня-2.jpg
+image.position: center
+text:
+Балансиран и модерен интериорен дизайн на баня. Светлосиньото, сивото, бялото и металът си партнират, за да създадат приятна атмосфера, обляна в светлина. Голямо огледало над мивката. Шкафовете са изработени от ПВЦ. Санитарията е бяла.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_WC_WIP_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/тоалетна-1.jpg
+image.position: center
+text:
+## Обзавеждане на **тоалетна**
+Помещението, което превърнахме в тоалетна, е малко, но практично. Средата зарежда с положителна енергия, за което допринасят жизнерадостните цветове – бяло, светложълто и синьо-сиво. Рамката на огледалото над мивката е в жълто, както и ПВЦ шкафът над тоалетната.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Banya_WIP_02_Z.png
+image.file: в-чест-на-радостта-от-живота/баня-2.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+Балансиран и модерен интериорен дизайн на баня. Светлосиньото, сивото, бялото и металът си партнират, за да създадат приятна атмосфера, обляна в светлина. Голямо огледало над мивката. Шкафовете са изработени от ПВЦ. Санитарията е бяла.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_Banya_WIP_01_Z.png
+image.file: в-чест-на-радостта-от-живота/баня-1.jpg
+image.position: center
+text:
+Леденият чар на синьо-сивото е завладял банята и носи усещане за свежест. Плочките, покриващи площта на стените в душ-зоната, наподобяват водна повърхност и имат успокояващ ефект. Използвахме стъклена преграда за обособяване на зоните в банята. Поставихме стъклени рафтове в нишата над тоалетната.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/angelov-vitosha/Marketing/Concept/Angelov_Vitosha_WC_WIP_01_N.jpg
+image.file: в-чест-на-радостта-от-живота/тоалетна-1.jpg
+image.position: center
+text:
+## Обзавеждане на **тоалетна**
+Помещението, което превърнахме в тоалетна, е малко, но практично. Средата зарежда с положителна енергия, за което допринасят жизнерадостните цветове – бяло, светложълто и синьо-сиво. Рамката на огледалото над мивката е в жълто, както и ПВЦ шкафът над тоалетната.
+:end
+[]
