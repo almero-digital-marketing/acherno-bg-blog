@@ -147,7 +147,7 @@ text:
 columns: 1
 tags: livingroom
 display: desktop
-style: inline
+style: inline dark
 text:
 ## Интериорен дизайн на **хол**
 Масата за кафе е с правоъгълна форма и с чекмедже. Изработена е от МДФ, масивно каучуково дърво и стомана. Покритието, с изключение на краката, е бял лак.
@@ -160,7 +160,7 @@ text:
 columns: 2
 tags: livingroom
 display: desktop
-style: inline
+style: inline dark
 image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Hol_Final_02R.jpg
 image.file: съвършена-простота-в-цветовете-на-щастието/всекидневна-2.jpg
 image.position: left
@@ -196,7 +196,7 @@ text:
 columns: 1
 tags: other
 display: desktop
-style: inline 
+style: inline dark
 image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Antre_Final_05R.jpg
 image.file: съвършена-простота-в-цветовете-на-щастието/антре-5.jpg
 image.position: center
@@ -206,7 +206,17 @@ text:
 columns: 1
 tags: other
 display: desktop
-style: inline
+style: inline dark
+image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Antre_Final_03R.jpg
+image.file: съвършена-простота-в-цветовете-на-щастието/антре-3.jpg
+image.position: left
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
 text:
 ## Обзавеждане на **антре**
 
@@ -215,16 +225,6 @@ text:
 Едно под друго поставихме две големи стенни огледала с фрезовани рамки в сиво.  Целта е не само човек да може да се огледа в цял ръст, преди да излезе, но и да се постигне оптическо уголемяване на пространството.
 
 На отсрещната стена монтирахме закачалки и шкаф за обувки с покритие бял лак, който отлично се съчетава с дървесния декор на вратите.
-:end
-
-columns: 1
-tags: other
-display: desktop
-style: inline
-image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Antre_Final_03R.jpg
-image.file: съвършена-простота-в-цветовете-на-щастието/антре-3.jpg
-image.position: left
-text:
 :end
 
 ===mobile===
@@ -242,16 +242,6 @@ text:
 
 ===desktop===
 
-columns: 2
-tags: bedroom
-display: desktop
-image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Spalnya_Final_02R.jpg
-image.file: съвършена-простота-в-цветовете-на-щастието/спалня-2.jpg
-image.position: center
-style: inline dark
-text:
-:end
-
 columns: 1
 tags: bedroom
 display: desktop
@@ -263,6 +253,16 @@ text:
 Таванът е бял, а стената зад леглото е покрита с фототапет в бяло, светлосиво, бледосиньо и розовеещо бледобежово. Водещи са геометричните мотиви, най-вече триъгълните форми. Настилката е паркет, който запазихме и обновихме.
 
 Спалнята е с черна метална рамка. От метал, боядисан в черно, са и двата аплика над леглото. Добавихме два сгъваеми дървени стола, боядисани в керемиденочервено, подхождащо на кафявия цвят на паркета.
+:end
+
+columns: 2
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Spalnya_Final_02R.jpg
+image.file: съвършена-простота-в-цветовете-на-щастието/спалня-2.jpg
+image.position: center
+style: inline dark
+text:
 :end
 
 ===mobile===
@@ -331,7 +331,7 @@ text:
 columns: 1
 tags: bathroom
 display: desktop
-style: inline
+style: inline dark
 image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Banya_Final_04R.jpg
 image.file: съвършена-простота-в-цветовете-на-щастието/баня-4.jpg
 image.position: center
@@ -343,7 +343,7 @@ text:
 columns: 1
 tags: bathroom
 display: desktop
-style: inline
+style: inline dark
 image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Banya_Final_02R.jpg
 image.file: съвършена-простота-в-цветовете-на-щастието/баня-2.jpg
 image.position: center
@@ -354,7 +354,7 @@ text:
 columns: 1
 tags: bathroom
 display: desktop
-style: inline
+style: inline dark
 image.url: http://projects.acherno.int/plamen-borisov/Marketing/Concept/Plamen_Banya_Final_03R.jpg
 image.file: съвършена-простота-в-цветовете-на-щастието/баня-3.jpg
 image.position: center
