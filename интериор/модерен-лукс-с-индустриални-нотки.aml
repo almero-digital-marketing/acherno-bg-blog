@@ -1,0 +1,573 @@
+layout: /blog/magazine.ect
+title: Модерен лукс с (индустриални нотки)
+description: Жилището, което ви представяме, е взело най-доброто от интериорния дизайн, вписан в рамките на личния вкус, при това в няколко различни посоки. Модерният лукс се среща с автентичната непосредственост на индустриалния стил. В една от спалните заложихме на класически мотиви, внимателно втъкани в цялостната концепция за трансформацията на пространството. Оригинален и нестандартен поглед към разширяващите се граници на възможностите в един съвременен дом, изпълнен с красота и практични решения.
+cover: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_01_N.jpg
+date: 2018-05-03
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_04_N.jpg
+* http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_05_N.jpg
+* http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Spalnya_02_FINAL_01_Z.png
+* http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_01_R.jpg
+* http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_03_St.png
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_01_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-1.jpg
+image.position: center
+text:
+# Модерен лукс с **индустриални нотки**
+## **Съвременно обзавеждане** на апартамент, съчетаващо няколко стила
+Жилището, което ви представяме, е взело най-доброто от интериорния дизайн, вписан в рамките на личния вкус, при това в няколко различни посоки. Модерният лукс се среща с автентичната непосредственост на индустриалния стил. В една от спалните заложихме на класически мотиви, внимателно втъкани в цялостната концепция за трансформацията на пространството. Оригинален и нестандартен поглед към разширяващите се граници на възможностите в един съвременен дом, изпълнен с красота и практични решения.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_01_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-1.jpg
+image.position: center
+text:
+# Модерен лукс с **индустриални нотки**
+## **Съвременно обзавеждане** на апартамент, съчетаващо няколко стила
+Жилището, което ви представяме, е взело най-доброто от интериорния дизайн, вписан в рамките на личния вкус, при това в няколко различни посоки. Модерният лукс се среща с автентичната непосредственост на индустриалния стил. В една от спалните заложихме на класически мотиви, внимателно втъкани в цялостната концепция за трансформацията на пространството. Оригинален и нестандартен поглед към разширяващите се граници на възможностите в един съвременен дом, изпълнен с красота и практични решения.
+:end
+
+===desktop===
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_05_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-5.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline dark
+text:
+## Обзавеждане на **кухня**
+
+Забравете за шаблона „кухня в бяло и черно“, защото вътрешният дизайн на тази зона е много повече.
+
+Пределно изчистените матови и гланцови повърхности приемат разноликото влияние на дървения плот и съвършено белия гръб от лакобел.
+
+Аспираторът е незабележим до момента, в който не надникнете под горния ред шкафове. Вграденото в кухненските мебели осветление е в изобилие.
+
+Взехме предвид предназначението на всяка точка от наличното място и го оптимизирахме.
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_05_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-5.jpg
+image.position: center
+text:
+## Обзавеждане на **кухня**
+
+Забравете за шаблона „кухня в бяло и черно“, защото вътрешният дизайн на тази зона е много повече. Пределно изчистените матови и гланцови повърхности приемат разноликото влияние на дървения плот и съвършено белия гръб от лакобел. Аспираторът е незабележим до момента, в който не надникнете под горния ред шкафове. Вграденото в кухненските мебели осветление е в изобилие. Взехме предвид предназначението на всяка точка от наличното място и го оптимизирахме.
+:end
+
+===desktop===
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_03_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-3.jpg
+image.position: center
+text:
+## Мебели в **трапезария**
+Трапезарията е неотделима част от всекидневната. Обзавеждането тук е подчинено не само на принципите на модерния дизайн, но и се усеща полъхът на индустриалния стил. Двете осветителни тела над трапезната маса се спускат от тавана на метални вериги. Масата е с бял гланцов плот и метални крака. С метална конструкция е и етажерката над телевизора. Столовете са тапицирани с дамаска в доминиращата в помещението гама. Те осигуряват повече уют и удобство в часовете, прекарани в приятна компания на масата.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_03_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-3.jpg
+image.position: center
+text:
+## Мебели в **трапезария**
+Трапезарията е неотделима част от всекидневната. Обзавеждането тук е подчинено не само на принципите на модерния дизайн, но и се усеща полъхът на индустриалния стил. Двете осветителни тела над трапезната маса се спускат от тавана на метални вериги. Масата е с бял гланцов плот и метални крака. С метална конструкция е и етажерката над телевизора. Столовете са тапицирани с дамаска в доминиращата в помещението гама. Те осигуряват повече уют и удобство в часовете, прекарани в приятна компания на масата.
+:end
+
+===desktop===
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline dark
+text:
+## Интериор на **всекидневна**
+
+Всекидневната впечатлява с изключителното разнообразие на изразните средства в интериора.
+
+Покритието на мебелите е комбинация от МДФ гланц и мат.
+
+Таванът е боядисан в цвят на необработен бетон, което засилва усещането, характерно за индустриалния дизайн. Същата функция имат и видимите черни кабели, минаващи по тавана и захранващи висящите тела над холната и трапезната маса.
+
+Бетонната колона от страната на прозорците е затворена зад стъклени панели – реализация на идеята за по-сурово присъствие на необработения бетон в интериора, запазен в непроменен вид, но отделен чрез стъкло, гарантиращо естетическия завършек на линията.
+:end
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_04_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-4.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_04_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-4.jpg
+image.position: center
+text:
+## Интериор на **всекидневна**
+
+Всекидневната впечатлява с изключителното разнообразие на изразните средства в интериора. Покритието на мебелите е комбинация от МДФ гланц и мат. Таванът е боядисан в цвят на необработен бетон, което засилва усещането, характерно за индустриалния дизайн. Същата функция имат и видимите черни кабели, минаващи по тавана и захранващи висящите тела над холната и трапезната маса. Бетонната колона от страната на прозорците е затворена зад стъклени панели – реализация на идеята за по-сурово присъствие на необработения бетон в интериора, запазен в непроменен вид, но отделен чрез стъкло, гарантиращо естетическия завършек на линията.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_02_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-2.jpg
+image.position: center
+text:
+## Интериорен дизайн на **хол**
+
+Стената зад дивана е покрита с декоративни тухли в бяло. Те подчертават ефекта на индустриалния почерк, а и на двата вида осветление в хола – висящите на черни кабели лампи и скритото в окачената част от тавана осветление. Цветът на дамаската, с която е тапициран холният ъгъл, подхожда на избрания ламиниран паркет и на килима с дълга нишка. Масата за кафе и двете табуретки от същата продуктова серия с нестандартен дизайн са изработени от алуминий и допринасят за постигането на луксозна визия, наред с останалите метални елементи на мебелите в помещението – краката на ТВ-шкафа, етажерката над него и краката на трапезната маса.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_06_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-6.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_02_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-2.jpg
+image.position: left
+text:
+## Интериорен дизайн на **хол**
+
+Стената зад дивана е покрита с декоративни тухли в бяло. Те подчертават ефекта на индустриалния почерк, а и на двата вида осветление в хола – висящите на черни кабели лампи и скритото в окачената част от тавана осветление. Цветът на дамаската, с която е тапициран холният ъгъл, подхожда на избрания ламиниран паркет и на килима с дълга нишка. Масата за кафе и двете табуретки от същата продуктова серия с нестандартен дизайн са изработени от алуминий и допринасят за постигането на луксозна визия, наред с останалите метални елементи на мебелите в помещението – краката на ТВ-шкафа, етажерката над него и краката на трапезната маса.
+:end
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Hol_FINAL_06_N.jpg
+image.file: модерен-лукс-с-индустриални-нотки/всекидневна-6.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Antre_FINAL_03_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/антре-3.jpg
+image.position: center
+text:
+## Обзавеждане на **антре**
+
+Повече простор, уют и пълноценно усвояване на пространството, отколкото сте свикнали да виждате в често възприеманото като второстепенно помещение на антрето. Тук властта принадлежи на контрастите.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Antre_FINAL_02_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/антре-2.jpg
+image.position: center
+text:
+Подовите плочки, които използвахме, продължават в част от всекидневната и в кухнята. Таванът, облечен в ламперия, преминава и по стената. Има шлиц за осветление. Друга част от тавана е опъната, с вградено осветление.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Antre_FINAL_05_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/антре-5.jpg
+image.position: center
+text:
+Мебелите са изработени от МДФ – покритието им е съчетание на боя с гланцов ефект и фурнир. Всички лъскави и огледални повърхности допринасят за създаването на усещане за простор и лукс.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Antre_FINAL_02_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/антре-2.jpg
+image.position: center
+text:
+## Обзавеждане на **антре**
+
+Повече простор, уют и пълноценно усвояване на пространството. Тук властта принадлежи на контрастите. Подовите плочки продължават в част от всекидневната и в кухнята. Таванът, облечен в ламперия, преминава и по стената. Има шлиц за осветление. Друга част от тавана е опъната, с вградено осветление.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Antre_FINAL_05_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/антре-5.jpg
+image.position: center
+text:
+Мебелите са изработени от МДФ – покритието им е съчетание на боя с гланцов ефект и фурнир. Всички лъскави и огледални повърхности допринасят за създаването на усещане за простор и лукс.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Интериор на **спалня**
+
+В първата спалня в жилището цари атмосфера на необезпокоявана от нищо и никого хармония, облечена във вече познатата от хола неутрална цветова гама – бяло, сиво и дървесни нюанси.
+
+Основен акцент в тази спалня са класическите елементи – изящните метални фигури по леглото, тънките полиуретанови профили, изпъкващи като рамки на фона на стените, металният полилей в класически стил и т.н.
+
+Подовото покритие е ламиниран паркет в топъл дървесен цвят.
+:end
+
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_01_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-1.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_01_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-1.jpg
+image.position: center
+text:
+## Интериор на **спалня**
+
+В първата спалня в жилището цари атмосфера на необезпокоявана от нищо и никого хармония, облечена във вече познатата от хола неутрална цветова гама – бяло, сиво и дървесни нюанси. Основен акцент в тази спалня са класическите елементи – изящните метални фигури по леглото, тънките полиуретанови профили, изпъкващи като рамки на фона на стените, металният полилей в класически стил и т.н. Подовото покритие е ламиниран паркет в топъл дървесен цвят.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_04_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-4.jpg
+image.position: center
+text:
+## Мебели в **спалня**
+
+Друга препратка от спалнята към вътрешния дизайн на хола е стената с белите декоративни тухли, осветена от вградените в тавана луни. Плотът на иначе белите шкафове с класически профил е с тъмен фурнир с изразена текстура. Многофункционално приложение на мебелите на стената срещу леглото и детайлни дръжки за разкош. Дрешникът към тази спалня е с врати тип капаци.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_05_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-5.jpg
+image.position: center
+text:
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_03_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_04_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-4.jpg
+image.position: center
+text:
+## Мебели в **спалня**
+
+Друга препратка от спалнята към вътрешния дизайн на хола е стената с белите декоративни тухли, осветена от вградените в тавана луни. Плотът на иначе белите шкафове с класически профил е с тъмен фурнир с изразена текстура. Многофункционално приложение на мебелите на стената срещу леглото и детайлни дръжки за разкош. Дрешникът към тази спалня е с врати тип капаци.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia-Petrova_Spalnya_FINAL_05_St.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-5.jpg
+image.position: left
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Dreshnik_01.jpg
+image.file: модерен-лукс-с-индустриални-нотки/дрешник-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+text:
+## Обзавеждане на **дрешник**
+
+И най-малките подробности в големия дрешник са проектирани и реализирани в името на практичността и удобството.
+
+В белите шкафове от ПДЧ е предвидено място за подреждане и съхранение на дрехи, обувки, чанти, както и други аксесоари и вещи.
+
+Обемите са от различен тип и с различна големина, тъй като са съобразени с бъдещата употреба на пространството.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Dreshnik_02.jpg
+image.file: модерен-лукс-с-индустриални-нотки/дрешник-2.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Dreshnik_01.jpg
+image.file: модерен-лукс-с-индустриални-нотки/дрешник-1.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+
+И най-малките подробности в големия дрешник са проектирани и реализирани в името на практичността и удобството. В белите шкафове от ПДЧ е предвидено място за подреждане и съхранение на дрехи, обувки, чанти, както и други аксесоари и вещи. Обемите са от различен тип и с различна големина, тъй като са съобразени с бъдещата употреба на пространството.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Dreshnik_02.jpg
+image.file: модерен-лукс-с-индустриални-нотки/дрешник-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Spalnya_02_FINAL_01_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-2-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Интериор на **втора спалня**
+
+Модерна интериорна среда, спокойствие и уют, предразполагащи към пълноценна почивка – това е най-краткото описание на втората спалня в апартамента.
+
+Стената зад леглото, а и самото легло са тапицирани с дамаска в бежово за повече мекота и комфорт.
+
+От двете страни на стенната тапицерия поставихме огледални повърхности от пода до земята, които водят до оптическо увеличаване на наличното пространство. Подобен ефект има и естествената светлина, нахлуваща през прозореца.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Spalnya_02_FINAL_01_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-2-1.jpg
+image.position: center
+text:
+## Интериор на **втора спалня**
+
+Модерна интериорна среда, спокойствие и уют, предразполагащи към пълноценна почивка – това е най-краткото описание на втората спалня в апартамента. Стената зад леглото, а и самото легло са тапицирани с дамаска в бежово за повече мекота и комфорт. От двете страни на стенната тапицерия поставихме огледални повърхности от пода до земята, които водят до оптическо увеличаване на наличното пространство. Подобен ефект има и естествената светлина, нахлуваща през прозореца.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Spalnya_02_FINAL_04_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-2-4.jpg
+image.position: right
+text:
+Стените, освен тази зад леглото, са изчистени, обработени са само с латекс и са лишени от детайлност. За пода избрахме подходящ ламиниран паркет в топъл дървесен нюанс. Мебелите: гардероб, комод, нощни шкафчета, са в модерен стил, боядисани са с бяла боя. Полилеят и нощните лампи са от една и съща серия.
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **втора спалня**
+
+Стените, освен тази зад леглото, са изчистени, обработени са само с латекс и са лишени от детайлност.
+
+За пода избрахме подходящ ламиниран паркет в топъл дървесен нюанс.
+
+Мебелите - гардероб, комод, нощни шкафчета, са в модерен стил, боядисани са с бяла боя.
+
+Полилеят и нощните лампи са от една и съща серия.
+:end
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Petrova_Spalnya_02_FINAL_04_Z.png
+image.file: модерен-лукс-с-индустриални-нотки/спалня-2-4.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+
+===desktop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_01_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+
+Баня в модерен стил, отговаряща на високите изисквания за комфорт. Съчетание на четири вида плочки от един производител: мозаични, два вида правоъгълни стенни плочки, едните от които релефни, и правоъгълни подови плочки. Дизайнът наподобява красотата на мрамора.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_02_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-2.jpg
+image.position: center
+text:
+Интериорът на банята беше създаден в неутралната бежово-кафява гама. Балансът е постигнат и благодарение на прецизно премерено осветление. Душ-зоната е отделена от останалата част от помещението чрез стъклена преграда. Сифонът е линеен. Обособихме ниша с вградено осветление над тоалетната.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_04_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-4.jpg
+image.position: center
+text:
+Дизайнът на санитарията и шкафовете също е модерен. Широкият шкаф под мивката е в цвят капучино. Плотът е в бяло. Голямото огледало с допълнително осветление е още едно предимство на тази баня, което трябва да се отчете.
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_01_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+
+Баня в модерен стил, отговаряща на високите изисквания за комфорт. Съчетание на четири вида плочки от един производител: мозаични, два вида правоъгълни стенни плочки, едните от които релефни, и правоъгълни подови плочки. Дизайнът наподобява красотата на мрамора.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_02_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-2.jpg
+image.position: center
+text:
+Интериорът на банята беше създаден в неутралната бежово-кафява гама. Балансът е постигнат и благодарение на прецизно премерено осветление. Душ-зоната е отделена от останалата част от помещението чрез стъклена преграда. Сифонът е линеен. Обособихме ниша с вградено осветление над тоалетната.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/virzhinia-petrova/Marketing/Concept/Virzhinia_Banya_FINAL_04_R.jpg
+image.file: модерен-лукс-с-индустриални-нотки/баня-4.jpg
+image.position: center
+text:
+Дизайнът на санитарията и шкафовете също е модерен. Широкият шкаф под мивката е в цвят капучино. Плотът е в бяло. Голямото огледало с допълнително осветление е още едно предимство на тази баня, което трябва да се отчете.
+:end
+[]
