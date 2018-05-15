@@ -1,0 +1,461 @@
+layout: /blog/magazine.ect
+title: Скандинавски прочит на една (модерна приказка)
+description: Непринуденото очарование и неостаряващата свежест на скандинавския стил са добре дошли дори в най-модерните градски жилища. Младежки дух, спокойствие, топлина, уют, практичност и красота, събрани в интериора на един дом. Съвършената простота на линиите, селекцията на точните материали и хармонизираната палитра са вдъхновени от природата и ободряват духа.
+cover: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_02_N.jpg
+date: 2018-05-15
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_01_N.jpg
+* http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_03_N.jpg
+* http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_07_N.jpg
+* http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_01_N.jpg
+* http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_01_N.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_02_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-2.jpg
+image.position: center
+text:
+# Скандинавски прочит на една **модерна приказка**
+## **Съвременен вътрешен дизайн** на апартамент
+
+Непринуденото очарование и неостаряващата свежест на скандинавския стил са добре дошли дори в най-модерните градски жилища. Младежки дух, спокойствие, топлина, уют, практичност и красота, събрани в интериора на един дом. Съвършената простота на линиите, селекцията на точните материали и хармонизираната палитра са вдъхновени от природата и ободряват духа.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_Vertical_03_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-3-2.jpg
+image.position: center
+text:
+# Скандинавски прочит на една **модерна приказка**
+## **Съвременен вътрешен дизайн** на апартамент
+
+Непринуденото очарование и неостаряващата свежест на скандинавския стил са добре дошли дори в най-модерните градски жилища. Младежки дух, спокойствие, топлина, уют, практичност и красота, събрани в интериора на един дом. Съвършената простота на линиите, селекцията на точните материали и хармонизираната палитра са вдъхновени от природата и ободряват духа.
+:end
+
+===desktop===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline dark
+text:
+## Интериорен дизайн на **всекидневна**
+
+В хола топлите и студените нюанси се съчетават, за да оцветят неутралния фон и да му придадат живот.
+
+Големият холен ъгъл е тапициран с дамаска в асфалтово сиво и декориран с възглавнички във визуален диалог с останалата част от интериорната среда: черно-бяло, бледобежово, нефрит.
+
+Бялата грапава повърхност на декоративните тухли, използвани за стената зад дивана, отвежда въображението на друго място.
+
+Непосредствено до дивана се спускат плътните завеси в пясъчен цвят. Килимът е с къса нишка, а в дизайна му са умножени фигурални мотиви в топло сиво-бежово и синя глина.
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_Vertical_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-1-3.jpg
+image.position: center
+text:
+## Интериорен дизайн на **всекидневна**
+
+В хола топлите и студените нюанси се съчетават, за да оцветят неутралния фон и да му придадат живот. Големият холен ъгъл е тапициран с дамаска в асфалтово сиво и декориран с възглавнички във визуален диалог с останалата част от интериорната среда: черно-бяло, бледобежово, нефрит. Бялата грапава повърхност на декоративните тухли, използвани за стената зад дивана, отвежда въображението на друго място. Непосредствено до дивана се спускат плътните завеси в пясъчен цвят. Килимът е с къса нишка, а в дизайна му са умножени фигурални мотиви в топло сиво-бежово и синя глина.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_03_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-3.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **хол**
+
+Шкафът с място за телевизор заема цялата стена срещу дивана. Състои се от затворени и отворени обеми, подходящи както за вещи, скрити от погледа, така и за книги и сувенири. Осветлението е в индустриален стил – с метална конструкция в черно и осветителни тела с опция за насочване, напомнящи прожектори, допълнени от скритото осветление в окачения по края таван. Подът, покрит с ламиниран паркет, също като големия шкаф, носи топлото излъчване на дървото.
+:end
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_04_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-4.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_Vertical_02_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-2-3.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **хол**
+
+Шкафът с място за телевизор заема цялата стена срещу дивана. Състои се от затворени и отворени обеми, подходящи както за вещи, скрити от погледа, така и за книги и сувенири. Осветлението е в индустриален стил – с метална конструкция в черно и осветителни тела с опция за насочване, напомнящи прожектори, допълнени от скритото осветление в окачения по края таван. Подът, покрит с ламиниран паркет, също като големия шкаф, носи топлото излъчване на дървото.
+:end
+
+===desktop===
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline dark
+text:
+## Вътрешен дизайн на **кухня**
+
+Мебелите в кухнята – горните, долните кухненски шкафове, както и островът, са направени от МДФ и обработени с бяла полиуретанова боя с матов ефект. Всички дръжки са скрити, за да се реализира идеята за пределно изчистен дизайн.
+
+Електроуредите, с изключение на хладилника, са вградени. Предвидихме висок шкаф за съхранение на вино над хладилника.
+
+Кухненският плот имитира дървена повърхност и контрастира със светлото лице на мебелите. Гърбът на кухнята се състои от плочки с визия на тухлички в тъмнокафяв цвят.
+
+Вградени в окачения таван луни, скрито осветление под горните шкафове и черна лампа с метална конструкция над острова.
+:end
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_07_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-7.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+tags: kitchen
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_07_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-7.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **кухня**
+
+Мебелите в кухнята – горните, долните кухненски шкафове, както и островът, са направени от МДФ и обработени с бяла полиуретанова боя с матов ефект. Всички дръжки са скрити, за да се реализира идеята за пределно изчистен дизайн. Електроуредите, с изключение на хладилника, са вградени. Предвидихме висок шкаф за съхранение на вино над хладилника. Кухненският плот имитира дървена повърхност и контрастира със светлото лице на мебелите. Гърбът на кухнята се състои от плочки с визия на тухлички в тъмнокафяв цвят. Вградени в окачения таван луни, скрито осветление под горните шкафове и черна лампа с метална конструкция над острова.
+:end
+
+===desktop===
+
+
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_05_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-5.jpg
+image.position: center
+text:
+## Мебели и обзавеждане на **кухня и трапезария**
+
+Интериорът на кухнята добива завършен вид благодарение на остров с две основни функции – работен плот и място за хранене. Бялото лице на острова и дървеният му плот го правят неразделна част от зоната на кухнята. Разнообразихме модерния вътрешен дизайн, а чрез бар-столовете му придадохме усещане, характерно за скандинавския стил.
+:end
+
+tags: kitchen
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_06_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-6.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_05_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-5.jpg
+image.position: center
+text:
+## Мебели и обзавеждане на **кухня и трапезария**
+
+Интериорът на кухнята добива завършен вид благодарение на остров с две основни функции – работен плот и място за хранене. Бялото лице на острова и дървеният му плот го правят неразделна част от зоната на кухнята. Разнообразихме модерния вътрешен дизайн, а чрез бар-столовете му придадохме усещане, характерно за скандинавския стил.
+:end
+
+tags: kitchen
+display: mobile
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Hol_FINAL_06_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/всекидневна-6.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/антре-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+text:
+## Интериор на **антре**
+
+В антрето има повече модерни елементи, отколкото препратки към скандинавския стил. Прави линии, неутрални цветове и подходящо осветление.
+
+Подовите плочки са в сиво и са продължение на настилката във всекидневната. В сиво са и стените, както и покритието на част от шкафовете.
+
+Всички мебели в това помещение са изработени от МДФ с комбинирано покритие. По-голямата от двете системи от шкафове е в бяло с матов завършек. Черните метални линии обособяват отделни бели фрагменти с правоъгълна форма.
+
+Повърхността на обзавеждането е отлично съчетана с ламперия, комбинираща лакобел и черен метал – внимателно контролиран индустриален полъх, допълнен от черното осветително тяло с насочване, както и от белите стенни тухли.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_06_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/антре-6.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/антре-1.jpg
+image.position: center
+text:
+## Интериор на **антре**
+
+В антрето има повече модерни елементи, отколкото препратки към скандинавския стил. Прави линии, неутрални цветове и подходящо осветление. Подовите плочки са в сиво и са продължение на настилката във всекидневната. В сиво са и стените, както и покритието на част от шкафовете.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_02_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/антре-2.jpg
+image.position: center
+text:
+Всички мебели в това помещение са изработени от МДФ с комбинирано покритие. По-голямата от двете системи от шкафове е в бяло с матов завършек. Черните метални линии обособяват отделни бели фрагменти с правоъгълна форма.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Koridor_FINAL_06_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/антре-6.jpg
+image.position: center
+text:
+Повърхността на обзавеждането е отлично съчетана с ламперия, комбинираща лакобел и черен метал – внимателно контролиран индустриален полъх, допълнен от черното осветително тяло с насочване, както и от белите стенни тухли.
+:end
+[]
+
+===desktop===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-1.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline dark
+text:
+## Вътрешен дизайн на **спалня**
+
+Нежните, не твърде дръзки цветови комбинации и композицията от мебели в спалнята са в типично скандинавски и все пак модерен стил.
+
+Преимуществено бели стени и вградено в окачената част от тавана осветление, което подхожда на останалите лампи в стаята – с дизайн, вписан в скандинавския стил.
+
+За подово покритие клиентите ни се спряха на ламиниран паркет в светъл цвят. Добавихме килим с къса нишка в бежовата гама. Текстилът за спалня и завесите в стаята са в същата палитра.
+
+Видимата част от конструкцията на голямото легло е в приятен дървесен цвят. Краката в стил мид-сенчъри са характерни за скандинавския стил в интериора.
+
+Останалите мебели в спалнята представляват интересно решение. Бяло, дървесен декор, метал, ярък нюанс на жълтото.
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_01_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-1.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **спалня**
+
+Нежните, не твърде дръзки цветови комбинации и композицията от мебели в спалнята са в типично скандинавски и все пак модерен стил. Преимуществено бели стени и вградено в окачената част от тавана осветление, което подхожда на останалите лампи в стаята – с дизайн, вписан в скандинавския стил. За подово покритие клиентите ни се спряха на ламиниран паркет в светъл цвят. Добавихме килим с къса нишка в бежовата гама. Текстилът за спалня и завесите в стаята са в същата палитра. Видимата част от конструкцията на голямото легло е в приятен дървесен цвят. Краката в стил мид-сенчъри са характерни за скандинавския стил в интериора. Останалите мебели в спалнята представляват интересно решение. Бяло, дървесен декор, метал, ярък нюанс на жълтото.
+:end
+
+===desktop===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_04_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+
+Чудесен контраст се постига чрез  стената срещу леглото – керемиденочервени и тъмночервени декоративни тухли. Баланс на пастелните тонове и характерните за индустриалния стил по-наситени нюанси. Шкафът под телевизора е с комбинирано покритие – бяла полиуретанова боя и фурнир в топъл нюанс. Дизайнът на краката на шкафа, също като този на леглото, е в стил мид-сенчъри.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_02_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-2.jpg
+image.position: center
+text:
+Двукрилен гардероб с плъзгащи се врати в бял гланц. Голямо огледало и врата към дрешник, намираща се непосредствено до него.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_03_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_04_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-4.jpg
+image.position: center
+text:
+## Интериорен дизайн на **спалня**
+
+Чудесен контраст се постига чрез  стената срещу леглото – керемиденочервени и тъмночервени декоративни тухли. Баланс на пастелните тонове и характерните за индустриалния стил по-наситени нюанси. Шкафът под телевизора е с комбинирано покритие – бяла полиуретанова боя и фурнир в топъл нюанс. Дизайнът на краката на шкафа, също като този на леглото, е в стил мид-сенчъри.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_02_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-2.jpg
+image.position: center
+text:
+Двукрилен гардероб с плъзгащи се врати в бял гланц. Голямо огледало и врата към дрешник, намираща се непосредствено до него.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Mladost3_Spalnya_FINAL_03_N.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/спалня-3.jpg
+image.position: center
+text:
+:end
+[]
+
+===desktop===
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Dreshnik_03M.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/дрешник-3.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+text:
+## Обзавеждане на **дрешник**
+
+Отворени обеми и вградено осветление – условия бързо и лесно да откриете онова, което търсите, или да изберете перфектната комбинация от дрехи и аксесоари, която да отива на днешния ви успех.
+
+Неподправеното усещане за уют, което носи фурнирът, изглеждащ досущ като повърхността на естественото дърво. Множество чекмеджета с вкопани дръжки.
+
+Дрешникът е с плъзгаща се врата. Достъп до него има от спалнята. Подовата настилка е ламинат – продължение на паркета в спалнята.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Dreshnik_01M.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/дрешник-1.jpg
+image.position: center
+text:
+:end
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Dreshnik_01M.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/дрешник-1.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+
+Отворени обеми и вградено осветление – условия бързо и лесно да откриете онова, което търсите, или да изберете перфектната комбинация от дрехи и аксесоари, която да отива на днешния ви успех.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/radushev-mladost3/Marketing/Concept/Radushev_Dreshnik_03M.jpg
+image.file: скандинавски-прочит-на-една-модерна-приказка/дрешник-3.jpg
+image.position: center
+text:
+Подовата настилка е ламинат – продължение на паркета в спалнята. Неподправено усещане за уют, което носи фурнирът, изглеждащ досущ като повърхността на естественото дърво. Множество чекмеджета с вкопани дръжки.
+:end
+[]
