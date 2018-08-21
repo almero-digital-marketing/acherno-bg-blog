@@ -21,7 +21,7 @@ tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_01_Z.png
 image.file: креативно-вертикално-озеленяване-в-интериора/всекидневна-01.jpg
-image.position: left
+image.position: centar
 text:
 # Креативно вертикално **озеленяване в интериора**
 ## **Модерно обзавеждане** и идеи, провокиращи сетивата
@@ -36,7 +36,7 @@ tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_01_Z.png
 image.file: креативно-вертикално-озеленяване-в-интериора/всекидневна-01.jpg
-image.position: center
+image.position: centar
 text:
 # Креативно вертикално **озеленяване в интериора**
 ## **Модерно обзавеждане** и идеи, провокиращи сетивата
@@ -297,7 +297,6 @@ image.position: center
 text:
 ## Интериорен дизайн на **антре**
 Спокойствие на духа и естетическа умереност. Кафяво-бежова палитра в обзавеждането.
-
 Балансираното осветяване на антрето се постига с два вида осветителни тела – бели луни за вграждане с квадратна форма и плафон. Бял окачен таван, стени, обработени с латекс в светъл нюанс, и гранитогрес в бежово на пода.
 :end
 
@@ -348,9 +347,7 @@ image.position: center
 text:
 ## Вътрешен дизайн на **кабинет**
 В кабинета следвахме модерната линия на вътрешния дизайн, към която се придържаме в цялото жилище. Усещането е за уют и красота, осигуряващи концентрация на вниманието.
-
 Подът е покрит с трислоен паркет. Таванът е окачен по края, където планирахме поставянето на скрито осветление. Към проекта за тази стая добавихме и плафон. Стените са обработени с латекс в пределно светъл нюанс на бежовото.
-
 Мебелите в работната зона на кабинета са съобразени с предназначението ѝ. Бюрото е достатъчно голямо. В затворените обеми има достатъчно място за документи и офис принадлежности. Етажерката над него също е с немалка вместимост.
 :end
 
@@ -632,7 +629,7 @@ tags: bathroom
 display: mobile
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Katin_Banya-Spalnya_Final_01_R.jpg
 image.file: дневник-на-добрия-живот/баня-към-спаля-1.jpg
-image.position: center
+image.position: right
 text:
 ## Вътрешен дизайн на **баня към спалня**
 Обзавеждането на банята към спалнята е в пълен синхрон с нейния интериор. Нежните бежово-кафяви тонове са вдъхновени от красотата на естествените пигменти.
@@ -685,7 +682,6 @@ text:
 ===mobile13===
 
 columns: 3
-[.slides]
 tags: bedroom
 display: mobile
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_02.png
@@ -695,16 +691,6 @@ text:
 ## Интериор на **стая за гости**
 Семплите, но оригинални решения и съвременният стил намират своята реализация и в спалнята за гости. Прави линии и симетрия. Бял таван, окачен по края. Три типа осветление – вградени луни, плафон и нощни лампи. Двете легла в бяло са в скандинавски стил, а зеленото е превърнато в цветови акцент, който препраща съзнанието към двете пана с полярен мъх в хола.
 :end
-
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_01.png
-image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-1.jpg
-image.position: center
-text:
-:end
-
-[]
 
 ===desktop14===
 
@@ -748,7 +734,7 @@ tags: bedroom
 display: mobile
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_03.png
 image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-3.jpg
-image.position: center
+image.position: right
 text:
 :end
 []
