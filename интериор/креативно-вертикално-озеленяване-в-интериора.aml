@@ -95,6 +95,7 @@ text:
 columns: 2
 tags: livingroom
 display: desktop
+style: inline 
 image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_06_Z.png
 image.file:  креативно-вертикално-озеленяване-в-интериора/всекидневна-6.jpg
 image.position: center
@@ -104,6 +105,7 @@ text:
 columns: 1
 tags: livingroom
 display: desktop
+style: inline 
 text:
 ## Вътрешен дизайн на **трапезария**
 Зоната на трапезарията е обзаведена хармонично. Масата е изработена от МДФ фурнир, със семпъл дизайн и правоъгълна форма на плота. Тук е представена като четириместна, но спокойно може да се превърне в шестместна. Комбинирана е с четири удобни трапезни стола с меки седалка и облегалка, тапицирани с дамаска в жълто. Краката на този модел стол са в цвят бук.
