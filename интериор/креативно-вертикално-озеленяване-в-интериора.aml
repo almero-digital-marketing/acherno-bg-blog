@@ -664,8 +664,8 @@ columns: 3
 [.slides]
 tags: bedroom
 display: desktop
-image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_02_Z.png
-image.file:  креативно-вертикално-озеленяване-в-интериора/стая-гости-2.jpg
+image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_02.png
+image.file:  креативно-вертикално-озеленяване-в-интериора/стая-за-гости-2.jpg
 image.position: center
 text:
 ## Интериор на **стая за гости**
@@ -674,8 +674,8 @@ text:
 
 tags: bedroom
 display: desktop
-image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_01_Z.png
-image.file:  креативно-вертикално-озеленяване-в-интериора/стая-гости-82.jpg
+image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_01.png
+image.file:  креативно-вертикално-озеленяване-в-интериора/стая-за-гости-1.jpg
 image.position: center
 text:
 :end
@@ -688,8 +688,8 @@ columns: 3
 [.slides]
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_02_Z.png
-image.file: креативно-вертикално-озеленяване-в-интериора/стая-гости-2.jpg
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_02.png
+image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-2.jpg
 image.position: center
 text:
 ## Интериор на **стая за гости**
@@ -698,8 +698,8 @@ text:
 
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_01_Z.png
-image.file: креативно-вертикално-озеленяване-в-интериора/стая-гости-1.jpg
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_01.png
+image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-1.jpg
 image.position: center
 text:
 :end
@@ -712,8 +712,8 @@ columns: 3
 [.slides]
 tags: bedroom
 display: desktop
-image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_04_Z.png
-image.file:  креативно-вертикално-озеленяване-в-интериора/стая-гости-4.jpg
+image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_04.png
+image.file:  креативно-вертикално-озеленяване-в-интериора/стая-за-гости-4.jpg
 image.position: center
 text:
 ## Обзавеждане на **стая за гости**
@@ -722,8 +722,8 @@ text:
 
 tags: bedroom
 display: desktop
-image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_03_Z.png
-image.file:  креативно-вертикално-озеленяване-в-интериора/стая-гости-3.jpg
+image.url:  http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_03.png
+image.file:  креативно-вертикално-озеленяване-в-интериора/стая-за-гости-3.jpg
 image.position: center
 text:
 :end
@@ -736,8 +736,8 @@ columns: 3
 [.slides]
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_04_Z.png
-image.file: креативно-вертикално-озеленяване-в-интериора/стая-гости-4.jpg
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_04.png
+image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-4.jpg
 image.position: center
 text:
 ## Обзавеждане на **стая за гости**
@@ -746,8 +746,8 @@ text:
 
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_03_Z.png
-image.file: креативно-вертикално-озеленяване-в-интериора/стая-гости-3.jpg
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Staya_Gosti_FINAL_03.png
+image.file: креативно-вертикално-озеленяване-в-интериора/стая-за-гости-3.jpg
 image.position: center
 text:
 :end
