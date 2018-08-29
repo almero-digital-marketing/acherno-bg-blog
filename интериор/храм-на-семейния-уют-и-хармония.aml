@@ -1,14 +1,18 @@
 layout: /blog/magazine.ect
 title: Храм на семейния (уют и хармония)
-description: Приятна и топла обстановка, която въвлича своите обиталели във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. Интериорният дизайн на това жилище е прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
-cover: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-31M.jpg
+description: Приятна и топла обстановка, която въвлича във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. Интериорният дизайн на това жилище е за прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
+cover: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_06_Z.png
 date: 2018-08-28
 firstPage: true
 tags: private, modern
 
 [best]
-* http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-3M.jpg
+* http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_06_Z.png
+* http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_01_Z.png
+* http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-40M.jpg
 * http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_01_St.png
+* http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_01_St.png
+
 []
 
 [pages]
@@ -16,14 +20,14 @@ tags: private, modern
 columns: 3
 tags: livingroom
 display: desktop
-image.url: http://projects.acherno.int/ahmed-flora/Concept/Ahmed-Hol-31M.jpg
-image.file: храм-на-семейния-уют-и-хармония/хол-31.jpg
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_06_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-06.jpg
 image.position: centar
 text:
 # Храм на семейния **уют и хармония**
-## **Красота** от сиви и кафеви тонове
-Приятна и топла обстановка, която въвлича своите обиталели във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. 
-Интериорният дизайн на това жилище е прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
+## **Симетрия** от сиви и кафяви тонове
+Приятна и топла обстановка, която въвлича във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. 
+Интериорният дизайн на това жилище е за прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
 :end
 
 ===mobile===
@@ -31,12 +35,772 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/ahmed-flora/Concept/Ahmed-Hol-31M.jpg
-image.file: храм-на-семейния-уют-и-хармония/хол-31.jpg
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_06_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-06.jpg
 image.position: centar
 text:
 # Храм на семейния **уют и хармония**
-## **Красота** от сиви и кафеви тонове
-Приятна и топла обстановка, която въвлича своите обиталели във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. 
-Интериорният дизайн на това жилище е прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
+## **Симетрия** от сиви и кафяви тонове
+Приятна и топла обстановка, която въвлича във вълшебно пътуване през пустини и мистични градове. Уют от сивите тонове на лунните сенки над Бялата пустиня в Египет и златните отблясъци на сахарските залези. 
+Интериорният дизайн на това жилище е за прoдължението след щастливия край на една приказка, в която героите заживели щастливо.
 :end
+
+
+
+
+===desktop трапезария===
+
+columns: 3
+tags: livingroom
+display: desktop
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_03_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-03.jpg
+image.position: center
+text: 
+## Обзавеждане на **трапезария**
+Трапезарията е в центъра на помещението, без да нарушава усещането за простор. С директен визуален контакт към кухня и хол, зоната за хранене се превръща в най-стратегическото място в помещението. Трапезната маса е от тъмен МДФ фурнир, допълнена от шест стола с аристократичен дизайн, който подхожда напълно на цялостния модерен стил. 
+:end
+===mobile трапезария===
+
+columns: 3
+tags: livingroom
+display: mobile
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_03_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-03.jpg
+image.position: left
+text:
+## Обзавеждане на **трапезария**
+Трапезарията е в центъра на помещението, без да нарушава усещането за простор. Трапезната маса е от тъмен МДФ фурнир, заобградена от шест стола с аристократичен дизайн, който подхожда напълно на цялостния модерен стил.
+:end
+
+
+
+
+===desktop трапезария===
+columns: 1
+tags: livingroom
+display: desktop
+style: inline 
+text:
+## Интериор на **трапезария**
+Непосредствено до трапезната маса е обособен работен кът. Горни и долни шкафове в контрастен светъл МДФ лак са обединени от ламперия от МДФ фурнир.         
+Този модел продължава към камината в хола и от там плавно обгръща и извеждащия от помещението коридор. Комбинираното осветление от луни, LED ленти и полилеи, се повтаря симетрично във всяка от обособените зони. 
+:end
+columns: 2
+tags: livingroom
+display: desktop
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_05_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-05.jpg
+image.position: center
+text:
+:end
+===mobile трапезария===
+
+columns: 3
+tags: livingroom
+display: mobile
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_05_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-05.jpg
+image.position: center
+text:
+## Интериор на **трапезария**
+Непосредствено до трапезната маса е обособен работен кът. Горни и долни шкафове в контрастен светъл МДФ гланц са обединени от ламперия от тъмен фурнир. Комбинираното осветление от луни, LED ленти и полилеи, се повтаря симетрично във всяка от обособените зони. 
+:end
+
+
+
+
+===desktop хол===
+
+columns: 3
+[.slides]
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_01_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-01.jpg
+image.position: center
+text:
+## Обзавеждане на **хол**
+Холната зона е отворена към общото помещение. Рамкирана е от модулен ъглов диван в неутрално сиво. Килимът е с мозаечна шарка. Елегантната холна масичка впечатлява с асиметрията на стъклените си плотове. Небрежно оставеното одеало и разпиляните декоративни възглавнички подсказват за емоционалната и оживена атмосфера на голямото семейство.
+:end
+
+
+
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_06_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-06.jpg
+image.position: center
+text:
+Модерен прочит на семейното огнище - стилно вградена биокамина. Телевизорът е позициониран на стенен панел, зад който свети мека LED светлина, която допълнително подчертава романтичната атмосфера на живия огън. ТВ зоната продължава плавно към малък коридор, който ни извежда от помещението, без да бъде нарушаван цялостния интериор. 
+:end
+
+[] 
+
+===mobile хол===
+
+columns: 3
+[.slides]
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_01_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-01.jpg
+image.position: center
+text:
+## Обзавеждане на **хол**
+Холната зона е отворена към общото помещение. Рамкирана е от модулен ъглов диван в неутрално сиво. Килимът е с мозаечна шарка. Елегантната холна масичка впечатлява с асиметрията на стъклените си плотове. Небрежно оставеното одеало и разпиляните декоративни възглавнички подсказват за емоционалната и оживена атмосфера на голямото семейство.
+:end
+
+
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_05_Z.png
+image.file: храм-на-семейния-уют-и-хармония/хол-05.jpg
+image.position: left
+text:
+Модерен прочит на семейното огнище - стилно вградена биокамина. Телевизорът е позициониран на стенен панел, зад който свети мека LED светлина, която допълнително засилва романтиката от живия огън. ТВ зоната продължава плавно към малък коридор, без да бъде нарушаван цялостния интериор. 
+:end
+[]
+
+===desktop kuhnq===
+
+columns: 2
+tags: kitchen
+display: desktop
+style: inline 
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_09_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-09.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline 
+text:
+## Дизайн на **кухня**
+Островът с места за хранене е любимата зона на цялото семейство, тук се случва магията на творчески шум и сутрешна колаборация. 
+
+Кухнята е изчистена максимално от разсейващи детайли.
+:end
+===mobile 5===
+
+columns: 3
+tags: kitchen
+display: mobile
+style: inline 
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_09_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-09.jpg
+image.position: center
+text:
+## Дизайн на **кухня**
+Елегантност – това е най-краткото описание на впечатлението, което кухнята оставя. Шкафовете са изработени от МДФ фурнир. Дълбокият цвят на кестена е съчетан с елементи в черно. Горният ред шкафове е на две нива, с подсветка. Всички електроуреди, с изключение на хладилника, са вградени в мебелите. Плотът е от технически камък в черно, напомнящо безкрая на звездното небе. Гърбът се състои от плочки на черни и бели триъгълници, подредени в ритмична визуална последователност. Таванът е окачен, с вградени светлини тип луна. Подовата настилка е гранитогрес.
+:end
+
+===desktop kuhnq===
+columns: 3
+[.slides]
+tags: kitchen
+display: desktop
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_07_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-07.jpg
+image.position: right
+text:
+:end
+
+tags: kitchen
+display: desktop
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_08_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-08.jpg
+image.position: center
+text:
+:end
+
+[] 
+
+===mobile kuhnq===
+columns: 3
+[.slides]
+tags: kitchen
+display: mobile
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_08_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-08.jpg
+image.position: center
+text:
+:end
+
+
+tags: kitchen
+display: mobile
+image.url:  http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Hol_WIP_07_Z.png
+image.file:   храм-на-семейния-уют-и-хармония/кухня-07.jpg
+image.position: right
+text:
+:end
+[]
+===desktop коридор===
+
+columns:1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-36M.jpg
+image.file: храм-на-семейния-уют-и-хармония/хол-36.jpg
+image.position: center
+text:
+:end
+
+columns:1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-37M.jpg
+image.file: храм-на-семейния-уют-и-хармония/хол-37.jpg
+image.position: left
+text: 
+
+columns:1
+tags: livingroom
+display: desktop
+style: inline dark
+text: 
+## Дизайн на **коридор**
+Дизайнът на коридора е проектиран като естествено продължение на ТВ зоната и работния кът, намиращи се в дневната. Пространството между горни и долни шкафове е усвоено от  ламперия с етажерки.
+На отсрещната стена в коридора е вграден елегантно гардероб с плъзгащи огледални врати. Осветлението от симетрично разположените луни оформя ефектна дантела от мека светлина. 
+:end
+
+
+===mobile коридор===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-36M.jpg
+image.file: храм-на-семейния-уют-и-хармония/хол-36.jpg
+image.position: center
+text:
+## Интериорен дизайн на **коридор**
+ТВ зоната продължава плавно към малък коридор. Пространството между горни и долни шкафове е усвоено с ламперията с етажерки.
+:end
+
+tags: other
+display: mobile
+style: inline 
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Hol-37M.jpg
+image.file: храм-на-семейния-уют-и-хармония/хол-37.jpg
+image.position: left
+text:
+В коридора има и елегантно вграден гардероб с плъзгащи огледални врати.
+:end
+[]
+
+
+
+===desktop главна спалня===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-02.jpg
+text:
+:end
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Обзавеждане на **спалня**
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
+:end
+
+===mobile===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-02.jpg
+text:
+## Интериорен дизайн на **спалня**
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
+:end
+
+
+===desktop spalnq roditeli===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-04.jpg
+text:
+## Обзавеждане на **спалня**
+Леглото е голямо и меко. Матракът е на висока, значително по-широка от него основа. Цялото легло, в това число и таблата, е тапицирано с дамаска в сиво. Около ламперията зад леглото и по тавана поставихме скрито осветление. В центъра на тавана има плафон, а над горната част на леглото се спускат две осветителни тела с продълговата форма на стилизирани цветни чашки. Акцент представлява правоъгълното огледало, окачено на една от стените.
+:end
+
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-03.jpg
+text:
+:end
+[]
+
+===mobile spalnq roditeli===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-04.jpg
+image.position: left
+text:
+## Обзавеждане на **спалня**
+Леглото е голямо и меко. Матракът е на висока, значително по-широка от него основа. Цялото легло, в това число и таблата, е тапицирано с дамаска в сиво. Около ламперията зад леглото и по тавана поставихме скрито осветление. В центъра на тавана има плафон, а над горната част на леглото се спускат две осветителни тела с продълговата форма на стилизирани цветни чашки. Акцент представлява правоъгълното огледало, окачено на една от стените.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Spalnya_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-03.jpg
+image.position: center
+text:
+:end
+[]
+
+
+===desktop banq===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Roditeli_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-01.jpg
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Roditeli_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-02.jpg
+image.position: right
+text:
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+text:
+## Вътрешен дизайн на **тоалетна**
+Белота, чистота, но и уют – търсен ефект, който не е толкова лесен за постигане. Помещението е достатъчно голямо. Стенните плочки са в бяло, различават се само по размер. За подово покритие избрахме плочки, имитиращи паркет. Поставихме окачен таван от гипсокартон с вградени луни, а също така и опънат таван, през който се процежда силна, в същото време и мека светлина. Прозорец, огледала. Бял шкаф за мивка, още четири шкафа в сиво и бяла санитария. Декорация.
+:end
+
+===mobile banq===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Roditeli_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-01.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **тоалетна**
+Белота, чистота, но и уют – търсен ефект, който не е толкова лесен за постигане. Помещението е достатъчно голямо. Стенните плочки са в бяло, различават се само по размер. За подово покритие избрахме плочки, имитиращи паркет. Поставихме окачен таван от гипсокартон с вградени луни, а също така и опънат таван, през който се процежда силна, в същото време и мека светлина. Прозорец, огледала. Бял шкаф за мивка, още четири шкафа в сиво и бяла санитария. Декорация.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Roditeli_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-02.jpg
+text:
+:end
+
+[]
+
+===desktop mokro===
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_02M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-02.jpg
+image.position: center
+text:
+## Интериорен дизайн на **втора баня**
+За обзавеждането на другата баня в жилището водеща е идеята за баланс и хармония. Интериорът е модерен, но не и студен. Преобладава бялото.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_01M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-01.jpg
+image.position: center
+text:
+И стенните, и подовите плочки имитират бял мрамор. Визуалните преходи между различните нива в помещението се осъществяват чрез хоризонтални черни линии – полиуретанов профил, боядисан в черно, по ръба на тавана, един ред декоративни плочки под средата на височината на стените, черните линии на лицето на ПВЦ шкафа за баня.
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_03M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-03.jpg
+image.position: center
+text:
+В банята предвидихме и място за високи до тавана шкафове. Черната линия на декоративните плочки продължава и като визуален елемент в лицето на тези мебели. Дизайнът им е пределно изчистен. Душ-зоната е съчетана с вана и частично отделена със стъклен параван. Тук има и ниша за стъклени рафтове с козметика.
+:end
+
+
+===mobile mokro===
+
+columns: 3
+[.slides]
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_02M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-02.jpg
+image.position: center
+text:
+## Интериорен дизайн на **втора баня**
+За обзавеждането на другата баня в жилището водеща е идеята за баланс и хармония. Интериорът е модерен, но не и студен. Преобладава бялото.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_01M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-01.jpg
+image.position: center
+text:
+И стенните, и подовите плочки имитират бял мрамор. Визуалните преходи между различните нива в помещението се осъществяват чрез хоризонтални черни линии – полиуретанов профил, боядисан в черно, по ръба на тавана, един ред декоративни плочки под средата на височината на стените, черните линии на лицето на ПВЦ шкафа за баня.
+:end
+
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_Mokro_03M.jpg
+image.file: храм-на-семейния-уют-и-хармония/мокро-помещение-03.jpg
+image.position: center
+text:
+В банята предвидихме и място за високи до тавана шкафове. Черната линия на декоративните плочки продължава и като визуален елемент в лицето на тези мебели. Дизайнът им е пределно изчистен. Душ-зоната е съчетана с вана и частично отделена със стъклен параван. Тук има и ниша за стъклени рафтове с козметика.
+:end
+[]
+
+===desktop detska staq===
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Обзавеждане на **спалня**
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
+:end
+
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-04.jpg
+text:
+:end
+
+
+===mobile detska momiche===
+
+columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-04.jpg
+image.position: left
+text:
+## Интериорен дизайн на **спалня**
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
+:end
+
+
+===desktop detska momiche===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-02.jpg
+text:
+## Обзавеждане на **спалня**
+Леглото е голямо и меко. Матракът е на висока, значително по-широка от него основа. Цялото легло, в това число и таблата, е тапицирано с дамаска в сиво. Около ламперията зад леглото и по тавана поставихме скрито осветление. В центъра на тавана има плафон, а над горната част на леглото се спускат две осветителни тела с продълговата форма на стилизирани цветни чашки. Акцент представлява правоъгълното огледало, окачено на една от стените.
+:end
+
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-01.jpg
+text:
+:end
+[]
+
+===mobile detska momiche===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-02.jpg
+image.position: right
+text:
+## Обзавеждане на **спалня**
+Леглото е голямо и меко. Матракът е на висока, значително по-широка от него основа. Цялото легло, в това число и таблата, е тапицирано с дамаска в сиво. Около ламперията зад леглото и по тавана поставихме скрито осветление. В центъра на тавана има плафон, а над горната част на леглото се спускат две осветителни тела с продълговата форма на стилизирани цветни чашки. Акцент представлява правоъгълното огледало, окачено на една от стените.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momiche_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момиче-01.jpg
+text:
+:end
+[]
+
+
+
+
+===desktop антре===
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_koridor_06M.jpg
+image.file: храм-на-семейния-уют-и-хармония/антре-06.jpg
+image.position: left
+text:
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_koridor_07M.jpg
+image.file: храм-на-семейния-уют-и-хармония/антре-07.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **антре**
+:end
+
+columns: 1
+tags: other
+display: desktop
+style: inline dark
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_koridor_05M.jpg
+image.file: храм-на-семейния-уют-и-хармония/антре-05.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **антре**
+:end
+
+===mobile антре===
+
+columns: 3
+tags: other
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed_koridor_06M.jpg
+image.file: храм-на-семейния-уют-и-хармония/антре-06.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **антре**
+
+:end
+
+
+
+
+===desktopдетска-момче===
+
+columns: 2
+tags: nursery
+display: desktop
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-02.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: nursery
+display: desktop
+style: inline
+text:
+## Интериор на **детска стая на момиче**
+Най-характерното за интериора на детската стая на момичето е усещането за нежност, което носи. Освен акцента, който представлява стената, обработена с латекс в цикламен цвят, нюансите тук са светли, пастелни, може да се каже дори неутрални. Съчетахме светлобежов латекс и тапет с флорални мотиви. Таванът е боядисан в бяло, подът е с паркет в нюанс тъмен дъб. Проектирахме ниша с рафтове в ъгъла на стаята над горната част на леглото.
+:end
+===mobile detska momche===
+
+columns: 3
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-02.jpg
+image.position: left
+text:
+## Интериор на **детска стая на момиче**
+Най-характерното за интериора на детската стая на момичето е усещането за нежност, което носи. Освен акцента, който представлява стената, обработена с латекс в цикламен цвят, нюансите тук са светли, пастелни, може да се каже дори неутрални. Съчетахме светлобежов латекс и тапет с флорални мотиви. Таванът е боядисан в бяло, подът е с паркет в нюанс тъмен дъб. Проектирахме ниша с рафтове в ъгъла на стаята над горната част на леглото.
+:end
+
+
+===desktop detska staq momche===
+
+columns: 3
+[.slides]
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-04.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Балансиран лукс, модерен стил, отблясъци и светлина. Няколко неутрални нюанса, комбинирани в интериора на спалнята, за да създадат съвършената среда за почивка. Ламперия от бял гланц на две от стените – зад леглото и зад телевизора. Върху ламперията е пресъздаден релефен мотив с ромбове. Част от повърхността на стените е в бяло, а друга част – в цвят капучино, преминаващ и в окачения таван.
+:end
+
+columns: 3
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-01.jpg
+image.position: center
+text:
+:end
+
+columns: 3
+tags: nursery
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-03.jpg
+image.position: center
+text:
+:end
+[] 
+===mobile===
+
+columns: 3
+[.slides]
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-04.jpg
+image.position: center
+text:
+## Интериор на **детска стая на момиче**
+Най-характерното за интериора на детската стая на момичето е усещането за нежност, което носи. Освен акцента, който представлява стената, обработена с латекс в цикламен цвят, нюансите тук са светли, пастелни, може да се каже дори неутрални. Съчетахме светлобежов латекс и тапет с флорални мотиви. Таванът е боядисан в бяло, подът е с паркет в нюанс тъмен дъб. Проектирахме ниша с рафтове в ъгъла на стаята над горната част на леглото.
+:end
+
+columns: 3
+tags: nursery
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Detska_Momche_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/спалня-момче-03.jpg
+image.position: left
+text:
+## Интериор на **детска стая на момиче**
+Най-характерното за интериора на детската стая на момичето е усещането за нежност, което носи. Освен акцента, който представлява стената, обработена с латекс в цикламен цвят, нюансите тук са светли, пастелни, може да се каже дори неутрални. Съчетахме светлобежов латекс и тапет с флорални мотиви. Таванът е боядисан в бяло, подът е с паркет в нюанс тъмен дъб. Проектирахме ниша с рафтове в ъгъла на стаята над горната част на леглото.
+:end
+[] 
+
+
+
+===desctop===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-01.jpg
+text:
+## Вътрешен дизайн на **втора баня**
+Белота, чистота, но и уют – търсен ефект, който не е толкова лесен за постигане. Помещението е достатъчно голямо. 
+:end
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-03.jpg
+text:
+Стенните плочки са в бяло, различават се само по размер. За подово покритие избрахме плочки, имитиращи паркет. 
+:end
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-02.jpg
+text:
+Поставихме окачен таван от гипсокартон с вградени луни, а също така и опънат таван, през който се процежда силна, в същото време и мека светлина. Прозорец, огледала. Бял шкаф за мивка, още четири шкафа в сиво и бяла санитария. Декорация.
+:end
+
+
+===mobile===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_01_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-01.jpg
+image.position: left
+text:
+## Вътрешен дизайн на **тоалетна**
+Белота, чистота, но и уют – търсен ефект, който не е толкова лесен за постигане. Помещението е достатъчно голямо. Стенните плочки са в бяло, различават се само по размер. За подово покритие избрахме плочки, имитиращи паркет. Поставихме окачен таван от гипсокартон с вградени луни, а също така и опънат таван, през който се процежда силна, в същото време и мека светлина. Прозорец, огледала. Бял шкаф за мивка, още четири шкафа в сиво и бяла санитария. Декорация.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_02_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-02.jpg
+text:
+:end
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_03_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-03.jpg
+text:
+:end
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/ahmed-flora/Marketing/Concept/Ahmed-Flora_Banya_Detska_FINAL_04_St.png
+image.file: храм-на-семейния-уют-и-хармония/баня-деца-04.jpg
+text:
+:end
+[]
+
+[]
