@@ -34,9 +34,9 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_01_Z.png
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_Vertical_01_N.jpg
 image.file: креативно-вертикално-озеленяване-в-интериора/всекидневна-01.jpg
-image.position: centar
+image.position: left
 text:
 # Креативно вертикално **озеленяване в интериора**
 ## **Модерно обзавеждане** и идеи, провокиращи сетивата
@@ -73,7 +73,7 @@ columns: 3
 [.slides]
 tags: livingroom
 display: mobile
-image.url: image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_02_Z.png
+image.url: image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_Vertical_02_N.jpg
 image.file:  креативно-вертикално-озеленяване-в-интериора/всекидневна-2.jpg
 image.position: center
 text:
@@ -83,7 +83,7 @@ text:
 
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_FINAL_03_Z.png
+image.url: http://projects.acherno.int/boris-katin/Marketing/Concept/Boris_Katin_Hol_Vertical_03_N.jpg
 image.file:  креативно-вертикално-озеленяване-в-интериора/всекидневна-3.jpg
 image.position: right
 text:
