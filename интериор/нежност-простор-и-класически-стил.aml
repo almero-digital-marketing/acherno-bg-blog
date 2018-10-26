@@ -32,8 +32,8 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_01_N.jpg
-image.file: нежност-простор-и-класически-стил/всекидневна-01.jpg
+image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Vertical_02_N.jpg
+image.file: нежност-простор-и-класически-стил/всекидневна-02.jpg
 image.position: centar
 text:
 # Нежност, простор и **класически стил**
@@ -70,8 +70,8 @@ columns: 3
 [.slides]
 tags: livingroom
 display: mobile
-image.url:  http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_02_N.jpg
-image.file:  нежност-простор-и-класически-стил/всекидневна-02.jpg
+image.url:  http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Vertical_01_N.jpg
+image.file:  нежност-простор-и-класически-стил/всекидневна-01.jpg
 image.position: center
 text:
 ## Интериор на **хол**
@@ -120,7 +120,7 @@ text:
 columns: 3
 tags: livingroom
 display: mobile
-image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_03_N.jpg
+image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Vertical_03_N.jpg
 image.file: нежност-простор-и-класически-стил/всекидневна-3.jpg
 image.position: right
 text:
