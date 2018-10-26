@@ -7,10 +7,11 @@ firstPage: true
 tags: private, modernclassic
 
 [best]
-* http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_03_N.jpg
+* http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_02_N.jpg
 * http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_05_N.jpg
 * http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Parka_Spalnya_FINAL_01_N.jpg
 * http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila-Sofia-Park_Detska_FINAL_03_St.png
+* http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila-Sofia-Park_Banya-Roditeli_FINAL_01_St.png
 []
 
 [pages]
@@ -48,7 +49,7 @@ columns: 3
 tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_02_N.jpg
-image.file:  нежност-простор-и-класически-стил/всекидневна-02.jpg
+image.file:  нежност-простор-и-класически-стил/хол-02.jpg
 image.position: center
 text:
 ## Интериор на **хол**
@@ -58,7 +59,7 @@ text:
 tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_04_N.jpg
-image.file:  нежност-простор-и-класически-стил/всекидневна-04.jpg
+image.file:  нежност-простор-и-класически-стил/хол-04.jpg
 image.position: center
 text:
 :end
@@ -71,7 +72,7 @@ columns: 3
 tags: livingroom
 display: mobile
 image.url:  http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Vertical_01_N.jpg
-image.file:  нежност-простор-и-класически-стил/всекидневна-01.jpg
+image.file:  нежност-простор-и-класически-стил/хол-01.jpg
 image.position: center
 text:
 ## Интериор на **хол**
@@ -81,7 +82,7 @@ text:
 tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/lyubomila-sofia-park/Marketing/Concept/Lyubomila_Sofia_Park_Hol_Kuhnya_Anre_Stylbi_FINAL_04_N.jpg
-image.file:  нежност-простор-и-класически-стил/всекидневна-04.jpg
+image.file:  нежност-простор-и-класически-стил/хол-04.jpg
 image.position: right
 text:
 Яркият щрих, който е в центъра на вниманието, е розовият цвят в няколко разновидности – наситен, тъмен нюанс, напомнящ гланцовата повърхност на зрели ягоди, и по-светло, деликатно розово. В хола тези тонове за акцент присъстват по няколко начина – чрез тапицерията на креслата, декоративните възглавнички на дивана и платната с изображения на рози по стените.
