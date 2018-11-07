@@ -1,0 +1,41 @@
+layout: /blog/magazine.ect
+title: Лекота, баланс (и нотки свежест)
+description: Стилен и същевременно свеж дизайн на градско жилище. Модерният стил 
+cover: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+date: 2018-11-07
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-1.jpg
+image.position: center
+text:
+## Лекота, баланс и **нотки свежест** 
+## Обзавеждане на **апартамент в модерен стил**
+
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-1.jpg
+image.position: center
+text:
+## Лекота, баланс и **нотки свежест** 
+## Обзавеждане на **апартамент в модерен стил**
+
+:end
+
