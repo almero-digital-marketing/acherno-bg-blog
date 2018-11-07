@@ -8,7 +8,10 @@ tags: private, modern
 
 [best]
 * http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
-
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_07_N.jpg
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_01R.jpg
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_banq2_Final_02R.jpg
 []
 
 [pages]
@@ -39,3 +42,207 @@ text:
 
 :end
 
+===desktop2===
+
+columns: 2
+tags: livingroom
+style: inline
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_03_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-3.jpg
+
+:end
+columns: 1
+tags: livingroom
+style: inline
+display: desktop
+text:
+## Вътрешен дизайн на **всекидневна**
+Малко, но добре организирано пространство, в което напълно функционално обединихме хол, трапезария и кухня. 
+
+:end
+
+===mobile2===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_03_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-3.jpg
+text:
+## Вътрешен дизайн на **всекидневна**
+От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
+:end
+
+===desktop3===
+columns: 2
+tags: livingroom
+style: inline
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_04_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-4.jpg
+text:
+## Вътрешен дизайн на **всекидневна**
+
+:end
+columns: 1
+tags: livingroom
+style: inline
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_02_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-2.jpg
+text:
+
+Малко, но добре организирано пространство, в което напълно функционално обединихме хол, трапезария и кухня. 
+
+:end
+
+===mobile3===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_04_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/хол-4.jpg
+text:
+## Вътрешен дизайн на **всекидневна**
+От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
+:end
+
+===desktop4===
+
+columns: 3
+tags: livingroom
+style: inline
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_07_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/кухня-7.jpg
+text:
+
+Малко, но добре организирано пространство, в което напълно функционално обединихме хол, трапезария и кухня. 
+
+:end
+
+===mobile4===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_07_N.jpg
+image.file: лекота-баланс-и-нотки-свежест/кухня-7.jpg
+text:
+## Вътрешен дизайн на **всекидневна**
+От антрето директно се озовавате във всекидневната – просторно и светло помещение, в което си дават среща холът, кухнята и трапезарията, обединени от повтарящи се мотиви. То е отворено и към стълбището. Вратите са изключение в пейзажа. Прозорците са френски, а естествената светлина се регулира с плътни завеси в графитеносиво и ефирни прозрачни завеси в бяло. Пространство, което е обзаведено в съзвучие с личния стил, с добрия вкус, и с качественото изпълнение, при което всеки детайл е от значение.
+:end
+
+===desktop5===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_04_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-4.jpg
+image.position: center
+text:
+:end
+
+columns: 3
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-2.jpg
+image.position: center
+text:
+:end
+
+columns: 3
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_05_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-5.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+Дрешникът е отделен от спалнята чрез стъклена врата с прахово боядисана метална рамка в черно.
+
+Подовата настилка е продължение на тази в спалнята – ламиниран паркет. Всички мебели са от ПДЧ, боядисано в бяло. Осигурихме достатъчно светлина, идваща както от осветителните тела на тавана, така и от вграденото в обзавеждането осветление.
+
+Вътрешното пространство на шкафовете е организирано така, че тяхната вместимост да бъде максимално рационално оползотворена и съобразена с нуждите на собствениците на жилището. Има както чекмеджета, така и рафтове за сгънати дрехи и лостове за закачалки.
+:end
+[]
+===mobile5===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_04_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-4.jpg
+image.position: center
+text:
+## Обзавеждане на **дрешник**
+Дрешникът е отделен от спалнята чрез стъклена врата с прахово боядисана метална рамка в черно. Подовата настилка е продължение на тази в спалнята – ламиниран паркет. Всички мебели са от ПДЧ, боядисано в бяло. Осигурихме достатъчно светлина, идваща както от осветителните тела на тавана, така и от вграденото в обзавеждането осветление.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-2.jpg
+image.position: center
+text:
+Вътрешното пространство на шкафовете е организирано така, че тяхната вместимост да бъде максимално рационално оползотворена и съобразена с нуждите на собствениците на жилището. Има както чекмеджета, така и рафтове за сгънати дрехи и лостове за закачалки.
+:end
+[]
+
+==desktop6===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-3.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Студеното сиво-синьо, будещо асоциации с леда, прави компания на слънчевото яркожълто, обгърнало креслото до прозореца в спалнята. Таванът е бял, а подът е покрит с ламиниран паркет в светъл цвят. За стената зад спалнята избрахме ефектен фототапет, създаващ илюзията за релефна повърхност в бяло. Леглото и таблата са изцяло тапицирани с дамаска в сиво.
+:end
+
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-1.jpg
+image.position: center
+text:
+:end
+
+
+===mobile6===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-3.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Студеното сиво-синьо, будещо асоциации с леда, прави компания на слънчевото яркожълто, обгърнало креслото до прозореца в спалнята. Таванът е бял, а подът е покрит с ламиниран паркет в светъл цвят. За стената зад спалнята избрахме ефектен фототапет, създаващ илюзията за релефна повърхност в бяло. Леглото и таблата са изцяло тапицирани с дамаска в сиво.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+image.file: лекота-баланс-и-нотки-свежест/спаля-1.jpg
+image.position: left
+text:
+:end
+[]
