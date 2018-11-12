@@ -1,0 +1,426 @@
+layout: /blog/magazine.ect
+title: Стил и (младежо излъчване)
+description: Домът на модерно семейство, което обича уюта и доброто настроение, е подреден, пъстър и стилен. В едно отворено пространство обособихме няколко самостоятелни зони, в които балансирано съчетахме контрастни цветови комбинации, прави линии с естествени кривини и гланцирани с релефни повърхности. Проектирахме дом, в който свежите идеи царуват!
+cover: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+date: 2018-11-10
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_07_N.jpg
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_04_Z.png
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_01_Z.png
+* http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_01R.jpg
+[]
+
+[pages]
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_01_N.jpg
+image.file: стил-и-младежко-излъчване/всекидневна-1.jpg
+image.position: center
+text:
+# Стил и **младежко излъчване**
+## Обзавеждане на **апартамент в модерен стил**
+Домът на модерно семейство, което обича уюта и доброто настроение, е подреден, пъстър и стилен. В едно отворено пространство обособихме няколко самостоятелни зони, в които балансирано съчетахме контрастни цветови комбинации, прави линии с естествени кривини и гланцирани с релефни повърхности. Проектирахме дом, в който свежите идеи царуват!
+:end
+
+===mobile===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Vertical_01_N.jpg
+image.file: стил-и-младежко-излъчване/всекидневна-1.jpg
+image.position: center
+text:
+# Стил и **младежко излъчване**
+## Обзавеждане на **апартамент в модерен стил**
+Домът на модерно семейство, което обича уюта и доброто настроение, е подреден, пъстър и стилен.
+:end
+
+===desktop2===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_03_N.jpg
+image.file: стил-и-младежко-излъчване/всекидневна-3.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Интериор на **всекидневна**
+Добре организирано пространство, което обединява в себе си хол, кухня и трапезария.    
+Всяка зона е обособена елегантно, без да се получава ефект на струпване. 
+
+Помещението е обляно от естествена светлина. Преобладващите цветове са от светли и балансирани тонове.    
+За да внесем повече свежест и настроение в интериора, използвахме нюанси на лазурносиньо, кралско лилаво и златни акценти.   
+
+Цялостният дизайн следва изчистени линии. Меката мебел е с плавни и естествени извивки, които приканват към релакс и удобство.
+:end
+
+===mobile2===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Vertical_02_N.jpg
+image.file: стил-и-младежко-излъчване/всекидневна-2.jpg
+image.position: center
+text:
+## Интериор на **всекидневна**
+Добре организирано пространство, което обединява в себе си хол, кухня и трапезария.    
+Всяка зона е обособена елегантно, без да се получава ефект на струпване.    
+Цялостният дизайн следва изчистени линии. Меката мебел е с плавни и естествени извивки, които приканват към релакс и удобство.
+:end
+
+===desktop3===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_04_N.jpg
+image.file: стил-и-младежко-излъчване/хол-4.jpg
+image.position: center
+text:
+## Мебели в **хола**
+Холът е отворен към кухнята и коридора, цветовете са в пълен синхрон с цялостния дизайн на апартамента. Предвидихме и работно място, защото никога не се знае кога ще връхлети творческото вдъхновение. 
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_02_N.jpg
+image.file: стил-и-младежко-излъчване/хол-2.jpg
+text:
+Мебелите от МДФ лак и фурнир констрастират приятно на сивата стена. Горният ред шкафове е с дискретно вградени дръжки, мотив, който продължава и в кухнята.
+:end
+
+===mobile3===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Vertical_03_N.jpg
+image.file: стил-и-младежко-излъчване/хол-3.jpg
+image.position: center
+text:
+## Мебели в **хола**
+Холът е отворен към кухнята и коридора, цветовете са в пълен синхрон с цялостния дизайн на апартамента. Предвидихме и работно място, защото никога не се знае кога ще връхлети творческото вдъхновение. Работното бюро елегантно завършва мебелите на ТВ зоната.
+:end
+
+===desktop4===
+
+columns: 2
+tags: livingroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Kuhnya_Antre_FINAL_07_N.jpg
+image.file: стил-и-младежко-излъчване/кухня-7.jpg
+image.position: center
+text:
+:end
+
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Дизайн на **кухня**
+Отдавна вече кухните не са скрити зад врати, те са притегателният център на дома, който е открит и леснодостъпен от всички страни. 
+Луксът тук не е в разхищение на пространство и материали, а в добре обмисленото разпределение и функционалност на мебелите и електроуредите в кухнята. 
+Ултраизчистените линии на гланцовите повърхности изграждат усещане за съвършенство и завършеност. Нашите клиенти поискаха и остров, с който да увеличим работната повърхност, но ние предвидихме и допълнително две седящи места, които от своя страна ще оживят още повече кухнята.
+:end
+
+===mobile4===
+
+columns: 3
+tags: livingroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Hol_Vertical_04_N.jpg
+image.file: стил-и-младежко-излъчване/кухня-4.jpg
+image.position: center
+text:
+## Дизайн на **кухня**
+Отдавна вече кухните не са скрити зад врати, те са притегателният център на дома, който е открит и леснодостъпен от всички страни. 
+Луксът тук не е в разхищение на пространство и материали, а в добре обмисленото разпределение и функционалност на мебелите и електроуредите в кухнята. 
+:end
+
+===desktop5===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_04_Z.png
+image.file: стил-и-младежко-излъчване/спалня-4.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Спалнята е слънчева и обилната естествена светлина позволява по-тъмни тонове в интериора. Стената зад леглото е комбинация от ламперия от МДФ лак в наситен син нюанс и огледало от пода до тавана. Леглото и таблата са изцяло тапицирани с мека дамаска в сиво. Таванът е от бял латекс. Осветлението в спалнята е комбинация от луни за външен монтаж и ефектни лампи със сиво стъкло.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/спалня-2.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile5===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_04_Z.png
+image.file: стил-и-младежко-излъчване/спалня-4.jpg
+image.position: center
+text:
+## Обзавеждане на **спалня**
+Спалнята е слънчева и обилната естествена светлина позволява по-тъмни тонове в интериора. Стената зад леглото е комбинация от ламперия от МДФ лак в наситен син нюанс. Леглото и таблата са изцяло тапицирани с мека дамаска в сиво. 
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/спалня-2.jpg
+image.position: center
+text:
+Таванът е от бял латекс. Ламперията завършва с огледало от пода до тавана. Осветлението в спалнята е комбинация от луни за външен монтаж и ефектни лампи със сиво стъкло.
+:end
+[]
+
+===desktop6===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
+image.file: стил-и-младежко-излъчване/спалня-3.jpg
+text:
+## Мебели в **спалнята**
+Цялата стена срещу леглото е практично усвоена от система от два двукрилни гардероба с чекмеджета, вертикален и хоризонтален шкаф над тоалетката, която е предвидена и като място за работа. Мебелите отново са от МДФ лак и с комбинация от фрезовани дръжки. Тапицерията на стола повтаря спалнята. Колажът от малки картини на стената издават творческия дух на нашите клиенти.
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+image.file: стил-и-младежко-излъчване/спалня-1.jpg
+image.position: center
+text:
+:end
+[]
+
+===mobile6===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
+image.file: стил-и-младежко-излъчване/спалня-3.jpg
+image.position: center
+text:
+## Мебели в **спалнята**
+Цялата стена срещу леглото е практично усвоена от система от два двукрилни гардероба с чекмеджета, вертикален и хоризонтален шкаф над тоалетката, която е предвидена и като място за работа. Колажът от малки картини на стената издават творческия дух на нашите клиенти.
+
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+image.file: стил-и-младежко-излъчване/спалня-1.jpg
+image.position: center
+text:
+Мебелите отново са от МДФ лак и с комбинация от фрезовани дръжки. Тапицерията на стола повтаря спалнята. 
+:end
+[]
+
+===desktop7===
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_04R.jpg
+image.file: стил-и-младежко-излъчване/баня-4.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+Банята на родителите е към главната спалня и повтаря същата цветова комбинация, но тук гладкият МДФ лак е заменен с вълнисти хоризонтални плочки. 
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_01R.jpg
+image.file: стил-и-младежко-излъчване/баня-1.jpg
+image.position: center
+text:
+Душ зоната е отделена със стъклени прегради. Ефектно кръгло огледало увеличава оптически пространството.
+:end
+
+columns: 1
+tags: bathroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_03R.jpg
+image.file: стил-и-младежко-излъчване/баня-3.jpg
+image.position: center
+text:
+За максимално изчистен дизайн, душът и тоалетното казанче са вградени. Банята е добре осветена въпреки тъмните тонове.
+:end
+
+===mobile7===
+
+columns: 3
+[.slides]
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_04R.jpg
+image.file: стил-и-младежко-излъчване/баня-4.jpg
+image.position: center
+text:
+## Вътрешен дизайн на **баня**
+Банята на родителите е към главната спалня и повтаря същата цветова комбинация, но тук гладкият МДФ лак е заменен с вълнисти хоризонтални плочки. 
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_01R.jpg
+image.file: стил-и-младежко-излъчване/баня-1.jpg
+image.position: center
+text:
+Душ зоната е отделена със стъклени прегради. Ефектно кръгло огледало увеличава оптически пространството.
+:end
+
+tags: bathroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Banya-Spalnya_Final_03R.jpg
+image.file: стил-и-младежко-излъчване/баня-3.jpg
+image.position: center
+text:
+За максимално изчистен дизайн, душът и тоалетното казанче са вградени. 
+:end
+[]
+
+===desktop8===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_01_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-1.jpg
+image.position: center
+text:
+## Интериорен дизайн на **детска стая**
+Детската стая е като приказен свят, в който вълшебствата са реалност. Тук безгрижността е обвита в пухкави облачета, а от детския смях струят слънчеви лъчи. Времето в тази стая сякаш спира. 
+Интериорът е светъл и жизнерадостен. Жълтите завеси засилват усещането за естествена светлина, а таванът сякаш е обсипан от звезди небосвод.
+
+:end
+
+tags: bedroom
+display: desktop
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_04_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-4.jpg
+image.position: left
+text:
+
+:end
+
+
+[]
+
+===mobile3===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_01_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-1.jpg
+image.position: right
+text:
+## Интериорен дизайн на **детска стая**
+Детската стая е като приказен свят, в който вълшебствата са реалност. Тук безгрижността е обвита в пухкави облачета, а от детския смях струят слънчеви лъчи. 
+Интериорът е светъл и жизнерадостен. Жълтите завеси засилват усещането за естествена светлина.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_04_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-4.jpg
+image.position: center
+text:
+ Времето в тази стая сякаш спира, за да се полюбуваме на обсипания със звезди таван-небосвод.
+:end
+
+[]
+===desktop9===
+
+columns: 2
+tags: bedroom
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/етска-стая-1.jpg
+image.position: center
+text:
+
+:end
+
+columns: 1
+tags: bedroom
+display: desktop
+style: inline
+text:
+## Мебели в **детска стая**
+Детската стая е като храм на невинността, в която наивно по детски вярваме, че можем да летим.
+
+Спряхме на светли и пастелни цветове. Мебелите са бели, от МДФ лак. Стените са в светлосив латекс, който съвсем ненатрапчиво се комбинира с бял таван и подов профил. Подът е от светъл ламиниран паркет. Килимът е мек и подходящ за игри на пода. 
+
+Мебелите в стаята трябва да отговарят на ръста на детето, за да може лесно и само да достига желаните играчки.
+:end
+
+===mobile9===
+
+columns: 3
+[.slides]
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/етска-стая-2.jpg
+image.position: left
+text:
+## Мебели в **детска стая**
+Спряхме на светли и пастелни цветове. Мебелите са бели, от МДФ лак. Стените са в светлосив латекс, който съвсем ненатрапчиво се комбинира с бял таван и подов профил. Подът е от светъл ламиниран паркет. Килимът е мек и с дълъг косъм, подходящ е за игри на пода.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/етска-стая-2.jpg
+image.position: right
+text:
+Детската стая е като храм на невинността, в която наивно по детски вярваме, че можем да летим.
+:end
+
+[]
