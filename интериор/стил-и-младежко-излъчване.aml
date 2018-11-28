@@ -186,6 +186,15 @@ text:
 ===mobile5===
 
 columns: 3
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/спалня-2.jpg
+image.position: center
+text:
+Ламперията зад леглото завършва с огледало от пода до тавана. Осветлението в спалнята е комбинация от луни за външен монтаж и ефектни лампи със сиво стъкло.
+:end
+
 [.slides]
 tags: bedroom
 display: mobile
@@ -199,11 +208,21 @@ text:
 
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.png
-image.file: стил-и-младежко-излъчване/спалня-2.jpg
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
+image.file: стил-и-младежко-излъчване/спалня-3.jpg
 image.position: center
 text:
-Ламперията зад леглото завършва с огледало от пода до тавана. Осветлението в спалнята е комбинация от луни за външен монтаж и ефектни лампи със сиво стъкло.
+## Мебели в **спалнята**
+Цялата стена срещу леглото е практично усвоена от система от два двукрилни гардероба с чекмеджета, вертикален и хоризонтален шкаф над тоалетката, която е предвидена и като място за работа. Колажът от малки картини на стената издава творческия дух на нашите клиенти.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
+image.file: стил-и-младежко-излъчване/спалня-1.jpg
+image.position: center
+text:
+Мебелите отново са от МДФ лак и с комбинация от фрезовани дръжки. Тапицерията на стола и леглото се повтаря.
 :end
 []
 
@@ -230,29 +249,6 @@ text:
 []
 
 ===mobile6===
-
-columns: 3
-[.slides]
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_03_Z.png
-image.file: стил-и-младежко-излъчване/спалня-3.jpg
-image.position: center
-text:
-## Мебели в **спалнята**
-Цялата стена срещу леглото е практично усвоена от система от два двукрилни гардероба с чекмеджета, вертикален и хоризонтален шкаф над тоалетката, която е предвидена и като място за работа. Колажът от малки картини на стената издава творческия дух на нашите клиенти.
-
-:end
-
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_01_Z.png
-image.file: стил-и-младежко-излъчване/спалня-1.jpg
-image.position: center
-text:
-Мебелите отново са от МДФ лак и с комбинация от фрезовани дръжки. Тапицерията на стола и леглото се повтаря. 
-:end
-[]
 
 ===desktop7===
 
@@ -375,6 +371,25 @@ text:
  Времето в тази стая сякаш спира, за да се полюбуваме на обсипания със звезди таван-небосвод.
 :end
 
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-2.jpg
+image.position: left
+text:
+## Мебели в **детска стая**
+Спряхме се на светли и пастелни цветове. Мебелите са бели, от МДФ лак. Стените са в светлосив латекс, който съвсем ненатрапчиво се комбинира с бял таван и подов профил. Подът е от светъл ламиниран паркет. Килимът е мек и с дълъг косъм, подходящ е за игри на пода.
+:end
+
+tags: bedroom
+display: mobile
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
+image.file: стил-и-младежко-излъчване/детска-стая-2.jpg
+image.position: right
+text:
+Детската стая е като храм на невинността, в която наивно по детски вярваме, че можем да летим.
+:end
+
 []
 ===desktop9===
 
@@ -404,28 +419,6 @@ text:
 
 ===mobile9===
 
-columns: 3
-[.slides]
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
-image.file: стил-и-младежко-излъчване/детска-стая-2.jpg
-image.position: left
-text:
-## Мебели в **детска стая**
-Спряхме се на светли и пастелни цветове. Мебелите са бели, от МДФ лак. Стените са в светлосив латекс, който съвсем ненатрапчиво се комбинира с бял таван и подов профил. Подът е от светъл ламиниран паркет. Килимът е мек и с дълъг косъм, подходящ е за игри на пода.
-:end
-
-tags: bedroom
-display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost_3_Detska_Staya_FINAL_02_Z.png
-image.file: стил-и-младежко-излъчване/детска-стая-2.jpg
-image.position: right
-text:
-Детската стая е като храм на невинността, в която наивно по детски вярваме, че можем да летим.
-:end
-
-[]
 ===desktop===
 
 columns: 1
