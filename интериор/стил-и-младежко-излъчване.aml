@@ -176,7 +176,7 @@ text:
 
 tags: bedroom
 display: desktop
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.jpg
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/test.png
 image.file: стил-и-младежко-излъчване/спалня-20.jpg
 image.position: center
 text:
@@ -188,7 +188,7 @@ text:
 columns: 3
 tags: bedroom
 display: mobile
-image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/Rubenov_Mladost3_Spalnya_FINAL_02_Z.jpg
+image.url: http://projects.acherno.int/rubenov-mladost3/Marketing/Concept/test.png
 image.file: стил-и-младежко-излъчване/спалня-20.jpg
 image.position: center
 text:
