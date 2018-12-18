@@ -8,7 +8,7 @@ tags: private, modern
 
 [best]
 * http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_01_N.jpg
-* http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_08_N.jpg
+* http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_06_N.jpg
 * http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Detska_FINAL_04_St.jpg
 * http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Spalnya_02_FINAL_03_Z.jpg
 []
@@ -115,27 +115,54 @@ text:
 []
 
 ===трапезария===
+columns: 1
+tags: livingroom
+display: desktop
+style: inline
+text:
+## Интериорен дизайн на **трапезария**
+Трапезарията е предпочитаното място за всеки един момент от деня – за сутрешното кафе и бърз преглед на пресата, за следобедния чай, докато топлото зимно слънце облива стаята със златиста светлина или вечер, когато трапезната маса е обградена от всички членове на семейството, а от кухнята се носи сладкият аромат на френска телешка яхния.
+:end
+
 columns: 2
 tags: livingroom
 display: desktop
 style: inline
-image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_08_N.jpg
-image.file: лайм-мотив/всекидневна-8.jpg
+image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_06_N.jpg
+image.file: лайм-мотив/всекидневна-6.jpg
 image.position: center
 text:
 :end
-
-columns: 1
+===детска-стая===
+columns: 3
 tags: livingroom
 display: desktop
-image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_07_N.jpg
-image.file: лайм-мотив/всекидневна-7.jpg
-image.position: right
 style: inline
+image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Detska_FINAL_04_St.jpg
+image.file: лайм-мотив/детска-стая-4.jpg
+image.position: center
 text:
-## Вътрешен дизайн на **трапезария**
-
+## Интериорен дизайн на **детска стая**
+Тази стая проектирахме така, че да е комфортна за децата с богато въображение и много приключенски дух. Млечните тонове на резедавия и лилав цвят, предизвикват миловидни чувства, които ще разтопяват малките герои. Нямаме търпение да я видим разхвърляна!
 :end
+===
+columns: 3
+[.slides]
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Detska_FINAL_01_St.jpg
+image.file: лайм-мотив/детска-стая-1.jpg
+text:
+:end
+
+columns: 3
+tags: livingroom
+display: desktop
+image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Detska_FINAL_05_St.jpg
+image.file: лайм-мотив/детска-стая-5.jpg
+text:
+:end
+[]
 
 
 
