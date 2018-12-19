@@ -228,7 +228,7 @@ columns: 3
 tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Hol_Vertical_01_N.jpg
-image.file: лайм-мотив/всекидневна-1.jpg
+image.file: лайм-мотив/всекидневна-01.jpg
 image.position: center
 text:
 # Вдъхновяващ **Лайм мотив**
@@ -241,7 +241,7 @@ tags: livingroom
 display: mobile
 style: inline
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Hol_Vertical_02_N.jpg
-image.file: лайм-мотив/всекидневна-2.jpg
+image.file: лайм-мотив/всекидневна-02.jpg
 image.position: center
 text:
 ## Вътрешен дизайн на **всекидневна**
@@ -317,7 +317,7 @@ columns: 3
 tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushan_Borovo_Hol_Vertical_03_N.jpg
-image.file: лайм-мотив/всекидневна-3.jpg
+image.file: лайм-мотив/трапезария-03.jpg
 image.position: center
 text:
 ## Вътрешен дизайн на **трапезария**
