@@ -56,14 +56,13 @@ columns: 3
 tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_03_N.jpg
-image.file: лайм-мотив/хол-3.jpg
+image.file: лайм-мотив/хол-30.jpg
 text:
 ## Интериор на **хол**
 Светъл и уютен са двете думи, които най-точно описват холното пространство.   
 И това усещане ще се запазва във всеки отделен член на семейството, който използва хола по различен начин – дали за релакс, или за забавление на децата, докато играят любимите си видео игри, а защо не и за работа.
 :end
 
-columns: 3
 tags: livingroom
 display: desktop
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_02_N.jpg
@@ -257,7 +256,7 @@ columns: 3
 tags: livingroom
 display: mobile
 image.url: http://projects.acherno.int/dushan-borovo/Marketing/Concept/Dushana_Borovo_Hol_Kuhnya_Antre_FINAL_03_N.jpg
-image.file: лайм-мотив/хол-3.jpg
+image.file: лайм-мотив/хол-30.jpg
 text:
 ## Интериор на **хол**
 Светъл и уютен са двете думи, които най-точно описват холното пространство.   
