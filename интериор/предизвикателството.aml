@@ -1,0 +1,127 @@
+layout: /blog/magazine.ect
+title: Предизвикателството на (последния етаж)
+description: Малките апартаменти на последния етаж носят категорично очарователен заряд, достатъчен, за да бъде пренебрегнато предизвикателството на скосените тавани. За щастие, ние имаме опит с нестандартната архитектура на подпокривните пространства и освен красив дизайн, изпълнихме всички изисквания на клиента, давайки му най-добрите решения. 
+cover: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_07_N.jpg
+date: 2019-02-01
+firstPage: true
+tags: private, modern
+
+[best]
+* http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_01_N.jpg
+* http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_07_N.jpg
+* http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_05_N.jpg
+* http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Spalnya_FINAL_05_N.jpg
+[]
+
+[pages]
+columns: 3
+tags: bedroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_07_N.jpg
+image.file: предизвикателството/трапезария-7.jpg
+image.position: center
+text:
+# Предизвикателството на  **последния етаж**
+## **Модерен интериорен дизайн** на мансарда
+Малките апартаменти на последния етаж носят категорично очарователен заряд, достатъчен, за да бъде пренебрегнато предизвикателството на скосените тавани. За щастие, ние имаме опит с нестандартната архитектура на подпокривните пространства и освен красив дизайн, изпълнихме всички изисквания на клиента, давайки му най-добрите решения. 
+:end
+
+===kuhnq===
+
+columns: 2
+tags: kitchen
+style: inline
+display: desktop
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_09_N.jpg
+image.file: предизвикателството/кухня-9.jpg
+image.position: center
+text:
+## Интериор на **кухня**
+Чувствително скосеният таван усложнява монтажа на аспиратора. Тук се изискваха повече промени, свързани с изместването на отвора на вентилацията и височината на монтажа на самия електроуред.
+:end
+
+columns: 1
+tags: kitchen
+display: desktop
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_10_N.jpg
+image.file: предизвикателството/кухня-10.jpg
+image.position: left
+text:
+Позиционирахме всички мебели и уреди в тази малка ниша, без проблем за свободното движение между зоните в кухнята.
+:end
+
+
+columns: 3
+[.slides]
+style: inline
+tags: livingroom
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_08_N.jpg
+image.file: предизвикателството/трапезария-8.jpg
+image.position: center
+text:
+## Дизайн на **трапезария**
+Поставихме вертикален блок от шкафове с лице към трапезарията, за да увеличим гърба на кухнята, а с него работният плот и зоната за съхранение. По този начин постигнахме и изравняване на линията на стената със скосения таван. Едната страница на вертикалния блок е огледална. 
+:end
+tags: livingroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_03_N.jpg
+image.file: предизвикателството/трапезария-3.jpg
+image.position: left
+text:
+Пространството в общото помещение е разкъсано несиметрично от носеща колона, която скрихме във вертикална модулна система от високи шкафове и рафтчета с вградени телевизори и биокамина.  
+Чрез вертикалната система разделихме общото помещение на трапезария и малък уютен хол. ТВ зоната е напълно еднаква и от двете си страни.
+:end
+tags: livingroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_04_N.jpg
+image.file: предизвикателството/хол-4.jpg
+image.position: left
+:end
+[]
+
+===хол===
+
+columns: 2
+tags: livingroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_05_N.jpg
+image.file: предизвикателството/хол-5.jpg
+image.position: right
+text:
+## Интериор на **хол**
+Обособихме уютно холно пространство, в което използвахме гардероб, повтарящ дизайна на ТВ зоната, като разделяща от антрето стена. Светлината и белият цвят в инериора оптически увеличават иначе малкото пространство.
+:end
+columns: 1
+tags: livingroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Hol_FINAL_06_N.jpg
+image.file: предизвикателството/хол-6.jpg
+image.position: left
+text:
+Възползвахме се от всяка възможност за място за съхранение и проектирахме холна маса с чекмеджета и шкаф под скосения таван.
+:end
+
+===spalnq===
+
+columns: 3
+[.slides]
+tags: bedroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Spalnya_FINAL_05_N.jpg
+image.file: предизвикателството/спалня-5.jpg
+image.position: center
+text:
+## Дизайн на **спалня**
+Очарователна малка спалня, в която вместо компромиси, видяхме потенциал това помещение да се превърне в удобна и уютна спаля. Височината на тавана извискваше по-ниско легло, което да не отнема от пространството за спокойно предвижване. Ефектната огледална стена увеличи оптически помещението. 
+:end
+
+tags: bedroom
+style: inline
+image.url: http://projects.acherno.int/karacholova-varna/Marketing/Concept/Karacholova_Varna_Spalnya_FINAL_01_N.jpg
+image.file: предизвикателството/спалня-1.jpg
+image.position: left
+text:
+Скосеният таван и тук не успя да ни затрудни. Малката и светла спалня с младежко излъчване ще е еднакво удобна както за един човек, така и за двама, само с едно лесно разместване на нощното шкафче с леглото. Проектирахме малък гардероб, който сляхме елегантно с арката, водяща към голяма тераса. 
+:end
+[]
