@@ -77,12 +77,8 @@ image:  http://projects.acherno.int/teodor-sofia-park/Marketing/Concept/Teodor-S
 alt: Интериор на кабинет
 text:
 ## **Кабинетът у дома**
-Кабинет у дома не е лукс, нито пък лудост, а практично удобство. Тук всички книги и документация са подредени, а уединението, което осигурява тази стая е незаменимо. 
- 
+Кабинет у дома не е лукс, нито пък лудост, а практично удобство. Тук всички книги и документация са подредени, а уединението, което осигурява тази стая е незаменимо.  
 :end
-
-Баня основна
-------------
 
 columns: 1
 tags: other
@@ -90,8 +86,12 @@ style: overlay
 image:  http://projects.acherno.int/teodor-sofia-park/Marketing/Concept/Teodor-Sofia-Park_Kabinet_FINAL_03_St.png
 alt: Интериор на кабинет
 text:
+## Интериор на кабинет
 Работният кабинет на татко несъмнено е най-мистичната за децата стая в цялата къща – толкова рафтове и шкафове, пълни с вълшебни предмети.
 :end
+
+Баня основна
+------------
 
 columns: 1
 tags: bathroom
@@ -121,6 +121,7 @@ tags: bedroom
 style: overlay
 image:  http://projects.acherno.int/teodor-sofia-park/Marketing/Concept/Teodor_Sofia_Park_Detska_Malka_FINAL_01_N.jpg
 alt: Интериор на детска
+position: 25%
 text:
 ## Интериор на детска
 В дизайна на тази детска стая разгърнахме личния ни прочит на мотива за приказното царството на малките феи. Тук всяко желание се сбъдва и вълшебставата са реалност. 
@@ -156,6 +157,7 @@ image:  http://projects.acherno.int/teodor-sofia-park/Marketing/Concept/Teodor_S
 alt: Интериор на детска
 position: 30%
 text:
+## На две нива
 Парапетът на стълбището към второто ниво е идеален за дом на всички плюшени животни. Практично и красиво решение за съхранение на книги и играчки.
 :end
 
@@ -166,6 +168,7 @@ image:  http://projects.acherno.int/teodor-sofia-park/Marketing/Concept/Teodor_S
 alt: Интериор на детска
 position: 0%
 text:
+## Интериор на детска
 Второто ниво е необикновен спален кът и тайна наблюдателница, от която детето, като безстрашен изследовател да бди над своя личен свят. 
 :end
 
