@@ -1,0 +1,87 @@
+layout: /v2/blog/magazine.ect
+title: Акордите на (новото жилище)
+description:  Често един ремонт започва с желанието за малка промяна. В този случай с търсене на подобаващо място на  две китари и сцена за музикалното хоби, така, че да може цялото семейство и приятели да се наслаждават заедно на акустичните солови изпълнения на домакинa. Възползвахме се от овалната стена с витражни прозорци, която превърнахме в своеобразна сцена, подходяща за солови изяви вечер и уютен кът за четене и релакс през деня.
+cover: http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_001_St.jpg
+date: 2019-02-03
+firstPage: true
+tags: private, modern
+
+[pages]
+columns: 0
+style: overlay
+tags: livingroom
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_001_St.jpg
+alt: Интериорен дизайн на хол
+text:
+# Акордите на **новото жилище**
+## **Модерен интериорен дизайн**
+ Често един ремонт започва с желанието за малка промяна. В този случай с търсене на подобаващо място на  две китари и сцена за музикалното хоби, така, че да може цялото семейство и приятели да се наслаждават заедно на акустичните изпълнения на домакинa. Възползвахме се от овалната стена с витражни прозорци, която превърнахме в своеобразна сцена, подходяща за солови изяви вечер и уютен кът за четене и релакс през деня. 
+:end
+
+columns: 2
+style: overlay
+tags: livingroom
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_002_St.jpg
+alt: Инериор на хол
+text:
+## Дизайн на **всекидневна**
+В това жилище кухня и хол бяха разделени на две малки стаи. Преустроихме ги в едно общо помещение, обединяващо кухня, трапезария и хол. По този начин внесохме повече простор и естествена светлина.
+:end
+columns: 1
+tags: livingroom
+style: overlay desktop
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_005_St.jpg
+alt: Инериор на хол
+:end
+
+
+
+columns: 3
+tags: kitchen
+style: overlay desktop
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_005_St.jpg
+alt: Инериор на всекидневна
+text:
+## Акцентите в **трапезарията**
+Освен естествената светлина и луните в тавана, над трапезната маса поставихме и три големи полилея, които да осигуряват достатъчно добра светлина вечер. Тук е моментът да споменем, че домакините пожелаха изолация на тавана, заради която изградихме окачени тавани от гипсокартон във всички помещения. Чрез декоративна стена от МДФ фурнир привнесохме допълнителен уют.
+:end
+
+
+columns: 3
+tags: kitchen
+style: overlay
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_006_St.jpg
+alt: Дизайн на кухня
+text:
+## Дизайн на **кухня**
+Усвоихме малката тераса, за да увеличим работното пространство и мято за съхранение. Плотът под прозорец, без съмнение, е романтично и много практично решение за домакинята. Кухненските шкафове са с изчистена линия и вградени дръжки, които няма да пречат при движение. Кухнята е светла, добре организирана и приветлива.
+:end
+
+:end
+columns: 1
+tags: other
+style: overlay
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_001_Z.png
+alt: Инериор на всекидневна
+text:
+## Интериорни решения на **антре и коридор**
+Антрето е главната артерия на този дом, от него има директен достъп до всички помещения. 
+:end
+
+columns: 1
+tags: other
+style: overlay
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_002_Z.png
+alt: Дизайн на кухня
+text: 
+Множеството чупки в стените на помещението ни вдъхновиха да създадем по-нестандартнен шкаф с рафтове.
+:end
+
+columns: 1
+style: overlay
+tags: other
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_003_Z.png
+alt: Инериор на хол
+text: 
+Като допълнение проектирахме и гардероб с вертикална колона от открити етажерки в констрастен цвят.
+:end
