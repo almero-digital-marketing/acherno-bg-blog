@@ -47,20 +47,19 @@ text:
 :end
 
 
-columns: 3
-tags: kitchen
+columns: 0
 style: overlay
+tags: kitchen
 image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova-Burgas_Hol_FINAL_006_St.jpg
 alt: Дизайн на кухня
 text:
-## Дизайн на **кухня**
+## Проектиране на **кухня**
 Усвоихме малката тераса, за да увеличим работното пространство и мято за съхранение. Плотът под прозорец, без съмнение, е романтично и много практично решение за домакинята. Кухненските шкафове са с изчистена линия и вградени дръжки, които няма да пречат при движение. Кухнята е светла, добре организирана и приветлива.
 :end
 
-:end
 columns: 1
 tags: other
-style: overlay
+style: overlay desktop
 image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_001_Z.png
 alt: Инериор на всекидневна
 text:
@@ -70,18 +69,29 @@ text:
 
 columns: 1
 tags: other
-style: overlay
+style: overlay desktop
 image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_002_Z.png
 alt: Дизайн на кухня
 text: 
-Множеството чупки в стените на помещението ни вдъхновиха да създадем по-нестандартнен шкаф с рафтове.
+Множеството чупки на стените на помещението ни вдъхновиха да създадем по-нестандартнен шкаф с рафтове.
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: other
 image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_003_Z.png
 alt: Инериор на хол
 text: 
 Като допълнение проектирахме и гардероб с вертикална колона от открити етажерки в констрастен цвят.
+:end
+
+columns: 0
+tags: other
+style: overlay mobile
+image:  http://projects.acherno.int/lazarova-burgas/Marketing/Concept/Lazarova_Antre_FINAL_002_Z.png
+alt: Дизайн на кухня
+text:
+## Интериорни решения на **антре и коридор**
+Антрето е главната артерия на този дом, от него има директен достъп до всички помещения.  
+Множеството чупки на стените на помещението ни вдъхновиха да създадем по-нестандартнен шкаф с рафтове.
 :end
