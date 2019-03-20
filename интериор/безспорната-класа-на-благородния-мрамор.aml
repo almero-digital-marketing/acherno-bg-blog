@@ -1,0 +1,247 @@
+layout: /v2/blog/magazine.ect
+title: Безспорната класа на (благродния мрамор)
+description: Един космополитен апартамент, в който луксът е добре дошъл да се полюбува на комфорт, а и на гледката. Основният фокус в интериора е върху функционалността, прецизните геометрични форми и неутралните тонове, на фона на които винтидж лофт и дзен минимализъм преплитат нишките си с жилките на аристократичния мрамор.
+ 
+cover: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Spalnya_FINAL_01_N.jpg
+date: 2019-03-14
+firstPage: true
+tags: private, classic
+
+[pages]
+
+Баня
+-----------
+
+columns: 0
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Spalnya_FINAL_01_N.jpg
+alt: Интериорен дизайн на баня
+position: 25%
+text:
+# Безспорната класа на **благродния мрамор**
+## Апартамент за **любителите на модата** и минималистичния лукс
+Винтидж лофт и дзен минимализъм преплитат нишките си с жилките на суровия мрамор, за да впишат на негов фон естествената топлина на дървото и лъчите на безброй осветителни тела. Всичко това е подчинено на основния фокус върху функционалността, прецизните геометрични форми и неутралните тонове&nbsp;– ту студени, ту топли, но винаги в успешна, запомняща се комбинация. Резултатът е един космополитен апартамент, в който луксът е добре дошъл да се полюбува на комфорта... и на гледката.
+:end
+
+Баня към спалня
+---------------
+
+columns: 1
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Spalnya_FINAL_05_N.jpg
+alt: Интериор на баня
+position: 40%
+text:
+## Интериорен дизайн на **баня към спалня**
+Завладяващо усещане за изтънчено величие. Основен виновник за това както тук, така и в останалата част от този модерен дом, е мраморът, пълзящ не само по пода, но и по стените. За целта използвахме свръхголеми плочки с отчетливо видими мраморни жилки, които внесоха уникалност във всяка част на банята. За да изпъкнат шарките, оставихме всичко друго в неутрални цветове. Допълнихме аристократично излъчване с помощта на свободностоящата вана, подчертана в черен гланц.
+:end
+
+columns: 2
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Spalnya_FINAL_03_N.jpg
+alt: Интериор на баня
+position: 17%
+text:
+Черното, един от главните трендове в интериора, присъства и в детайлите с лофт стилистика, като аплиците със спот визия, отоплителната лира и рамкирането на вратите. В името на минимализма скрихме всички рафтове в стенни ниши и заложихме на контролни панели без видим релеф.
+:end
+
+columns: 0
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Spalnya_FINAL_02_N.jpg
+alt: Интериор на баня
+position: 15%
+text:
+Усещането за просторност постигнахме и с помощта на напълно прозрачната душ кабина, както и чрез огромното огледало, което автоматично увеличава броя на вградените лунички. Изпъстрила сивия окачен таван, тяхната насочена светлина се отразява особено атрактивно в мраморните повърхности, подчертавайки неповторимата им изисканост. Суровото излъчване на комбинацията от черно и мрамор е балансирано с бежов мат при шкафовете с пуш механизъм и с плочки, които успешно пренасят уюта на дървото и със своя хоризонтален ред оптически разширяват пространството. Своеобразен акцент в него е екранът, който по желание би могъл да хвърли мост между уединението и света извън банята.
+:end
+
+Спалня
+-----------
+
+columns: 3
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Spalnya_FINAL_03_N.jpg
+alt: Обзавеждане на спалня
+position: 100%
+text:
+## Обзавеждане на **спалня**
+Интериорните решения в основната спалня са продиктувани от отличителните за цялостния интериор на апартамента детайли, които се повтарят в ключови части от дома, оформяйки характерния му стил. Мраморната стена е приютила газова камина, подчертана с черен мат. Трислойният паркет с дъбова шарка и цвят на кафе е също запазен знак на този дом. Скритото LED осветление, светлата ламперия и бежовите мебели от МДФ с матирана повърхност внасят усещане за светлина и повече пространство в стаята.
+:end
+
+columns: 1
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Spalnya_FINAL_12_N.jpg
+alt: Мебели в спалня
+text:
+Особено запомнящите се настолни лампи и лампионът са част от дизайнерска колекция, елементи от които позиционирахме и в други стаи.
+:end
+
+columns: 2
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Spalnya_FINAL_05_N.jpg
+alt: Мебели в спалня
+position: 35%
+text:
+Това важи и за спот осветлението на релси, което внася индустриална нотка в интериора, която е в унисон с окачения сив таван при прехода към банята. 
+:end
+
+Дрешник
+-----------
+
+columns: 0
+style: overlay
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Dreshnik_Kabinet_FINAL_03_St.jpg
+alt: Интериорен дизайн на дрешник
+text:
+## Интериор на **дрешник**
+Кабинет или дрешник? А защо не и двете! В него ценителите на модата могат да изложат своите уникални находки зад витрините на гардероба, нишите за обувки и остъкления плот на шкафа, който позиционирахме като остров в първата част на стаята. 
+:end
+
+columns: 2
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Dreshnik_Kabinet_FINAL_02_St.jpg
+alt: Интериорен дизайн на дрешник
+text:
+:end
+
+columns: 1
+style: overlay
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Dreshnik_Kabinet_FINAL_01_St.jpg
+alt: Интериор на дрешник
+position: 50%
+text: 
+Акцентите са възможни с помощта на LED ленти, които осветяват нужните детайли. Тук се въздържаме от мрамора, целта е да изпъкнат дрехите и аксесоарите, посланици на високата класа в този дом. Съхраняваме ги грижливо на фона на фурнирован МДФ с покритие от естествен американски орех.
+:end
+
+columns: 0
+style: overlay
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Dreshnik_Kabinet_FINAL_05_St.jpg
+alt: Интериорен дизайн на дрешник
+position: 55%
+text: 
+Отвъд забележителния свят на модата остава място и за уединение насаме със собствените мисли, които могат да бъдат изляти на хартия върху бюрото от МДФ в сив мат или споделени с компания, удобно разположена върху двуместния диван. От него се разкрива гледка както към света навън, така и към този, случващ се върху екрана отсрещната стена. Дори подът от трислоен паркет е като витрина за модни попадения като килимите с ефектна текстура и сложен шев.
+:end
+
+Антре
+-----------
+
+columns: 1
+style: overlay
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Antre_FINAL_09_N.jpg
+alt: Обзавеждане на антре
+text:
+## Интериор на **антре**
+Мраморът посреща гостите в този дом още от входната врата, за да ги подкани да направят следващите крачки по трислойния паркет, водещ към стаите. Към вградените в тавана луни тук добавихме и такива за външен монтаж, за да акцентираме върху мястото, където всеки новодошъл може да се отпусне върху мястото за сядане, вградено в гардероба, или пък да се огледа за последно преди излизане. 
+:end
+
+columns: 1
+style: overlay
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Antre_FINAL_02_N.jpg
+alt: Обзавеждане на антре
+position: 50%
+text: 
+Направи ли завой към стаите го очаква ефектен ориентир за точното време в минималистичния стил на този изискан дом. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Antre_FINAL_10_N.jpg
+alt: Обзавеждане на антре
+text: 
+Предверието към хола се откроява от останалите стени в светъл и сив латекс със своята тъмна ламперия, зад която се крият неподозирани пространства за съхранение.
+:end
+
+Гостна
+-----------
+
+columns: 0
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Gostna_FINAL_01_St.jpg
+alt: Интериорен дизайн на спалня
+position: 15%
+text: 
+## Обзавеждане на **гостна**
+Минимализъм, но и уют струят от нежния комфорт на тази спалня за гости. Постигнахме излъчването с помощта на меките тонове на капучино, и мока, балансирани от акцентите в черно и сиво при осветителните тела и мебелите от МДФ с фурнир и мат. 
+:end
+
+columns: 2
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Gostna_FINAL_02_St.jpg
+alt: Интериорен дизайн на спалня
+text: 
+При декоративните детайли подходихме с обединяващата стилистика на дзен минимализма, а под ламперията добавихме LED осветление, за да я откроим като своеобразно произведение на изкуството.
+:end
+
+columns: 1
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Gostna_FINAL_04_St.jpg
+alt: Интериорен дизайн на спалня
+text: 
+:end
+
+Обща баня
+-----------
+
+columns: 0
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Koridor_FINAL_01_St.jpg
+alt: Интериор на баня
+position: 45%
+text:
+## Интериорен дизайн на **обща баня**
+Класически съвременен интериор, който постигнахме чрез комбинацията от мраморния ефект и дървесната визия при плочките, решени този път в по-светли нюанси. Неутралното сиво при PVC шкафовете и минималистичните извивки при овалните форми на мивките имат за цел да не натоварват погледа.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Koridor_FINAL_03_St.jpg
+alt: Интериор на баня
+text: 
+Вместо това го пускат да се рее в огледалото от стена до стена, да поиграе с духовитата форма на отоплителната лира и да стигне безпрепятствено чак до душ зоната зад прозрачното стъкло. 
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Koridor_FINAL_03_St.jpg
+alt: Интериор на баня
+text: 
+Вместо това го пускат да се рее в огледалото от стена до стена и да стигне безпрепятствено чак до душ зоната зад прозрачното стъкло. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Baku_Banya_Koridor_FINAL_07_St.jpg
+alt: Интериор на баня
+text: 
+:end
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/vinchev-baku/Marketing/Concept/Vinchev_Mokro_05_KD.jpg
+alt: Обзавеждане на мокро помещение
+position: 50%
+text: 
+## Обзавеждане на **мокро помещение**
+Светли нюанси на сивото и бежовото приютяват всичко необходимо за поддържането на живота в този дом, което трябва да остане скрито от погледите зад вратата на мокрото помещение. За домакините модни любители предвидихме възможно по-функционално разделение на рафтовете, така че да остане място и за правилното съхранение на вещите им, и за куфарите, с които ще поемат към следващите си стилни находки.
+:end
