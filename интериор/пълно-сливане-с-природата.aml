@@ -44,7 +44,7 @@ style: overlay mobile
 tags: bedroom
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Spalnya_FINAL_01_N.jpg
 alt: Интериорен дизайн на спалня
-position: 30%
+position: 40%
 text:
 ## Обзавеждане на **спалня**
 Дърво, камък и естествена светлина създават фон, в който мекото кадифе се вписва без проблем със своето капитониране. Плисираните щори при кръглия прозорец не са просто за разкош. Те дават нужната закрила от слънцето, без да спират естествената светлина – ключов елемент в този планински дом.
@@ -55,7 +55,6 @@ style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Spalnya_FINAL_02_N.jpg
 alt: Интериорен дизайн на спалня
-position: 30%
 text:
 ## Обзавеждане на **спалня**
 Дърво, камък и естествена светлина създават фон, в който мекото кадифе се вписва без проблем със своето капитониране. Плисираните щори при кръглия прозорец не са просто за разкош. Те дават нужната закрила от слънцето, без да спират естествената светлина – ключов елемент в този планински дом.
@@ -66,7 +65,7 @@ style: overlay
 tags: bedroom
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Spalnya_FINAL_05_N.jpg
 alt: Инериор на спалня
-position: 35%
+position: 60%
 text: “Лека нощ!”, пожелана на фона на догаряща камина и полилей от “свещи”, или дрямка не до, а на самия прозорец, и ето че сънищата можели да бъдат сладки! Все пак са сред самата природа. Формите, цветовете и материите, вдъхновени от нея, диктуват обзавеждането да е в етно шарки и в тоновете на елементите земя и небе.
 :end
 
@@ -103,7 +102,7 @@ tags: bedroom
 style: overlay mobile
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Spalnya_FINAL_04_N.jpg
 alt: Обзавеждане на спалня
-position: 30%
+position: 45%
 text:
 :end
 
@@ -163,14 +162,6 @@ text:
 Мече, лос и лъв бдят над съня на най-малките членове от семейството. Този своеобразен зоокът е от дърво, разбира се. Само че тук всичко е малко по-шарено, резултат от съчетаването на различни дървесини – при ламперията, гардероба в два цвята, таванските греди. 
 :end
 
-columns: 1
-tags: bedroom
-style: overlay mobile
-image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Destka2_Final_KD_01.jpg
-position: 5%
-alt: Интериор на детска
-text: Дори столът е разчупен с кожени детайли при седалката и гърба. 
-:end
 
 columns: 0
 tags: bedroom
@@ -181,12 +172,21 @@ text:
 Дори столът е разчупен с кожени детайли при седалката и гърба. А осветлението е за онези откриватели, чието въображение превръща всяка висяща крушка в уникална светулка. 
 :end
 
+columns: 1
+tags: bedroom
+style: overlay mobile
+image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Destka2_Final_KD_01.jpg
+position: 22%
+alt: Интериор на детска
+text: Дори столът е разчупен с кожени детайли при седалката и гърба. 
+:end
+
 columns: 0
 tags: bedroom
 style: overlay mobile
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Destka2_Final_KD_03.jpg
 alt: Интериор на детска
-position: 35%
+position: 60%
 text: 
 А осветлението е за онези откриватели, чието въображение превръща всяка висяща крушка в уникална светулка. 
 :end
@@ -215,7 +215,7 @@ text:
 
 columns: 1
 tags: bathroom
-style: overlay
+style: overlay desktop
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Banya_Destka1_Final_KD_05.jpg
 alt: Интериор на баня
 text: 
@@ -240,7 +240,7 @@ tags: bedroom
 style: overlay
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Detska1_FINAL_03_St.jpg
 alt: Интериор на детска
-position: 25%
+position: 35%
 text:
 :end
 
@@ -250,15 +250,6 @@ style: overlay desktop
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Detska1_FINAL_04_St.jpg
 alt: Мебели в детска стая
 position: 50%
-text:
-:end
-
-columns: 2
-tags: bedroom
-style: overlay mobile
-image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Detska1_FINAL_02_St.jpg
-alt: Мебели в детска стая
-position: 55%
 text:
 :end
 
@@ -277,7 +268,7 @@ text:
 
 columns: 1
 tags: bathroom
-style: overlay
+style: overlay desktop
 image: http://projects.acherno.int/ivo-ognyanov/Marketing/Concept/Ivo_Ognyanov_Banya_Detska2_FINAL_04_St.jpg
 alt: Обзавеждане на баня
 text:
