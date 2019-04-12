@@ -12,7 +12,7 @@ tags: private, modern
 -----------
 
 columns: 0
-style: overlay
+style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_01_N.jpg
 alt: Интериорен дизайн на хол
@@ -23,7 +23,7 @@ text:
 :end
 
 columns: 3
-style: overlay 
+style: overlay desktop
 tags: livingroom
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_04_N.jpg
 alt: Интериор на всекидневна
@@ -32,8 +32,19 @@ text:
 Чистобелите стени и светлият под с плочки на дървесна шарка се грижат за максималното оптическо разширяване на пространството във всекидневната, за да получим усещането за безбрежие. Декоративните греди внасят нужната доза природа високо над главите ни и ни напомнят за тентите и навесите пред плажните каравани. Абстрактната картина добавя задължителния син хоризонт, ако случайно погледът се зарее над главните герои тук&nbsp:– ъгловия диван с меки мобилни възглавници и подвижни модули и холната маса от темперирано стъкло, стъпила върху крака от автентично тиково дърво.
 :end
 
+columns: 3
+style: overlay mobile
+tags: livingroom
+image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_04_N.jpg
+position: 50%
+alt: Интериор на всекидневна
+text:
+## Интериорен дизайн на **хол**
+Чистобелите стени и светлият под с плочки на дървесна шарка се грижат за максималното оптическо разширяване на пространството във всекидневната, за да получим усещането за безбрежие. Декоративните греди внасят нужната доза природа високо над главите ни и ни напомнят за тентите и навесите пред плажните каравани. Абстрактната картина добавя задължителния син хоризонт, ако случайно погледът се зарее над главните герои тук&nbsp;– ъгловия диван с меки мобилни възглавници и подвижни модули и холната маса от темперирано стъкло, стъпила върху крака от автентично тиково дърво.
+:end
+
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: livingroom
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_02_N.jpg
 alt: Мебели в хол
@@ -44,18 +55,28 @@ columns: 2
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_05_N.jpg
+position: 40%
 alt: Обзавеждане на хол
 text:
 Пускаме естествената светлина да окъпе лятното ни кътче от край до край и я приглушаваме с леки завеси, вдъхновени от балдахина, и с по-плътни в поредния нюанс на синьото. Кутиите за съхранение, изработени от морска трева, са идеалното допълнение към играта на слънчеви зайчета. 
 :end
 
 columns: 3
-style: overlay 
+style: overlay desktop
 tags: livingroom
-image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_04_N.jpg
+image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_03_N.jpg
 alt: Интериорен дизайн на хол
 text:
-Няма да е лято, ако не усещаме плажа с босите си ходила! Меките нишки на килима пресъздават успешно двете ни любими неща край брега&nbsp:– цвета на неуловимите сини вълни и мекотата на ситния пясък. Обръщаме специално внимание на всеки декоративен детайл, за да го впишем в морската тематика на райетата, раковините, екзотичните растения. Добавяме щипка слънчево жълто и го настаняваме удобно в стола пеперуда с бохо десен.
+Няма да е лято, ако не усещаме плажа с босите си ходила! Меките нишки на килима пресъздават успешно двете ни любими неща край брега&nbsp;– цвета на неуловимите сини вълни и мекотата на ситния пясък. Обръщаме специално внимание на всеки декоративен детайл, за да го впишем в морската тематика на райетата, раковините, екзотичните растения. Добавяме щипка слънчево жълто и го настаняваме удобно в стола пеперуда с бохо десен.
+:end
+
+columns: 3
+style: overlay mobile
+tags: livingroom
+image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_03_N.jpg
+alt: Интериорен дизайн на хол
+text:
+Добавяме щипка слънчево жълто и го настаняваме удобно в стола пеперуда с бохо десен.
 :end
 
 Трапезария
@@ -65,6 +86,7 @@ columns: 0
 style: overlay 
 tags: diningroom
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_06_N.jpg
+position: 73%
 alt: Интериорен дизайн на трапезария
 text:
 ## Мебели в **трапезария**
@@ -75,6 +97,7 @@ columns: 3
 style: overlay 
 tags: diningroom
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_08_N.jpg
+position: 40%
 alt: Интериорен дизайн на трапезария
 text:
 От тук се открива 360-градусова гледка към всички морски герои в интериора, към останалите абстрактни платна, допълващи синия хоризонт, а също и към плафоните от висококачествен метал, които се заиграват със спомените ни за плажните фенери от ратан, бамбук или ковано желязо.
@@ -84,11 +107,32 @@ text:
 -----------
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: kitchen
 image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_10_N.jpg
 alt: Обзавеждане на кухня
 text:
 ## Обзавеждане на **кухня**
 Белите мебели, изработени от ПДЧ, и фурнирът с дъбова шарка се вписват с лекота в цялостния интериор. Луните в окачения таван се грижат за равномерното осветяване на целия плот, както и на ретро хладилника. Неговият винтидж дизайн е онова, което ще ни връща към слънчевите дни и жаждата за добре изстудена напитка.
+:end
+
+columns: 0
+style: overlay mobile
+tags: kitchen
+image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_10_N.jpg
+position: 25%
+alt: Обзавеждане на кухня
+text:
+## Обзавеждане на **кухня**
+Белите мебели, изработени от ПДЧ, и фурнирът с дъбова шарка се вписват с лекота в цялостния интериор. Луните в окачения таван се грижат за равномерното осветяване на целия плот.
+:end
+
+columns: 0
+style: overlay mobile
+tags: kitchen
+image: http://projects.acherno.int/mitev-lozenets/Marketing/Concept/Mitev_Lozenets_Hol_FINAL_10_N.jpg
+position: 77%
+alt: Обзавеждане на кухня
+text:
+Винтидж дизайнът на хладилника пък е онова, което ще ни връща към слънчевите дни и жаждата за добре изстудена напитка.
 :end
