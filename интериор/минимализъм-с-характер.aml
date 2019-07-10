@@ -14,6 +14,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_07_N.jpg
+position: 30%
 alt: Мебели в хол
 text:
 # **Минимализъм** с характер
@@ -28,7 +29,7 @@ columns: 3
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_05_N.jpg
-position: 55%
+position: 48%
 alt: Мебели в хол
 text:
 ## Интериор на **трапезария**
@@ -39,6 +40,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_08_N.jpg
+position: 10%
 alt: Интериор на трапезария
 text:
 А те, гостите, винаги са добре дошли да се настанят удобно върху висококачествената изкуствена кожа и извитата дървена рамка на трапезните столове със семпъл и ергономичен дизайн. И като истински звезди да се огледат в огледалната ламперия с бронзе покритие и лайсни от хром. Тя отразява и всичко останало от всекидневната с отворен план. Включително и тавана, чието вградено осветление създава илюзията за още повече естествена светлина, освен нахлуващата през панорамните прозорци.
@@ -51,6 +53,7 @@ columns: 3
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_01_N.jpg
+position: 50%
 alt: Интериор на хол
 text:
 ## Интериорен дизайн на **хол**
@@ -61,6 +64,7 @@ columns: 2
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_03_N.jpg
+position: 30%
 alt: Интериор на хол
 text:
 Същата ламперия използвахме и за да вградим биокамината в едно от най-хюга кътчетата на този апартамент, което превърнахме в поле за игриви контрасти между винтидж и модерен стил.
@@ -70,6 +74,7 @@ columns: 1
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_02_N.jpg
+position: 48%
 alt: Интериор на хол
 text:
 Освен за отмора обаче, холът е и мястото за развлечение. Особено в този дом, предлагащ богат избор на различни мултимедии, конзолни игри и качествено озвучаване. За целта предвидихме място за спускащо се от тавана пано за прожектиране и вписахме тонколоните и наличните устройства в геометрията на тв шкафа от ПДЧ и холната секция от МДФ с гланцова боя.
@@ -82,6 +87,7 @@ columns: 0
 style: overlay 
 tags: kitchen 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_04_N.jpg
+position: 51%
 alt: Интериор на кухня
 text:
 ## Обзавеждане на **кухня**
@@ -101,6 +107,7 @@ columns: 2
 style: overlay 
 tags: kitchen 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_10_N.jpg
+position: 57%
 alt: Мебели в кухня
 text:
 Акцентите в хром допълват звездния кулинарен блясък и му придават нужната доза елегантност и завършеност.
@@ -113,6 +120,7 @@ columns: 0
 style: overlay 
 tags: bedroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Spalnya_FINAL_06_Z.jpg
+position: 48%
 alt: Обзавеждане на спалня
 text:
 ## Мебели в **спалня**
@@ -192,6 +200,7 @@ columns: 1
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_04_Z.jpg
+position: 100%
 alt: Интериорен дизайн на детска
 text:
 И като казахме “игри”, в тази стая мястото за тях не се ограничава само с пода. Стената за катерене е изработена от същия масив като ламперията по тавана и подиума под стълбата и се слива с конструкцията на високото легло.
@@ -210,6 +219,7 @@ columns: 2
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_06_Z.jpg
+position: 40%
 alt: Интериорен дизайн на детска
 text:
 Тронът тук е цветен и въздушен. И е толкова удобен! А за всички тоалети и изящни пантофки обзаведохме отделен дрешник с мебели от ПДЧ и ламинат като в детската.
@@ -227,6 +237,7 @@ columns: 1
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_05_Z.jpg
+position: 65%
 alt: Интериорен дизайн на детска
 text:
 :end
@@ -247,6 +258,7 @@ columns: 0
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momce_FINAL_01_Z.jpg
+position: 30%
 alt: Интериор на детска
 text:
 ## Вътрешен дизайн на **детска стая за момче**
@@ -257,6 +269,7 @@ columns: 1
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momce_FINAL_06_Z.jpg
+position: 66%
 alt: Интериор на детска
 text:
 :end
@@ -265,6 +278,7 @@ columns: 2
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momce_FINAL_05_Z.jpg
+position: 70%
 alt: Интериор на детска
 text:
 Вратата отново, като в покоите на принцесата, крие зад себе си разширяващо възприятията огледало, срещу което разположихме кът за учене и съхранение с помощни чекмеджета и етажерки от ПДЧ.
@@ -295,6 +309,7 @@ columns: 1
 style: overlay 
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Antre_FINAL_01_N.jpg
+position: 10%
 alt: Интериор на антре
 text:
 ## Интериор на **антре**
