@@ -13,6 +13,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_01_N.jpg
+position: 45%
 alt: Интериорен дизайн на хол
 text:
 # **Горска приказка** с евкалипт и рози
@@ -28,6 +29,7 @@ columns: 3
 style: overlay
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_01_N.jpg
+position: 50%
 alt: Интериор на антре
 text:
 ## Интериорен дизайн на **антре**
@@ -38,6 +40,7 @@ columns: 1
 style: overlay
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_02_N.jpg
+position: 48%
 alt: Мебели в антре
 text:
 В отблясъците на златната прахова боя сияе и геометрията на стенните лампи, кашпите, рамката на поръчковото огледало.
@@ -56,6 +59,7 @@ columns: 1
 style: overlay 
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_08_N.jpg
+position: 5%
 alt: Обзавеждане на антре
 text:
 Белите каси и фрезованите врати откроихме благодарение на латекс в актуалния за интериора синьо-зелен цвят, попил в себе си омаята, спокойствието и свежестта на дълбок, непристъпен лес.
@@ -78,6 +82,7 @@ columns: 3
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_03_N.jpg
+position: 60%
 alt: Интериорен дизайн на трапезария
 text:
 Дървесната тематика се пренася и в огледалата по стените, а също и край горивната камера с три лица и хоризонтално отваряне, която откроихме с технически камък в бяло. Розовият глиц от гранитната облицовка нагоре е както ефектен акцент на тема природа, така и стилна препратка към неповторимата пудрена дамаска на дивана по поръчка.
@@ -87,6 +92,7 @@ columns: 0
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_04_N.jpg
+position: 65%
 alt: Интериорен дизайн на трапезария
 text:
 Целият този цветен уют получава нужната доза изтънченост с помощта на винтидж елементи в златисто. Металните основи на масите и геометрията на осветителните тела са стилно напомняне за блясъка на звездното небе, на празничната заря, на царствения ход на времето през домове, гори, векове.
@@ -99,6 +105,7 @@ columns: 3
 style: overlay 
 tags: diningroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_09_N.jpg
+position: 57%
 alt: Интериорен дизайн на трапезария
 text:
 ## Интериор на **трапезария**
@@ -109,6 +116,7 @@ columns: 0
 style: overlay 
 tags: diningroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_07_N.jpg
+position: 26%
 alt: Интериорен дизайн на трапезария
 text:
 В същия стил е и витрината за вина от матов МДФ. На неин фон се състоят най-елегантните вечери, издържани в характерната за този дом комбинация от пудрено розово и горско зелено.
@@ -121,6 +129,7 @@ columns: 2
 style: overlay 
 tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_15_NM.jpg
+position: 60%
 alt: Обзавеждане на кухня
 text:
 ## Вътрешен дизайн на **кухня**
@@ -131,6 +140,7 @@ columns: 1
 style: overlay 
 tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_11_N.jpg
+position: 90%
 alt: Обзавеждане на кухня
 text:
 Тук златистото и розовото присъстват ненатрапчиво само като детайли при шарката на плочките и дръжките на шкафовете. 
@@ -157,6 +167,7 @@ columns: 1
 style: overlay 
 tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_14_N.jpg
+position: 10%
 alt: Обзавеждане на кухня
 text:
 В горската тема вписахме и пода от гранитогрес със светли дъбови шарки, за да пренесем неусетно разходката си до хладилната витрина за вино и онова наздраве, с което отбелязваме края на поредното вълнуващо приключение.
