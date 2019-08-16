@@ -26,7 +26,7 @@ text:
 -----------
 
 columns: 3
-style: overlay 
+style: overlay desktop
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_05_N.jpg
 position: 48%
@@ -37,12 +37,24 @@ text:
 :end
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: livingroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_08_N.jpg
 position: 10%
 alt: Интериор на трапезария
 text:
+А те, гостите, винаги са добре дошли да се настанят удобно върху висококачествената изкуствена кожа и извитата дървена рамка на трапезните столове със семпъл и ергономичен дизайн. И като истински звезди да се огледат в огледалната ламперия с бронзе покритие и лайсни от хром. Тя отразява и всичко останало от всекидневната с отворен план. Включително и тавана, чието вградено осветление създава илюзията за още повече естествена светлина, освен нахлуващата през панорамните прозорци.
+:end
+
+columns: 0
+style: overlay mobile
+tags: livingroom 
+image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_08_N.jpg
+position: 10%
+alt: Интериор на трапезария
+text:
+## Интериор на **трапезария**
+Трапезната маса балансира между уюта на ореховите шарки и индустриалния стил върху геометрия от черен метал. Над нея в пространството гравитира комбинация от още по-впечатляващата геометрия на осветителните тела, които, благодарение на контролерите за плавно намаляване и увеличаване, позволяват както вечеря на приглушена светлина, така и достатъчно ярка такава спрямо предпочитанията на гостите.
 А те, гостите, винаги са добре дошли да се настанят удобно върху висококачествената изкуствена кожа и извитата дървена рамка на трапезните столове със семпъл и ергономичен дизайн. И като истински звезди да се огледат в огледалната ламперия с бронзе покритие и лайсни от хром. Тя отразява и всичко останало от всекидневната с отворен план. Включително и тавана, чието вградено осветление създава илюзията за още повече естествена светлина, освен нахлуващата през панорамните прозорци.
 :end
 
@@ -84,7 +96,7 @@ text:
 -----
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: kitchen 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_04_N.jpg
 position: 51%
@@ -94,8 +106,20 @@ text:
 Перфектно организираната кухня сияе от… белота. Или по-точно, бял МДФ гланц, който под феерията от вградено осветление изглежда още по-лъскав и в комбинация със светлия гранитогрес на пода оптически разширява пространството сякаш до безкрай. 
 :end
 
+columns: 0
+style: overlay mobile
+tags: kitchen 
+image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_04_N.jpg
+position: 51%
+alt: Интериор на кухня
+text:
+## Обзавеждане на **кухня**
+Перфектно организираната кухня сияе от… белота. Или по-точно, бял МДФ гланц, който под феерията от вградено осветление изглежда още по-лъскав и в комбинация със светлия гранитогрес на пода оптически разширява пространството сякаш до безкрай.
+Кухненският остров с плот от технически камък предлага превръща пространството за готвене в своеобразна кулинарна сцена, чиято публика може да наблюдава представлението както от трапезарията, така и от хола.
+:end
+
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kitchen 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_09_N.jpg
 alt: Интериор на кухня
@@ -104,7 +128,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: kitchen 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Hol_FINAL_10_N.jpg
 position: 57%
@@ -128,7 +152,7 @@ text:
 :end
 
 columns: 3
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Spalnya_FINAL_03_Z.jpg
 alt: Обзавеждане на спалня
@@ -168,7 +192,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Banya_Spalnya_FINAL_03_Z.jpg
 alt: Интериор на баня
@@ -176,7 +200,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Banya_Spalnya_FINAL_04_Z.jpg
 alt: Интериор на баня
@@ -187,7 +211,7 @@ text:
 ----------------
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_01_Z.jpg
 alt: Интериорен дизайн на детска
@@ -197,7 +221,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_04_Z.jpg
 position: 100%
@@ -207,7 +231,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_02_Z.jpg
 alt: Интериорен дизайн на детска
@@ -216,13 +240,25 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_06_Z.jpg
 position: 40%
 alt: Интериорен дизайн на детска
 text:
 Тронът тук е цветен и въздушен. И е толкова удобен! А за всички тоалети и изящни пантофки обзаведохме отделен дрешник с мебели от ПДЧ и ламинат като в детската.
+:end
+
+columns: 2
+style: overlay mobile
+tags: kidsroom 
+image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_06_Z.jpg
+position: 40%
+alt: Интериорен дизайн на детска
+text:
+## Мебели в **детска стая за момиче**
+Хюга покоите на модерната принцеса създадохме с идеята, че тя обича нежните материи и цветове, романтиката на светещите гирлянди, безгрижието на хамака, но и че най-много я радват уютът и развиващите въображението игри. И като казахме “игри”, в тази стая мястото за тях не се ограничава само с пода. Стената за катерене е изработена от същия масив като ламперията по тавана и подиума под стълбата и се слива с конструкцията на високото легло.
+В тон с тях са и етажерките на отсрещната стена, под които предвидихме място и за снежнобяло ПДЧ бюро, също по проект. Тронът тук е цветен и въздушен. И е толкова удобен! А за всички тоалети и изящни пантофки обзаведохме отделен дрешник с мебели от ПДЧ и ламинат като в детската.
 :end
 
 columns: 1
@@ -234,7 +270,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momiche_FINAL_05_Z.jpg
 position: 65%
@@ -266,7 +302,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momce_FINAL_06_Z.jpg
 position: 66%
@@ -275,7 +311,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Detska_Momce_FINAL_05_Z.jpg
 position: 70%
@@ -296,7 +332,6 @@ columns: 1
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Dreshnik_FINAL_01_Z.jpg
-
 alt: Интериор на детска
 text:
 Освен с двойно повече място за сън, удостоихме принца и с допълнителна стая за дрехите и обувките.
@@ -317,7 +352,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Antre_FINAL_04_N.jpg
 alt: Интериор на антре
@@ -326,7 +361,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Antre_FINAL_05_N.jpg
 alt: Интериор на антре
@@ -337,7 +372,7 @@ text:
 -------
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Kabinet_FINAL_01_N.jpg
 alt: Интериор на кабинет
@@ -345,7 +380,17 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay mobile
+tags: other 
+image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Kabinet_FINAL_01_N.jpg
+alt: Интериор на кабинет
+text:
+## Мебели в **кабинет**
+Дизайнът на този работен кът е създаден с идеята да не разсейва с нищо излишно. Осветлението, линиите и дървесните шарки са ненатрапчиви, а прозорците към останалата част от дома са снабдени с щори, за да гарантират при нужда пълно откъсване от домашните задължения. На фона на този минимализъм, пространството за работа и съхранение е усвоено с максимален размах.
+:end
+
+columns: 1
+style: overlay desktop
 tags: other 
 image: 
 alt: Интериор на кабинет
@@ -355,7 +400,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Kabinet_FINAL_04_N.jpg
 alt: Интериор на кабинет
@@ -366,7 +411,7 @@ text:
 ---------
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Banya_Obshta_FINAL_02_Z.jpg
 alt: Интериор на баня
@@ -376,7 +421,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Banya_Obshta_FINAL_03_Z.jpg
 alt: Интериор на баня
@@ -384,10 +429,20 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Banya_Obshta_FINAL_05_Z.jpg
 alt: Интериор на баня
 text:
 Текстурите и шарките на декорните плочки пробуждат и въображението, за да го настрои за новите предизвикателства на деня, за новите игри, за новите контрасти, между които да балансира със стил.
+:end
+
+columns: 1
+style: overlay mobile
+tags: other 
+image: http://projects.acherno.int/nadelina-dianabad/Marketing/Concept/Nadelina_Dianabad_Banya_Obshta_FINAL_05_Z.jpg
+alt: Интериор на баня
+text:
+## Дизайн на **обща баня**
+Прозрачни  етажерки и преградно стъкло, успокояващи овали, перлени отблясъци от светлите плочки и нежна, но изобилна светлина… Всичко навява спомени за онези морски сутрини, в които се събуждаме отпочинали и заредени с оптимизъм. 
 :end

@@ -26,7 +26,7 @@ text:
 ------
 
 columns: 3
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_01_N.jpg
 position: 50%
@@ -36,8 +36,19 @@ text:
 Букет ароматни рози за добре дошъл у дома! Още с отварянето на входната врата, преди да си направил първата крачка по пода от глазиран гранитогрес, те пленява красиво, нежно и благоуханно посрещане. Дори цветята във вазата с геометрични мотиви да са други, розовата пудра ще продължава да има запазено място до шкафа за обувки, изработен по поръчка от ПДЧ с орехови шарки и с прахово боядисани в златисто детайли. 
 :end
 
+columns: 3
+style: overlay mobile
+tags: hallway
+image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_01_N.jpg
+position: 50%
+alt: Интериор на антре
+text:
+## Интериорен дизайн на **антре**
+Букет ароматни рози за добре дошъл у дома! Още с отварянето на входната врата, преди да си направил първата крачка по пода от глазиран гранитогрес, те пленява красиво, нежно и благоуханно посрещане. Дори цветята във вазата с геометрични мотиви да са други, розовата пудра ще продължава да има запазено място до шкафа за обувки, изработен по поръчка от ПДЧ с орехови шарки и с прахово боядисани в златисто детайли. В отблясъците на златната прахова боя сияе и геометрията на стенните лампи, кашпите, рамката на поръчковото огледало.
+:end
+
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_02_N.jpg
 position: 48%
@@ -47,7 +58,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Antre_FINAL_03_N.jpg
 alt: Обзавеждане на антре
@@ -89,7 +100,7 @@ text:
 :end
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: livingroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_04_N.jpg
 position: 65%
@@ -113,7 +124,7 @@ text:
 :end
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: diningroom
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_07_N.jpg
 position: 26%
@@ -147,7 +158,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_12_N.jpg
 alt: Обзавеждане на кухня
@@ -161,14 +172,14 @@ tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_13_N.jpg
 alt: Обзавеждане на кухня
 text:
+В горската тема вписахме и пода от гранитогрес със светли дъбови шарки, за да пренесем неусетно разходката си до хладилната витрина за вино и онова наздраве, с което отбелязваме края на поредното вълнуващо приключение.
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kitchen
 image: http://projects.acherno.int/zornitsa-tarnovo/Marketing/Concept/Zornitsa_Tarnovo_Hol_Trapezaria_Kuhnq_FINAL_14_N.jpg
 position: 10%
 alt: Обзавеждане на кухня
 text:
-В горската тема вписахме и пода от гранитогрес със светли дъбови шарки, за да пренесем неусетно разходката си до хладилната витрина за вино и онова наздраве, с което отбелязваме края на поредното вълнуващо приключение.
 :end
