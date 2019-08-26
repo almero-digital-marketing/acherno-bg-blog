@@ -1,0 +1,307 @@
+---
+layout: /v2/blog/magazine.ect
+title: (Огън,) следвай ме!
+description: Вана с гледка към спалнята и с вградена в стената камина, през която се вижда всекидневната. И обратното. Традициите не са това, което бяха. Нито пък жилищата!
+author: Петра Денчева
+date: 2019-08-21
+cover: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Spalnya_FINAL_04_Z.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Spalnya_FINAL_04_Z.jpg
+alt: Мебели в хол
+position: 10%
+text:
+# **Огън,** следвай ме!
+## Традициите не са това, което бяха. Нито пък **жилищата!**
+Пламъкът в камината флиртува с погледа, омайва го, улавя го от всяка стая. Да, когато банята има свой прозорец към света у дома, както и цяла стена от прозрачно стъкло, се превръща в нещо повече от сервизно помещение. Тя получава главната роля в интериора, посветен на лукса и смарт решенията. Нека плъзнем вратите и оставим представлението на модерния стил да започне...
+:end
+
+Спалня
+-----------
+
+columns: 3
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Spalnya_FINAL_03_Z.jpg
+alt: Мебели в спалня
+text:
+## Вътрешен дизайн на **спалня**
+Една тенденция, която набира все повече почитатели&nbsp;– прозрачна стена към банята, която визуално интегрира интериора на двете помещения в един общ и придава усещането за повече простор. Тематичното обединение постигнахме със земни тонове в по-светли нюанси за банята, златисти детайли и подови настилки с дървесни шарки, под които и в двете части има водно подово отопление. Преходната зона обособихме с латекс и таван в синьо, плюс “невидими врати”, слели се със стената, с вградено LED осветление и с опция за меко сядане пред банята.
+:end
+
+columns: 0
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Spalnya_FINAL_02_Z.jpg
+alt: Интериор на спалня
+position: 55%
+text:
+Паркет от масив и бели мебели винаги са добра комбинация от гледна точка на уют. Тук той получава доста по-стилен прочит благодарение на кадифено меката дамаска, която вписахме в рамка от бял МДФ мат, златисти лайсни и огледална ламперия, улавяща естествената светлина и тази от вградените луни с опция за управление на осветлението. Със смарт управление са и електрическите щори, а когато те са плътно спуснати, нощта насочва поглед към своя нов герой&nbsp;– абажура на настолните лампи, чиито ефектни прозрачни точици създават илюзията за звездно небе.
+:end
+
+Баня
+----
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_01_Z.jpg
+alt: Интериор на баня
+text:
+## Интериорен дизайн на **баня**
+Обилната естествена светлина, влизаща свободно от спалнята, не е единственият плюс на тази баня. Светещият опънат таван разпръсква още лъчи, като ги разпределя равномерно навсякъде. На фона на това своеобразно небе, LED осветлението на климатика в спалнята изглежда като небесно тяло в далечния космос. Да не пропускаме и гледката към всекидневната, декорирана с уюта на горяща камина.
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_01_Z.jpg
+alt: Интериор на баня
+text:
+## Интериорен дизайн на **баня**
+Обилната естествена светлина, влизаща свободно от спалнята, не е единственият плюс на тази баня. Светещият опънат таван разпръсква още лъчи, като ги разпределя равномерно навсякъде. На фона на това своеобразно небе, LED осветлението на климатика в спалнята изглежда като небесно тяло в далечния космос. Да не пропускаме и гледката към всекидневната, декорирана с уюта на горяща камина. Отворът при камината не означава липса на дискретност. Той може да бъде затворен при нужда от уединение във ваната, а вратите към тоалетната и душа са снабдени с матово покритие, което услужливо тушира прозрачността.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_03_Z1.jpg
+alt: Интериор на баня
+text:
+Отворът при камината не означава липса на дискретност. Той може да бъде затворен при нужда от уединение във ваната, а вратите към тоалетната и душа са снабдени с матово покритие, което услужливо тушира прозрачността.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_05_Z.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_04_Z.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_04_Z.jpg
+alt: Интериор на баня
+text:
+Кафявият латекс на тавана се вписва в тона на шарките на плочките по пода, както и в този на плота от технически камък при мивката. Рамката на огледалото в златисто пък е препратка към бляскавата декорация в останалата част от дома. В съчетание с матираните стъклени врати и плотове при душ зоната и нюанса на светлите плочки, усещането е за една просторна баня с кътчета за всичко необходимо.
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Banya_FINAL_06_Z.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: 
+alt: Интериор на баня
+text:
+Кафявият латекс на тавана се вписва в тона на шарките на плочките по пода, както и в този на плота от технически камък при мивката. Рамката на огледалото в златисто пък е препратка към бляскавата декорация в останалата част от дома. В съчетание с матираните стъклени врати и плотове при душ зоната и нюанса на светлите плочки, усещането е за една просторна баня с кътчета за всичко необходимо.
+:end
+
+Трапезария
+----------
+
+columns: 0
+style: overlay
+tags: kitchen 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_07B_N.jpg
+alt: Интериор на трапезария
+text:
+## Дизайн на **трапезария**
+Плъзгащи стъклени врати с електрическо отваряне отделят физически, но не и визуално трапезарията от кухнята. Маса от МДФ фурнир в съзвучие с тъмните дървесни шарки на паркета приютява място за двама с панорама към банята и към опънатия светещ таван с принт на небе. А също и към ефектните “небесни” тела, осветяващи трапезарията изпод полупрозрачни абажури, които в изгасено състояние отразяват дневната светлина като огледала. 
+:end
+
+columns: 2
+style: overlay
+tags: kitchen 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_06_N.jpg
+alt: Интериор на трапезария
+text:
+Камината с две лица е снабдена със специален механизъм за затваряне. Допълнихме уникалното ѝ излъчване с естествен камък в нежния нюанс на една от двете дамаски за трапезните столове.
+:end
+
+columns: 1
+style: overlay
+tags: kitchen 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_05_N.jpg
+alt: Интериор на трапезария
+position: 15%
+text:
+Отсрещната стена покрихме с дизайнерски тапет с лек платинен блясък, на чийто фон откроихме етажерките от МДФ фурнир, бял МДФ, стъкло и златисти детайли.
+:end
+
+Хол
+------
+
+columns: 1
+style: overlay
+tags: livingroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_01_N.jpg
+alt: Обзавеждане на хол
+position: 45%
+text:
+## Обзавеждане в **хол**
+Отблясъците на мотивите по килима, заимствани от италианските стенни облицовки и индийските сарита, са в унисон с дискретните златисти лайсни, декорирали релефния тапет зад дивана. Към тази комбинация добавихме щипка кралско синьо за разкош и олекотихме визията на масата с плот от закалено стъкло и заоблени краища.
+:end
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_03_N.jpg
+alt: Обзавеждане в хол
+text:
+Отвореният план е приобщил трапезарията и хола, където диванът по поръчка и табуретката със съответстваща фина дамаска приютяват всички любими хора срещу къта за развлечение. Него организирахме със секция от бял МДФ с акцентна стъклена витрина. От тук едва се забелязва и врата към спалнята с невидими каса и панти, сляла се с белия латекс.
+:end
+
+Кухня
+-----
+
+columns: 2
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_09_N.jpg
+alt: Интериор на кухня
+text:
+## Интериорен дизайн на **кухня**
+Гръб и плот от естествен кварц, МДФ фурнир за долните шкафове и бял МДФ за горните създават усещането за повече пространство, което всъщност използвахме за съхранение във всяка от зоните на кухнята.
+:end
+
+columns: 1
+style: overlay desktop
+tags: kitchen 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_10_N.jpg
+alt: Интериор на кухня
+position: 15%
+text:
+:end
+
+Дрешник
+--------
+
+columns: 1
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Dreshnik_FINAL_01_Z.jpg
+alt: Интериорен дизайн на дрешник
+text:
+## Дизайн на **дрешник**
+Огледалните врати на гардероба улавят не само светлината, но и отсрещните мебели от МДФ мат в два цвята, с които обособихме акцент в зоната на тоалетката.
+:end
+
+columns: 1
+style: overlay mobile
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Dreshnik_FINAL_01_Z.jpg
+alt: Интериорен дизайн на дрешник
+text:
+## Дизайн на **дрешник**
+Огледалните врати на гардероба улавят не само светлината, но и отсрещните мебели от МДФ мат в два цвята, с които обособихме акцент в зоната на тоалетката. Капитонирането на дамаската и шарката на килима придават на паркета от масив еклектично излъчване само с няколко щрихи и се вписват в изискания стил на плафона с кристални елементи.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Dreshnik_FINAL_03_Z.jpg
+alt: Интериорен дизайн на дрешник
+text:
+Капитонирането на дамаската и шарката на килима придават на паркета от масив еклектично излъчване само с няколко щрихи и се вписват в изискания стил на плафона с кристални елементи.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Dreshnik_FINAL_05_Z.jpg
+alt: Интериорен дизайн на дрешник
+text:
+:end
+
+Антре
+------
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_13_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: kidsroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_14_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: kidsroom 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_Hol_Antre_WIP_13_N.jpg
+alt: Интериор на антре
+text:
+## Мебели в **антре**
+Визуалното впечатление за отворен план отново постигнахме със стъклени врати, както и с повторението на релефния тапет от хола. Плавният преход от антрето към всекидневната маркирахме с различна подова настилка, този път от плочки в естествен, нежен цвят. Същият нюанс използвахме и за стената към камината, до която в антрето разположихме шкаф от бял МДФ мат с огледален акцент.
+:end
+
+columns: 1
+style: overlay desktop
+tags: kidsroom 
+image: 
+alt: Интериор на антре
+text:
+## Мебели в **антре**
+Визуалното впечатление за отворен план отново постигнахме със стъклени врати, както и с повторението на релефния тапет от хола. Плавният преход от антрето към всекидневната маркирахме с различна подова настилка, този път от плочки в естествен, нежен цвят. Същият нюанс използвахме и за стената към камината, до която в антрето разположихме шкаф от бял МДФ мат с огледален акцент.
+:end
+
+Тоалетна
+---------
+
+columns: 1
+style: overlay
+tags: other 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_WC_WIP_01_N.jpg
+alt: Интериор на тоалетна
+text:
+## Интериор на **тоалетна**
+Саморазливната замазка върху пода с ефектен принт внася морско усещане в малкото сервизно помещение. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_WC_WIP_04_N.jpg
+alt: Интериор на тоалетна
+text:
+Внесохме в него усещането за оптическо разширение с помощта на опънат таван със светещ принт, вградено осветление и бяла стенна мазилка.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/marvakova-izgrev/Marketing/Concept/Marvakova_Izgrev_WC_WIP_05_N.jpg
+alt: Интериор на тоалетна
+text:
+Със същата роля са и огледалните повърхности, разположени една срещу друга за постигането на ефект на безкрайност, както и шкафът от ПВЦ бял гланц под мивката.
+:end
