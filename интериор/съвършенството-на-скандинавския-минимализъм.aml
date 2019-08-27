@@ -57,7 +57,7 @@ text:
 :end
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_Spalnya_FINAL_03_N.jpg
 alt: Интериор на спалня
@@ -71,6 +71,7 @@ columns: 2
 style: overlay 
 tags: bedroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Dreshnik_Spalnya_04_KD.jpg
+position: 15%
 alt: Интериор на дрешник
 text:
 ## Интериор на **дрешник**
@@ -86,7 +87,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Dreshnik_Spalnya_06_KD.jpg
 alt: Интериор на дрешник
@@ -94,7 +95,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Dreshnik_Spalnya_07_KD.jpg
 alt: Интериор на дрешник
@@ -106,7 +107,7 @@ text:
 ---------------
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_Banya_Spalnya_FINAL_01_N.jpg
 alt: Интериор на баня
@@ -114,7 +115,17 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay mobile
+tags: bathroom 
+image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_Banya_Spalnya_FINAL_01_N.jpg
+alt: Интериор на баня
+text:
+## Дизайн на **баня към спалня**
+На белотата и нежните нюанси разчита и оформлението на банята към спалнята. Подходихме към комбинацията с шкаф от бяло ПВЦ, прозрачна преграда за душ зоната и комбинация от два вида плочки.
+:end
+
+columns: 1
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_Banya_Spalnya_FINAL_04_N.jpg
 alt: Интериор на баня
@@ -122,7 +133,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom 
 image:
 text:
@@ -144,7 +155,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Antre_03_KD.jpg
 alt: Обзавеждане в коридор
@@ -167,6 +178,7 @@ columns: 0
 style: overlay 
 tags: bedroom 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Erfendulov_Studentsli_Gostna_01_KD.jpg
+position: 10%
 alt: Интериор на гостна
 text:
 ## Мебели в **гостна**
@@ -252,7 +264,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_WC_Mokro_FINAL_02_N.jpg
 alt: Интериор на тоалетна
@@ -261,7 +273,17 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay mobile
+tags: other 
+image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_WC_Mokro_FINAL_02_N.jpg
+position: 10%
+alt: Интериор на тоалетна
+text:
+За сметка на това, оставихме врачанският камък да пълзи и нагоре по стените, а зоната зад порцелановия умивалник “облякохме” с огледало, за да я разширим оптически чрез допълнителното отражение на зоната на мокрото помещение. Декорацията сведохме до минимум, за да придадем и тук онази ненатоварваща естетика, която прави този дом така отличителен.
+:end
+
+columns: 1
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/efendulov-studentski/Marketing/Concept/Efendulov_Studentski_WC_Mokro_FINAL_03_N.jpg
 alt: Интериор на тоалетна
