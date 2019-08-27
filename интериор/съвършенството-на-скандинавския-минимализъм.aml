@@ -14,6 +14,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 video: http://projects.acherno.int/efendulov-studentski/Marketing/Videos/20190515_hol1.mp4
+position: 40%
 alt: Мебели в хол
 text:
 # Съвършенството на **скандинавския минимализъм**
@@ -28,6 +29,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 video: http://projects.acherno.int/efendulov-studentski/Marketing/Videos/20190515_kuhnq1.mp4
+position: 40%
 alt: Мебели във всекидневна
 text:
 ## Обзавеждане във **всекидневна**
