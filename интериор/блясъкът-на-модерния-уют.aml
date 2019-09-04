@@ -14,6 +14,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 video: http://projects.acherno.int/radulova-vidin/Marketing/Videos/20190515_Radulova_hol1.mp4
+position: 40%
 alt: Мебели в хол
 text:
 # Блясъкът на **модерния уют**
@@ -28,6 +29,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 video: http://projects.acherno.int/radulova-vidin/Marketing/Videos/20190516_Radulova_hol2.mp4
+position: 40%
 alt: Мебели във всекидневна
 text:
 ## Мебели в **хол**
@@ -38,6 +40,7 @@ columns: 0
 style: overlay 
 tags: kitchen 
 video: http://projects.acherno.int/radulova-vidin/Marketing/Videos/20190515_Radulova_kuhnq.mp4
+position: 40%
 alt: Интериор на кухня
 text:
 ## Обзавеждане в **кухня**
@@ -67,7 +70,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Dreshnik_Spalnya_Final_02_KD.jpg
 alt: Интериор на дрешник
@@ -77,12 +80,22 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bedroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Dreshnik_Spalnya_Final_03_KD.jpg
 alt: Интериор на дрешник
 text:
 ПДЧ с орехови шарки приютява закачалки, чекмеджета и рафтове, услужливо осветени от вградено осветление. Мазилка в нежен перлен цвят допълва фона, на който изпъкват огромното огледало с геометрични акценти и винтидж кушетката, обединяваща в дизайна си комфорт и стил.
+:end
+
+columns: 1
+style: overlay mobile
+tags: bedroom 
+image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Dreshnik_Spalnya_Final_03_KD.jpg
+alt: Интериор на дрешник
+text:
+## Интериор на **дрешник**
+А зад вратата между витрините в спалнята скрихме цяла една Нарния под формата не на гардероб, а на просторен дрешник. ПДЧ с орехови шарки приютява закачалки, чекмеджета и рафтове, услужливо осветени от вградено осветление. Мазилка в нежен перлен цвят допълва фона, на който изпъкват огромното огледало с геометрични акценти и винтидж кушетката, обединяваща в дизайна си комфорт и стил.
 :end
 
 columns: 1
@@ -97,6 +110,7 @@ columns: 1
 style: overlay 
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Banya_Spalnya_FINAL_01_St.jpg
+position: 50%
 alt: Интериор на баня
 text:
 ## Дизайн на **баня към спалня**
@@ -107,6 +121,7 @@ columns: 1
 style: overlay 
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Banya_Spalnya_FINAL_02_St.jpg
+position: 50%
 alt: Интериор на баня
 text:
 Светлината в душ зоната нахлува и през прозореца с ефектен дизайн, за да подчертае аристократизма на мраморните жилки по стените и по пода и за да превърне потапянето във ваната в 5-звезден релакс.
@@ -138,6 +153,7 @@ columns: 2
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Detska_Momiche_FINAL_04_St.jpg
+position: 32%
 alt: Интериор на детска
 text:
 Просторната детска снабдихме със собствена баня и дрешник, скрит зад огледалните врати, в които се оглежда целия свят на принцесата. А той включва не само мебели от бяло ПДЧ с акцентни вратички, но и двулицева врата към коридора - бяла, за да пасва на интериора отвътре и подовия профил от бял МДФ, и с дървесни шарки към антрето на втория етаж.
@@ -163,6 +179,7 @@ columns: 1
 style: overlay mobile
 tags: kidsroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Dreshnik_Momiche_FINAL_03_St.jpg
+position: 55%
 alt: Интериор на дрешник
 text:
 ## Интериор на **дрешник за момиче**
@@ -191,6 +208,7 @@ columns: 1
 style: overlay 
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Banya_Momiche_FINAL_01_St.jpg
+position: 50%
 alt: Интериор на баня
 text:
 ## Интериор на **баня за момиче**
@@ -221,6 +239,7 @@ columns: 0
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_detska_momche_FINAL_01_KD.jpg
+position: 30%
 alt: Интериор на детска
 text:
 ## Обзавеждане на **детска за момче**
@@ -231,6 +250,7 @@ columns: 2
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_detska_momche_FINAL_04_KD.jpg
+position: 65%
 alt: Интериор на детска
 text:
 Комбинирахме спортната тема с дървесни елементи при паркета, бюрото и нощното шкафче, със син латекс и с ледено сиво за баланс. 
@@ -248,6 +268,7 @@ columns: 1
 style: overlay 
 tags: kidsroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Dreshnik_momche_FINAL_KD_01.jpg
+position: 70%
 alt: Интериор на дрешник
 text:
 ## Интериор на **дрешник**
@@ -274,6 +295,7 @@ columns: 2
 style: overlay 
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Banya_detska_momche_FINAL_01_KD.jpg
+position: 75%
 alt: Интериор на баня
 text:
 ## Интериор на **баня за момче**
@@ -281,7 +303,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Banya_detska_momche_FINAL_04_KD.jpg
 alt: Интериор на баня
@@ -295,6 +317,7 @@ columns: 0
 style: overlay 
 tags: bedroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Gostna_FINAL_02_N.jpg
+position: 10%
 alt: Интериор на гостна
 text:
 ## Мебели в **гостна**
@@ -305,6 +328,7 @@ columns: 3
 style: overlay 
 tags: bedroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Vidin_Gostna_FINAL_04_N.jpg
+position: 20%
 alt: Интериор на гостна
 text:
 Добавихме мазилка с лек отблясък в нежен нюанс, който да е в тон с мекия мокет и мебелите от бял МДФ мат.
@@ -321,7 +345,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova_Banya_Gostna_FINAL_03_N.jpg
 alt: Интериор на баня
@@ -376,6 +400,7 @@ columns: 0
 style: overlay 
 tags: other 
 image: http://projects.acherno.int/radulova-vidin/Marketing/Concept/Radulova-Toaletna-Et1-FINAL-01K.jpg
+position: 50%
 alt: Интериор на тоалетна
 text:
 ## Интериор на **тоалетна**
