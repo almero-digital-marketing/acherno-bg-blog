@@ -1,0 +1,440 @@
+---
+layout: /v2/blog/magazine.ect
+title: Хиляда и една нощи лукс и (съвременна класика)
+description: Класическият интериор среща своята модерна интерпретация в ярки цветове, но запазва изисканото си излъчване и дори добавя към него доза лукс с екзотичен арабски привкус. Вълнуващата им среща изпълва етажите на този дом с отличителни детайли, изобилие от светлина и елегантни извивки.
+author: Петра Денчева
+date: 2019-09-12
+cover: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Barbeque_FINAL_03_N.jpg
+firstPage: true
+tags: private, classic
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Barbeque_FINAL_03_N.jpg
+alt: Мебели в хол
+text:
+# Хиляда и една нощи лукс и **съвременна класика**
+## **Елегантно балансиране между лукса и екзотиката,** между уюта и разкоша, между пастелната нежност и акцентите в цвят
+Класическият интериор среща своята модерна интерпретация в ярки цветове, но запазва изисканото си излъчване и дори добавя към него доза лукс с екзотичен арабски привкус. Вълнуващата им среща изпълва етажите на този дом с отличителни детайли, изобилие от светлина и елегантни извивки, за да му вдъхне не просто уют, но и наслада. И за да усвои по най-красивия начин всяко кътче, превръщайки го в оазис на добрия дизайн.
+:end
+
+Веранда
+-------
+
+columns: 2
+style: overlay 
+tags: patio 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Barbeque_FINAL_01_N.jpg
+alt: Интериор на веранда
+text:
+## Интериор на **веранда с барбекю**
+Отмора с планинска гледка през прозорците, които са с отваряне тип хармоника. Уют от сгряващото излъчване на тухлите и дървената облицовка. Наслада за небцето със специалитети, току-що изпечени на зиданите пещ и барбекю. Добавихме към това релаксиращия комфорт на люлката, изработена по поръчка, и вълшебното очарование на висящите лампи в стил “Хиляда и една нощ”.
+:end
+
+columns: 1
+style: overlay 
+tags: patio 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Barbeque_FINAL_02_N.jpg
+alt: Интериор на веранда
+text:
+Балансирахме съчетанието между светлия орехов и тъмния черешов фурнир с нежна дамаска и гранитогрес в бежово, както и с плот от технически камък, слял се с мивката, която, също като него, е изцяло в бяло. Декоративните възглавници в ментовозелено и небесносиньо деликатно загатват за по-ярките акценти, които предстоят навътре в къщата.
+:end
+
+Стая за игра
+------------
+
+columns: 0
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Suteren_Play_Room_FINAL_01_ZN.jpg
+alt: Интериор на стая за игра
+text:
+## Интериорен дизайн на **стая за игра**
+Ако детските стаи можеха да пожелават какви да бъдат, тази щеше да е сбъдната мечта. И тя е! При това, не само на стаите, но и на децата в този дом, които разполагат с достатъчно пространство за тичане, скачане, катерене, пързаляне, люлеене, гледане на филми, а също и на криене (но за него ще издадем малко по-късно).
+:end
+
+columns: 2
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Suteren_Play_Room_FINAL_07_ZN.jpg
+alt: Интериор на стая за игра
+text:
+Върху ламинирания паркет изградихме цветно поле за работа с въображението и комбинативното мислене. Компенсирахме липсата на достатъчно естествена светлина с LED панели и вградени в окачената част на тавана черни луни.
+:end
+
+columns: 1
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Suteren_Play_Room_FINAL_03_ZN.jpg
+alt: Интериор на стая за игра
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Suteren_Play_Room_FINAL_05_ZN.jpg
+alt: Интериор на стая за игра
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_Suteren_Play_Room_FINAL_04_ZN.jpg
+alt: Интериор на стая за игра
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovetz-suteren/Marketing/Concept/Rogovetz_skrita_staya_08S.jpg
+alt: Интериор на стая за игра
+text:
+## Интериор на **скрита стая за игра**
+В този пъстър детски свят скрихме и една цяла тайна стая за игра. В нея добавихме, разбира се, още игри, заедно с още много цветове!
+:end
+
+Всекидневна
+-----------
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Hol_Trapezaia_WIP_02_N.jpg
+alt: Мебели в хол
+text:
+## Обзавеждане в **хол** 
+Най-уютната част от всекидневната пък, тази край камината, изпъстрихме с геометрични мотиви. Част от тях красят окачения таван и заедно с елегантните полилеи му придават класическото излъчване, от което се нуждае, за да пасне на стилната камина и декоративните фризове по стените. На този нежен фон откроихме мароканските шарки в синьо и десена шеврон в ярко оранжево.
+:end
+
+columns: 3
+style: overlay 
+tags: diningroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Hol_Trapezaia_WIP_06_N.jpg
+alt: Мебели в трапезария
+text:
+## Вътрешен дизайн на **трапезария** 
+Синьото присъства още по-настоятелно и на трапезата, подредена по всички правила на добрия етикет. Освен цветово, акцентирахме върху тази зона и с пищен полилей, украсил с блясъка си декоративни чайници и тематични чаши.
+:end
+
+columns: 0
+style: overlay 
+tags: diningroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Hol_Trapezaia_WIP_08_N.jpg
+alt: Обзавеждане в трапезария
+text:
+Нелсучайно обърнахме специално внимание на интериора в тази част на дома. Това е първата гледка, на която, на влизане от коридора, и семейството, и гостите попадат при разтварянето на плъзгащите врати с матови стъкла. Тук всичко е решено в класически стил, от извивките на мебелите до капитонирането, и единствено килимът с марокански шарки внася екзотична нотка в дворцовия блясък.
+:end
+
+columns: 2
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Kuhnya_WIP_01_N.jpg
+alt: Мебели в кухня
+text:
+## Мебели в **кухня** 
+Геометрията по касетирания таван е в унисон с фрезоването по всички врати на шкафовете. Добавихме към тях и изящни дръжки в сребристо, за да пасват на главните герои край кухненския остров&nbsp;– бар столовете с лазерно изрязана метална структура. Мивката с винтидж дизайн пък комбинирахме с ретро излъчването на плочките за кухненския гръб.
+:end
+
+columns: 2
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Kuhnya_WIP_04_N.jpg
+alt: Мебели в кухня
+text:
+:end
+
+Килер
+-----
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Kiler_FINAL_01_Z.jpg
+alt: Интериор на килер
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Kiler_FINAL_03_Z.jpg
+alt: Интериор на килер
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: 
+alt: Интериор на килер
+text:
+## Мебели в **килер** 
+За да може кухнята да запази стилния си и подреден вид, а всички хранителни продукти да бъдат лесно достъпни и съхранявани по най-подходящия за тях начин, предвидихме и специално място за тях. Липсата на вратички по рафтовете в килера позволява прегледно нареждане, сортиране и достигане само с едно присягане.
+:end
+
+Спалня
+------
+
+columns: 2
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Spalnya_FINAL_02_N.jpg
+alt: Интериор на спалня
+text:
+## Интериорен дизайн на **спалня** 
+Полилей и аплици с текстилни абажури и кристали създават очакването за лукс и класа, на което интериорът в спалнята отговаря с класически извивки, капитониране, блясък в сребристо и елегантна геометрия. Мароканските мотиви по килима и ярките цветове добавят екзотика и модерно звучене към тази изискана комбинация.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Spalnya_FINAL_03_N.jpg
+alt: Интериор на спалня
+text:
+Зоната за разкрасяване се вписва в този отличителен стил с още няколко интерпретации на модерната класика под формата на настолни лампи със сфери от прозрачно стъкло и геометрични акценти в конструкцията на стола и рамкирането на огледалото.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Spalnya_FINAL_02_Z.jpg
+alt: Интериор на дрешник
+text:
+## Интериор на **дрешник**
+Сляхме в едно естествената и вградената светлина, за да я пуснем през вратите от прозрачно стъкло към главните герои зад тях&nbsp;– дрехите. За да не отнемаме от вниманието към тях, оставихме дизайнът в дрешника максимално изчистен откъм детайли.
+:end
+
+columns: 2
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Roditeli_FINAL_01_Z.png
+alt: Интериор на баня
+text:
+## Вътрешен дизайн на **баня**
+За сметка на това, в банята към спалнята отделихме подобаващо място за разкош. Свободно стояща вана, тъмен панел с мраморни шарки и вградено осветление, а също и два вида релефни плочки за стените, плюс тези за пода, успешно имитиращи естествен паркет, създават усещането за изящество и лукс.
+:end
+
+columns: 2
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Roditeli_FINAL_02_Z.png
+alt: Интериор на баня
+text:
+Гледката от ваната включва още повече орнаментика в детайли като дръжките на фрезованите врати, рамката на двойното огледало, ефектните смесители...
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Roditeli_FINAL_04_Z.png
+alt: Интериор на баня
+text:
+:end
+
+Кабинет
+-------
+
+columns: 0
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Kabinet_FINAL_01_St.png
+alt: Интериор на кабинет
+text:
+## Мебели в **кабинет**
+Луксът в тази част на дома получава своята лофт интерпретация с помощта на тухлена стена, релсови конструкции за стълбата и картините, както и на приглушените цветове (черен мат, тъмен дървесен фладер, сиво за окачения таван и килима от естествена кожа).
+:end
+
+columns: 3
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Kabinet_FINAL_03_St.png
+alt: Интериор на кабинет
+text:
+Балансирахме избора на по-тъмни мебели с повече вградено осветление, включително и при 3D ламперията, както и с ведрата шарка при текстилните завеси, вплела тематичното за този дом синьо.
+:end
+
+Антре
+------
+
+columns: 0
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_01_N.jpg
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Първите крачки отсам прага на дома са съпроводени от декоративна орнаментика по стените, вратите и тавана, фрезовани чекмеджета и мебели с класически извивки и капитониране. Вместо пищно обаче, звученето в интериора се усеща изчистено откъм излишни детайли, с премерена доза геометрия и цветове.
+:end
+
+columns: 3
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_03_N.jpg
+alt: Интериор на антре
+text:
+Усвоихме максимално пространството с вградени гардероби и чекмеджета, добавихме огледала и вградени луни, за да създадем илюзията за още по-просторен коридор, а мароканският десен на завесите ни помогна да придадем на интериора и малко приключенски дух.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_05_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_09_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: 
+alt: Интериор на антре
+text:
+Продължихме тази нишка и на втория етаж, където морското синьо се оказа чудесен партньор на нежните стени в пудрен нюанс.
+:end
+
+Детска за бебе
+--------------
+
+columns: 2
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Detska2_FINAL_01_N.jpg
+alt: Интериор на детска
+text:
+## Мебели в **детска за бебе**
+Невинна белота и акценти във ведри тонове на зеленото и жълтото си правят компания в защитения от света бебешки кът. Направихме го по-интересен за детските очи с помощта на съчетание между латекс и тапет за стените и рошав шаги килим за любопитните пълзящи крачета и ръчички.
+:end
+
+columns: 1
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Detska2_FINAL_03_N.jpg
+alt: Интериор на детска
+text:
+:end
+
+Детска
+------
+
+columns: 0
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_01_Z.png
+alt: Интериор на детска
+text:
+## Обзавеждане в **детска стая**
+Всяко дете заслужава да има свое кътче от света, в което наситени цветове и интригуващи десени да провокират полета на фантазията. Свят, в който всеки предмет е нещо повече от обикновена лампа или палатка, или картина...
+:end
+
+columns: 3
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_02_Z.png
+alt: Интериор на детска
+text:
+Работният кът е по-обран откъм разсейващи вниманието акценти и побира всичко, от което едно растящо дете има нужда, за да си напише домашните и да поиграе, без значение дали ще спази заръките на мама да го направи в тази последователност.
+:end
+
+Баня към детски
+---------------
+
+columns: 2
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_02_St.png
+alt: Интериор на баня
+text:
+## Интериор на **баня към детски стаи**
+Играта с цветовете и шарките на плочките е само един от начините да провокираме детския интерес и да зонираме по ефектен начин банята. Към него добавихме ярък декоративен корниз , геометрични орнаменти по вратичките на мебелите и мраморни шарки, приютили овални умивалници и огромни огледала. В комбинация с естествената светлина и преградата от прозрачно стъкло, успяхме да запазим усещането за достатъчно широко помещение, но и да усвоим пространството му от край до край.
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_01_St.png
+alt: Интериор на баня
+text:
+:end
+
+Мокро 
+-----
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro_FINAL_03_St.png
+alt: Интериор на мокро помещение
+text:
+## Интериор на **мокро помещение**
+Малкото сервизно помещение излъчва приветлив уют, благодарение на мебелите изцяло в бяло, запазили класическото си излъчване като в останалата част от интериора.
+:end
+
+columns: 2
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro_FINAL_01_St.png
+alt: Интериор на мокро помещение
+text:
+Дори прибиращата се в стената плъзгаща врата е с декоративон фрезоване. Допълнихме излъчването ѝ с ламперия, латекс в нежно синьо и плочки, имитиращи бяла тухлена стена.
+:end
+
+columns: 2
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro-Dreshnik_FINAL_01_St.png
+alt: Интериор на дрешник
+text:
+## Дизайн на **дрешник към мокро помещение**
+В съседния дрешник запазихме същия дизайн, към който добавихме много огледала, повече чекмеджета и рафтове с вградено осветление.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro-Dreshnik_FINAL_03_St.png
+alt: Интериор на дрешник
+text:
+:end
+
+Тоалетна
+--------
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Toaletna_FINAL_01_St.png
+alt: Интериор на тоалетна
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Toaletna_FINAL_04_St.png
+alt: Интериор на тоалетна
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: 
+alt: Интериор на тоалетна
+text:
+## Интериор на **тоалетна**
+Топлата тъмнокафява гама на плочките с мраморен ефект създава усещане за уют, а в комбинация с елегантните осветителни тела и класическия дизайн на огледалото, банята придобива 5-звезден блясък.
+:end
