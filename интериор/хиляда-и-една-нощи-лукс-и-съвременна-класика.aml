@@ -131,6 +131,14 @@ text:
 Нелсучайно обърнахме специално внимание на интериора в тази част на дома. Това е първата гледка, на която, на влизане от коридора, и семейството, и гостите попадат при разтварянето на плъзгащите врати с матови стъкла. Тук всичко е решено в класически стил, от извивките на мебелите до капитонирането, и единствено килимът с марокански шарки внася екзотична нотка в дворцовия блясък.
 :end
 
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Kuhnya_WIP_04_N.jpg
+alt: Мебели в кухня
+text:
+:end
+
 columns: 2
 style: overlay 
 tags: kitchen 
@@ -139,14 +147,6 @@ alt: Мебели в кухня
 text:
 ## Мебели в **кухня** 
 Геометрията по касетирания таван е в унисон с фрезоването по всички врати на шкафовете. Добавихме към тях и изящни дръжки в сребристо, за да пасват на главните герои край кухненския остров&nbsp;– бар столовете с лазерно изрязана метална структура. Мивката с винтидж дизайн пък комбинирахме с ретро излъчването на плочките за кухненския гръб.
-:end
-
-columns: 2
-style: overlay 
-tags: kitchen 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Kuhnya_WIP_04_N.jpg
-alt: Мебели в кухня
-text:
 :end
 
 Килер
@@ -174,7 +174,7 @@ tags: other
 image: 
 alt: Интериор на килер
 text:
-## Мебели в **килер** 
+## Интериор на **килер** 
 За да може кухнята да запази стилния си и подреден вид, а всички хранителни продукти да бъдат лесно достъпни и съхранявани по най-подходящия за тях начин, предвидихме и специално място за тях. Липсата на вратички по рафтовете в килера позволява прегледно нареждане, сортиране и достигане само с едно присягане.
 :end
 
@@ -230,9 +230,10 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Roditeli_FINAL_04_Z.png
+position: 60%
 alt: Интериор на баня
 text:
 :end
@@ -272,10 +273,11 @@ text:
 Първите крачки отсам прага на дома са съпроводени от декоративна орнаментика по стените, вратите и тавана, фрезовани чекмеджета и мебели с класически извивки и капитониране. Вместо пищно обаче, звученето в интериора се усеща изчистено откъм излишни детайли, с премерена доза геометрия и цветове.
 :end
 
-columns: 3
+columns: 1
 style: overlay 
 tags: other 
 image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_03_N.jpg
+position: 65%
 alt: Интериор на антре
 text:
 Усвоихме максимално пространството с вградени гардероби и чекмеджета, добавихме огледала и вградени луни, за да създадем илюзията за още по-просторен коридор, а мароканският десен на завесите ни помогна да придадем на интериора и малко приключенски дух.
@@ -293,14 +295,6 @@ columns: 1
 style: overlay 
 tags: other 
 image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Varna_Antre_FINAL_09_N.jpg
-alt: Интериор на антре
-text:
-:end
-
-columns: 1
-style: overlay 
-tags: other 
-image: 
 alt: Интериор на антре
 text:
 Продължихме тази нишка и на втория етаж, където морското синьо се оказа чудесен партньор на нежните стени в пудрен нюанс.
@@ -333,7 +327,7 @@ text:
 columns: 0
 style: overlay 
 tags: kidsroom 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_01_Z.png
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_01_St.png
 alt: Интериор на детска
 text:
 ## Обзавеждане в **детска стая**
@@ -343,7 +337,7 @@ text:
 columns: 3
 style: overlay 
 tags: kidsroom 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_02_Z.png
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_02_St.png
 alt: Интериор на детска
 text:
 Работният кът е по-обран откъм разсейващи вниманието акценти и побира всичко, от което едно растящо дете има нужда, за да си напише домашните и да поиграе, без значение дали ще спази заръките на мама да го направи в тази последователност.
@@ -355,7 +349,7 @@ text:
 columns: 2
 style: overlay 
 tags: bathroom 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_02_St.png
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_02_Z.png
 alt: Интериор на баня
 text:
 ## Интериор на **баня към детски стаи**
@@ -363,9 +357,10 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Detska_FINAL_01_St.png
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets_Banya_Detska_FINAL_01_Z.png
+position: 50%
 alt: Интериор на баня
 text:
 :end
@@ -387,6 +382,7 @@ columns: 2
 style: overlay 
 tags: other 
 image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro_FINAL_01_St.png
+position: 75%
 alt: Интериор на мокро помещение
 text:
 Дори прибиращата се в стената плъзгаща врата е с декоративон фрезоване. Допълнихме излъчването ѝ с ламперия, латекс в нежно синьо и плочки, имитиращи бяла тухлена стена.
@@ -403,9 +399,10 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
 image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Mokro-Dreshnik_FINAL_03_St.png
+position: 60%
 alt: Интериор на дрешник
 text:
 :end
@@ -424,17 +421,17 @@ text:
 columns: 1
 style: overlay 
 tags: other 
-image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Toaletna_FINAL_04_St.png
-alt: Интериор на тоалетна
-text:
-:end
-
-columns: 1
-style: overlay 
-tags: other 
 image: 
 alt: Интериор на тоалетна
 text:
 ## Интериор на **тоалетна**
 Топлата тъмнокафява гама на плочките с мраморен ефект създава усещане за уют, а в комбинация с елегантните осветителни тела и класическия дизайн на огледалото, банята придобива 5-звезден блясък.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/rogovets-varna/Marketing/Concept/Rogovets-Varna_Toaletna_FINAL_04_St.png
+alt: Интериор на тоалетна
+text:
 :end
