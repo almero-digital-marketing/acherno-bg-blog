@@ -28,21 +28,15 @@ text:
 columns: 2
 style: overlay
 tags: bedroom
-panorama: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Panorama.jpg
-alt: Интериорен дизайн на спалня
-text:
-:end
-
-columns: 1
-style: overlay
-tags: bedroom
+image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Spalnya_FINAL_02_N.jpg
+position: 10%
 alt: Интериорен дизайн на спалня
 text:
 ## Интериорен дизайн на **спалня**
 Място, което можем да наречем свое. В него се усещаме толкова защитени от външния свят, сякаш сме на друга планета. На нея нищо земно не ѝ е чуждо. Тук присъстват и дървесните шарки на тъмния орех, които подредихме в геометрични мотиви при сглобяването на ламперията зад спалнята, и мраморните жилки, за които заложихме на полиран и калиброван италиански гранитогрес. Има ги и земните тонове в килима и дамаската на леглото, но ги има и луните, които хем осветяват нашия свят на уединение в леглото или креслото, хем с разположението и месинговия си блясък ни напомнят за съществуването и на други време-пространства. Уловихме отраженията им и в огледалните врати на гардероба по поръчка с корпус от ПДЧ.
 :end
 
-columns: 3
+columns: 1
 style: overlay
 tags: bedroom
 image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Spalnya_FINAL_04_N.jpg
@@ -82,15 +76,6 @@ position: 50%
 alt: Мебели в всекидневна
 text:
 Поглед към кухнята пък разкрива съвсем друг хоризонт. Такъв, който блести в ослепителното бяло на гланцовите МДФ мебели по поръчка. На техен фон се откроява стилната комбинация на червено и черно, оформила кът за хранене с тапицирани трапезни столове от бук и разтегателна маса, която повтаря геометрията на холната. На една крачка разстояние е шкафът за вино с отворено изложение, а срещу него ситуирахме ТВ зоната, подчертана със стена от италиански гранитогрес и дискретно вградено осветление.
-:end
-
-columns: 1
-style: overlay mobile
-tags: livingroom
-image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Hol_FINAL_07_N.jpg
-position: 48%
-alt: Обзавеждане на хол
-text:
 :end
 
 Гостна
@@ -140,7 +125,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Banya_FINAL_02_Z.jpg
 alt: Мебели в баня
@@ -188,7 +173,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_WC_FINAL_01_Z.jpg
 position: 55%
