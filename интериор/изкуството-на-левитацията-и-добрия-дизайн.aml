@@ -16,6 +16,7 @@ columns: 0
 style: overlay
 tags: livingroom
 video: http://projects.acherno.int/milena-tsenova/Marketing/Videos/20190515_MilenaTsonova_hol1.mp4
+position: 40%
 alt: Интериорен дизайн на хол
 text:
 # Изкуството на левитацията и **добрия дизайн**
@@ -23,23 +24,15 @@ text:
 Проекти като този ни учат, че технологиите не са безлична добавка към интериора, а носят душа. Душата на хората, които движат света към иновациите. Те ни провокират да търсим магията в преобразяването на всяко пространство по най-неочаквани начини. Например, като превърнем обикновения плот в разтегателна маса или в издърпващо се бюро, като направим от душ зоната домашна парна баня с озвучаване, като разположим мебелите върху невидими поставки или крака, за да изглежда сякаш се носят в пространството.
 :end
 
-columns: 2
+columns: 3
 style: overlay
 tags: livingroom
 video: http://projects.acherno.int/milena-tsenova/Marketing/Videos/20190515_MilenaTsonova_hol2.mp4
+position: 40%
 alt: Интериорен дизайн на хол
 text:
 ## Интериорен дизайн на **хол**
-Първият етаж от къщата предоставя гледка навън през прозорци с панорамен размер, но истинските забележителности всъщност са у дома. Разположихме ги под таван с акустичен панел, чието текстилно покритие поглъща звука, за да елиминира кънтенето в отворения план, обединил трапезарията, кухнята и хола. Качественият звук е от особена важност за обитателите на този дом, които като истински фенове на музиката, държат на идеалното разпределение на децибелите чрез прецизно разположена система от тонколони. За част от тях конструирахме специални кутии, облицовани с акустична вата. Към прецизната геометрия на мебелите и осветителните тела добавихме дървесен уют под формата на гранитогрес, който, освен по пода, пълзи и по стените край камината на природен газ.
-:end
-
-columns: 1
-style: overlay
-tags: livingroom
-image: http://projects.acherno.int/kitanov-dragalevtsi/Marketing/Concept/Kitanov_Dragalevtsi_Spalnya_FINAL_04_N.jpg
-alt: Интериорен дизайн на спалня
-text:
-Зад вратите на холната секция от бял и сив МДФ мат скрихме цял работен кът с издърпващ се механизъм и рафтове, разположени над скритото бюро. Съвсем не така скрити са бутилките вино, които сякаш левитират във въздуха между трапезарията и хола зад витрина и рафтове от прозрачно стъкло.
+Първият етаж от къщата предоставя гледка навън през прозорци с панорамен размер, но истинските забележителности всъщност са у дома. Разположихме ги под таван с акустичен панел, чието текстилно покритие поглъща звука, за да елиминира кънтенето в отворения план, обединил трапезарията, кухнята и хола. Качественият звук е от особена важност за обитателите на този дом, които като истински фенове на музиката, държат на идеалното разпределение на децибелите чрез прецизно разположена система от тонколони. За част от тях конструирахме специални кутии, облицовани с акустична вата. Към прецизната геометрия на мебелите и осветителните тела добавихме дървесен уют под формата на гранитогрес, който, освен по пода, пълзи и по стените край камината на природен газ. Зад вратите на холната секция от бял и сив МДФ мат скрихме цял работен кът с издърпващ се механизъм и рафтове, разположени над скритото бюро. Съвсем не така скрити са бутилките вино, които сякаш левитират във въздуха между трапезарията и хола зад витрина и рафтове от прозрачно стъкло.
 :end
 
 Кухня
@@ -49,6 +42,7 @@ columns: 0
 style: overlay
 tags: kitchen
 video: http://projects.acherno.int/milena-tsenova/Marketing/Videos/20190515_MilenaTsonova_kuhnq.mp4
+position: 40%
 alt: Интериорен дизайн на кухня
 text:
 ## Обзавеждане в **кухня**
@@ -62,6 +56,7 @@ columns: 2
 style: overlay
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Spalnya3_FINAL_01_St.jpg
+position: 51%
 alt: Интериорен дизайн на спалня
 text:
 ## Вътрешен дизайн на **спалня**
@@ -81,7 +76,7 @@ text:
 -------
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Dreshnik_FINAL_03_KD.jpg
 alt: Интериорен дизайн на дрешник
@@ -91,7 +86,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Dreshnik_FINAL_04_KD.jpg
 alt: Интериорен дизайн на дрешник
@@ -100,7 +95,17 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Dreshnik_FINAL_04_KD.jpg
+alt: Интериорен дизайн на дрешник
+text:
+## Интериор на **дрешник**
+Гранитогресът тук е отстъпил пода на ламинат, който продължава дървесната тематика. Пренесохме уюта ѝ и в мебелите от ПДЧ, в комбинация с перлено бяло. В пъзела от шкафове без врати предвидихме място и за сгъваема дъска за гладене с изтеглящ се механизъм в близост до контакта, изведен за ютията.
+:end
+
+columns: 1
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Dreshnik_FINAL_01_KD.jpg
 alt: Интериорен дизайн на дрешник
@@ -124,6 +129,7 @@ columns: 1
 style: overlay
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_ET2_Banya_FINAL_06_N.jpg
+position: 20%
 alt: Интериор на баня
 text:
 Пейката за парната баня също разполага с вградено отопление зад дървесните си шарки по седалката и, страниците и гърба.
@@ -136,6 +142,7 @@ columns: 0
 style: overlay
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Spalnya_FINAL_08_St.jpg
+position: 58%
 alt: Интериорен дизайн на спалня
 text:
 ## Мебели в **спалня**
@@ -146,15 +153,17 @@ columns: 2
 style: overlay
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Spalnya_FINAL_04_St.jpg
+position: 38%
 alt: Интериорен дизайн на спалня
 text:
 В отворено положение към вграденото отгоре и отстрани LED осветление, се включва и още една, вътрешна лента, разположена над леглото. Отсрещната секция също е снабдена с неочаквани механизми. Единият е за прибиращи се врати, зад които се крие цял работен кът, отново с помощно осветление. Другият изтегля от чекмеджето допълнително бюро с телескопичен крак за опора.
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Spalnya_FINAL_06_St.jpg
+position: 15%
 alt: Интериорен дизайн на спалня
 text:
 :end
@@ -163,7 +172,7 @@ text:
 ------
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Antre_FINAL_01_St.jpg
 alt: Интериор на антре
@@ -171,7 +180,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Antre_FINAL_02_St.jpg
 alt: Интериор на антре
@@ -179,7 +188,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: 
 alt: Интериор на антре
@@ -190,11 +199,22 @@ text:
 
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Antre_FINAL_05_St.jpg
 alt: Интериор на антре
 text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: hallway
+image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Antre_FINAL_05_St.jpg
+position: 50%
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Антрето, заедно със стълбището и коридора на втория етаж, предлага нови игри на контрасти и партньорства. Например, между гранитогреса и парапета с дървесни шарки и белия врачански камък по стъпалата, между белия и сивия латекс, между акцентите в осветлението и тъмния шлиц в тавана на първия етаж, а също и между матовите и огледалните повърхности.
 :end
 
 columns: 1
@@ -206,7 +226,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: hallway
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Antre_FINAL_09_St.jpg
 alt: Интериор на антре
@@ -216,10 +236,20 @@ text:
 Спалня
 ------
 
-columns: 0
+columns: 1
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Spalnya02_FINAL_06_KD.jpg
+position: 35%
+alt: Интериорен дизайн на спалня
+text:
+:end
+
+columns: 2
 style: overlay
 tags: bedroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_Spalnya02_FINAL_02_KD.jpg
+position: 25%
 alt: Интериорен дизайн на спалня
 text:
 ## Интериорен дизайн на **спалня**
@@ -230,7 +260,7 @@ text:
 ----
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Et1_Banya_FINAL_01_KD.jpg
 alt: Интериор на баня
@@ -238,7 +268,18 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Et1_Banya_FINAL_01_KD.jpg
+position: 50%
+alt: Интериор на баня
+text:
+## Интериор на **баня**
+Хюга уют, постигнат чрез комбинация на дървесни елементи, бяло и много светлина. Или, с други думи, чрез съчетаването на два вида гранитогрес за стените и пода, два вида ПВЦ за кухненския шкаф с плот и на два вида осветление, вградено в тавана, нишите и под формата на LED лента в профил.
+:end
+
+columns: 1
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_Et1_Banya_FINAL_05_KD.jpg
 alt: Интериор на баня
@@ -246,7 +287,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: 
 alt: Интериор на баня
@@ -259,7 +300,7 @@ text:
 --------
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_WC_FINAL_06_KD.jpg
 alt: Интериор на тоалетна
@@ -269,7 +310,7 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_WC_FINAL_03_KD.jpg
 alt: Интериор на тоалетна
@@ -277,9 +318,19 @@ text:
 :end
 
 columns: 1
-style: overlay
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_WC_FINAL_02_KD.jpg
 alt: Интериор на тоалетна
 text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/milena-tsenova/Marketing/Concept/Milena_Tsenova_et02_WC_FINAL_02_KD.jpg
+alt: Интериор на тоалетна
+text:
+## Интериор на **тоалетна**
+Запазихме интериорния стил на банята, но за разлика от нея, тук плотът е от технически камък, а към огледалото над мивката добавихме допълнителен осветителен акцент.
 :end
