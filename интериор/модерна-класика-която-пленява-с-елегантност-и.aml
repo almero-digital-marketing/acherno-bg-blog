@@ -1,0 +1,466 @@
+layout: /v2/blog/magazine.ect
+title: (Модерна класика,) която пленява с елегантност и…
+description: Изтънченият дизайн на неокласиката изпълва с комфорт просторните стаи и помещения на този впечатляващ с мащабите си дом. Допълнихме усещането за лукс и благородство с фини съчетания на слонова кост и мока, врачански камък и гранит, висококачествени дамаски и естествена дървесина.
+author: Петра Денчева
+date: 2019-10-01
+cover: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_FINAL_01_N.jpg
+firstPage: true
+tags: private, classic
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+video: http://projects.acherno.int/takeva-plovdiv/Marketing/Videos/20190515_Takeva_hol1.mp4
+position: 40%
+alt: Интериорен дизайн на хол
+text:
+# **Модерна класика,** която пленява с елегантност и…
+## Аристократичен стил, деликатни съчетания и **впечатляващ дизайн**
+Изтънченият дизайн на неокласиката изпълва с комфорт просторните стаи и помещения на този впечатляващ с мащабите си дом. Допълнихме усещането за лукс и благородство с фини съчетания на слонова кост и мока, врачански камък и гранит, висококачествени ленени дамаски и естествена дървесина, като подчертахме аристократичното им излъчване със знатни отблясъци в бронз, кристали и ефектни огледални отражения.
+:end
+
+Хол
+------
+
+columns: 2
+style: overlay 
+tags: livingroom
+video: http://projects.acherno.int/takeva-plovdiv/Marketing/Videos/20190515_Takeva_hol2.mp4
+position: 40%
+alt: Интериор на хол
+text:
+## Интериорен дизайн на **хол**
+Камината с две лица, откъм хола и откъм трапезарията, се е сгушила в красотата на белия врачански камък, който комбинирахме с кафяв гранит. Съчетание, характерно за интериора на целия отворен план на всекидневната, обединила под тавана с декоративни орнаменти и таванни климатици холната част, зоната за хранене и кухнята. Кафявият МДФ мат приложихме както за холната маса, така и за нишите, вградени в стената със същия цвят с акцентно осветление. Белият МДФ мат съчетахме  с матово стъкло при библиотеката и с бронзови елементи при конзолната маса и допълнителните шкафове. Двата цвята използвахме и за декоративните стенни профили в неокласически стил.
+:end
+
+columns: 1
+style: overlay desktop
+tags: livingroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Hol_09M.jpg
+position: 40%
+alt: Интериор на хол
+text:
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay desktop
+tags: kitchen
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Hol_02M.jpg
+position: 45%
+alt: Интериор на кухня
+text:
+:end
+
+columns: 2
+style: overlay 
+tags: kitchen
+video: http://projects.acherno.int/takeva-plovdiv/Marketing/Videos/20190516_Takeva_kuhnq.mp4
+position: 40%
+alt: Интериор на кухня
+text:
+## Вътрешен дизайн на **кухня**
+Нежната игра между кафяво и бяло продължава и в кухнята, където става фон за елегантни акценти под формата на класически полилей с кристали, маса с благородни отблясъци и знатни извивки, аристократични столове с елегантен дизайн и капитониране. Мароканските шарки от завесите в хола пренесохме върху текстилните щори над мивката и плота от гранит.
+:end
+
+Тераса барбекю
+--------------
+
+columns: 2
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Barbeque_FINAl_03_KD.jpg
+alt: Обзавеждане на тераса
+text:
+## Интериор на **тераса за барбекю**
+Отвъд пределите на всекидневната обособихме още един кът за хранене и барбекю. При това, не е нужно времето да е непременно хубаво, благодарение на подвижния покрив, който образува заслон над масата и пейката от байцван масив, ореховите трапезни столове и кухненския кът от МДФ фурнир байц. Аплиците с дизайн на улични фенери от Викторианска Англия придават нужната романтика на задружните вечери край масата под открито небе.
+:end
+
+columns: 2
+style: overlay mobile
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Barbeque_FINAl_02_KD.jpg
+position: 66%
+alt: Обзавеждане на тераса
+text:
+## Интериор на **тераса за барбекю**
+Отвъд пределите на всекидневната обособихме още един кът за хранене и барбекю. При това, не е нужно времето да е непременно хубаво, благодарение на подвижния покрив, който образува заслон над масата и пейката от байцван масив, ореховите трапезни столове и кухненския кът от МДФ фурнир байц. Аплиците с дизайн на улични фенери от Викторианска Англия придават нужната романтика на задружните вечери край масата под открито небе.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Barbeque_FINAl_08_KD.jpg
+position: 56%
+alt: Обзавеждане на тераса
+text:
+:end
+
+Тераса джакузи
+--------------
+
+columns: 0
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Terasa_jakuzi_FINAL_04_KD.jpg
+position: 44%
+alt: Обзавеждане на тераса
+text:
+## Дизайн на **тераса с джакузи**
+Не по-малко романтика струи и от другата голяма тераса, пригодена за слънчеви бани и отпускане в домашното джакузи. Покривът и плъзгащото се остъкление отново позволяват както уединение, така и затваряне на пространството при необходимост.
+:end
+
+columns: 2
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Terasa_jakuzi_FINAL_08_KD.jpg
+position: 62%
+alt: Обзавеждане на тераса
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Terasa_jakuzi_FINAL_06_KD.jpg
+position: 35%
+alt: Обзавеждане на тераса
+text:
+:end
+
+Спалня
+------
+
+columns: 0
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_FINAL_04_N.jpg
+position: 60%
+alt: Обзавеждане на спалня
+text:
+## Обзавеждане в **спалня**
+Феерия от светлина, идваща не само от полилея и аплиците с кристали, но и от вградените в тавана луни и скритото в него допълнително осветление, облива спалнята от естествена кожа, украсила и огромната табла почти до тавана, както и отоманката до прозореца, и табуретката пред тоалетката от бял МДФ мат. 
+:end
+
+columns: 3
+style: overlay des
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_FINAL_03_N.jpg
+position: 60%
+alt: Обзавеждане на спалня
+text:
+Със същото матово покритие са и останалите мебели в стаята, украсени от фрезовани врати и аристократични дръжки в златисто.
+:end
+
+Дрешник
+-------
+
+columns: 2
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdib_Dreshnik_Splanya_FINAL_01_N.jpg
+alt: Дизайн на дрешник
+text:
+## Мебели в **дрешник към спалня**
+Елегантното партньорство между бялото и кафявото достига нови измерения отсам вратата на дрешника. Тук тъмният МДФ мат служи за декорация по стените и за рамкиране, докато бялото, макар и мат, сияе сякаш с помощта на вграденото осветление. Контрастът с тъмния трислоен паркет продължава своя прочит и пред огледалото, където, точно срещу рафтовете с обувки, се оглежда табуретка с изискана дамаска и капитониране.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdib_Dreshnik_Splanya_FINAL_04_N.jpg
+alt: Дизайн на дрешник
+text:
+:end
+
+Баня към спалня
+---------------
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_01_St.jpg
+position: 50%
+alt: Дизайн на баня
+text:
+## Интериор на **баня към спалня**
+Главният герой в банята и в прилежащата парна баня е селекцията от плочки, комбинирани така, че да извадят на показ най-доброто от аристократичните шарки, декоративните кантове и фрезования.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_04_St.jpg
+alt: Дизайн на баня
+text:
+Акцентното осветление над огледалото с богата орнаментика по рамката получава подкрепление от меката светлина, вградена в тавана, а също и от слънчевите лъчи през прозореца в помещението за парна баня. 
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_04_St.jpg
+alt: Дизайн на баня
+text:
+## Интериор на **баня към спалня**
+Главният герой в банята и в прилежащата парна баня е селекцията от плочки, комбинирани така, че да извадят на показ най-доброто от аристократичните шарки, декоративните кантове и фрезования. Акцентното осветление над огледалото с богата орнаментика по рамката получава подкрепление от меката светлина, вградена в тавана, а също и от слънчевите лъчи през прозореца в помещението за парна баня. 
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_07_St.jpg
+alt: Интериор на баня
+text:
+:end
+
+Кабинет
+-------
+
+columns: 0
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Kabinet_FINAL_02_KD.jpg
+position: 70%
+alt: Интериор на кабинет
+text:
+## Дизайн на **кабинет**
+Кабинет за работа или за уединени разговори с важни гости, а усещането е сякаш си у Гетсби. Постигнахме го с под от трислоен лакиран паркет в цвят мока, библиотека с контрастни рафтове и декоративни рамки, луксозна мека мебел и елегантни осветителни тела с кристали и хромирани детайли.
+:end
+
+Тераса фитнес
+-------------
+
+columns: 2
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_01_KD.jpg
+alt: Интериор на тераса
+text:
+## Интериор на **тераса към спалня**
+Отделното пространство за фитнес уредите, които са на почит в този дом, не беше проблем, щом усвоихме терасата към спалнята с помощта на плъзгащо се остъкляване. Резултатът: фитнес на дневна светлина, но в уединението на собствения дом.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_02_KD.jpg
+alt: Интериор на тераса
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_02_KD.jpg
+alt: Интериор на тераса
+text:
+## Интериор на **тераса към спалня**
+Отделното пространство за фитнес уредите, които са на почит в този дом, не беше проблем, щом усвоихме терасата към спалнята с помощта на плъзгащо се остъкляване. Резултатът: фитнес на дневна светлина, но в уединението на собствения дом.
+:end
+
+Антре
+-----
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_01_St.jpg
+position: 100%
+alt: Интериор на антре
+text:
+## Интериорен дизайн на **антре**
+Най-представителната част от един дом, антрето, посреща гостите с мраморни шарки в нежни тонове и със своеобразен акцент точно под полилея с класически извивки, които са в унисон с елегантния дизайн на конзолната маса от бял МДФ мат. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_02_St.jpg
+alt: Интериор на антре
+text:
+Срещу нея и огледалото разположихме пейка с меко сядане в същия стил, която пресъздава първата среща на бялото и кафявото в интериора на този дом, богат на забележителни декоративни съчетания.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_05_St.jpg
+alt: Интериор на антре
+text:
+Само на няколко крачки е и гардеробът, демонстриращ по вратите и стените си цялата прелест на акцентното фрезоване.
+:end
+
+Коридор
+-------
+
+columns: 2
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Koridor_FINAL_03_N.jpg
+alt: Интериор на коридор
+text:
+## Интериор на **коридор**
+Стенните, таванният и подовият профил са в съзвучие с класическия стил на сервизния гардероб, а и на цялостния интериор, докато играта между двата цвята на стените придава дълбочина, подсилена от огледалната илюзия за още повече пространство.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Koridor_FINAL_01_N.jpg
+alt: Интериор на коридор
+text:
+:end
+
+Спалня момиче
+-------------
+
+columns: 0
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_01_St.jpg
+alt: Обзавеждане на спалня
+text:
+## Мебели в **спалня**
+Спалнята на принцесата носи малко по-модерно звучене, но запазва класическия стил в декоративните профили и извивките на мебелите от МДФ. Тук контрастът отстъпва за сметка на нежната комбинация от пудрено розово и бяло, допълнени от нежния нюанс на леглото от естествена кожа.
+:end
+
+columns: 2
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_02_St.jpg
+position: 60%
+alt: Обзавеждане на спалня
+text:
+## Мебели в **спалня**
+Спалнята на принцесата носи малко по-модерно звучене, но запазва класическия стил в декоративните профили и извивките на мебелите от МДФ. Тук контрастът отстъпва за сметка на нежната комбинация от пудрено розово и бяло, допълнени от нежния нюанс на леглото от естествена кожа.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_04_St.jpg
+position: 50%
+alt: Обзавеждане на спалня
+text:
+Полилеят, щедро обсипан с кристали, разпръсква мека светлина. Вратите на гардероба запазват фрезовката, характерна за стила на този дом, но спестяват на окото контрастното подчертаване с втори цвят. Огледалната ниша създава усещането за повече простор и служи вярно на принцесата на удобно разстояние от гардероба.
+:end
+
+columns: 2
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_02_St.jpg
+alt: Обзавеждане на спалня
+text:
+:end
+
+Спалня момче
+-------------
+
+columns: 2
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Spalnya_malka_FINAL_01_KD.jpg
+position: 51%
+alt: Обзавеждане на спалня
+text: 
+## Вътрешен дизайн на **спалня**
+Спалнята на принца също е лаконична на контрасти по стените, чийто светъл цвят оптически разширява стаята. Тъмния запазихме този път за нощните шкафчета и бюрото от масив, отново с класически извивки, за да са в хармония с декоративните профили и изящния полилей.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Spalnya_malka_FINAL_06_KD.jpg
+position: 63%
+alt: Обзавеждане на спалня
+text:
+:end
+
+Тераса детски
+-------------
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Spalni_FINAl_02_St.jpg
+alt: Интериор на тераса
+text:
+## Интериор на **тераса към спални**
+Терасата към детските стаи предлага слънчева закуска с панорамна гледка към Пловдив. Сгъваемите мебели бързо лесно могат да осигурят и повече пространство за игра върху пода от гранитогрес.
+:end
+
+columns: 2
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Spalni_FINAl_01_St.jpg
+alt: Интериор на тераса
+text:
+:end
+
+Баня обща
+---------
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_01_N.jpg
+alt: Дизайн на баня
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_01_N.jpg
+alt: Дизайн на баня
+text:
+## Интериор на **баня**
+Нежни нюанси на пясъчното обгръщат всеки детайл от общата баня, която пленява с декоративните си профили и плочките с шарка на винтидж тапет. Чекмеджетата с овален фронт продължават геометрията за мивката, вградена под плота от технически камък, докато душ кабината се вписва елегантно и ненатрапчиво с елементи от прозрачно стъкло.
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_04_N.jpg
+position: 100%
+alt: Дизайн на баня
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: 
+alt: Дизайн на баня
+text:
+## Интериор на **баня**
+Нежни нюанси на пясъчното обгръщат всеки детайл от общата баня, която пленява с декоративните си профили и плочките с шарка на винтидж тапет. Чекмеджетата с овален фронт продължават геометрията за мивката, вградена под плота от технически камък, докато душ кабината се вписва елегантно и ненатрапчиво с елементи от прозрачно стъкло.
+:end
+
+Спалня 3
+--------
+
+columns: 2
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Detska3_FINAL_01_St.jpg
+position: 70%
+alt: Обзавеждане на спалня
+text:
+## Обзавеждане на **спалня**
+Третата детска е като отделна мини вселена за младежкия и модерен дух, който не се вълнува от класиката. На него му приляга повече съвременният индустриален стил със стени в черен и графитен латекс, спот осветление на релси и мебели от метал, в съчетание с винилов под, имитиращ дъбови шарки, и тъмен шаги килим.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Detska3_FINAL_04_St.jpg
+alt: Обзавеждане на спалня
+text:
+Матово черни са и секцията, и тв шкафа, изработени от МДФ също като гардероба с плъзгащи врати. И за да не бъде интериорът твърде мрачен, разчупихме излъчването му с вертикални щори в черно-бяло райе.
+:end
