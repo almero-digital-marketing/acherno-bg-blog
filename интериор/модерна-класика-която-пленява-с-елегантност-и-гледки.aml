@@ -84,7 +84,7 @@ columns: 2
 style: overlay mobile
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Barbeque_FINAl_02_KD.jpg
-position: 68%
+position: 66%
 alt: Обзавеждане на тераса
 text:
 ## Интериор на **тераса за барбекю**
@@ -95,7 +95,7 @@ columns: 1
 style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Barbeque_FINAl_08_KD.jpg
-position: 60%
+position: 56%
 alt: Обзавеждане на тераса
 text:
 :end
@@ -107,7 +107,7 @@ columns: 0
 style: overlay 
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Terasa_jakuzi_FINAL_04_KD.jpg
-position: 45%
+position: 44%
 alt: Обзавеждане на тераса
 text:
 ## Дизайн на **тераса с джакузи**
@@ -118,8 +118,7 @@ columns: 2
 style: overlay 
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Terasa_jakuzi_FINAL_08_KD.jpg
-position: 70%
-position: 60%
+position: 62%
 alt: Обзавеждане на тераса
 text:
 :end
@@ -148,7 +147,7 @@ text:
 :end
 
 columns: 3
-style: overlay 
+style: overlay des
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_FINAL_03_N.jpg
 position: 60%
@@ -182,9 +181,10 @@ text:
 ---------------
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_01_St.jpg
+position: 50%
 alt: Дизайн на баня
 text:
 ## Интериор на **баня към спалня**
@@ -192,12 +192,22 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_04_St.jpg
 alt: Дизайн на баня
 text:
 Акцентното осветление над огледалото с богата орнаментика по рамката получава подкрепление от меката светлина, вградена в тавана, а също и от слънчевите лъчи през прозореца в помещението за парна баня. 
+:end
+
+columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Spalnya_FINAL_04_St.jpg
+alt: Дизайн на баня
+text:
+## Интериор на **баня към спалня**
+Главният герой в банята и в прилежащата парна баня е селекцията от плочки, комбинирани така, че да извадят на показ най-доброто от аристократичните шарки, декоративните кантове и фрезования. Акцентното осветление над огледалото с богата орнаментика по рамката получава подкрепление от меката светлина, вградена в тавана, а също и от слънчевите лъчи през прозореца в помещението за парна баня. 
 :end
 
 columns: 1
@@ -215,17 +225,18 @@ columns: 0
 style: overlay 
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Kabinet_FINAL_02_KD.jpg
+position: 70%
 alt: Интериор на кабинет
 text:
 ## Дизайн на **кабинет**
 Кабинет за работа или за уединени разговори с важни гости, а усещането е сякаш си у Гетсби. Постигнахме го с под от трислоен лакиран паркет в цвят мока, библиотека с контрастни рафтове и декоративни рамки, луксозна мека мебел и елегантни осветителни тела с кристали и хромирани детайли.
 :end
 
-Тераса спалня
+Тераса фитнес
 -------------
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_01_KD.jpg
 alt: Интериор на тераса
@@ -235,11 +246,21 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_02_KD.jpg
 alt: Интериор на тераса
 text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: other
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Fitnes_FINAL_02_KD.jpg
+alt: Интериор на тераса
+text:
+## Интериор на **тераса към спалня**
+Отделното пространство за фитнес уредите, които са на почит в този дом, не беше проблем, щом усвоихме терасата към спалнята с помощта на плъзгащо се остъкляване. Резултатът: фитнес на дневна светлина, но в уединението на собствения дом.
 :end
 
 Антре
@@ -249,6 +270,7 @@ columns: 1
 style: overlay 
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_01_St.jpg
+position: 100%
 alt: Интериор на антре
 text:
 ## Интериорен дизайн на **антре**
@@ -256,7 +278,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_02_St.jpg
 alt: Интериор на антре
@@ -265,7 +287,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Antre_FINAL_05_St.jpg
 alt: Интериор на антре
@@ -287,7 +309,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Koridor_FINAL_01_N.jpg
 alt: Интериор на коридор
@@ -298,9 +320,20 @@ text:
 -------------
 
 columns: 0
-style: overlay 
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_01_St.jpg
+alt: Обзавеждане на спалня
+text:
+## Мебели в **спалня**
+Спалнята на принцесата носи малко по-модерно звучене, но запазва класическия стил в декоративните профили и извивките на мебелите от МДФ. Тук контрастът отстъпва за сметка на нежната комбинация от пудрено розово и бяло, допълнени от нежния нюанс на леглото от естествена кожа.
+:end
+
+columns: 2
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_02_St.jpg
+position: 60%
 alt: Обзавеждане на спалня
 text:
 ## Мебели в **спалня**
@@ -311,14 +344,14 @@ columns: 1
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_04_St.jpg
-position: 65%
+position: 50%
 alt: Обзавеждане на спалня
 text:
 Полилеят, щедро обсипан с кристали, разпръсква мека светлина. Вратите на гардероба запазват фрезовката, характерна за стила на този дом, но спестяват на окото контрастното подчертаване с втори цвят. Огледалната ниша създава усещането за повече простор и служи вярно на принцесата на удобно разстояние от гардероба.
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Spalnya_Golyama_FINAL_02_St.jpg
 alt: Обзавеждане на спалня
@@ -332,6 +365,7 @@ columns: 2
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Spalnya_malka_FINAL_01_KD.jpg
+position: 51%
 alt: Обзавеждане на спалня
 text: 
 ## Вътрешен дизайн на **спалня**
@@ -342,7 +376,7 @@ columns: 1
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_plovdiv_Spalnya_malka_FINAL_06_KD.jpg
-position: 60%
+position: 63%
 alt: Обзавеждане на спалня
 text:
 :end
@@ -361,7 +395,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Terasa_Spalni_FINAl_01_St.jpg
 alt: Интериор на тераса
@@ -372,7 +406,7 @@ text:
 ---------
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_01_N.jpg
 alt: Дизайн на баня
@@ -380,15 +414,26 @@ text:
 :end
 
 columns: 1
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_01_N.jpg
+alt: Дизайн на баня
+text:
+## Интериор на **баня**
+Нежни нюанси на пясъчното обгръщат всеки детайл от общата баня, която пленява с декоративните си профили и плочките с шарка на винтидж тапет. Чекмеджетата с овален фронт продължават геометрията за мивката, вградена под плота от технически камък, докато душ кабината се вписва елегантно и ненатрапчиво с елементи от прозрачно стъкло.
+:end
+
+columns: 1
 style: overlay 
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Banya_Obshta_FINAL_04_N.jpg
+position: 100%
 alt: Дизайн на баня
 text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: 
 alt: Дизайн на баня
@@ -404,6 +449,7 @@ columns: 2
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_Detska3_FINAL_01_St.jpg
+position: 70%
 alt: Обзавеждане на спалня
 text:
 ## Обзавеждане на **спалня**
@@ -423,7 +469,7 @@ text:
 --------
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_WC_FINAL_01_KD.jpg
 alt: Дизайн на тоалетна
@@ -431,7 +477,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: 
 alt: Дизайн на тоалетна
@@ -441,7 +487,18 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay mobile
+tags: bathroom
+image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_WC_FINAL_01_KD.jpg
+position: 50%
+alt: Дизайн на тоалетна
+text:
+## Интериор на **тоалетна**
+И най-семплото помещение в дома може да бъде впечатляващо, когато носи отличителния за дома стил и има ефектно поставено осветление. В случая, скрихме допълнително такова над горния декоративен профил и сляхме стената над него с белия таван, за да балансираме пропорциите по вертикала.
+:end
+
+columns: 1
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/takeva-plovdiv/Marketing/Concept/Takeva_Plovdiv_WC_FINAL_04_KD.jpg
 alt: Дизайн на тоалетна
