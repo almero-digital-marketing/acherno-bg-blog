@@ -1,0 +1,263 @@
+layout: /v2/blog/magazine.ect
+title: Къщата, в която уютът посреща с (грация и финес)
+description: Когато искаш да се насладиш на интериор от класа, с космополитен характер и впечатляваща площ, но да запазиш онова усещане за дом, което дават пламъкът на свещите, огънят в камината и сгушеността на по-малките пространства, балансът между показност и практичност трябва да е особено грациозен.
+author: Петра Денчева
+date: 2019-10-22
+cover: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Hol_01M.jpg
+firstPage: true
+tags: private, classic
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+video: http://projects.acherno.int/buzov-haskovo/Marketing/Videos/20190510_hol_1.mp4
+position: 40%
+alt: Интериорен дизайн на хол
+text:
+# Къщата, в която уютът посреща с **грация и финес**
+## Класически елементи на фона на  **модерен и практичен дизайн**
+Когато искаш да се насладиш на интериор от класа, с космополитен характер и впечатляваща площ, но да запазиш онова усещане за дом, което дават пламъкът на свещите, огънят в камината и сгушеността на по-малките пространства, балансът между показност и практичност трябва да е особено грациозен. Постигнахме го с елегантни извивки, луксозни текстури и естествени материали. И със светлина, много светлина, достигаща до всяко кътче и в дома, и в сърцата на обитателите с отношение към добрия дизайн.
+:end
+
+Хол
+------
+
+columns: 2
+style: overlay 
+tags: livingroom
+video: http://projects.acherno.int/buzov-haskovo/Marketing/Videos/20190510_hol_2.mp4
+position: 35%
+alt: Интериор на хол
+text:
+## Интериорен дизайн на **хол**
+За да я допуснем с още по-голям размах във всекидневната, разположихме хола в пространството между двете стени с панорамни прозорци. И я съчетахме с нежни цветови комбинации в бежово-кафявата гама на мебелите, изработени по поръчка: холната и помощните маси от масив с байц покритие, ТВ шкафа от МДФ фурнир с байц, витрината от МДФ боя мат, дву- и триместния диван... Над тях разположихме касетиран таван със скрито осветление, а под него&nbsp;– гранитогрес с дървесни шарки и килим с марокански мотив. Между хола и трапезарията разположихме зоната за отмора, с камина от врачански камък, която откроихме чрез стена, облицована с травертин с грапав (глиц) ефект.
+:end
+
+columns: 1
+style: overlay desktop
+tags: livingroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Hol_07M.jpg
+position: 10%
+alt: Интериор на трапезария
+text:
+## Вътрешен дизайн на **трапезария**
+Декоративните греди по високия, скосяващ се таван подсилват усещането за планински уют, идващо от камината. Вечерята в непосредствена близост обаче запазва изтънчения стил на цялостния интериор благодарение на класическите извивки на масата и капитонирането на столовете. И на осветлението, разбира се, в синхрон с това в кухненската част.
+:end
+
+Кухня
+------
+
+columns: 0
+style: overlay 
+tags: kitchen
+video: http://projects.acherno.int/buzov-haskovo/Marketing/Videos/20190510_kuhnq.mp4
+position: 35%
+alt: Интериор на кухня
+text:
+## Обзавеждане в **кухня**
+Тук, освен благодарение на ефектния дизайн на полилеите, усещането за класа идва и от техническия камък с мраморен ефект, който използвахме за покритията на кухненския гръб, плота и кухненския остров. Фрезованите врати от МДФ боя мат допълват идеално стила и получават акцентно внимание с помощта на допълнително вградено осветление.
+:end
+
+Антре
+------
+
+columns: 3
+style: overlay 
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Antre_FINAL_01_St.jpg
+position: 60%
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Бял и черен мрамор чертаят геометрията на един типичен за Ерата на джаза стил. Преповторихме я във вратите към всекидневната, в тон с гардероба и зоната за сядане от МДФ фурнир, стъпалата от масив и парапета от МДФ боя мат.
+:end
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Antre_FINAL_02_St.jpg
+position: 50%
+alt: Интериор на антре
+text:
+За стените използвахме декоративни профили и латекс със сатенен отблясък, който подчертава аристократичността на стъклените полилеи и конзолната маса с огледален плот и фасетирано чело.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Koridor_et1_FINAL_02_St.jpg
+alt: Интериор на коридор
+text:
+Коридорът на първия етаж затвърждава интериорното впечатление от антрето с помощта на мебели от МДФ фурнир байц, украсени с класически орнаменти, и с геометрични метални акценти в рамката на огледалото.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Antre_FINAL_01_St.jpg
+alt: Интериор на коридор
+text:
+Същите детайли използвахме и в интериора на втория етаж, където уютът на дъбовия паркет заменя мрамора от антрето и гранитогреса от първия.
+:end
+
+columns: 1
+style: overlay mobile
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Antre_FINAL_01_St.jpg
+alt: Интериор на коридор
+text:
+Коридорът на втория етаж затвърждава интериорното впечатление от антрето с помощта на мебели от МДФ фурнир байц, украсени с класически орнаменти, и с геометрични метални акценти в рамката на огледалото, но тук уютът на дъбовия паркет заменя благородния блясък на мрамора.
+:end
+
+Детска
+------
+
+columns: 2
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Detska_Final_01_KD.jpg
+position: 63%
+alt: Интериор на детска стая
+text:
+## Обзавеждане на **детска стая**
+Минало и бъдеще се срещат с аристократичен поклон, уловил достолепието на историята, но и надеждата за щастливо и спокойно детство. Пресъздадохме това вълнение чрез фототапет по индивидуален размер, който да пасне в нишата, обособена от класическите стенни профили. В същия стил са и изисканите орнаменти по осветителните тела, и фрезоването в акцентен цвят по мебелите от МДФ боя мат и по профилите на тавана с вградено осветление. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Detska_Final_06_KD.jpg
+alt: Интериор на детска стая
+text:
+:end
+
+Баня към детска
+---------------
+
+columns: 3
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_ET2_Banya_Detska_FINAL_01_N.jpg
+alt: Интериор на баня
+text:
+## Интериор на **баня към детска**
+Нежни и топли нюанси на бежово и мока  са идеалният фон за дървесните шарки по гранитогреса и шкафа от PVC. Разчупихме пространстовто със стена и ниша с триизмерен woodcut релеф, а също и с овалните форми на огледалото, мивката и винтидж дръжките на шкафа, изработен по проект.
+:end
+
+Спалня
+-------
+
+columns: 2
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Spalnya_FINAL_02_St.jpg
+alt: Интериор на спалня
+text:
+## Мебели в **спалня**
+Декоративната мазилка, която пресъздава текстурата от дамаската на спалнята и табуретката, позволява на мебелите от бял МДФ мати и на тавана в бял латекс да изпъкнат със своите класически орнаменти. И за да не бъде всичко твърде монохромно, зад леглото добавихме ламперия с хромирани профили и основа от МДФ боя мат в лек нюанс, кореспондиращ с плътните завеси.
+:end
+
+columns: 2
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Spalnya_FINAL_05_St.jpg
+position: 49%
+alt: Интериор на спалня
+text:
+## Мебели в **спалня**
+Декоративната мазилка, която пресъздава текстурата от дамаската на спалнята и табуретката, позволява на мебелите от бял МДФ мати и на тавана в бял латекс да изпъкнат със своите класически орнаменти. И за да не бъде всичко твърде монохромно, зад леглото добавихме ламперия с хромирани профили и основа от МДФ боя мат в лек нюанс, кореспондиращ с плътните завеси.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Spalnya_FINAL_03_St.jpg
+alt: Интериор на спалня
+text:
+Тоалетката, изработена по поръчка, изпъква със своя класически дизайн и огледална орнаментика, в пълен унисон с елегантния полилей над спалнята.
+:end
+
+Дрешник към спалня
+------------------
+
+columns: 1
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Spalnya_FINAL_08_St.jpg
+alt: Интериор на спалня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Dreshnik_Spalnya_FINAL_01_St.jpg
+alt: Интериор на дрешник
+text:
+## Дизайн на **дрешник към спалня**
+Естественият трислоен паркет от спалнята превзема и дрешника, за да го приобщи визуално към нейния стил с класически декоративни профили по стените и мебелите от МДФ боя мат. Разширихме оптически пространството с огледална стена срещу вратата и с откритите гардероби без затваряне.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et2_Dreshnik_Spalnya_FINAL_02_St.jpg
+alt: Интериор на дрешник
+text:
+:end
+
+Баня към спалня
+---------------
+
+columns: 2
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_haskovo_banya_spalnya_Final_01_KD.jpg
+position: 65%
+alt: Интериор на баня
+text:
+## Интериор на **баня към спалня**
+За разлика от спалнята, тук таванът е с минималистичен дизайн, за сметка на изобилието от аристократични жилки по италианския гранитогрес, реинтерпретиращ естетиката на карарския мрамор. Душ зоната обособихме като отделен остров на блаженото отпускане, “скрит” зад прозрачно стъкло, а всъщност изкушаващ с уюта на дървесните шарки по пода и едната стена.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_haskovo_banya_spalnya_Final_04_KD.jpg
+alt: Интериор на баня
+text:
+:end
+
+Мокро и тоалетна
+----------------
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_haskovo_Sklad_Mokro_Final_01_KD.jpg
+position: 49%
+alt: Интериор на мокро помещение
+text:
+## Интериор на **мокро помещение**
+Шкаф от бяло ПДЧ и светъл гранитогрес с имитация на дървесен фладер осигуряват функционалност и практична организираност между стените на този импровизиран склад.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et1_WC_FINAL_01_St.jpg
+alt: Интериор на тоалетна
+text:
+## Интериор на **тоалетна**
+Под с имитация на дърво използвахме и в тоалетната на първия етаж. За стените избрахме гранитогресни плочки с мраморен ефект, чиято елегантност подчертахме с осветлението от опънатия таван и шкафа от МДФ фурнир байц с плот от технически камък. Идеалният баланс между уют и грация!
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/buzov-haskovo/Marketing/Concept/Buzov_Haskovo_Et1_WC_FINAL_02_St.jpg
+alt: Интериор на тоалетна
+text:
+:end
