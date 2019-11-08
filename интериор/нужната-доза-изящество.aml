@@ -1,0 +1,206 @@
+layout: /v2/blog/magazine.ect
+title: Нужната доза (изящество)
+description: Нежна, красива, топла. Такава е прегръдката на домашния комфорт, която ни посреща, щом обуем меките пантофи. Нейните млечно-шоколадови нюанси, сияние от светлини и дървесен уют ни карат да се чувстваме на най-сигурното място на света. Толкова сигурно, че е съхранило скъпоценни интериорни бижута, като класическите декоративни профили, ювелирните полилеи и италианския стил мазилки.
+author: Петра Денчева
+date: 2019-11-08
+cover: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_07_N.jpg
+firstPage: true
+tags: private, classic
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_07_N.jpg
+alt: Интериорен дизайн на хол
+text:
+# Нужната доза **изящество**
+## Модерна класика, постигната с деликатен контраст между **млечни и шоколадови тонове**
+Нежна, красива, топла. Такава е прегръдката на домашния комфорт, която ни посреща, щом обуем меките пантофи. Нейните млечно-шоколадови нюанси, сияние от светлини и дървесен уют ни карат да се чувстваме на най-сигурното място на света. Толкова сигурно, че е съхранило скъпоценни интериорни бижута, като класическите декоративни профили, ювелирните полилеи и италианския стил мазилки. 
+:end
+
+Хол
+------
+
+columns: 3
+style: overlay 
+tags: livingroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_01_N.jpg
+alt: Интериор на хол
+text:
+## Интериорен дизайн на **хол**
+Островът на уюта във всекидневната обособихме с млечните тонове на шаги килима, покрил ламината тук, и на ъгловия диван с луксозна тапицерия и подвижни облегалки за глава. Скритото осветление в окачения таван с акцентен декоративен фриз в контрастен цвят подсилва усещането за ефирна елегантност, което е в пълна хармония с ламперията от матов МДФ. Нейните огледални повърхности оптически разширяват преходното пространство между отделните зони на отворения план и добавят изящество в тон с полилеите на трапезарията.
+:end
+
+columns: 2
+style: overlay 
+tags: livingroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_02_N.jpg
+alt: Интериор на всекидневна
+text:
+В очертанията на хола успяхме да поберем и удобен работен кът, сливащ се с шоколадовите нюанси на ТВ шкафа и холната маса от МДФ фурнир с байц покритие. Дървесните шарки подредихме в геометрични мотиви, които получават подчертано внимание благодарение на осветлението, скрито в светлата ламперия от матов МДФ. Нужната доза изящество добавихме с помощта на стенна мазилка с кадифен ефект, която, заедно с елегантните аплици, напомня за престижа на бляскавите зали и салони.
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_03_N.jpg
+alt: Интериор на дневна
+text:
+:end
+
+Трапезария
+----------
+
+columns: 3
+style: overlay 
+tags: kitchen
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_08_N.jpg
+alt: Интериор на трапезария
+text:
+## Мебели в **трапезария**
+Трапезната маса, която спокойно побира цялото семейство и гостите, е поръчкова изработка от МДФ боя мат. Сливането ѝ с цвета на лампериите в двата края на всекидневната позволява на столовете да изпъкнат със своите класически извивки и дамаска с капитониране. 
+:end
+
+Кухня
+-----
+
+columns: 1
+style: overlay 
+tags: kitchen
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_09_N.jpg
+alt: Интериор на кухня
+text:
+## Вътрешен дизайн на **кухня**
+Кухнята е своеобразен остров на готвенето със своя работен плот, разгърнат в три посоки и включващ кухненския бар към трапезарията. Но и тук изяществото не е за сметка на комфорта. Компания на италианския стил мазилка по една от стените прави италианският гранитогрес по пода.
+:end
+
+columns: 1
+style: overlay 
+tags: kitchen
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_10_N.jpg
+alt: Интериор на кухня
+text:
+Плотът и гърбът от технически камък са подбрани в нюанса на кухненските шкафове от МДФ боя мат, в които вградихме кухненското оборудване на фона на врати с изчистен дизайн и изящни дръжки.
+:end
+
+columns: 1
+style: overlay 
+tags: kitchen
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_11_N.jpg
+alt: Интериор на кухня
+text:
+:end
+
+Спалня
+-------
+
+columns: 2
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_01_N.jpg
+alt: Интериор на спалня
+text:
+## Обзавеждане на **спалня**
+Към основната комбинация от бяло и шоколадово, подсилена от избора на ламинат в по-тъмен цвят, добавихме елегантното излъчване на сребристо сивото. То е главен герой в текстилните елементи, но си партнира с водещата палитра и като част от МДФ ламперията по стените.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_03_N.jpg
+alt: Интериор на спалня
+text:
+Придадохме ѝ класически стил с декоративните стенни профили в цвят, които пренесохме и по вратите на гардеробите и нощните шкафчета от МДФ боя мат. Изящният дизайн на аплиците и съчетанието между основен и окачен таван с акцентни кантове и осветление също допринасят за класическата атмосфера в интериора тук.
+:end
+
+Баня
+-----
+
+columns: 1
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Banya_FINAL_01_N.jpg
+alt: Интериор на баня
+text:
+## Интериор на **баня**
+Изчистеният дизайн на шкафа от бяло PVC и на умивалника, монтиран върху плота от бял технически камък, позволяват да се открои блестящият ефект на 3D плочките в карамелен нюанс зад огледалото. Гранитогресът с дървесни шарки внася нужната доза уют в изисканото пространство пред и зад преградното прозрачно стъкло на душ зоната.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Banya_FINAL_02_N.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: bathroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Banya_FINAL_04_N.jpg
+alt: Интериор на баня
+text:
+Нишата оставихме с прозрачни рафтове, за да акцентираме върху гърба от още един вид 3D плочки, отново с лек перлен ефект, които проследяват и линията на душа.
+:end
+
+Детска
+-------
+
+columns: 3
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Detska_KD_01.jpg
+alt: Интериор на детска 
+text:
+## Мебели в **детска стая**
+Нежни, пастелни тонове и дървесни шарки са идеалната комбинация за вдъхване на спокойствие и уют в интериора. Особено когато шкафовете от МДФ фурнир байц са снабдени с допълнително осветление, а в нишите се редуват акценти в ярък слънчев цвят и в отличителното за тази детска тюркоазено. Дървесното спокойствие на фурнира избрахме и за леглото тип сандвич с ракла и втори матрак.  
+:end
+
+columns: 2
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Detska_KD_02.jpg
+alt: Интериор на детска 
+text:  
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Detska_KD_03.jpg
+alt: Интериор на детска 
+text:
+И понеже детската не може без забавления, предвидихме кът за видео игри при шкафа под бюрото, изработено, както и гардероба, от МДФ боя гланц в млечнокремавия цвят на латекса по стените.
+:end
+
+Антре
+------
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Antre_FINAL_01_N.jpg
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Всичко, което е отличително за интериора на този изящен, но и уютен дом, прави грациозен реверанс за посрещане на скъпи гости още с отварянето на входната врата, край която побрахме удобен кът с меко сядане и закачалки, изработен от МДФ фурнир с байц покритие.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Antre_FINAL_02_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Antre_FINAL_06_N.jpg
+alt: Интериор на антре
+text:
+Тук са и плочките гранитогрес, познати от кухненския под, и осветителните тела с кристални елементи, и италианския стил мазилка с блестящ ефект, и огледалната ламперия, и декоративните профили на тавана. Нужната доза изящество в един модерен свят, създаден с нежност и любов.
+:end
