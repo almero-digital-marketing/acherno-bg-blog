@@ -13,6 +13,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_07_N.jpg
+position: 50%
 alt: Интериорен дизайн на хол
 text:
 # Нужната доза **изящество**
@@ -27,6 +28,7 @@ columns: 3
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_01_N.jpg
+position: 50%
 alt: Интериор на хол
 text:
 ## Интериорен дизайн на **хол**
@@ -43,7 +45,7 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: livingroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_03_N.jpg
 position: 55%
@@ -78,12 +80,11 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kitchen
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_10_N.jpg
 alt: Интериор на кухня
 text:
-Плотът и гърбът от технически камък са подбрани в нюанса на кухненските шкафове от МДФ боя мат, в които вградихме кухненското оборудване на фона на врати с изчистен дизайн и изящни дръжки.
 :end
 
 columns: 1
@@ -92,13 +93,14 @@ tags: kitchen
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Hol_FINAL_11_N.jpg
 alt: Интериор на кухня
 text:
+Плотът и гърбът от технически камък са подбрани в нюанса на кухненските шкафове от МДФ боя мат, в които вградихме кухненското оборудване на фона на врати с изчистен дизайн и изящни дръжки.
 :end
 
 Спалня
 -------
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_01_N.jpg
 alt: Интериор на спалня
@@ -107,11 +109,32 @@ text:
 Към основната комбинация от бяло и шоколадово, подсилена от избора на ламинат в по-тъмен цвят, добавихме елегантното излъчване на сребристо сивото. То е главен герой в текстилните елементи, но си партнира с водещата палитра и като част от МДФ ламперията по стените.
 :end
 
+columns: 2
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_02_N.jpg
+position: 58%
+alt: Интериор на спалня
+text:
+## Обзавеждане на **спалня**
+Към основната комбинация от бяло и шоколадово, подсилена от избора на ламинат в по-тъмен цвят, добавихме елегантното излъчване на сребристо сивото. То е главен герой в текстилните елементи, но си партнира с водещата палитра и като част от МДФ ламперията по стените.
+:end
+
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bedroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_03_N.jpg
 position: 30%
+alt: Интериор на спалня
+text:
+Придадохме ѝ класически стил с декоративните стенни профили в цвят, които пренесохме и по вратите на гардеробите и нощните шкафчета от МДФ боя мат. Изящният дизайн на аплиците и съчетанието между основен и окачен таван с акцентни кантове и осветление също допринасят за класическата атмосфера в интериора тук.
+:end
+
+columns: 1
+style: overlay mobile
+tags: bedroom
+image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Spalnya_FINAL_01_N.jpg
+position: 100%
 alt: Интериор на спалня
 text:
 Придадохме ѝ класически стил с декоративните стенни профили в цвят, които пренесохме и по вратите на гардеробите и нощните шкафчета от МДФ боя мат. Изящният дизайн на аплиците и съчетанието между основен и окачен таван с акцентни кантове и осветление също допринасят за класическата атмосфера в интериора тук.
@@ -154,6 +177,7 @@ columns: 3
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Detska_KD_01.jpg
+position: 75%
 alt: Интериор на детска 
 text:
 ## Мебели в **детска стая**
@@ -172,6 +196,7 @@ columns: 1
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Detska_KD_03.jpg
+position: 48%
 alt: Интериор на детска 
 text:
 И понеже детската не може без забавления, предвидихме кът за видео игри при шкафа под бюрото, изработено, както и гардероба, от МДФ боя гланц в млечнокремавия цвят на латекса по стените.
@@ -204,5 +229,5 @@ tags: other
 image: http://projects.acherno.int/zhelyo-stara-zagora/Marketing/Concept/Zhelyo_Stara_Zagora_Antre_FINAL_06_N.jpg
 alt: Интериор на антре
 text:
-Тук са и плочките гранитогрес, познати от кухненския под, и осветителните тела с кристални елементи, и италианския стил мазилка с блестящ ефект, и огледалната ламперия, и декоративните профили на тавана. Нужната доза изящество в един модерен свят, създаден с нежност и любов.
+Тук са и плочките гранитогрес, познати от кухненския под, и осветителните тела с кристални елементи, и италианският стил мазилка с блестящ ефект, и огледалната ламперия, и декоративните профили на тавана. Нужната доза изящество в един модерен свят, създаден с нежност и любов.
 :end
