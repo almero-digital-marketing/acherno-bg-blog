@@ -13,6 +13,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Hol_FINAL_06_St.jpg
+position: 50%
 alt: Интериорен дизайн на хол
 text:
 # Щастие и уют **по датски**
@@ -27,6 +28,7 @@ columns: 3
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Hol_FINAL_05_St.jpg
+position: 68%
 alt: Интериор на хол
 text:
 ## Интериорен дизайн на **хол**
@@ -37,6 +39,7 @@ columns: 0
 style: overlay 
 tags: livingroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Hol_FINAL_03_St.jpg
+position: 50%
 alt: Интериор на всекидневна
 text:
 Стената към антрето и кухнята покрихме с материалите, използвани за съответните помещения&nbsp;– комбинация от ПДЧ в бяло и HPL с дървесни шарки, които са в тон със светлия дъбов паркет, подреден диагонално за визуално разширяване на пространството. От същите материали е и изработената по проект холна секция с отворени и затворени обеми.
@@ -49,6 +52,7 @@ columns: 2
 style: overlay 
 tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Terasa_Hol_Final_KD_03.jpg
+position: 65%
 alt: Обзавеждане на тераса
 text:
 ## Обзавеждане на **тераса към хол**
@@ -59,7 +63,7 @@ columns: 1
 style: overlay 
 tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Terasa_Hol_Final_KD_05.jpg
-position: 50%
+position: 45%
 alt: Обзавеждане на тераса
 text:
 Край поръчковата ламперия от лиственица, която предоставя възможност и за вертикално озеленяване, предвидихме място за окачване на излишните сгъваеми столове. Первазите са усвоени с възглавници за меко сядане, а в дъното на стеснената част успяхме да обособим и зона за барбекю.
@@ -85,6 +89,7 @@ columns: 1
 style: overlay 
 tags: kitchen
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Hol_FINAL_10_St.jpg
+position: 100%
 alt: Интериор на кухня
 text:
 ## Вътрешен дизайн на **кухня**
@@ -132,6 +137,7 @@ columns: 2
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Detska01_Final_KD_04.jpg
+position: 40%
 alt: Интериор на спалня
 text:
 Светлите дъбови шарки на паркета създават усещането за още по-светло помещение, но вечер, когато естествената светлина приключи играта си по пода, е ред на лампите с винтидж дизайн да изгонят мрака от всяко ъгълче на стаята.
@@ -144,6 +150,7 @@ columns: 3
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_valchanov_Detska2_Final_KD_01.jpg
+position: 28%
 alt: Обзавеждане на детска стая
 text:
 ## Интериорен дизайн **детска**
@@ -154,6 +161,7 @@ columns: 1
 style: overlay 
 tags: bedroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_valchanov_Detska2_Final_KD_03.jpg
+position: 100%
 alt: Обзавеждане на детска стая
 text:
 Стъпалата, образувани от етажирането на раклата и шкафовете зад леглото, отвеждат малките обитатели на гората до короните на дърветата. Или в случая, до втория етаж на леглото от МДФ фурнир с байц покритие и ламинирано ПДЧ в  бяло и зелен лайм. 
@@ -194,11 +202,11 @@ tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Terasa_Spalni_FINAL_02_St.jpg
 alt: Обзавеждане на тераса
 text:
-Кашпите и външният шкаф отново са изработени по поръчка с идеята, без никакви излишни детайли, да допринесат максимално за естествения уют високо над града.
+Кашпите, пейката и външният шкаф отново са изработени по поръчка с идеята, без никакви излишни детайли, да допринесат максимално за естествения уют високо над града.
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Terasa_Spalni_FINAL_05_St.jpg
 position: 60%
@@ -213,6 +221,7 @@ columns: 1
 style: overlay 
 tags: bathroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Banya_Obshta_FINAL_01_AA.jpg
+position: 50%
 alt: Интериор на баня
 text:
 ## Интериор на **баня**
@@ -243,6 +252,7 @@ columns: 3
 style: overlay 
 tags: bedroom
 image:http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchev_Spalnya_FINAL_02_N.jpg
+position: 43%
 alt: Обзавеждане на спалня
 text:
 ## Мебели в **спалня**
@@ -259,7 +269,7 @@ text:
 :end
 
 columns: 2
-style: overlay 
+style: overlay desktop
 tags: bedroom
 image:http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchev_Spalnya_FINAL_05_N.jpg
 alt: Обзавеждане на спалня
@@ -274,6 +284,7 @@ columns: 2
 style: overlay 
 tags: bathroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Banya_Spalnya_FINAL_01_St.jpg
+position: 43%
 alt: Интериор на баня
 text:
 ## Интериор на **баня към спалня**
@@ -284,14 +295,14 @@ columns: 1
 style: overlay 
 tags: bathroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Banya_Spalnya_FINAL_03_St.jpg
-position: 50%
+position: 45%
 alt: Интериор на баня
 text:
 Обличането на асиметричната ъглова вана е с технически камък, който използвахме и за пода и прага на душа, както и за плота между умивалника и шкафа от бяло PVC.
 :end
 
 columns: 3
-style: overlay 
+style: overlay desktop
 tags: bathroom
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Banya_Spalnya_FINAL_04_St.jpg
 alt: Интериор на баня
@@ -305,6 +316,7 @@ columns: 1
 style: overlay 
 tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Antre_FINAL_01_St.jpg
+position: 50%
 alt: Интериор на антре
 text:
 ## Дизайн на **баня към антре**
@@ -315,6 +327,7 @@ columns: 1
 style: overlay 
 tags: other
 image: http://projects.acherno.int/dimitar-valchanov/Marketing/Concept/Dimitar_Valchanov_Antre_FINAL_04_St.jpg
+position: 10%
 alt: Интериор на антре
 text:
 Укротихме този творчески хаос в отражението на огледалото със семпъл дизайн и рамка от МДФ боя мат. И му придадохме завършеност, като повторихме мотива и във вратата към всекидневната, където креативният прочит на възможните комбинации в скандинавския дизайн тепърва предстои.
