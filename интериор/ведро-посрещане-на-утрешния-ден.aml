@@ -1,0 +1,170 @@
+---
+layout: /v2/blog/magazine.ect
+title: (Ведро посрещане) на утрешния ден
+description: Може ли светлината да бъде главният герой в сянка? Отговорът потърсихме на фона на модерен микс от изчистен дизайн, контраст между неутрални цветове в топло-студената гама на млечнобялото и бетонносивото и ефектни хромирани и огледални повърхности, които да отразяват светлината, сияеща от неочаквани кътчета на дома.
+author: Петра Денчева
+date: 2019-11-19
+cover: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Spalnya_KD_01.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Spalnya_KD_01.jpg
+position: 50%
+alt: Мебели в хол
+text:
+# **Ведро посрещане** на утрешния ден
+## Дървесен уют и нежна сметана в компанията на **модерни акценти с блясък** 
+Може ли светлината да бъде главният герой в сянка? Отговорът потърсихме на фона на модерен микс от изчистен дизайн, контраст между неутрални цветове в топло-студената гама на млечнобялото и бетонносивото и ефектни хромирани и огледални повърхности, които да отразяват светлината, сияеща от неочаквани кътчета на дома.
+:end
+
+Спалня
+--------
+
+columns: 2
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Spalnya_KD_02.jpg
+position: 65%
+alt: Мебели в спалня
+text:
+## Интериорен дизайн на **спалня**
+През деня естествената светлина навлиза безпрепятствено през панорамния прозорец и вратата към терасата в спалнята, за да огрее палисандровия масив по пода и шарките на американския орех по ламперията. Вечер е ред на допълнителното осветление, скрито в тавана и стенните ниши от дървесен МДФ фурнир, да подчертае нежния нюанс на мебелите от МДФ мат и да се заиграе с отражението си в огледалните лайсни на ламперията.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Spalnya_KD_05.jpg
+position: 30%
+alt: Мебели в спалня
+text:
+:end
+
+Хол
+-----
+
+columns: 3
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_01.jpg
+position: 65%
+alt: Интериор на хол
+text:
+## Обзавеждане на **хол**
+Ламперията от ПДЧ, имитираща светъл бетон, снабдихме с алуминиеви LED профили, за да внесем светлина и във вътрешната част на стаята, а и за да акцентираме пространството за хранене. Нюансите на сивото също ни помогнаха да зонираме отделните кътчета. 
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_05.jpg
+position: 50%
+alt: Интериор на хол
+text:
+Това на всекидневната обособихме с по-светлите тонове на кожената дамаска на дивана, килима и ТВ шкафа от МДФ мат, докато за трапезарията се спряхме на столове от кожа и маса с керамичен плот в по-тъмен нюанс. 
+:end
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_03.jpg
+position: 70%
+alt: Интериор на хол
+text:
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_07.jpg
+position: 55%
+alt: Интериор на кухня
+text:
+## Мебели в **кухня**
+Преходът между всекидневната и кухнята е по-категоричен, осъществен с помощта на плочките в елегантно бяло и мебелите от МДФ мат, изчистени от всякакви видими детайли. Бетонното излъчване на сивото запазихме само в плота и гърба от технически камък, подчертан навсякъде с допълнително осветление. 
+:end
+
+columns: 1
+style: overlay desktop
+tags: kitchen 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_08.jpg
+alt: Интериор на кухня
+text: 
+:end
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Hol_KD_09.jpg
+alt: Интериор на кухня
+text:
+Два реда външни луни за вграждане с тяло от хром добавят още блясък към светлата кухня.
+:end
+
+Антре
+------
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_01.jpg
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Антрето синтезира в максимално сбит вид интериорните решения от всички части на дома. Тук са и дървесните шарки на американския орехов фурнир, и бежовата нежност на мебелите от МДФ мат, и елегантните плочки от кухнята и банята, и акцентите в хром и светлина. И като казахме “светлина”, над антрето тя е впечатляващо ефирна и мека, благодарение на опънатия, светещ в бяло таван.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_03.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_05.jpg
+alt: Интериор на антре
+text:
+:end
+
+Баня
+------
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Bnaya_FINAL_01_AA.jpg
+alt: Интериор на баня
+text:
+## Вътрешен дизайн на **баня**
+В ограниченото пространство на банята мястото на дървесните шарки е само по вратата. Всичко от нея нататък, прелива от бяло към нежни кремави нюанси, за да позволи на погледа да усеща повече простор. За това се грижат и огедалото с LED и подгряване, и прозрачната стъклена преграда на душа.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Bnaya_FINAL_03_AA.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_kirilova_Mokro_01_FINAL_AA.jpg
+alt: Интериор на мокро помещение
+text:
+## Интериор на **мокро помещение**
+Скрито от любопитни погледи, това кътче на дома е максимално организирано и подредено, благодарение на шкафовете от ПДЧ, единият от които снабдихме с колела, както и на закачалките за вертикално усвояване на пространството.
+:end
