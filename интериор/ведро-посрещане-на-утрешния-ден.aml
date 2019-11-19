@@ -115,7 +115,7 @@ text:
 columns: 1
 style: overlay 
 tags: other 
-image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_01.jpg
+image: 
 alt: Интериор на антре
 text:
 ## Интериор на **антре**
@@ -123,9 +123,9 @@ text:
 :end
 
 columns: 1
-style: overlay desktop
+style: overlay 
 tags: other 
-image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_03.jpg
+image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Antre_KD_01.jpg
 alt: Интериор на антре
 text:
 :end
@@ -147,8 +147,6 @@ tags: other
 image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_Kirilova_Bnaya_FINAL_01_AA.jpg
 alt: Интериор на баня
 text:
-## Вътрешен дизайн на **баня**
-В ограниченото пространство на банята мястото на дървесните шарки е само по вратата. Всичко от нея нататък, прелива от бяло към нежни кремави нюанси, за да позволи на погледа да усеща повече простор. За това се грижат и огедалото с LED и подгряване, и прозрачната стъклена преграда на душа.
 :end
 
 columns: 1
@@ -162,9 +160,8 @@ text:
 columns: 1
 style: overlay 
 tags: other 
-image: http://projects.acherno.int/teodora-kirilova/Marketing/Concept/Teodora_kirilova_Mokro_01_FINAL_AA.jpg
 alt: Интериор на мокро помещение
 text:
-## Интериор на **мокро помещение**
-Скрито от любопитни погледи, това кътче на дома е максимално организирано и подредено, благодарение на шкафовете от ПДЧ, единият от които снабдихме с колела, както и на закачалките за вертикално усвояване на пространството.
+## Вътрешен дизайн на **баня**
+В ограниченото пространство на банята мястото на дървесните шарки е само по вратата. Всичко от нея нататък, прелива от бяло към нежни кремави нюанси, за да позволи на погледа да усеща повече простор. За това се грижат и огедалото с LED и подгряване, и прозрачната стъклена преграда на душа.
 :end
