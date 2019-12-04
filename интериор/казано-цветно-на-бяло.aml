@@ -1,0 +1,210 @@
+---
+layout: /v2/blog/magazine.ect
+title: Казано (цветно на бяло)
+description: Идейният интериор, запомнящият се интериор, интериорът, за който гостите си казват “Как са се сетили”, е онзи, който изненадва на всеки ъгъл с решенията си. Той не разчита на познатите дотук комбинации. Нито се задоволява със стандартните материали, форми и технологии. За него значение имат две неща: да е интересен и да е практичен. Добавяме от нас: “И да е стилен!”
+author: Петра Денчева
+date: 2019-12-04
+cover: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_07_N.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_07_N.jpg
+alt: Мебели в хол
+text:
+# Казано **цветно на бяло**
+## Запомнящ се интериор на къща с **ярки акценти и дървесен уют** 
+Идейният интериор, запомнящият се интериор, интериорът, за който гостите си казват “Как са се сетили”, е онзи, който изненадва на всеки ъгъл с решенията си. Той не разчита на познатите дотук комбинации. Нито се задоволява със стандартните материали, форми и технологии. За него значение имат две неща: да е интересен и да е практичен. Добавяме от нас: “И да е стилен”. И се залавяме да му придадем слънчевото настроение на тази къща сред природата и с гледка към града.
+:end
+
+Всекидневна
+-----------
+
+columns: 3
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_01_N.jpg
+alt: Мебели в хол
+text:
+## Интериорен дизайн на **всекидневна**
+Отвореният план на всекидневната създава усещането за споделеност и приветливост, без да лишава и от варианти за уединение с помощта на ъгловото разположение  и зонирането чрез колоната и отделните мебели. В холната част срещаме скандинавския дизайн на меката мебел с модерното лофт излъчване на помощните масички и добавяме цвят с шарките на килима, които пренасят върху текстил благородните жилки на мрамора.
+:end
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_06_N.jpg
+alt: Мебели в хол
+text:
+Срещата между модерната градска нахаканост на метала в черен мат и скандинавския уют на комбинацията от сиви и дървесни мотиви продължава и в ТВ зоната, където шкафът от мангово дърво си партнира с дъбовите шарки на ПДЧ ламперията и поръчковите секции от сив МДФ мат. 
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_05_N.jpg
+position: 80%
+alt: Мебели в хол
+text:
+Вратата по поръчка от метал и стъкло подчертаваме с МДФ каса в контрастен на стенния латекс цвят.
+:end
+
+Трапезария
+----------
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_03_N.jpg
+alt: Интериор на трапезария
+text:
+## Обзавеждане на **трапезария**
+Дървесни и сиви тонове оформят вълнуващ релакс кът край камината, която сме облекли с перфориран гипсокартон, покрит със сив латекс. Перфорираните плоскости съдържат в гипсовото си ядро естествени минерали с вулканичен произход и специални свойства да разграждат вредни вещества, неутрализирайки миризми, бактерии и летливи органични съединения, което ги прави чудесна добавка към 3-странната камина по поръчка. Съчетаваме уюта ѝ с комфорта на матирания италиански гранитогрес, който успешно имитира под от дърво.
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_08_N.jpg
+position: 50%
+alt: Интериор на трапезария
+text:
+Трапезарията все по-смело заявява слънчевото настроение на дома. Към трите акцентни стола в жълто добавяме кресла с подлакътници, отново с букови крака, както и ефектно осветително тяло, висящо над масата. Поръчковата врата от метал и стъкло, заедно с шкафа от мангово дърво, е препратка към стила на хола и стилен преход към още по-слънчевата кухня.
+:end
+
+Кухня
+------
+
+columns: 3
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_03_N.jpg
+alt: Интериор на кухня
+text:
+## Мебели в **кухня**
+Избягахме от очакваната комбинация с цветни мебели на фона на бели стени. Тук бели са не стените, част които покрихме със слънчево жълт лакобел, а кухненските столове и уреди - аспираторът с електронно управление и дисплей, керамичните котлони, както и фурната и микровълновата, вградени в мебелите от сив МДФ мат и дървесно ПДЧ.
+:end
+
+columns: 2
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_04_N.jpg
+alt: Интериор на кухня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_06_N.jpg
+alt: Интериор на кухня
+text:
+:end
+
+Антре
+------
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_05_N.jpg
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Нотки скандинавски минимализъм оформят най-уютния кът от антрето. В него залагаме на ламперия с декоративни ребра от дъбово ПДЧ, която обхваща и част от тавана. В зоната за сядане с дамаска в неутрално сиво акцентираме поставката за вещи чрез МДФ с по-светло сиво матово покритие, което е в тон с гардероба със странични отворени обеми от дървесно ПДЧ.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_02_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_03_N.jpg
+alt: Интериор на антре
+text:
+Отсрещната стена превръщаме в спектакъл с помощта на релсовото спот осветление, което си партнира с металните детайли в черно, открояващи се върху жълтия латекс.
+:end
+
+Спалня
+------
+
+columns: 3
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Spalnya_FINAL_01_St.jpg
+alt: Интериор на спалня
+text:
+## Вътрешен дизайн на **спалня**
+Една стена, две ламперии и ето че пространството изглежда по-голямо и разчупено, което подчертаваме и с избора на два различни вида осветление за отделните зони&nbsp;– стоящо и висящо. Зад винтидж лампиона поставяме дървена ламперия от МДФ фурнир с прорези през 1 см, а зад спалнята ламперията от матов МДФ с черна подлепка като основа успешно вписва в интериора и тапетната врата.
+:end
+
+columns: 3
+style: overlay mobile
+tags: bedroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Spalnya_FINAL_02_St.jpg
+alt: Интериор на спалня
+text:
+## Вътрешен дизайн на **спалня**
+Една стена, две ламперии и ето че пространството изглежда по-голямо и разчупено, което подчертаваме и с избора на два различни вида осветление за отделните зони&nbsp;– стоящо и висящо. Зад винтидж лампиона поставяме дървена ламперия от МДФ фурнир с прорези през 1 см, а зад спалнята ламперията от матов МДФ с черна подлепка като основа успешно вписва в интериора и тапетната врата.
+:end
+
+columns: 2
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Spalnya_FINAL_04_St.jpg
+alt: Интериор на спалня
+text:
+Сив МДФ с матово покритие, дървесно ПДЧ и черен мат чертаят геометрията на помощния шкаф, който е по-голяма версия на нощните шкафчета. Механизма за завесите скриваме в шлица над прозореца, а този за плъзгащите врати към дрешника подчертаваме с черна релса на фона на белия латекс.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Dreshnik_Spalnya_FINAL_05_St.jpg
+alt: Интериор на дрешник
+text:
+## Интериор на дрешник
+Отворените обеми от бяло ПДЧ осветяваме с вградени LED ленти и към тях добавяме изтеглящ се рафт и огледални врати, за да усвоим по практичен и стилен начин пространството за съхранение.
+:end
+
+Баня
+-----
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Banya_Final_07_KD.jpg
+alt: Интериор на баня
+text:
+## Интериорен дизайн на баня
+Гранитогресът с графични мотиви в дървесни цветове отмъква главната роля в банята под носа на хидромасажната вана, която позиционираме зад прозрачното преградно стъкло. Огледалото над мивката крие допълнително осветление, а шкафът от бяло ПВЦ практично подрежда всичко необходимо далеч от любопитните погледи.
+:end
+
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Banya_Final_08_KD.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_WC_01_KDN.jpg
+alt: Интериор на баня
+text:
+## Интериор на тоалетна
+Придаваме изтънченост и на най-малкото санитарно помещение с ПВЦ плот в черен графит и овални огледала и умивални, а декорните плочки сглобяваме в нежна флорална картина, с която украсяваме и пода.
+:end
