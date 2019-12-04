@@ -14,6 +14,7 @@ columns: 0
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_07_N.jpg
+position: 55%
 alt: Мебели в хол
 text:
 # Казано **цветно на бяло**
@@ -28,9 +29,10 @@ columns: 3
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_01_N.jpg
+position: 50%
 alt: Мебели в хол
 text:
-## Интериорен дизайн на **всекидневна**
+## Интериорен дизайн на **хол**
 Отвореният план на всекидневната създава усещането за споделеност и приветливост, без да лишава и от варианти за уединение с помощта на ъгловото разположение  и зонирането чрез колоната и отделните мебели. В холната част срещаме скандинавския дизайн на меката мебел с модерното лофт излъчване на помощните масички и добавяме цвят с шарките на килима, които пренасят върху текстил благородните жилки на мрамора.
 :end
 
@@ -38,6 +40,7 @@ columns: 2
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_06_N.jpg
+position: 75%
 alt: Мебели в хол
 text:
 Срещата между модерната градска нахаканост на метала в черен мат и скандинавския уют на комбинацията от сиви и дървесни мотиви продължава и в ТВ зоната, където шкафът от мангово дърво си партнира с дъбовите шарки на ПДЧ ламперията и поръчковите секции от сив МДФ мат. 
@@ -60,6 +63,7 @@ columns: 2
 style: overlay 
 tags: livingroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Hol_FINAL_03_N.jpg
+position: 60%
 alt: Интериор на трапезария
 text:
 ## Обзавеждане на **трапезария**
@@ -83,6 +87,7 @@ columns: 3
 style: overlay 
 tags: kitchen 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_03_N.jpg
+position: 45%
 alt: Интериор на кухня
 text:
 ## Мебели в **кухня**
@@ -93,12 +98,13 @@ columns: 2
 style: overlay 
 tags: kitchen 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_04_N.jpg
+position: 55%
 alt: Интериор на кухня
 text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: kitchen 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Kuhnya_FINAL_06_N.jpg
 alt: Интериор на кухня
@@ -109,9 +115,9 @@ text:
 ------
 
 columns: 1
-style: overlay desktop
+style: overlay 
 tags: other 
-image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_05_N.jpg
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_02_N.jpg
 alt: Интериор на антре
 text:
 ## Интериор на **антре**
@@ -119,9 +125,9 @@ text:
 :end
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: other 
-image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_02_N.jpg
+image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Koridor_FINAL_05_N.jpg
 alt: Интериор на антре
 text:
 :end
@@ -152,6 +158,7 @@ columns: 3
 style: overlay mobile
 tags: bedroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Spalnya_FINAL_02_St.jpg
+position: 40%
 alt: Интериор на спалня
 text:
 ## Вътрешен дизайн на **спалня**
@@ -192,7 +199,7 @@ text:
 
 
 columns: 1
-style: overlay 
+style: overlay desktop
 tags: bathroom 
 image: http://projects.acherno.int/boryana-dimitrova/Marketing/Concept/Boryana_Dimitrova_Banya_Final_08_KD.jpg
 alt: Интериор на баня
