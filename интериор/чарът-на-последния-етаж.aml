@@ -1,0 +1,334 @@
+---
+layout: /v2/blog/magazine.ect
+title: Чарът на (последния етаж)
+description: Ведри, лъчезарни, усмихнати. Такива са обитателите на този дом. Такъв е и самият той, със своите скандинавски препратки и уютни скосявания. С капандурите, през които нахлува изобилие от светлина. И с разположението си на последния етаж. Което ни предостави приятен повод да излезем от рамките и да докажем, че всеки компактен апартамент може да побере две бани, кабинет и дори дрешник!
+author: Петра Денчева
+date: 2019-12-16
+cover: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_10_N.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_10_N.jpg
+position: 70%
+alt: Мебели в хол
+text:
+# Чарът на **последния етаж**
+## **Скандинавски стил** с ярки акценти и практични решения
+Ведри, лъчезарни, усмихнати. Такива са обитателите на този дом. Такъв е и самият той, със своите скандинавски препратки и уютни скосявания. С капандурите, през които нахлува изобилие от светлина. И с разположението си на последния етаж. Което ни предостави приятен повод да излезем от рамките, да оцветим дните и нощите под покрива с интериор, предизвикващ усмивки, и да докажем, че всеки компактен апартамент може да побере две бани, кабинет и дори дрешник. Вижте как!
+:end
+
+Хол
+-----
+
+columns: 3
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_01_N.jpg
+position: 52%
+alt: Мебели в хол
+text:
+## Интериорен дизайн на **хол**
+Холната част от всекидневната с отворен план съчетава най-съществените елементи на уюта. Дървесните шарки на натуралния паркет и МДФ профила, шаги килимът в бяло, ярките акценти в декоративния текстил и лампионът от метал в матово жълто, добавянето на втори неутрален цвят при латекса за визуално разчупване на компактното пространство…  Всичко е посветено на усещането за едно комфортно и защитено пространство, в което уединението и комуникацията балансират като Ин и Ян, като белия мат и дървесния фурнир в холната маса, изработена по поръчка.
+:end
+
+columns: 2
+style: overlay desktop
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_03_N.jpg
+alt: Интериорен дизайн на хол
+text:
+Разбира се, при такова сгушено пространство, приоритет има максимално изчистеният дизайн на по-обемистите мебели. Холната секция не прави изключение от това правило, решена в бял мат за вратите без дръжки и в дървесен фурнир за ТВ нишата, подчертана с вградена LED лента.
+:end
+
+columns: 1
+style: overlay desktop
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_07_N.jpg
+position: 63%
+alt: Интериор на хол
+text: 
+:end
+
+columns: 1
+style: overlay mobile
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_07_N.jpg
+position: 63%
+alt: Интериор на хол
+text: Разбира се, при такова сгушено пространство, приоритет има максимално изчистеният дизайн на по-обемистите мебели. Холната секция не прави изключение от това правило, решена в бял мат за вратите без дръжки и в дървесен фурнир за ТВ нишата, подчертана с вградена LED лента.
+:end
+
+Трапезария
+-----------
+
+columns: 3
+style: overlay desktop
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_04_N.jpg
+alt: Интериор на трапезария
+text:
+## Мебели в **трапезария**
+Преходът към кухнята е своеобразна зона за хранене с поръчкова разтегателна маса и скандинавски стил столове с характерни дъбови крака. Със същия дизайн са и двата бар стола към кухненския остров в съседство, за които предвидихме скъсяване на краката, за да паснат като височина на плота, а също и на скосяването при второто ниво капандури.
+:end
+
+columns: 3
+style: overlay mobile
+tags: livingroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_03_N.jpg
+alt: Интериор на трапезария
+text:
+## Мебели в **трапезария**
+Преходът към кухнята е своеобразна зона за хранене с поръчкова разтегателна маса и скандинавски стил столове с характерни дъбови крака. Със същия дизайн са и двата бар стола към кухненския остров в съседство, за които предвидихме скъсяване на краката, за да паснат като височина на плота, а също и на скосяването при второто ниво капандури.
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_06_N.jpg
+position: 42%
+alt: Интериор на кухня
+text:
+## Обзавеждане на **кухня**
+Окъпана в естествена светлина през деня, зоната на кухнята носи усещането за простор дори и след залез слънце, благодарение на допълнителното вградено осветление, както и на минималистичния дизайн с превес на белия цвят.
+:end
+
+columns: 2
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Hol_FINAL_09_N.jpg
+position: 40%
+alt: Интериор на кухня
+text:
+:end
+
+Предверие
+----------
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Predverie_01_FINAL_AA.jpg
+position: 48%
+alt: Интериор на предверие
+text:
+## Интериор на **предверие**
+Рядко имаме възможността да облагородяваме пространството отвъд входната врата на жилищата, но когато го правим, държим да е със стил. В случая, превърнахме стълбищната площадка на последния етаж в приветливо предверие с мебели, изработени по проект от бяло ПДЧ и с акценти в текстила и латекса, съобразени с цвета на наличния гранитогрес.
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Antre_FINAL_02_N.jpg
+position: 48%
+alt: Интериор на антре
+text:
+## Вътрешен дизайн на **антре**
+От другата страна на вратата стъпките са по естествен паркет, в уютната компания на секция от шахматно подредени отворени и затворени обеми, на слънчево жълто, но и на ледено сиво, които мирно съжителстват с помощта на бял латекс и гардероб от бял мат. А зад бялата плъзгаща врата се е сгушил дървесният уют на мокрото помещение.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Antre_FINAL_07_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+Детска
+-------
+
+columns: 2
+style: overlay desktop
+tags: kidsroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Detska_02_KD.jpg
+alt: Интериор на детска
+text:
+## Интериорен дизайн на **детска**
+С какво да е изпъстрен тапетът над главата на един малък любител на приключенията, ако не в индиански типи палатки, лагерни огньове и далечни планини,гори, звезди! Негови верни приятели във въображаемите походи са любопитният лампион с регулируем абажур, раклата от бяло и дървесно ПДЧ, усвоила тайната ниша между пода и скосената стена, и удобният пуф, от който мама и татко четат приказките за “Лека нощ”.
+:end
+
+columns: 1
+style: overlay desktop
+tags: kidsroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Detska_03_KD.jpg
+position: 60%
+alt: Интериор на детска
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: kidsroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Detska_03_KD.jpg
+alt: Интериор на детска
+text:
+## Интериорен дизайн на **детска**
+С какво да е изпъстрен тапетът над главата на един малък любител на приключенията, ако не в индиански типи палатки, лагерни огньове и далечни планини,гори, звезди! Негови верни приятели във въображаемите походи са любопитният лампион с регулируем абажур, раклата от бяло и дървесно ПДЧ, усвоила тайната ниша между пода и скосената стена, и удобният пуф, от който мама и татко четат приказките за “Лека нощ”.
+:end
+
+columns: 3
+style: overlay 
+tags: kidsroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Detska_01_KD.jpg
+position: 25%
+alt: Интериор на детска
+text:
+Отсрещната стена добавя небесно синя шир под формата на ПДЧ ламперия, край която кътът за сядане по поръчка е приютил любими горски обитатели, маскирани като столове. Или беше обратното?
+:end
+
+Кабинет 
+--------
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Kabinet_FINAL_02_St.jpg
+position: 55%
+alt: Интериор на кабинет
+text:
+## Мебели в **кабинет**
+Работният кът за по-големите обитатели на дома предвижда повече място за сериозните задачи, но и той предлага кът за наслада на слънчевите лъчи, съзерцание през капандурата или уединение с книга в ръка. Библиотеката е от сив мат и дървесен фурнир, с отворени обеми за стилни акценти.
+:end
+
+columns: 2
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Kabinet_FINAL_03_St.jpg
+alt: Интериор на кабинет
+text:
+:end
+
+columns: 3
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Kabinet_FINAL_04_St.jpg
+position: 30%
+alt: Интериор на кабинет
+text:
+:end
+
+Баня обща
+----------
+
+columns: 2
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Banya_Obshta_01_KD.jpg
+position: 35%
+alt: Интериор на баня
+text:
+## Интериор на **баня**
+Два нюанса на луксозния сив гранитогрес ни помогнаха да създадем илюзията за по-просторна обща баня, в която уютът отново е тема номер едно благодарение на дървесната имитация при плочките по пода и едната стена. Скандинавският минимализъм пренесохме чрез изчистената форма на умивалника, монтиран върху плота, и чрез шкафа от матово бяло PVC с вкопани дръжки и PVC с дървесен принт, приравнен към нюанса на дървесния гранитогрес.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Banya_Obshta_04_KD.jpg
+alt: Интериор на баня
+text:
+:end
+
+Спалня
+------
+
+columns: 3
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Spalnya_FINAL_01_St.jpg
+position: 70%
+alt: Интериор на спалня
+text:
+## Обзавеждане на **спалня**
+Небесно синьо и слънчево жълто рисуват подпокривния простор на спалнята в скандинавски стил. Въпреки компактното пространство, тук има място не само за нощно шкафче и масичка за вещи, но и за гардероби и дори за още рафтове за съхранение, скрити зад плъзгащата се врата с огледало.
+:end
+
+columns: 2
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Spalnya_FINAL_03_St.jpg
+position: 70%
+alt: Интериор на спалня
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Spalnya_FINAL_09_St.jpg
+alt: Интериор на спалня
+text:
+:end
+
+Дрешник 
+--------
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Dreshnik_01_FINAL_AA.jpg
+position: 60%
+alt: Интериор на дрешник 
+text:
+:end
+
+columns: 1
+style: overlay mobile
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Dreshnik_01_FINAL_AA.jpg
+position: 60%
+alt: Интериор на дрешник 
+text:
+## Дизайн на **дрешник**
+Ето че стигаме и до дрешника, в който превърнахме малкото преходно коридорче пред спалнята. Бял и син латекс, в комбинация с мебели в бял мат и с вкопани дръжки с дървесен фурнир, и ето че всяка дреха е грижливо прибрана на мястото си.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: 
+alt: Интериор на дрешник 
+text:
+## Дизайн на **дрешник**
+Ето че стигаме и до дрешника, в който превърнахме малкото преходно коридорче пред спалнята. Бял и син латекс, в комбинация с мебели в бял мат и с вкопани дръжки с дървесен фурнир, и ето че всяка дреха е грижливо прибрана на мястото си.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Dreshnik_02_FINAL_AA.jpg
+position: 50%
+alt: Интериор на дрешник 
+text:
+:end
+
+
+Баня към спалня
+---------------
+
+columns: 2
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Banya_Spalnya_FINAL_01_St.jpg
+position: 37%
+alt: Интериор на баня 
+text:
+## Интериор на **баня към спалня**
+Банята на родителите им предлага лично уединение и уют, постигнат с дървесен гранитогрес. Но не ѝ липсва и стил, благодарение на акцентната мозайка и циментовия нюанс на втория гранитогрес. А също и на светлинната феерия, която идва от тавана с окачени луни и допълва слънчевите лъчи, които изпълват със смисъл чара на това, да живееш на последния етаж.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/zlateva-stara-zagora/Marketing/Concept/Zlateva_Stara_Zagora_Banya_Spalnya_FINAL_05_St.jpg
+alt: Интериор на баня 
+text:
+:end
