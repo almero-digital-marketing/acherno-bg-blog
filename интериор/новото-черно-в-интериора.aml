@@ -1,0 +1,189 @@
+---
+layout: /v2/blog/magazine.ect
+title: (Новото черно) в интериора
+description: Новото черно в интериора не е цвят. То е съчетание от цветове. А също и от форми, покрития и детайли, като понякога то значи и отсъствие на такива. Защото новото черно може да е много неща, но претрупването и орнаментиката определено не са му в стила. Вдъхновени от този нов прочит на минимализма, проектирахме интериор със семпъл дизайн и графични съчетания, който пасва на усещането за съвременния градски лукс.
+author: Петра Денчева
+date: 2020-01-07
+cover: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Hol_FINAL_01_St.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Hol_FINAL_01_St.jpg
+position: 65%
+alt: Мебели в хол
+text:
+# **Новото черно** в интериора
+## Графични контрасти, изчистени форми и **усещане за модерен лукс** 
+Новото черно в интериора не е цвят. То е съчетание от цветове. А също и от форми, покрития и детайли, като понякога то значи и отсъствие на такива. Защото новото черно може да е много неща, но претрупването и орнаментиката определено не са му в стила. Вдъхновени от този нов прочит на минимализма, проектирахме интериор със семпъл дизайн и графични съчетания, който пасва на усещането за съвременния градски лукс.
+:end
+
+Всекидневна
+-----------
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Hol_FINAL_02_St.jpg
+position: 35%
+alt: Мебели в хол
+text:
+## Интериорен дизайн на **хол**
+Нюанси на сивото и на светлината, естествена и вградена в тавана, оформят пространството за активна почивка. Тук водещият мотив е удобството, включително и за погледа, който безпрепятствено преминава по ламинирания паркет и по гланцовото покритие на мебелите и ламперията от МДФ. Използвахме същото покритие и за гърба на стенните ниши при трапезарията, решена в графичния контраст между бяло и сиво.
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Hol_FINAL_04_St.jpg
+alt: Мебели в хол
+text:
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay desktop
+tags: kitchen 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Kuhnya_FINAL_05_St.jpg
+alt: Интериор на кухня
+text:
+:end
+
+columns: 2
+style: overlay desktop
+tags: kitchen 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Kuhnya_FINAL_01_St.jpg
+alt: Интериор на кухня
+text:
+## Обзавеждане на **кухня**
+Този стил пренесохме и в кухнята, където мебелите отново са изчистени от излишни детайли, а допълнителното LED осветление подчертава отворения обем, открояващ се със стилно дарк излъчване.
+:end
+
+columns: 2
+style: overlay mobile
+tags: kitchen 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Kuhnya_FINAL_02_St.jpg
+alt: Интериор на кухня
+text:
+## Обзавеждане на **кухня**
+Този стил пренесохме и в кухнята, където мебелите отново са изчистени от излишни детайли, а допълнителното LED осветление подчертава отворения обем, открояващ се със стилно дарк излъчване.
+:end
+
+Спалня 2
+--------
+
+columns: 2
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Spalnya2_02_KD.jpg
+alt: Интериор на спалня
+text:
+## Вътрешен дизайн на **спалня**
+Всяко събуждане има нужда от светлина и стил, за да потръгне денят с усмивка. Затова в спалнята заложихме на нежни цветове за латекса и дамаската, както и на отразяващи светлината гланцови повърхности от МДФ за мебелите в бяло и сиво. Добавихме още блясък чрез декоративната мазилка зад телевизора, спот лампите, допълнителното осветление, вградено над ламперията от ПДЧ, и висящите абажури от хромирано стъкло.
+:end
+
+columns: 2
+style: overlay mobile
+tags: bedroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Spalnya2_03_KD.jpg
+position: 50%
+alt: Интериор на спалня
+text:
+## Вътрешен дизайн на **спалня**
+Всяко събуждане има нужда от светлина и стил, за да потръгне денят с усмивка. Затова в спалнята заложихме на нежни цветове за латекса и дамаската, както и на отразяващи светлината гланцови повърхности от МДФ за мебелите в бяло и сиво. Добавихме още блясък чрез декоративната мазилка зад телевизора, спот лампите, допълнителното осветление, вградено над ламперията от ПДЧ, и висящите абажури от хромирано стъкло.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Spalnya2_04_KD.jpg
+position: 45%
+alt: Интериор на спалня
+text:
+:end
+
+Антре
+-----
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kril_Kitov_Antre_FINAL_02_St.jpg
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Контрастните съчетания владеят и антрето, което разграничихме от коридора, решен в по-светли плочки и латекс. Заиграхме се и с осветлението по тавана, с черни луни за вграждане за предверието и бели, за външен монтаж, във вътрешността на жилището. На този фон ефектно откроихме гардероба с врати от бял МДФ гланц и с прилежащ корпус за сядане.
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kril_Kitov_Antre_FINAL_04_St.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay 
+tags: other 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kril_Kitov_Antre_FINAL_03_St.jpg
+alt: Интериор на антре
+text:
+:end
+
+Спалня 1
+--------
+
+columns: 2
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kirov_Spalnya1_01_KD.jpg
+alt: Интериор на спалня
+text:
+## Мебели в **спалня**
+Втората спалня също се радва на нежни нюанси и изобилие от светлина, както и на ефектни вертикални контрасти в гланцовите повърхности на лампериите в сиво и бяло. 
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kirov_Spalnya1_05_KD.jpg
+alt: Интериор на спалня
+text:
+:end
+
+Баня
+----
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Banya_Final_01_KD.jpg
+alt: Интериор на баня
+text:
+## Интериор на **баня**
+В уединеното пространство на банята омекотихме графичните съчетания, заменяйки сиво-белите контрасти с фаянс в млечно-шоколадова комбинация. Запазихме обаче гланцовия ефект при шкафа от бяло ПВЦ.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_Banya_Final_02_KD.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: other 
+image: http://projects.acherno.int/kiril-kitov/Marketing/Concept/Kiril_Kitov_WC_FINAL_01_AA.jpg
+alt: Интериор на тоалетна
+text:
+В тоалетната добавихме и латекс в нежен гълъбов нюанс, както и огледална ламперия, за да разширим оптически компактния обем на помещението.
+:end
