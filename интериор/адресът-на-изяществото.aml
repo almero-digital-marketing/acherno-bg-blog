@@ -1,0 +1,224 @@
+layout: /v2/blog/magazine.ect
+title: Адресът на (изяществото)
+description: Сивото е цяла вселена в интериорния дизайн! А ние обичаме да експериментираме във всичките ѝ измерения, за да създаваме домове с неповторимо излъчване и стил. Как иначе щяхме да се докоснем до елегантния сатенен нюанс на сребристия латекс, до графитните жилки на белия мрамор, до скалистия гранит на металните детайли… Разгърнахме цялата тази палитра, за да докажем, че истинската класа е в боравенето с цвят, който никой не възприема за цветен.
+cover: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_06_N.jpg
+author: Петра Денчева
+date: 2020-01-17
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay
+tags: livingroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_06_N.jpg
+position: 40%
+alt: Интериор на всекидневна
+text:
+# Адресът на **изяществото**
+## Сатенени нюанси на сивото, подчертани в **интериор с многослойно осветление**
+Сивото е цяла вселена в интериорния дизайн! А ние обичаме да експериментираме във всичките ѝ измерения, за да създаваме домове с неповторимо излъчване и стил. Как иначе щяхме да се докоснем до елегантния чар на сребристия сатенен нюанс на латекса, до графитните жилки на белия мрамор, до скалистия гранит, до антрацитния мат на повърхностите от МДФ, до бетонната окраска на текстила… Разгърнахме цялата тази палитра, за да докажем, че истинската класа е в боравенето с цвят, който никой не възприема за цветен. Но който има силата да владее пространството с рядко срещано изящество. Трябват му само красиви съюзници, като белия гланц, многопластовото осветление и премерено присъствие на дървесни шарки.
+:end
+
+Хол
+----
+
+columns: 2
+style: overlay
+tags: livingroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_02_N.jpg
+alt: Обзавеждане на всекидневна
+text:
+## Интериорен дизайн на **хол**
+Просторната всекидневна с отворен план, който я свързва безпрепятствено и с антрето, е идеално поле за зониране чрез изразните средства на дизайна. Главната роля поверихме на сивото, в толкова светъл сребрист нюанс за латекса, че сякаш стените са едва забележима сянка на мебелите, изработени по поръчка от бял МДФ гланц. Допълнихме това впечатление с помощта на няколко слоя осветление. Освновното концентрирахме в зоната на хола, където добавихме и спотове за външен монтаж, а над кухнята и трапезарията използвахме скрито в тавана осветление, както и вградени луни.
+:end
+
+columns: 1
+style: overlay
+tags: livingroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_10_N.jpg
+position: 50%
+alt: Обзавеждане на всекидневна
+text:
+Антрацитеният шаги килим се грижи за визуалното зониране на пода, решен в калиброван гранитогрес, който използвахме и за подовия профил.
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay
+tags: kitchen
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_07_N.jpg
+position: 58%
+alt: Мебели в кухня
+text:
+## Обзавеждане на **кухня**
+Надградихме класическата комбинация с бяло и дървесни шарки, като заложихме на гланцови повърхности от МДФ за светлите шкафове и на матов МДФ за тъмносивите. Вратите с пуш механизъм спестяват на интериора излишните детайли, а техническият камък на острова и на кухненския плот и гръб, препратка към карарския мрамор, подсилва впечатлението за изисканост.
+:end
+
+
+columns: 2
+style: overlay
+tags: kitchen
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_03_N.jpg
+position: 51%
+alt: Мебели в кухня
+text:
+На този фон, бар столовете се вписват елегантно под допълнителния пласт скрито осветление, и оформят стилно съчетание със сребристите отблясъци на кухненското оборудване и хладилника. Лешников фладер краси дървесната част на острова, включваща плот и една страница.
+:end
+
+Трапезария 
+----------
+
+columns: 3
+style: overlay
+tags: livingroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_09_N.jpg
+alt: Интериор на трапезария
+text:
+## Мебели в **трапезария**
+Мястото за сключване на тайни обети, мирни преговори или просто за семейни събирания е и място за сключване под ъгъл на характерните крака и металните подпори, които допринасят за отличителния дизайн на трапезните столове и масата. Асиметричен плот от акациево дърво и бялата тухлена стена се грижат за уюта по време на вечерята с любими хора.
+:end
+
+Антре 
+------
+
+columns: 2
+style: overlay
+tags: other
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_14_N.jpg
+position: 50%
+alt: Интериор на антре
+text:
+## Интериор на **антре**
+Остров на светлината и спокойствието, който сякаш казва: “Добре дошли!” Постигнахме го с усвояване на нишата в коридора с помощта на отразяващата повърхност на гланцовото покритие от бял МДФ. Заедно с вграденото осветление, огледалния гръб и кантовите дръжки в бяло, то създава илюзията за още повече дълбочина. Зад отсрещните плъзгащи врати пък скрихме друга усвоена ниша, която устроихме като мокро помещение.
+:end
+
+columns: 1
+style: overlay
+tags: other
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Living_Room_FINAL_17_N.jpg
+alt: Интериор на антре
+text:
+:end
+
+Спалня 
+-------
+
+columns: 1
+style: overlay desktop
+tags: bedroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Master_Bedroom_FINAL_06_N.jpg
+position: 20%
+alt: Интериор на спалня
+text:
+:end
+
+columns: 2
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Master_Bedroom_FINAL_02_N.jpg
+alt: Интериор на спалня
+text:
+## Вътрешен дизайн на **спалня**
+Ефекта с отраженията доразвихме в пълния му блясък с тонирано огледало в елегантното пространство на спалнята, обзаведена с конзолни шкафове от бял МДФ мат. Изобилие от вградена светлина акомпанира на сребристия полилей със стъклени висулки и на двете настолни лампи, изградени от фасетирано стъкло във формата на величествен обелиск.  Величие и блясък, но и уют струи от тази стая, благодарение на светлия трислоен паркет, в чиито шарки декорирахме и част от стените. 
+:end
+
+columns: 2
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Master_Bedroom_FINAL_07_N.jpg
+position: 10%
+alt: Интериор на спалня
+text:
+Преходът към дрешника се случва свободно, без врата, а отсам стената на този отворен план всичко е прегледно подредено, зад тонираното стъкло на двата гардероба, и бързо достъпно, поради трите отделно отварящи се части по вертикалата на вратите. От същото стъкло е и плотът на тоалетката, чието огледало от тавана до подовия профил създава поредната илюзия за повече пространство.
+:end
+
+columns: 1
+style: overlay
+tags: bedroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Master_Bedroom_FINAL_09_N.jpg
+alt: Интериор на спалня
+text:
+:end
+
+Баня към спалня
+---------------
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Banya_Spalnya_FINAL_02_St.jpg
+alt: Интериор на баня
+text:
+:end
+
+columns: 2
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Banya_Spalnya_FINAL_01_St.jpg
+position: 65%
+alt: Интериор на баня
+text:
+## Интериор на **баня към спалня**
+Макси размерите на италианския гранитогрес с мраморен ефект – в два цвята, за да откроим душ зоната – допринасят за усещането на царствен разкош в банята. Същото можем да кажем и за класическия профил на тавана, за двойната порцеланова мивка и шкафа от червен орех.
+:end
+
+Детска 
+------
+
+columns: 3
+style: overlay
+tags: kidsroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Detska_01_KD.jpg
+alt: Интериор на детска
+text:
+## Обзавеждане на **детска стая**
+В света на най-малкия член от семейството сивото отстъпва на розовата пудра, която нежно допълва памучното излъчване на мебелите в бял мат и на наличните вече легло и скрин за повиване. Подсилихме това усещане за мекота и чрез етажерки, плафон и стенни стикери под формата на облаци.
+:end
+
+Гостна
+------
+
+columns: 1
+style: overlay
+tags: kidsroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Gostna_Final_01_KD.jpg
+position: 50%
+alt: Интериор на гостна
+text:
+## Интериорен дизайн на **гостна**
+За комфорта на гостите се грижат меко осветление с PVC дифузери и дамаска в неутрален, но топъл цвят. Усещането за уют подсилихме с фурнирована ламперия, а към елегантността на тонираното огледало добавихме и троен полилей в сребристо.
+:end
+
+columns: 2
+style: overlay
+tags: kidsroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Gostna_Final_02_KD.jpg
+position: 50%
+alt: Интериор на гостна
+text:
+:end
+
+Баня 
+----
+
+columns: 2
+style: overlay
+tags: bathroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Banya_Obshta_FINAL_01_St.jpg
+alt: Интериор на баня
+text:
+## Интериор на **баня**
+Втората баня се дистанцира от разкоша на белия мрамор и класическия профил, за да се открои с окачен таван от червен орех, вана със система за хидромасаж и праховобоядисани закачалки в лофт стил.
+:end
+
+columns: 1
+style: overlay desktop
+tags: bathroom
+image: http://projects.acherno.int/liraz-vitosha/Marketing/Concept/Liraz_Vitosha_Banya_Obshta_FINAL_04_St.jpg
+alt: Интериор на баня
+text:
+:end
