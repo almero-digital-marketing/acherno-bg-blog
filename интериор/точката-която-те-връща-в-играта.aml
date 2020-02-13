@@ -1,0 +1,177 @@
+---
+layout: /v2/blog/magazine.ect
+title: Точката, която те връща (в играта)
+description: Интериорният дизайн е като игра с много нива за преминаване. С безброй възможни посоки, в които да поемеш, и образи, които да бъдеш. Със скрити послания и защитени кътчета, които ти вдъхват нов живот точно тогава, когато си на прага да се откажеш. За да те завърнат отново в играта. За да те направят героя победител. В случая неговата роля се пада на един ценител на минималистичната естетика в тъмните нюанси на сивото и дървесния фладер.
+author: Петра Денчева
+date: 2020-02-13
+cover: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_01_New.jpg
+firstPage: true
+tags: private, modern
+
+[pages]
+
+columns: 0
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_01_New.jpg
+position: 35%
+alt: Мебели в хол
+text:
+# Точката, която те връща **в играта**
+## Модерен интериор с подчертано **мъжки характер** 
+Интериорният дизайн е като игра с много нива за преминаване. С безброй възможни посоки, в които да поемеш, и образи, които да бъдеш. Със скрити послания и защитени кътчета, които ти вдъхват нов живот точно тогава, когато си на прага да се откажеш. За да те завърнат отново в играта. За да те направят героя победител. В случая тази роля се пада на един ценител на минималистичната естетика в тъмните нюанси на сивото и дървесния фладер. Интериорът, който създадохме за него, залага на изчистена геометрия и отворени пространства, на пестеливост в детайлите и на баланс между контрастите и комфорта. Баланс, който постигнахме чрез настилки, имитиращи дърво и каменни плочи, чрез модерна визия с няколко нива на осветление и чрез функционален дизайн, усвоил всяка чупка на компактното жилище.
+:end
+
+Хол
+-----
+
+columns: 2
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_02_N.jpg
+position: 62%
+alt: Мебели в хол
+text:
+## Интериор на **всекидневна**
+Синтез между прецизност във формите и практично удобство, релакс зоната на хола съчетава нюанси на сивото и тъмни дървесни шарки под светлината на вградените луни и скритото в тавана на две нива осветление. За просторното и светло усещане допринася и мазилката с кадифена визия, която използвахме за стените и за основния таван.
+:end
+
+columns: 1
+style: overlay 
+tags: livingroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_07_New.jpg
+alt: Интериор на всекидневна
+text:
+Мебелите по поръчка също са с неутрална цветова палитра&nbsp;– тъмносиво и дървесно ПДЧ, в тон с ламперията на геймърския кът и с ламината по пода.
+:end
+
+Кухня
+------
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_09_N.jpg
+alt: Обзавеждане на кухня
+text:
+## Обзавеждане на **кухня**
+Към двата основни тона на ПДЧ-то добавихме и тъмен гранитогрес, вдъхновен от индустриалното излъчване на бетонните плочи. В този стил са и уредите, както и таванният аспиратор. 
+:end
+
+columns: 1
+style: overlay 
+tags: kitchen 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_11_N.jpg
+alt: Обзавеждане на кухня
+text:
+Светлият кухненски плот от технически камък съчетахме с латекса по стените и тавана на тази зона, нежна сплав от сиво и бежово. Кухненският гръб е от МДФ с гланцово покритие, което отразява помощното LED осветление.
+:end
+
+columns: 1
+style: overlay desktop
+tags: kitchen 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Hol_FINAL_10_N.jpg
+alt: Обзавеждане на кухня
+text:
+:end
+
+Спалня
+------
+
+columns: 3
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Spalnya_FINAL_01_N.jpg
+alt: Интериор на спалня
+text:
+## Мебели в **спалня**
+Нюансите на сивото в мебелите от ПДЧ и текстилните елементи от интериора стоплихме с уютното излъчване на дървесните шарки. В ламперията зад леглото сглобихме от тях ефектна геометрия, която подчертахме с вградено осветление и два подвижни спота с urban дизайн от двете страни на спалнята. Симетрията продължава и в секцията за съхранение с отворени странични обеми.
+:end
+
+columns: 2
+style: overlay desktop
+tags: bedroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Spalnya_FINAL_03_N.jpg
+alt: Интериор на спалня
+text:
+:end
+
+columns: 3
+style: overlay mobile
+tags: bedroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Spalnya_FINAL_05_N.jpg
+position: 55%
+alt: Интериор на спалня
+text:
+## Мебели в **спалня**
+Нюансите на сивото в мебелите от ПДЧ и текстилните елементи от интериора стоплихме с уютното излъчване на дървесните шарки. В ламперията зад леглото сглобихме от тях ефектна геометрия, която подчертахме с вградено осветление и два подвижни спота с urban дизайн от двете страни на спалнята. Симетрията продължава и в секцията за съхранение с отворени странични обеми.
+:end
+
+columns: 1
+style: overlay 
+tags: bedroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Spalnya_FINAL_06_N.jpg
+position: 60%
+alt: Интериор на спалня
+text:
+:end
+
+Баня
+----
+
+columns: 1
+style: overlay 
+tags: bathroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Banya_Final_02_KD.jpg
+alt: Интериор на баня
+text:
+## Интериорен дизайн на баня
+В уединеното пространство на банята дървесните шарки на гранитогреса по пода и едната стена преминава на светлата страна на дъбовата дървесина, за да разшири оптически пространството. Вторият вид плочки интерпретира по динамичен начин силата на камъка. Плотът и прагът на душ зоната се сливат с водещия сив цвят, в който решихме и поръчковата мебел от PVC. 
+:end
+
+columns: 2
+style: overlay desktop
+tags: bathroom 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Banya_Final_01_KD.jpg
+alt: Интериор на баня
+text:
+:end
+
+Антре
+-----
+
+columns: 1
+style: overlay desktop
+tags: hallway 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Antre_FINAL_01_New.jpg
+alt: Интериор на антре
+text:
+:end
+
+columns: 1
+style: overlay desktop
+tags: hallway 
+image: 
+alt: Интериор на антре
+text:
+## Вътрешен дизайн на антре
+Окаченият таван със скрито осветление придава стил на предверието и посреща с ефектен акцент ПДЧ ламперията в сиво и дървесни шарки. Резултатът е плавно преливане по вертикала от тъмния гранитогрес с бетонна визия към белия латекс и искрящите отблясъци в италианската мазилка. Някъде там, по тази вертикала, е и точката на пречупване, която завръща всеки гост в играта на този стилен и модерен дом.
+:end
+
+columns: 1
+style: overlay mobile
+tags: hallway 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Antre_FINAL_01_New.jpg
+alt: Интериор на антре
+text:
+## Вътрешен дизайн на антре
+Окаченият таван със скрито осветление придава стил на предверието и посреща с ефектен акцент ПДЧ ламперията в сиво и дървесни шарки. Резултатът е плавно преливане по вертикала от тъмния гранитогрес с бетонна визия към белия латекс и искрящите отблясъци в италианската мазилка. Някъде там, по тази вертикала, е и точката на пречупване, която завръща всеки гост в играта на този стилен и модерен дом.
+:end
+
+columns: 1
+style: overlay desktop
+tags: hallway 
+image: http://projects.acherno.int/grigor-studentski-grad/Marketing/Concept/Grigor_Studentski_Grad_Antre_FINAL_03_N.jpg
+alt: Интериор на антре
+text:
+:end
